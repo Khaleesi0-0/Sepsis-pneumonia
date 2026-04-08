@@ -1,0 +1,26 @@
+Notes,MCD - ICD Sub-Chapter,MCD - ICD Sub-Chapter Code,Year,Year Code,Sex,Sex Code,Deaths,Population,Crude Rate,Crude Rate Lower 95% Confidence Interval,Crude Rate Upper 95% Confidence Interval,Age Adjusted Rate,Age Adjusted Rate Lower 95% Confidence Interval,Age Adjusted Rate Upper 95% Confidence Interval
+,Influenza and pneumonia,J09-J18,2018,2018,Female,F,0.0,166038755.0,0.0,0.0,0.0,0.0,0.0,0.0
+,Influenza and pneumonia,J09-J18,2018,2018,Male,M,0.0,161128679.0,0.0,0.0,0.0,0.0,0.0,0.0
+Total,Influenza and pneumonia,J09-J18,2018,2018,,,0.0,327167434.0,0.0,0.0,0.0,0.0,0.0,0.0
+,Influenza and pneumonia,J09-J18,2019,2019,Female,F,0.0,166582199.0,0.0,0.0,0.0,0.0,0.0,0.0
+,Influenza and pneumonia,J09-J18,2019,2019,Male,M,0.0,161657324.0,0.0,0.0,0.0,0.0,0.0,0.0
+Total,Influenza and pneumonia,J09-J18,2019,2019,,,0.0,328239523.0,0.0,0.0,0.0,0.0,0.0,0.0
+,Influenza and pneumonia,J09-J18,2020,2020,Female,F,71951.0,167227921.0,43.0,42.7,43.3,30.6,30.4,30.8
+,Influenza and pneumonia,J09-J18,2020,2020,Male,M,97581.0,162256202.0,60.1,59.8,60.5,54.2,53.9,54.6
+Total,Influenza and pneumonia,J09-J18,2020,2020,,,169532.0,329484123.0,51.5,51.2,51.7,41.0,40.8,41.2
+,Influenza and pneumonia,J09-J18,2021,2021,Female,F,106637.0,167509003.0,63.7,63.3,64.0,48.5,48.2,48.8
+,Influenza and pneumonia,J09-J18,2021,2021,Male,M,146330.0,164384742.0,89.0,88.6,89.5,80.7,80.3,81.2
+Total,Influenza and pneumonia,J09-J18,2021,2021,,,252967.0,331893745.0,76.2,75.9,76.5,63.0,62.8,63.3
+,Influenza and pneumonia,J09-J18,2022,2022,Female,F,44002.0,168004004.0,26.2,25.9,26.4,18.7,18.5,18.9
+,Influenza and pneumonia,J09-J18,2022,2022,Male,M,58882.0,165283553.0,35.6,35.3,35.9,32.3,32.0,32.5
+Total,Influenza and pneumonia,J09-J18,2022,2022,,,102884.0,333287557.0,30.9,30.7,31.1,24.5,24.3,24.6
+,Influenza and pneumonia,J09-J18,2023,2023,Female,F,11503.0,169165495.0,6.8,6.7,6.9,4.8,4.7,4.9
+,Influenza and pneumonia,J09-J18,2023,2023,Male,M,14195.0,165749400.0,8.6,8.4,8.7,8.0,7.9,8.1
+Total,Influenza and pneumonia,J09-J18,2023,2023,,,25698.0,334914895.0,7.7,7.6,7.8,6.1,6.0,6.2
+,Influenza and pneumonia,J09-J18,2024,2024,Female,F,7500.0,171773106.0,4.4,4.3,4.5,3.0,3.0,3.1
+,Influenza and pneumonia,J09-J18,2024,2024,Male,M,9547.0,168337882.0,5.7,5.6,5.8,5.2,5.1,5.3
+Total,Influenza and pneumonia,J09-J18,2024,2024,,,17047.0,340110988.0,5.0,4.9,5.1,3.9,3.9,4.0
+,Influenza and pneumonia,J09-J18,2025,2025,Female,F,3430.0,171773106.0,2.0,1.9,2.1,1.4,1.3,1.4
+,Influenza and pneumonia,J09-J18,2025,2025,Male,M,4187.0,168337882.0,2.5,2.4,2.6,2.3,2.2,2.3
+Total,Influenza and pneumonia,J09-J18,2025,2025,,,7617.0,340110988.0,2.2,2.2,2.3,1.7,1.7,1.8
+Total,Influenza and pneumonia,J09-J18,,,,,575745.0,2665209253.0,21.6,21.5,21.7,17.4,17.3,17.4

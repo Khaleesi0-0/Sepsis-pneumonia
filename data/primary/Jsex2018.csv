@@ -1,0 +1,124 @@
+"Notes","MCD - ICD Sub-Chapter","MCD - ICD Sub-Chapter Code","Year","Year Code","Sex","Sex Code",Deaths,Population,Crude Rate,Crude Rate Lower 95% Confidence Interval,Crude Rate Upper 95% Confidence Interval,Age Adjusted Rate,Age Adjusted Rate Lower 95% Confidence Interval,Age Adjusted Rate Upper 95% Confidence Interval
+,"Influenza and pneumonia","J09-J18","2018","2018","Female","F",72053,166038755,43.4,43.1,43.7,31.4,31.1,31.6
+,"Influenza and pneumonia","J09-J18","2018","2018","Male","M",76445,161128679,47.4,47.1,47.8,45.4,45.1,45.8
+"Total","Influenza and pneumonia","J09-J18","2018","2018",,,148498,327167434,45.4,45.2,45.6,37.4,37.2,37.5
+,"Influenza and pneumonia","J09-J18","2019","2019","Female","F",67571,166582199,40.6,40.3,40.9,29.1,28.8,29.3
+,"Influenza and pneumonia","J09-J18","2019","2019","Male","M",72621,161657324,44.9,44.6,45.2,42.1,41.8,42.4
+"Total","Influenza and pneumonia","J09-J18","2019","2019",,,140192,328239523,42.7,42.5,42.9,34.6,34.5,34.8
+,"Influenza and pneumonia","J09-J18","2020","2020","Female","F",138434,167227921,82.8,82.3,83.2,59.0,58.7,59.3
+,"Influenza and pneumonia","J09-J18","2020","2020","Male","M",173190,162256202,106.7,106.2,107.2,96.9,96.5,97.4
+"Total","Influenza and pneumonia","J09-J18","2020","2020",,,311624,329484123,94.6,94.2,94.9,75.6,75.4,75.9
+,"Influenza and pneumonia","J09-J18","2021","2021","Female","F",162474,167509003,97.0,96.5,97.5,73.3,73.0,73.7
+,"Influenza and pneumonia","J09-J18","2021","2021","Male","M",212155,164384742,129.1,128.5,129.6,118.7,118.1,119.2
+"Total","Influenza and pneumonia","J09-J18","2021","2021",,,374629,331893745,112.9,112.5,113.2,93.5,93.2,93.8
+,"Influenza and pneumonia","J09-J18","2022","2022","Female","F",104323,168004004,62.1,61.7,62.5,44.2,44.0,44.5
+,"Influenza and pneumonia","J09-J18","2022","2022","Male","M",127702,165283553,77.3,76.8,77.7,70.5,70.1,70.9
+"Total","Influenza and pneumonia","J09-J18","2022","2022",,,232025,333287557,69.6,69.3,69.9,55.4,55.2,55.6
+,"Influenza and pneumonia","J09-J18","2023","2023","Female","F",74451,169165495,44.0,43.7,44.3,31.6,31.4,31.9
+,"Influenza and pneumonia","J09-J18","2023","2023","Male","M",86773,165749400,52.4,52.0,52.7,47.5,47.2,47.8
+"Total","Influenza and pneumonia","J09-J18","2023","2023",,,161224,334914895,48.1,47.9,48.4,38.5,38.3,38.7
+,"Influenza and pneumonia","J09-J18","2024","2024","Female","F",71960,171773106,41.9,41.6,42.2,29.7,29.5,29.9
+,"Influenza and pneumonia","J09-J18","2024","2024","Male","M",83725,168337882,49.7,49.4,50.1,44.1,43.8,44.4
+"Total","Influenza and pneumonia","J09-J18","2024","2024",,,155685,340110988,45.8,45.5,46.0,36.0,35.8,36.2
+,"Influenza and pneumonia","J09-J18","2025 (provisional)","2025","Female","F",70720,171773106,41.2,40.9,41.5,29.2,29.0,29.4
+,"Influenza and pneumonia","J09-J18","2025 (provisional)","2025","Male","M",81657,168337882,48.5,48.2,48.8,42.9,42.6,43.2
+"Total","Influenza and pneumonia","J09-J18","2025 (provisional)","2025",,,152377,340110988,44.8,44.6,45.0,35.2,35.0,35.4
+"Total","Influenza and pneumonia","J09-J18",,,,,1676254,2665209253,62.9,62.8,63.0,50.5,50.5,50.6
+"Total",,,,,,,1676254,2665209253,62.9,62.8,63.0,50.5,50.5,50.6
+"---"
+"Dataset: Provisional Mortality Statistics, 2018 through Last Week"
+"Query Parameters:"
+"MCD - ICD-10 Codes: J12.0 (Adenoviral pneumonia); J12.1 (Respiratory syncytial virus pneumonia); J12.2 (Parainfluenza virus"
+"pneumonia); J12.3 (Human metapneumovirus pneumonia); J12.8 (Other viral pneumonia); J12.9 (Viral pneumonia, unspecified); J13"
+"(Pneumonia due to Streptococcus pneumoniae); J14 (Pneumonia due to Haemophilus influenzae); J15.0 (Pneumonia due to Klebsiella"
+"pneumoniae); J15.1 (Pneumonia due to Pseudomonas); J15.2 (Pneumonia due to staphylococcus); J15.3 (Pneumonia due to"
+"streptococcus, group B); J15.4 (Pneumonia due to other streptococci); J15.5 (Pneumonia due to Escherichia coli); J15.6"
+"(Pneumonia due to other aerobic Gram-negative bacteria); J15.7 (Pneumonia due to Mycoplasma pneumoniae); J15.8 (Other bacterial"
+"pneumonia); J15.9 (Bacterial pneumonia, unspecified); J16.0 (Chlamydial pneumonia); J16.8 (Pneumonia due to other specified"
+"infectious organisms); J18.0 (Bronchopneumonia, unspecified); J18.1 (Lobar pneumonia, unspecified); J18.2 (Hypostatic pneumonia,"
+"unspecified); J18.8 (Other pneumonia, organism unspecified); J18.9 (Pneumonia, unspecified)"
+"Year/Month: 2018; 2019; 2020; 2021; 2022; 2023; 2024; 2025 (provisional)"
+"Group By: MCD - ICD Sub-Chapter; Year; Sex"
+"Show Totals: True"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Standard Population: 2000 U.S. Std. Population"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd-provisional.html for more information."
+"---"
+"Query Date: Apr 8, 2026 2:06:31 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Provisional Mortality on CDC WONDER Online Database. Data are from the final Multiple Cause of Death Files, 2018-2024,"
+"and from provisional data for years 2025 and later, as compiled from data provided by the 57 vital statistics jurisdictions"
+"through the Vital Statistics Cooperative Program. Accessed at http://wonder.cdc.gov/mcd-icd10-provisional.html on Apr 8, 2026"
+"2:06:31 PM"
+"---"
+Footnotes:
+"1. Totals and sub-totals show the frequency of the selected causes of death, which may be greater than the number of deaths."
+"Note that any single death record may have up to 20 causes. More information."
+"---"
+Caveats:
+"1. These items in the results table are not fully selected: Influenza and pneumonia. The Query Description lists the actual"
+"values selected."
+"2. The populations used to calculate standard age-adjusted rates are documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#2000 Standard Population."
+"3. The method used to calculate age-adjusted rates is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Age-Adjusted Rates."
+"4. Deaths for persons of unknown age are included in counts and crude rates, but are not included in age-adjusted rates."
+"5. The method used to calculate 95% confidence intervals is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Confidence-Intervals."
+"6. The population estimates for years 2022 - 2026 are from separate series of estimates based on the Modified Blended Base"
+"produced by the US Census Bureau in lieu of the April 1, 2020 decennial population count. The Modified Blended Base consists of"
+"the blend of Vintage 2020 postcensal population estimates for April 1, 2020, 2020 Demographic Analysis Estimates, and 2020"
+"Census data from the internal Census Edited File (CEF). Each subsequent series of estimates adjusts the methodology. The"
+"population figures for years 2024 and later are single-race estimates of the July 1 resident population, from the Vintage 2024"
+"postcensal series released by the Census Bureau on June 26, 2025. The population figures for year 2023 are single-race estimates"
+"of the July 1 resident population, from the Vintage 2023 postcensal series released by the Census Bureau on June 27, 2024. The"
+"population figures for year 2022 are single-race estimates of the July 1 resident population, from the Vintage 2022 postcensal"
+"series released by the Census Bureau on June 22, 2023. The population figures for year 2021 are single-race estimates of the"
+"July 1 resident population, based on the Blended Base produced by the US Census Bureau in lieu of the April 1, 2020 decennial"
+"population count, from the Vintage 2021 postcensal series released by the Census Bureau on June 30, 2022. The population figures"
+"for year 2020 are single-race estimates of the July 1 resident population, from the Vintage 2020 postcensal series based on"
+"April 2010 Census, released by the Census Bureau on July 27, 2021. The population figures for year 2019 are single-race"
+"estimates of the July 1 resident population, from the Vintage 2019 postcensal series based on April 2010 Census, released by the"
+"Census Bureau on June 25, 2020. The population figures for year 2018 are single-race estimates of the July 1 resident"
+"population, from the Vintage 2018 postcensal series based on April 2010 Census, released by the Census Bureau on June 20, 2019."
+"More information: http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Population Data."
+"7. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Age"
+"Group."
+"8. Beginning with the 2018 data, changes have been implemented that affect the counts for ICD-10 cause of death codes O00-O99"
+"compared to previous practice. In addition, data for the cause of death codes O00-O99 for 2003 through 2017 reflect differences"
+"in information available to individual states and probable errors. Deaths with the underlying cause classified with O00-O99 are"
+"subject to further processing before these deaths records are considered final. Provisional deaths have not undergone full"
+"processing and review and therefore should not be considered final for statistical purposes. Caution should be used in"
+"interpreting these data. More information can be found at: https://www.cdc.gov/nchs/maternal-mortality/."
+"9. On March 11, 2021, the 2019 mortality data on CDC WONDER was updated with the 2019 mortality data updated by NCHS on March 4,"
+"2021 to include corrected information for residents of Texas affecting 5 records previously coded to cause code *U01.4,"
+"Terrorism involving firearms (homicide). The underlying and multiple cause of death codes for 5 records were corrected in the"
+"2019 data. Underlying and multiple cause of death codes for those 5 records were recoded to Assault (homicide) by other and"
+"unspecified firearm discharge, ICD-10 code X95. The corrected final death records replaces the data released on December 22,"
+"2020."
+"10. Connecticut population estimates for 2022 and later years are reported for 9 planning regions as county equivalent areas,"
+"instead of the former 8 legacy counties in the Vintage 2022 postcensal series released by the Census Bureau on June 22, 2023,"
+"and in the Vintage 2023 postcensal series released by the Census Bureau on June 27, 2024. Populations estimates for the former"
+"counties are not available for 2022 and later years. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Connecticut-2022."
+"11. After the creation of the final 2023 dataset, North Carolina updated the cause of death information for over 900 death"
+"certificates to include a cause of death code indicating drug overdose (ICD-10 underlying cause-of-death codes: X40-X44,"
+"X60-X64, X85, and Y10-Y14). Jurisdictions can continue to update death certificates after the closing of the mortality file. As"
+"a result, users should consider that the actual death count for drug overdose deaths for North Carolina in 2023 is over 4,400"
+"deaths, with a crude rate of approximately 41.0 per 100,000 population, and an age-adjusted rate of approximately 42.1 per"
+"100,000 population. These deaths will not be updated on the final mortality datasets."
+"12. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#ICD-10 Changes."
+"13. Deaths related to external causes of injury or sudden death: In the provisional mortality data, causes of death classified"
+"as external causes of injury (ICD-10 codes V01-Y89), sudden deaths (ICD-10 codes R95 and R96), or drug poisoning (ICD-10 codes"
+"T36-T50), have the cause of death labeled as 'Data not shown due to 6 month lag to account for delays in death certificate"
+"completion for certain causes of death.' For these deaths occurring 24 weeks prior to the final date in the provisional data,"
+"the number of deaths and related statistics are not available by specific cause of death for ICD-10 codes V01-Y89, R95, R96, or"
+"T36-T50. More information: http://wonder.cdc.gov/wonder/help/mcd-provisional.html#999."
+"14. Deaths occurring through March 21, 2026 as of March 29, 2026."

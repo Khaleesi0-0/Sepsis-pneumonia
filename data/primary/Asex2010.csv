@@ -1,0 +1,104 @@
+"Notes","MCD - ICD Sub-Chapter","MCD - ICD Sub-Chapter Code","Year","Year Code","Sex","Sex Code",Deaths,Population,Crude Rate,Crude Rate Lower 95% Confidence Interval,Crude Rate Upper 95% Confidence Interval,Age Adjusted Rate
+,"Other bacterial diseases","A30-A49","2010","2010","Female","F",83122,156964212,53.0,52.6,53.3,43.4
+,"Other bacterial diseases","A30-A49","2010","2010","Male","M",76520,151781326,50.4,50.1,50.8,54.9
+"Total","Other bacterial diseases","A30-A49","2010","2010",,,159642,308745538,51.7,51.5,52.0,48.3
+,"Other bacterial diseases","A30-A49","2011","2011","Female","F",86190,158301098,54.4,54.1,54.8,44.0
+,"Other bacterial diseases","A30-A49","2011","2011","Male","M",78615,153290819,51.3,50.9,51.6,54.7
+"Total","Other bacterial diseases","A30-A49","2011","2011",,,164805,311591917,52.9,52.6,53.1,48.5
+,"Other bacterial diseases","A30-A49","2012","2012","Female","F",85350,159421973,53.5,53.2,53.9,42.7
+,"Other bacterial diseases","A30-A49","2012","2012","Male","M",79742,154492067,51.6,51.3,52.0,53.9
+"Total","Other bacterial diseases","A30-A49","2012","2012",,,165092,313914040,52.6,52.3,52.8,47.4
+,"Other bacterial diseases","A30-A49","2013","2013","Female","F",89595,160477237,55.8,55.5,56.2,44.0
+,"Other bacterial diseases","A30-A49","2013","2013","Male","M",84025,155651602,54.0,53.6,54.3,55.1
+"Total","Other bacterial diseases","A30-A49","2013","2013",,,173620,316128839,54.9,54.7,55.2,48.8
+,"Other bacterial diseases","A30-A49","2014","2014","Female","F",93388,161920569,57.7,57.3,58.0,45.0
+,"Other bacterial diseases","A30-A49","2014","2014","Male","M",88854,156936487,56.6,56.2,57.0,56.6
+"Total","Other bacterial diseases","A30-A49","2014","2014",,,182242,318857056,57.2,56.9,57.4,50.0
+,"Other bacterial diseases","A30-A49","2015","2015","Female","F",99474,163189523,61.0,60.6,61.3,47.0
+,"Other bacterial diseases","A30-A49","2015","2015","Male","M",95740,158229297,60.5,60.1,60.9,59.6
+"Total","Other bacterial diseases","A30-A49","2015","2015",,,195214,321418820,60.7,60.5,61.0,52.4
+,"Other bacterial diseases","A30-A49","2016","2016","Female","F",100300,164048590,61.1,60.8,61.5,46.7
+,"Other bacterial diseases","A30-A49","2016","2016","Male","M",97855,159078923,61.5,61.1,61.9,59.4
+"Total","Other bacterial diseases","A30-A49","2016","2016",,,198155,323127513,61.3,61.1,61.6,52.2
+,"Other bacterial diseases","A30-A49","2017","2017","Female","F",102750,165311059,62.2,61.8,62.5,46.8
+,"Other bacterial diseases","A30-A49","2017","2017","Male","M",100926,160408119,62.9,62.5,63.3,59.8
+"Total","Other bacterial diseases","A30-A49","2017","2017",,,203676,325719178,62.5,62.3,62.8,52.4
+"Total","Other bacterial diseases","A30-A49",,,,,1442446,2539502901,56.8,56.7,56.9,50.1
+"Total",,,,,,,1442446,2539502901,56.8,56.7,56.9,50.1
+"---"
+"Dataset: Multiple Cause of Death, 1999-2020"
+"Query Parameters:"
+"MCD - ICD-10 Codes: A40.0 (Septicaemia due to streptococcus, group A); A40.1 (Septicaemia due to streptococcus, group B); A40.2"
+"(Septicaemia due to streptococcus, group D); A40.3 (Septicaemia due to Streptococcus pneumoniae); A40.8 (Other streptococcal"
+"septicaemia); A40.9 (Streptococcal septicaemia, unspecified); A41.0 (Septicaemia due to Staphylococcus aureus); A41.1"
+"(Septicaemia due to other specified staphylococcus); A41.2 (Septicaemia due to unspecified staphylococcus); A41.3 (Septicaemia"
+"due to Haemophilus influenzae); A41.4 (Septicaemia due to anaerobes); A41.5 (Septicaemia due to other Gram-negative organisms);"
+"A41.8 (Other specified septicaemia); A41.9 (Septicaemia, unspecified)"
+"Year/Month: 2010; 2011; 2012; 2013; 2014; 2015; 2016; 2017"
+"Group By: MCD - ICD Sub-Chapter; Year; Sex"
+"Show Totals: True"
+"Show Zero Values: True"
+"Show Suppressed: False"
+"Standard Population: 2000 U.S. Std. Population"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information."
+"---"
+"Query Date: Apr 8, 2026 2:18:07 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,"
+"1999-2020, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/mcd-icd10.html on Apr 8, 2026 2:18:07 PM"
+"---"
+Footnotes:
+"1. Totals and sub-totals show the frequency of the selected causes of death, which may be greater than the number of deaths."
+"Note that any single death record may have up to 20 causes. More information."
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#2014-Revision."
+"2. These items in the results table are not fully selected: Other bacterial diseases. The Query Description lists the actual"
+"values selected."
+"3. The populations used to calculate standard age-adjusted rates are documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#2000 Standard Population."
+"4. The method used to calculate age-adjusted rates is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Age-Adjusted Rates."
+"5. Deaths for persons of unknown age are included in counts and crude rates, but are not included in age-adjusted rates."
+"6. The method used to calculate 95% confidence intervals is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Confidence-Intervals."
+"7. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. Population figures for 2011 are bridged-race estimates of the July 1"
+"resident population, from the county-level postcensal Vintage 2011 series released by NCHS on July 18, 2012. Population figures"
+"for 2010 are April 1 Census counts. The population figures for years 2001 - 2009, are bridged-race estimates of the July 1"
+"resident population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012."
+"Population figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of"
+"July 1 estimates. Population figures for Infant Age Groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"8. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd.html#Age Group."
+"9. Beginning with the 2018 data, changes have been implemented that affect the counts for ICD-10 cause of death codes O00-O99"
+"compared to previous practice. In addition, data for the cause of death codes O00-O99 for 2003 through 2017 reflect differences"
+"in information available to individual states and probable errors. Caution should be used in interpreting these data. More"
+"information can be found at: https://www.cdc.gov/nchs/maternal-mortality/."
+"10. On March 11, 2021, the 2019 mortality data on CDC WONDER was updated with the 2019 mortality data updated by NCHS on March"
+"4, 2021 to include corrected information for residents of Texas affecting 5 records previously coded to cause code *U01.4,"
+"Terrorism involving firearms (homicide). The underlying and multiple cause of death codes for 5 records were corrected in the"
+"2019 data. Underlying and multiple cause of death codes for those 5 records were recoded to Assault (homicide) by other and"
+"unspecified firearm discharge, ICD-10 code X95. The corrected final death records replaces the data released on December 22,"
+"2020."
+"11. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#ICD-10 Changes."

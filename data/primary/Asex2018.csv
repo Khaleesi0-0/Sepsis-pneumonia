@@ -1,0 +1,121 @@
+"Notes","MCD - ICD Sub-Chapter","MCD - ICD Sub-Chapter Code","Year","Year Code","Sex","Sex Code",Deaths,Population,Crude Rate,Crude Rate Lower 95% Confidence Interval,Crude Rate Upper 95% Confidence Interval,Age Adjusted Rate,Age Adjusted Rate Lower 95% Confidence Interval,Age Adjusted Rate Upper 95% Confidence Interval
+,"Other bacterial diseases","A30-A49","2018","2018","Female","F",102960,166038755,62.0,61.6,62.4,46.1,45.8,46.4
+,"Other bacterial diseases","A30-A49","2018","2018","Male","M",102965,161128679,63.9,63.5,64.3,59.5,59.1,59.8
+"Total","Other bacterial diseases","A30-A49","2018","2018",,,205925,327167434,62.9,62.7,63.2,51.9,51.6,52.1
+,"Other bacterial diseases","A30-A49","2019","2019","Female","F",99837,166582199,59.9,59.6,60.3,44.0,43.8,44.3
+,"Other bacterial diseases","A30-A49","2019","2019","Male","M",101255,161657324,62.6,62.2,63.0,57.1,56.8,57.5
+"Total","Other bacterial diseases","A30-A49","2019","2019",,,201092,328239523,61.3,61.0,61.5,49.7,49.5,49.9
+,"Other bacterial diseases","A30-A49","2020","2020","Female","F",116977,167227921,70.0,69.5,70.4,51.1,50.8,51.4
+,"Other bacterial diseases","A30-A49","2020","2020","Male","M",125178,162256202,77.1,76.7,77.6,68.8,68.5,69.2
+"Total","Other bacterial diseases","A30-A49","2020","2020",,,242155,329484123,73.5,73.2,73.8,58.9,58.6,59.1
+,"Other bacterial diseases","A30-A49","2021","2021","Female","F",124494,167509003,74.3,73.9,74.7,56.1,55.8,56.4
+,"Other bacterial diseases","A30-A49","2021","2021","Male","M",136452,164384742,83.0,82.6,83.4,75.3,74.9,75.7
+"Total","Other bacterial diseases","A30-A49","2021","2021",,,260946,331893745,78.6,78.3,78.9,64.6,64.4,64.9
+,"Other bacterial diseases","A30-A49","2022","2022","Female","F",118857,168004004,70.7,70.3,71.1,51.1,50.9,51.4
+,"Other bacterial diseases","A30-A49","2022","2022","Male","M",124815,165283553,75.5,75.1,75.9,67.3,66.9,67.7
+"Total","Other bacterial diseases","A30-A49","2022","2022",,,243672,333287557,73.1,72.8,73.4,58.1,57.9,58.3
+,"Other bacterial diseases","A30-A49","2023","2023","Female","F",110395,169165495,65.3,64.9,65.6,47.3,47.0,47.6
+,"Other bacterial diseases","A30-A49","2023","2023","Male","M",115097,165749400,69.4,69.0,69.8,61.1,60.8,61.5
+"Total","Other bacterial diseases","A30-A49","2023","2023",,,225492,334914895,67.3,67.1,67.6,53.3,53.1,53.6
+,"Other bacterial diseases","A30-A49","2024","2024","Female","F",108881,171773106,63.4,63.0,63.8,45.4,45.1,45.6
+,"Other bacterial diseases","A30-A49","2024","2024","Male","M",112312,168337882,66.7,66.3,67.1,57.7,57.3,58.0
+"Total","Other bacterial diseases","A30-A49","2024","2024",,,221193,340110988,65.0,64.8,65.3,50.7,50.5,51.0
+,"Other bacterial diseases","A30-A49","2025 (provisional)","2025","Female","F",108127,171773106,62.9,62.6,63.3,45.0,44.7,45.2
+,"Other bacterial diseases","A30-A49","2025 (provisional)","2025","Male","M",112999,168337882,67.1,66.7,67.5,58.1,57.7,58.4
+"Total","Other bacterial diseases","A30-A49","2025 (provisional)","2025",,,221126,340110988,65.0,64.7,65.3,50.7,50.5,50.9
+"Total","Other bacterial diseases","A30-A49",,,,,1821601,2665209253,68.3,68.2,68.4,54.7,54.6,54.8
+"Total",,,,,,,1821601,2665209253,68.3,68.2,68.4,54.7,54.6,54.8
+"---"
+"Dataset: Provisional Mortality Statistics, 2018 through Last Week"
+"Query Parameters:"
+"MCD - ICD-10 Codes: A40.0 (Septicaemia due to streptococcus, group A); A40.1 (Septicaemia due to streptococcus, group B); A40.2"
+"(Septicaemia due to streptococcus, group D); A40.3 (Septicaemia due to Streptococcus pneumoniae); A40.8 (Other streptococcal"
+"septicaemia); A40.9 (Streptococcal septicaemia, unspecified); A41.0 (Septicaemia due to Staphylococcus aureus); A41.1"
+"(Septicaemia due to other specified staphylococcus); A41.2 (Septicaemia due to unspecified staphylococcus); A41.3 (Septicaemia"
+"due to Haemophilus influenzae); A41.4 (Septicaemia due to anaerobes); A41.5 (Septicaemia due to other Gram-negative organisms);"
+"A41.8 (Other specified septicaemia); A41.9 (Septicaemia, unspecified)"
+"Year/Month: 2018; 2019; 2020; 2021; 2022; 2023; 2024; 2025 (provisional)"
+"Group By: MCD - ICD Sub-Chapter; Year; Sex"
+"Show Totals: True"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Standard Population: 2000 U.S. Std. Population"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd-provisional.html for more information."
+"---"
+"Query Date: Apr 8, 2026 2:07:01 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Provisional Mortality on CDC WONDER Online Database. Data are from the final Multiple Cause of Death Files, 2018-2024,"
+"and from provisional data for years 2025 and later, as compiled from data provided by the 57 vital statistics jurisdictions"
+"through the Vital Statistics Cooperative Program. Accessed at http://wonder.cdc.gov/mcd-icd10-provisional.html on Apr 8, 2026"
+"2:07:01 PM"
+"---"
+Footnotes:
+"1. Totals and sub-totals show the frequency of the selected causes of death, which may be greater than the number of deaths."
+"Note that any single death record may have up to 20 causes. More information."
+"---"
+Caveats:
+"1. These items in the results table are not fully selected: Other bacterial diseases. The Query Description lists the actual"
+"values selected."
+"2. The populations used to calculate standard age-adjusted rates are documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#2000 Standard Population."
+"3. The method used to calculate age-adjusted rates is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Age-Adjusted Rates."
+"4. Deaths for persons of unknown age are included in counts and crude rates, but are not included in age-adjusted rates."
+"5. The method used to calculate 95% confidence intervals is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Confidence-Intervals."
+"6. The population estimates for years 2022 - 2026 are from separate series of estimates based on the Modified Blended Base"
+"produced by the US Census Bureau in lieu of the April 1, 2020 decennial population count. The Modified Blended Base consists of"
+"the blend of Vintage 2020 postcensal population estimates for April 1, 2020, 2020 Demographic Analysis Estimates, and 2020"
+"Census data from the internal Census Edited File (CEF). Each subsequent series of estimates adjusts the methodology. The"
+"population figures for years 2024 and later are single-race estimates of the July 1 resident population, from the Vintage 2024"
+"postcensal series released by the Census Bureau on June 26, 2025. The population figures for year 2023 are single-race estimates"
+"of the July 1 resident population, from the Vintage 2023 postcensal series released by the Census Bureau on June 27, 2024. The"
+"population figures for year 2022 are single-race estimates of the July 1 resident population, from the Vintage 2022 postcensal"
+"series released by the Census Bureau on June 22, 2023. The population figures for year 2021 are single-race estimates of the"
+"July 1 resident population, based on the Blended Base produced by the US Census Bureau in lieu of the April 1, 2020 decennial"
+"population count, from the Vintage 2021 postcensal series released by the Census Bureau on June 30, 2022. The population figures"
+"for year 2020 are single-race estimates of the July 1 resident population, from the Vintage 2020 postcensal series based on"
+"April 2010 Census, released by the Census Bureau on July 27, 2021. The population figures for year 2019 are single-race"
+"estimates of the July 1 resident population, from the Vintage 2019 postcensal series based on April 2010 Census, released by the"
+"Census Bureau on June 25, 2020. The population figures for year 2018 are single-race estimates of the July 1 resident"
+"population, from the Vintage 2018 postcensal series based on April 2010 Census, released by the Census Bureau on June 20, 2019."
+"More information: http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Population Data."
+"7. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Age"
+"Group."
+"8. Beginning with the 2018 data, changes have been implemented that affect the counts for ICD-10 cause of death codes O00-O99"
+"compared to previous practice. In addition, data for the cause of death codes O00-O99 for 2003 through 2017 reflect differences"
+"in information available to individual states and probable errors. Deaths with the underlying cause classified with O00-O99 are"
+"subject to further processing before these deaths records are considered final. Provisional deaths have not undergone full"
+"processing and review and therefore should not be considered final for statistical purposes. Caution should be used in"
+"interpreting these data. More information can be found at: https://www.cdc.gov/nchs/maternal-mortality/."
+"9. On March 11, 2021, the 2019 mortality data on CDC WONDER was updated with the 2019 mortality data updated by NCHS on March 4,"
+"2021 to include corrected information for residents of Texas affecting 5 records previously coded to cause code *U01.4,"
+"Terrorism involving firearms (homicide). The underlying and multiple cause of death codes for 5 records were corrected in the"
+"2019 data. Underlying and multiple cause of death codes for those 5 records were recoded to Assault (homicide) by other and"
+"unspecified firearm discharge, ICD-10 code X95. The corrected final death records replaces the data released on December 22,"
+"2020."
+"10. Connecticut population estimates for 2022 and later years are reported for 9 planning regions as county equivalent areas,"
+"instead of the former 8 legacy counties in the Vintage 2022 postcensal series released by the Census Bureau on June 22, 2023,"
+"and in the Vintage 2023 postcensal series released by the Census Bureau on June 27, 2024. Populations estimates for the former"
+"counties are not available for 2022 and later years. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Connecticut-2022."
+"11. After the creation of the final 2023 dataset, North Carolina updated the cause of death information for over 900 death"
+"certificates to include a cause of death code indicating drug overdose (ICD-10 underlying cause-of-death codes: X40-X44,"
+"X60-X64, X85, and Y10-Y14). Jurisdictions can continue to update death certificates after the closing of the mortality file. As"
+"a result, users should consider that the actual death count for drug overdose deaths for North Carolina in 2023 is over 4,400"
+"deaths, with a crude rate of approximately 41.0 per 100,000 population, and an age-adjusted rate of approximately 42.1 per"
+"100,000 population. These deaths will not be updated on the final mortality datasets."
+"12. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#ICD-10 Changes."
+"13. Deaths related to external causes of injury or sudden death: In the provisional mortality data, causes of death classified"
+"as external causes of injury (ICD-10 codes V01-Y89), sudden deaths (ICD-10 codes R95 and R96), or drug poisoning (ICD-10 codes"
+"T36-T50), have the cause of death labeled as 'Data not shown due to 6 month lag to account for delays in death certificate"
+"completion for certain causes of death.' For these deaths occurring 24 weeks prior to the final date in the provisional data,"
+"the number of deaths and related statistics are not available by specific cause of death for ICD-10 codes V01-Y89, R95, R96, or"
+"T36-T50. More information: http://wonder.cdc.gov/wonder/help/mcd-provisional.html#999."
+"14. Deaths occurring through March 21, 2026 as of March 29, 2026."
