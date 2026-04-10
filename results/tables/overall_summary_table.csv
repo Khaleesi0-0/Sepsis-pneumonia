@@ -1,0 +1,21 @@
+Metric,Sepsis,Pneumonia,Sepsis & pneumonia
+"Total deaths, n","3,264,047","2,922,893","761,815"
+"Male deaths, n (%)","1,633,350 (50.0%)","1,535,855 (52.5%)","407,404 (53.5%)"
+"Female deaths, n (%)","1,630,697 (50.0%)","1,387,038 (47.5%)","354,411 (46.5%)"
+Total population (standardizable ages),"5,204,712,154","5,204,712,154","5,204,712,154"
+"Crude mortality rate (standardizable ages), /100,000",62.7,56.2,14.6
+"AAMR (all ages), /100,000",52.4,47.1,12.2
+"Male AAMR (all ages), /100,000",60.0,58.2,15.0
+"Female AAMR (all ages), /100,000",46.6,38.8,10.1
+"Age 20–44 AAMR, /100,000",4.8,3.8,1.0
+"Age 45–64 AAMR, /100,000",48.3,33.9,10.7
+"Age <20 AAMR, /100,000",1.5,1.3,0.2
+"Age ≥65 AAMR, /100,000",305.9,292.8,72.8
+"American Indian or Alaska Native AAMR, /100,000",53.8,49.0,13.3
+"Asian AAMR, /100,000",33.2,36.2,10.1
+"Black or African American AAMR, /100,000",78.3,55.0,17.5
+"More than one race AAMR, /100,000",23.9,22.1,5.9
+"Native Hawaiian or Other Pacific Islander AAMR, /100,000",61.3,55.3,16.0
+"White AAMR, /100,000",50.5,46.6,11.7
+"Place of death: Medical Facility, n (%)","2,728,176 (83.6%)","2,134,774 (73.0%)","673,442 (88.4%)"
+"Place of death: Non-medical facility, n (%)","535,905 (16.4%)","788,151 (27.0%)","88,350 (11.6%)"

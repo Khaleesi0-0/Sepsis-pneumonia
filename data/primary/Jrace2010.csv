@@ -1,0 +1,126 @@
+"Notes","MCD - ICD Sub-Chapter","MCD - ICD Sub-Chapter Code","Year","Year Code","Race","Race Code",Deaths,Population,Crude Rate,Age Adjusted Rate
+,"Influenza and pneumonia","J09-J18","2010","2010","American Indian or Alaska Native","1002-5",1017,4263538,23.9,47.9
+,"Influenza and pneumonia","J09-J18","2010","2010","Asian or Pacific Islander","A-PI",4563,16993326,26.9,41.4
+,"Influenza and pneumonia","J09-J18","2010","2010","Black or African American","2054-5",15740,42065334,37.4,52.7
+,"Influenza and pneumonia","J09-J18","2010","2010","White","2106-3",135449,245423340,55.2,46.8
+"Total","Influenza and pneumonia","J09-J18","2010","2010",,,156769,308745538,50.8,47.3
+,"Influenza and pneumonia","J09-J18","2011","2011","American Indian or Alaska Native","1002-5",1088,4347413,25.0,46.6
+,"Influenza and pneumonia","J09-J18","2011","2011","Asian or Pacific Islander","A-PI",4708,17471358,26.9,39.4
+,"Influenza and pneumonia","J09-J18","2011","2011","Black or African American","2054-5",16088,42678815,37.7,51.8
+,"Influenza and pneumonia","J09-J18","2011","2011","White","2106-3",140719,247094331,56.9,47.4
+"Total","Influenza and pneumonia","J09-J18","2011","2011",,,162603,311591917,52.2,47.7
+,"Influenza and pneumonia","J09-J18","2012","2012","American Indian or Alaska Native","1002-5",1028,4398436,23.4,42.4
+,"Influenza and pneumonia","J09-J18","2012","2012","Asian or Pacific Islander","A-PI",4902,18087959,27.1,38.2
+,"Influenza and pneumonia","J09-J18","2012","2012","Black or African American","2054-5",15662,43203092,36.3,48.6
+,"Influenza and pneumonia","J09-J18","2012","2012","White","2106-3",133506,248224553,53.8,44.1
+"Total","Influenza and pneumonia","J09-J18","2012","2012",,,155098,313914040,49.4,44.4
+,"Influenza and pneumonia","J09-J18","2013","2013","American Indian or Alaska Native","1002-5",1122,4457934,25.2,44.0
+,"Influenza and pneumonia","J09-J18","2013","2013","Asian or Pacific Islander","A-PI",5361,18630136,28.8,38.7
+,"Influenza and pneumonia","J09-J18","2013","2013","Black or African American","2054-5",16397,43696271,37.5,48.9
+,"Influenza and pneumonia","J09-J18","2013","2013","White","2106-3",137563,249344498,55.2,44.5
+"Total","Influenza and pneumonia","J09-J18","2013","2013",,,160443,316128839,50.8,44.9
+,"Influenza and pneumonia","J09-J18","2014","2014","American Indian or Alaska Native","1002-5",1161,4518981,25.7,42.2
+,"Influenza and pneumonia","J09-J18","2014","2014","Asian or Pacific Islander","A-PI",5083,19398214,26.2,33.7
+,"Influenza and pneumonia","J09-J18","2014","2014","Black or African American","2054-5",16033,44309394,36.2,46.0
+,"Influenza and pneumonia","J09-J18","2014","2014","White","2106-3",131634,250630467,52.5,42.0
+"Total","Influenza and pneumonia","J09-J18","2014","2014",,,153911,318857056,48.3,42.2
+,"Influenza and pneumonia","J09-J18","2015","2015","American Indian or Alaska Native","1002-5",1147,4577853,25.1,39.6
+,"Influenza and pneumonia","J09-J18","2015","2015","Asian or Pacific Islander","A-PI",5460,20102717,27.2,33.9
+,"Influenza and pneumonia","J09-J18","2015","2015","Black or African American","2054-5",16548,44863196,36.9,45.8
+,"Influenza and pneumonia","J09-J18","2015","2015","White","2106-3",134134,251875054,53.3,41.9
+"Total","Influenza and pneumonia","J09-J18","2015","2015",,,157289,321418820,48.9,42.1
+,"Influenza and pneumonia","J09-J18","2016","2016","American Indian or Alaska Native","1002-5",1101,4630155,23.8,35.8
+,"Influenza and pneumonia","J09-J18","2016","2016","Asian or Pacific Islander","A-PI",5405,20487524,26.4,31.6
+,"Influenza and pneumonia","J09-J18","2016","2016","Black or African American","2054-5",16291,45307020,36.0,43.6
+,"Influenza and pneumonia","J09-J18","2016","2016","White","2106-3",127056,252702814,50.3,39.1
+"Total","Influenza and pneumonia","J09-J18","2016","2016",,,149853,323127513,46.4,39.4
+,"Influenza and pneumonia","J09-J18","2017","2017","American Indian or Alaska Native","1002-5",1257,4689047,26.8,39.0
+,"Influenza and pneumonia","J09-J18","2017","2017","Asian or Pacific Islander","A-PI",5794,21210673,27.3,31.8
+,"Influenza and pneumonia","J09-J18","2017","2017","Black or African American","2054-5",16179,45883808,35.3,41.7
+,"Influenza and pneumonia","J09-J18","2017","2017","White","2106-3",127443,253935650,50.2,38.6
+"Total","Influenza and pneumonia","J09-J18","2017","2017",,,150673,325719178,46.3,38.7
+"Total","Influenza and pneumonia","J09-J18",,,,,1246639,2539502901,49.1,43.2
+"Total",,,,,,,1246639,2539502901,49.1,43.2
+"---"
+"Dataset: Multiple Cause of Death, 1999-2020"
+"Query Parameters:"
+"MCD - ICD-10 Codes: J12.0 (Adenoviral pneumonia); J12.1 (Respiratory syncytial virus pneumonia); J12.2 (Parainfluenza virus"
+"pneumonia); J12.3 (Human metapneumovirus pneumonia); J12.8 (Other viral pneumonia); J12.9 (Viral pneumonia, unspecified); J13"
+"(Pneumonia due to Streptococcus pneumoniae); J14 (Pneumonia due to Haemophilus influenzae); J15.0 (Pneumonia due to Klebsiella"
+"pneumoniae); J15.1 (Pneumonia due to Pseudomonas); J15.2 (Pneumonia due to staphylococcus); J15.3 (Pneumonia due to"
+"streptococcus, group B); J15.4 (Pneumonia due to other streptococci); J15.5 (Pneumonia due to Escherichia coli); J15.6"
+"(Pneumonia due to other aerobic Gram-negative bacteria); J15.7 (Pneumonia due to Mycoplasma pneumoniae); J15.8 (Other bacterial"
+"pneumonia); J15.9 (Bacterial pneumonia, unspecified); J16.0 (Chlamydial pneumonia); J16.8 (Pneumonia due to other specified"
+"infectious organisms); J18.0 (Bronchopneumonia, unspecified); J18.1 (Lobar pneumonia, unspecified); J18.2 (Hypostatic pneumonia,"
+"unspecified); J18.8 (Other pneumonia, organism unspecified); J18.9 (Pneumonia, unspecified)"
+"Year/Month: 2010; 2011; 2012; 2013; 2014; 2015; 2016; 2017"
+"Group By: MCD - ICD Sub-Chapter; Year; Race"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Standard Population: 2000 U.S. Std. Population"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information."
+"---"
+"Query Date: Apr 9, 2026 6:29:04 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,"
+"1999-2020, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/mcd-icd10.html on Apr 9, 2026 6:29:04 PM"
+"---"
+Footnotes:
+"1. Totals and sub-totals show the frequency of the selected causes of death, which may be greater than the number of deaths."
+"Note that any single death record may have up to 20 causes. More information."
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#2014-Revision."
+"2. These items in the results table are not fully selected: Influenza and pneumonia. The Query Description lists the actual"
+"values selected."
+"3. The populations used to calculate standard age-adjusted rates are documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#2000 Standard Population."
+"4. The method used to calculate age-adjusted rates is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Age-Adjusted Rates."
+"5. Deaths for persons of unknown age are included in counts and crude rates, but are not included in age-adjusted rates."
+"6. Information included on the death certificate about the race and Hispanic ethnicity of the decedent is reported by the"
+"funeral director as provided by an informant, often the surviving next of kin, or, in the absence of an informant, on the basis"
+"of observation. Race and ethnicity information from the census is by self-report. To the extent that race and Hispanic origin"
+"are inconsistent between these two data sources, death rates will be biased. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Racial Differences."
+"7. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. Population figures for 2011 are bridged-race estimates of the July 1"
+"resident population, from the county-level postcensal Vintage 2011 series released by NCHS on July 18, 2012. Population figures"
+"for 2010 are April 1 Census counts. The population figures for years 2001 - 2009, are bridged-race estimates of the July 1"
+"resident population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012."
+"Population figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of"
+"July 1 estimates. Population figures for Infant Age Groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"8. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd.html#Age Group."
+"9. Beginning with the 2018 data, changes have been implemented that affect the counts for ICD-10 cause of death codes O00-O99"
+"compared to previous practice. In addition, data for the cause of death codes O00-O99 for 2003 through 2017 reflect differences"
+"in information available to individual states and probable errors. Caution should be used in interpreting these data. More"
+"information can be found at: https://www.cdc.gov/nchs/maternal-mortality/."
+"10. On March 11, 2021, the 2019 mortality data on CDC WONDER was updated with the 2019 mortality data updated by NCHS on March"
+"4, 2021 to include corrected information for residents of Texas affecting 5 records previously coded to cause code *U01.4,"
+"Terrorism involving firearms (homicide). The underlying and multiple cause of death codes for 5 records were corrected in the"
+"2019 data. Underlying and multiple cause of death codes for those 5 records were recoded to Assault (homicide) by other and"
+"unspecified firearm discharge, ICD-10 code X95. The corrected final death records replaces the data released on December 22,"
+"2020."
+"11. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#ICD-10 Changes."

@@ -7,7 +7,7 @@ import seaborn as sns
 
 ROOT = Path(__file__).resolve().parents[2]
 CLEANED_DIR = ROOT / "data" / "cleaned"
-FIGURE_DIR = ROOT / "results" / "figures"
+FIGURE_DIR = ROOT / "results" / "figures" / "overall"
 
 COVID_FILE = CLEANED_DIR / "pneumonia_covid_sex.csv"
 NON_COVID_FILE = CLEANED_DIR / "non_covid_pneumonia_sex.csv"
@@ -18,6 +18,43 @@ RATE_COL = "Age Adjusted Rate"
 NOTES_COL = "Notes"
 COVID_START = 2020
 COVID_END = 2023
+SERIES_ORDER = ["Pneumonia", "Pneumonia + COVID", "Non-COVID Pneumonia"]
+SERIES_PALETTE = {
+    "Pneumonia": "#4d4d4d",
+    "Pneumonia + COVID": "#b33b2e",
+    "Non-COVID Pneumonia": "#1b3c73",
+}
+
+
+def _apply_publication_style() -> None:
+    sns.set_theme(
+        style="white",
+        context="paper",
+        rc={
+            "figure.dpi": 300,
+            "savefig.dpi": 600,
+            "savefig.bbox": "tight",
+            "font.family": "serif",
+            "font.serif": ["Times New Roman", "Times", "DejaVu Serif"],
+            "axes.labelsize": 11,
+            "axes.titlesize": 11.5,
+            "axes.titleweight": "bold",
+            "axes.linewidth": 0.9,
+            "axes.spines.top": False,
+            "axes.spines.right": False,
+            "xtick.labelsize": 9.5,
+            "ytick.labelsize": 9.5,
+            "xtick.major.width": 0.8,
+            "ytick.major.width": 0.8,
+            "xtick.major.size": 4,
+            "ytick.major.size": 4,
+            "grid.color": "#d9d9d9",
+            "grid.linewidth": 0.6,
+            "grid.linestyle": "--",
+            "legend.frameon": False,
+            "legend.fontsize": 9,
+        },
+    )
 
 
 def _load_total_series(csv_path: Path, value_name: str) -> pd.DataFrame:
@@ -42,7 +79,7 @@ def _load_total_series(csv_path: Path, value_name: str) -> pd.DataFrame:
 
 def build_covid_noncovid_relation_plot() -> None:
     FIGURE_DIR.mkdir(parents=True, exist_ok=True)
-    sns.set_theme(style="whitegrid")
+    _apply_publication_style()
 
     covid = _load_total_series(COVID_FILE, "Pneumonia + COVID")
     non_covid = _load_total_series(NON_COVID_FILE, "Non-COVID Pneumonia")
@@ -55,38 +92,52 @@ def build_covid_noncovid_relation_plot() -> None:
     )
     long_df = trend_df.melt(
         id_vars=[YEAR_COL],
-        value_vars=["Pneumonia + COVID", "Non-COVID Pneumonia", "Pneumonia"],
+        value_vars=SERIES_ORDER,
         var_name="Series",
-        value_name="Age Adjusted Rate",
+        value_name=RATE_COL,
     )
     rel_df = merged[merged[YEAR_COL] >= 2020].copy()
 
-    fig, axes = plt.subplots(1, 2, figsize=(14, 5.5))
+    fig, axes = plt.subplots(1, 2, figsize=(10.8, 4.8))
 
     # Left panel: trend comparison over time.
     sns.lineplot(
         data=long_df,
         x=YEAR_COL,
-        y="Age Adjusted Rate",
+        y=RATE_COL,
         hue="Series",
         marker="o",
-        linewidth=2.2,
+        linewidth=2.0,
+        markersize=5.5,
+        dashes=False,
+        hue_order=SERIES_ORDER,
+        palette=SERIES_PALETTE,
         ax=axes[0],
     )
-    axes[0].axvspan(COVID_START, COVID_END, color="gray", alpha=0.18, label="COVID era")
-    axes[0].set_title("Pneumonia Trends: COVID-inclusive vs Non-COVID")
+    axes[0].axvspan(COVID_START, COVID_END, color="#bdbdbd", alpha=0.2, zorder=0)
+    axes[0].set_title("Pneumonia mortality trends")
     axes[0].set_xlabel("Year")
-    axes[0].set_ylabel("Age Adjusted Rate")
+    axes[0].set_ylabel("Age-adjusted rate")
     axes[0].set_xticks(sorted(merged[YEAR_COL].unique()))
-    axes[0].legend(title="", frameon=False, loc="best")
+    axes[0].grid(axis="y", alpha=0.8)
+    axes[0].grid(axis="x", visible=False)
+    axes[0].tick_params(direction="out")
+    axes[0].legend(
+        title=None,
+        loc="upper center",
+        bbox_to_anchor=(0.5, 1.18),
+        handlelength=2.0,
+        ncol=3,
+        columnspacing=1.2,
+    )
 
     # Right panel: direct relation between the two series.
     sns.regplot(
         data=rel_df,
         x="Pneumonia + COVID",
         y="Non-COVID Pneumonia",
-        scatter_kws={"s": 50, "alpha": 0.85},
-        line_kws={"color": "black", "linewidth": 1.5},
+        scatter_kws={"s": 40, "alpha": 0.9, "color": "#1b3c73"},
+        line_kws={"color": "#4d4d4d", "linewidth": 1.4},
         ci=None,
         ax=axes[1],
     )
@@ -98,10 +149,11 @@ def build_covid_noncovid_relation_plot() -> None:
             xytext=(4, 4),
             fontsize=8,
         )
-    axes[1].set_title("Relationship Across Years")
-    axes[1].set_xlabel("Pneumonia + COVID (Age Adjusted Rate)")
-    axes[1].set_ylabel("Non-COVID Pneumonia (Age Adjusted Rate)")
-    axes[1].grid(alpha=0.25, linestyle="--", linewidth=0.6)
+    axes[1].set_title("Association during COVID-era years")
+    axes[1].set_xlabel("Pneumonia + COVID age-adjusted rate")
+    axes[1].set_ylabel("Non-COVID pneumonia age-adjusted rate")
+    axes[1].grid(alpha=0.8)
+    axes[1].tick_params(direction="out")
 
     # Tighten axes around 2020+ points for readability.
     if not rel_df.empty:
@@ -114,8 +166,21 @@ def build_covid_noncovid_relation_plot() -> None:
         axes[1].set_xlim(x_min - x_pad, x_max + x_pad)
         axes[1].set_ylim(y_min - y_pad, y_max + y_pad)
 
+    for panel_label, ax in zip(["A", "B"], axes):
+        ax.text(
+            0.01,
+            0.98,
+            panel_label,
+            transform=ax.transAxes,
+            ha="left",
+            va="top",
+            fontsize=12,
+            fontweight="bold",
+        )
+
     fig.tight_layout()
     fig.savefig(FIGURE_DIR / "covid_vs_noncovid_pneumonia_relation.png", dpi=300)
+    fig.savefig(FIGURE_DIR / "covid_vs_noncovid_pneumonia_relation.pdf")
     plt.close(fig)
 
 

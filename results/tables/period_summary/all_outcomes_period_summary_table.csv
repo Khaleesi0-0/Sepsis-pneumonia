@@ -1,0 +1,61 @@
+outcome,Metric,Pre-pandemic (2010–2019),Pandemic (2020–2023),Post-pandemic (2024–2025)
+Sepsis,"Total deaths, n","1,849,463","972,265","442,319"
+Sepsis,"Male deaths, n (%)","906,497 (49.0%)","501,542 (51.6%)","225,311 (50.9%)"
+Sepsis,"Female deaths, n (%)","942,966 (51.0%)","470,723 (48.4%)","217,008 (49.1%)"
+Sepsis,Population,"3,194,909,858","1,329,580,320","680,221,976"
+Sepsis,"Crude mortality rate (/100,000)",57.9,73.1,65.0
+Sepsis,"AAMR (/100,000), age-adjusted (all ages)",50.2,58.7,50.7
+Sepsis,"Male AAMR (/100,000)",57.1,68.1,57.9
+Sepsis,"Female AAMR (/100,000)",45.0,51.4,45.2
+Sepsis,"<25 AAMR (/100,000)",1.5,1.5,1.4
+Sepsis,"25–44 AAMR (/100,000)",7.7,11.4,8.8
+Sepsis,"45–64 AAMR (/100,000)",44.4,58.7,46.5
+Sepsis,"65+ AAMR (/100,000)",296.9,330.2,295.2
+Sepsis,"American Indian or Alaska Native AAMR (/100,000)",52.3,61.3,47.4
+Sepsis,"Asian AAMR (/100,000)",32.5,36.1,30.9
+Sepsis,"Native Hawaiian or Other Pacific Islander AAMR (/100,000)",54.4,67.1,56.5
+Sepsis,"Black or African American AAMR (/100,000)",75.7,86.7,73.8
+Sepsis,"White AAMR (/100,000)",48.1,56.9,49.4
+Sepsis,"More than one race AAMR (/100,000)",21.0,26.2,22.0
+Sepsis,Place of death: Medical Facility N(%),"1,542,156 (83.4%)","816,846 (84.0%)","369,174 (83.5%)"
+Sepsis,Place of death: Non-medical facility N(%),"307,307 (16.6%)","155,411 (16.0%)","73,187 (16.5%)"
+Pneumonia,"Total deaths, n","1,535,329","1,079,502","308,062"
+Pneumonia,"Male deaths, n (%)","770,653 (50.2%)","599,820 (55.6%)","165,382 (53.7%)"
+Pneumonia,"Female deaths, n (%)","764,676 (49.8%)","479,682 (44.4%)","142,680 (46.3%)"
+Pneumonia,Population,"3,194,909,858","1,329,580,320","680,221,976"
+Pneumonia,"Crude mortality rate (/100,000)",48.1,81.2,45.3
+Pneumonia,"AAMR (/100,000), age-adjusted (all ages)",41.8,65.7,35.6
+Pneumonia,"Male AAMR (/100,000)",50.8,83.3,43.5
+Pneumonia,"Female AAMR (/100,000)",35.3,52.0,29.4
+Pneumonia,"<25 AAMR (/100,000)",1.3,1.5,1.1
+Pneumonia,"25–44 AAMR (/100,000)",4.9,11.6,5.6
+Pneumonia,"45–64 AAMR (/100,000)",25.5,58.7,26.4
+Pneumonia,"65+ AAMR (/100,000)",268.2,383.0,218.9
+Pneumonia,"American Indian or Alaska Native AAMR (/100,000)",40.6,79.7,31.6
+Pneumonia,"Asian AAMR (/100,000)",34.2,46.5,26.3
+Pneumonia,"Native Hawaiian or Other Pacific Islander AAMR (/100,000)",33.6,76.3,35.1
+Pneumonia,"Black or African American AAMR (/100,000)",46.1,83.4,42.1
+Pneumonia,"White AAMR (/100,000)",41.6,64.8,35.6
+Pneumonia,"More than one race AAMR (/100,000)",16.0,28.3,15.8
+Pneumonia,Place of death: Medical Facility N(%),"1,050,133 (68.4%)","851,813 (78.9%)","232,828 (75.6%)"
+Pneumonia,Place of death: Non-medical facility N(%),"485,196 (31.6%)","227,675 (21.1%)","75,280 (24.4%)"
+Combined,"Total deaths, n","408,950","252,746","100,119"
+Combined,"Male deaths, n (%)","212,406 (51.9%)","140,909 (55.8%)","54,089 (54.0%)"
+Combined,"Female deaths, n (%)","196,544 (48.1%)","111,837 (44.2%)","46,030 (46.0%)"
+Combined,Population,"3,194,909,858","1,329,580,320","680,221,976"
+Combined,"Crude mortality rate (/100,000)",12.8,19.0,14.7
+Combined,"AAMR (/100,000), age-adjusted (all ages)",11.1,15.3,11.5
+Combined,"Male AAMR (/100,000)",13.5,19.1,14.0
+Combined,"Female AAMR (/100,000)",9.3,12.2,9.5
+Combined,"<25 AAMR (/100,000)",0.2,0.3,0.2
+Combined,"25–44 AAMR (/100,000)",1.5,2.9,1.9
+Combined,"45–64 AAMR (/100,000)",8.9,15.7,9.8
+Combined,"65+ AAMR (/100,000)",67.9,85.3,68.5
+Combined,"American Indian or Alaska Native AAMR (/100,000)",12.4,17.3,10.2
+Combined,"Asian AAMR (/100,000)",9.6,11.9,8.8
+Combined,"Native Hawaiian or Other Pacific Islander AAMR (/100,000)",12.3,18.9,13.9
+Combined,"Black or African American AAMR (/100,000)",15.9,22.1,16.3
+Combined,"White AAMR (/100,000)",10.6,14.7,11.1
+Combined,"More than one race AAMR (/100,000)",4.7,6.9,5.2
+Combined,Place of death: Medical Facility N(%),"359,454 (87.9%)","226,322 (89.5%)","87,666 (87.6%)"
+Combined,Place of death: Non-medical facility N(%),"49,471 (12.1%)","26,419 (10.5%)","12,460 (12.4%)"

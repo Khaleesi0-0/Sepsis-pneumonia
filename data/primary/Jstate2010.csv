@@ -1,0 +1,497 @@
+"Notes","MCD - ICD Sub-Chapter","MCD - ICD Sub-Chapter Code","Year","Year Code","State","State Code",Deaths,Population,Crude Rate,Age Adjusted Rate
+,"Influenza and pneumonia","J09-J18","2010","2010","Alabama","01",2841,4779736,59.4,56.2
+,"Influenza and pneumonia","J09-J18","2010","2010","Alaska","02",184,710231,25.9,42.3
+,"Influenza and pneumonia","J09-J18","2010","2010","Arizona","04",2432,6392017,38.0,35.9
+,"Influenza and pneumonia","J09-J18","2010","2010","Arkansas","05",1997,2915918,68.5,61.7
+,"Influenza and pneumonia","J09-J18","2010","2010","California","06",19048,37253956,51.1,52.9
+,"Influenza and pneumonia","J09-J18","2010","2010","Colorado","08",1661,5029196,33.0,37.1
+,"Influenza and pneumonia","J09-J18","2010","2010","Connecticut","09",1927,3574097,53.9,42.1
+,"Influenza and pneumonia","J09-J18","2010","2010","Delaware","10",437,897934,48.7,43.6
+,"Influenza and pneumonia","J09-J18","2010","2010","District of Columbia","11",274,601723,45.5,46.8
+,"Influenza and pneumonia","J09-J18","2010","2010","Florida","12",7558,18801310,40.2,29.9
+,"Influenza and pneumonia","J09-J18","2010","2010","Georgia","13",4077,9687653,42.1,50.6
+,"Influenza and pneumonia","J09-J18","2010","2010","Hawaii","15",866,1360301,63.7,51.3
+,"Influenza and pneumonia","J09-J18","2010","2010","Idaho","16",629,1567582,40.1,40.8
+,"Influenza and pneumonia","J09-J18","2010","2010","Illinois","17",6779,12830632,52.8,49.5
+,"Influenza and pneumonia","J09-J18","2010","2010","Indiana","18",3485,6483802,53.7,50.4
+,"Influenza and pneumonia","J09-J18","2010","2010","Iowa","19",1685,3046355,55.3,42.1
+,"Influenza and pneumonia","J09-J18","2010","2010","Kansas","20",1487,2853118,52.1,45.1
+,"Influenza and pneumonia","J09-J18","2010","2010","Kentucky","21",3094,4339367,71.3,68.1
+,"Influenza and pneumonia","J09-J18","2010","2010","Louisiana","22",2144,4533372,47.3,48.9
+,"Influenza and pneumonia","J09-J18","2010","2010","Maine","23",729,1328361,54.9,42.3
+,"Influenza and pneumonia","J09-J18","2010","2010","Maryland","24",3055,5773552,52.9,51.6
+,"Influenza and pneumonia","J09-J18","2010","2010","Massachusetts","25",4168,6547629,63.7,52.3
+,"Influenza and pneumonia","J09-J18","2010","2010","Michigan","26",5004,9883640,50.6,44.4
+,"Influenza and pneumonia","J09-J18","2010","2010","Minnesota","27",2308,5303925,43.5,38.2
+,"Influenza and pneumonia","J09-J18","2010","2010","Mississippi","28",1724,2967297,58.1,58.2
+,"Influenza and pneumonia","J09-J18","2010","2010","Missouri","29",3448,5988927,57.6,50.5
+,"Influenza and pneumonia","J09-J18","2010","2010","Montana","30",538,989415,54.4,44.7
+,"Influenza and pneumonia","J09-J18","2010","2010","Nebraska","31",1003,1826341,54.9,45.9
+,"Influenza and pneumonia","J09-J18","2010","2010","Nevada","32",1050,2700551,38.9,43.3
+,"Influenza and pneumonia","J09-J18","2010","2010","New Hampshire","33",646,1316470,49.1,43.3
+,"Influenza and pneumonia","J09-J18","2010","2010","New Jersey","34",3823,8791894,43.5,37.4
+,"Influenza and pneumonia","J09-J18","2010","2010","New Mexico","35",1090,2059179,52.9,51.7
+,"Influenza and pneumonia","J09-J18","2010","2010","New York","36",11014,19378102,56.8,49.2
+,"Influenza and pneumonia","J09-J18","2010","2010","North Carolina","37",5731,9535483,60.1,59.5
+,"Influenza and pneumonia","J09-J18","2010","2010","North Dakota","38",435,672591,64.7,48.6
+,"Influenza and pneumonia","J09-J18","2010","2010","Ohio","39",6876,11536504,59.6,50.9
+,"Influenza and pneumonia","J09-J18","2010","2010","Oklahoma","40",2310,3751351,61.6,58.1
+,"Influenza and pneumonia","J09-J18","2010","2010","Oregon","41",1670,3831074,43.6,37.5
+,"Influenza and pneumonia","J09-J18","2010","2010","Pennsylvania","42",6872,12702379,54.1,40.7
+,"Influenza and pneumonia","J09-J18","2010","2010","Rhode Island","44",743,1052567,70.6,53.8
+,"Influenza and pneumonia","J09-J18","2010","2010","South Carolina","45",2552,4625364,55.2,53.7
+,"Influenza and pneumonia","J09-J18","2010","2010","South Dakota","46",527,814180,64.7,50.5
+,"Influenza and pneumonia","J09-J18","2010","2010","Tennessee","47",4141,6346105,65.3,62.8
+,"Influenza and pneumonia","J09-J18","2010","2010","Texas","48",10234,25145561,40.7,48.9
+,"Influenza and pneumonia","J09-J18","2010","2010","Utah","49",1011,2763885,36.6,49.9
+,"Influenza and pneumonia","J09-J18","2010","2010","Vermont","50",363,625741,58.0,48.4
+,"Influenza and pneumonia","J09-J18","2010","2010","Virginia","51",3545,8001024,44.3,45.4
+,"Influenza and pneumonia","J09-J18","2010","2010","Washington","53",2986,6724540,44.4,42.8
+,"Influenza and pneumonia","J09-J18","2010","2010","West Virginia","54",1469,1852994,79.3,63.4
+,"Influenza and pneumonia","J09-J18","2010","2010","Wisconsin","55",2802,5686986,49.3,41.6
+,"Influenza and pneumonia","J09-J18","2010","2010","Wyoming","56",297,563626,52.7,52.8
+"Total","Influenza and pneumonia","J09-J18","2010","2010",,,156769,308745538,50.8,47.3
+,"Influenza and pneumonia","J09-J18","2011","2011","Alabama","01",2733,4802740,56.9,52.8
+,"Influenza and pneumonia","J09-J18","2011","2011","Alaska","02",211,722718,29.2,47.1
+,"Influenza and pneumonia","J09-J18","2011","2011","Arizona","04",2635,6482505,40.6,37.4
+,"Influenza and pneumonia","J09-J18","2011","2011","Arkansas","05",1991,2937979,67.8,59.7
+,"Influenza and pneumonia","J09-J18","2011","2011","California","06",19435,37691912,51.6,52.0
+,"Influenza and pneumonia","J09-J18","2011","2011","Colorado","08",1682,5116796,32.9,35.4
+,"Influenza and pneumonia","J09-J18","2011","2011","Connecticut","09",2192,3580709,61.2,46.9
+,"Influenza and pneumonia","J09-J18","2011","2011","Delaware","10",423,907135,46.6,41.2
+,"Influenza and pneumonia","J09-J18","2011","2011","District of Columbia","11",282,617996,45.6,47.3
+,"Influenza and pneumonia","J09-J18","2011","2011","Florida","12",7990,19057542,41.9,30.4
+,"Influenza and pneumonia","J09-J18","2011","2011","Georgia","13",3932,9815210,40.1,46.9
+,"Influenza and pneumonia","J09-J18","2011","2011","Hawaii","15",913,1374810,66.4,51.8
+,"Influenza and pneumonia","J09-J18","2011","2011","Idaho","16",692,1584985,43.7,42.9
+,"Influenza and pneumonia","J09-J18","2011","2011","Illinois","17",7057,12869257,54.8,50.5
+,"Influenza and pneumonia","J09-J18","2011","2011","Indiana","18",3753,6516922,57.6,53.1
+,"Influenza and pneumonia","J09-J18","2011","2011","Iowa","19",1862,3062309,60.8,45.3
+,"Influenza and pneumonia","J09-J18","2011","2011","Kansas","20",1594,2871238,55.5,46.9
+,"Influenza and pneumonia","J09-J18","2011","2011","Kentucky","21",2938,4369356,67.2,63.7
+,"Influenza and pneumonia","J09-J18","2011","2011","Louisiana","22",2204,4574836,48.2,48.7
+,"Influenza and pneumonia","J09-J18","2011","2011","Maine","23",838,1328188,63.1,47.2
+,"Influenza and pneumonia","J09-J18","2011","2011","Maryland","24",2998,5828289,51.4,49.3
+,"Influenza and pneumonia","J09-J18","2011","2011","Massachusetts","25",4334,6587536,65.8,53.1
+,"Influenza and pneumonia","J09-J18","2011","2011","Michigan","26",5511,9876187,55.8,47.7
+,"Influenza and pneumonia","J09-J18","2011","2011","Minnesota","27",2477,5344861,46.3,40.1
+,"Influenza and pneumonia","J09-J18","2011","2011","Mississippi","28",1750,2978512,58.8,57.9
+,"Influenza and pneumonia","J09-J18","2011","2011","Missouri","29",3500,6010688,58.2,50.3
+,"Influenza and pneumonia","J09-J18","2011","2011","Montana","30",461,998199,46.2,37.9
+,"Influenza and pneumonia","J09-J18","2011","2011","Nebraska","31",1077,1842641,58.4,48.5
+,"Influenza and pneumonia","J09-J18","2011","2011","Nevada","32",1225,2723322,45.0,48.3
+,"Influenza and pneumonia","J09-J18","2011","2011","New Hampshire","33",713,1318194,54.1,46.3
+,"Influenza and pneumonia","J09-J18","2011","2011","New Jersey","34",3968,8821155,45.0,38.2
+,"Influenza and pneumonia","J09-J18","2011","2011","New Mexico","35",1107,2082224,53.2,50.5
+,"Influenza and pneumonia","J09-J18","2011","2011","New York","36",11532,19465197,59.2,50.6
+,"Influenza and pneumonia","J09-J18","2011","2011","North Carolina","37",5458,9656401,56.5,54.7
+,"Influenza and pneumonia","J09-J18","2011","2011","North Dakota","38",384,683932,56.1,43.1
+,"Influenza and pneumonia","J09-J18","2011","2011","Ohio","39",7389,11544951,64.0,53.6
+,"Influenza and pneumonia","J09-J18","2011","2011","Oklahoma","40",2493,3791508,65.8,60.9
+,"Influenza and pneumonia","J09-J18","2011","2011","Oregon","41",1525,3871859,39.4,33.1
+,"Influenza and pneumonia","J09-J18","2011","2011","Pennsylvania","42",7549,12742886,59.2,43.8
+,"Influenza and pneumonia","J09-J18","2011","2011","Rhode Island","44",820,1051302,78.0,57.5
+,"Influenza and pneumonia","J09-J18","2011","2011","South Carolina","45",2615,4679230,55.9,52.9
+,"Influenza and pneumonia","J09-J18","2011","2011","South Dakota","46",554,824082,67.2,52.3
+,"Influenza and pneumonia","J09-J18","2011","2011","Tennessee","47",4280,6403353,66.8,63.0
+,"Influenza and pneumonia","J09-J18","2011","2011","Texas","48",10334,25674681,40.2,47.4
+,"Influenza and pneumonia","J09-J18","2011","2011","Utah","49",1007,2817222,35.7,48.0
+,"Influenza and pneumonia","J09-J18","2011","2011","Vermont","50",361,626431,57.6,46.5
+,"Influenza and pneumonia","J09-J18","2011","2011","Virginia","51",3790,8096604,46.8,46.9
+,"Influenza and pneumonia","J09-J18","2011","2011","Washington","53",3321,6830038,48.6,46.0
+,"Influenza and pneumonia","J09-J18","2011","2011","West Virginia","54",1550,1855364,83.5,66.9
+,"Influenza and pneumonia","J09-J18","2011","2011","Wisconsin","55",2888,5711767,50.6,42.0
+,"Influenza and pneumonia","J09-J18","2011","2011","Wyoming","56",275,568158,48.4,47.8
+"Total","Influenza and pneumonia","J09-J18","2011","2011",,,162603,311591917,52.2,47.7
+,"Influenza and pneumonia","J09-J18","2012","2012","Alabama","01",2705,4822023,56.1,50.9
+,"Influenza and pneumonia","J09-J18","2012","2012","Alaska","02",184,731449,25.2,38.0
+,"Influenza and pneumonia","J09-J18","2012","2012","Arizona","04",2543,6553255,38.8,35.0
+,"Influenza and pneumonia","J09-J18","2012","2012","Arkansas","05",1945,2949131,66.0,57.8
+,"Influenza and pneumonia","J09-J18","2012","2012","California","06",18214,38041430,47.9,47.3
+,"Influenza and pneumonia","J09-J18","2012","2012","Colorado","08",1634,5187582,31.5,33.4
+,"Influenza and pneumonia","J09-J18","2012","2012","Connecticut","09",1887,3590347,52.6,40.0
+,"Influenza and pneumonia","J09-J18","2012","2012","Delaware","10",406,917092,44.3,38.1
+,"Influenza and pneumonia","J09-J18","2012","2012","District of Columbia","11",249,632323,39.4,40.3
+,"Influenza and pneumonia","J09-J18","2012","2012","Florida","12",7802,19317568,40.4,28.7
+,"Influenza and pneumonia","J09-J18","2012","2012","Georgia","13",3899,9919945,39.3,45.1
+,"Influenza and pneumonia","J09-J18","2012","2012","Hawaii","15",1000,1392313,71.8,53.7
+,"Influenza and pneumonia","J09-J18","2012","2012","Idaho","16",605,1595728,37.9,36.2
+,"Influenza and pneumonia","J09-J18","2012","2012","Illinois","17",6495,12875255,50.4,45.7
+,"Influenza and pneumonia","J09-J18","2012","2012","Indiana","18",3639,6537334,55.7,50.6
+,"Influenza and pneumonia","J09-J18","2012","2012","Iowa","19",1743,3074186,56.7,42.0
+,"Influenza and pneumonia","J09-J18","2012","2012","Kansas","20",1522,2885905,52.7,44.5
+,"Influenza and pneumonia","J09-J18","2012","2012","Kentucky","21",2876,4380415,65.7,60.6
+,"Influenza and pneumonia","J09-J18","2012","2012","Louisiana","22",2058,4601893,44.7,44.4
+,"Influenza and pneumonia","J09-J18","2012","2012","Maine","23",764,1329192,57.5,42.7
+,"Influenza and pneumonia","J09-J18","2012","2012","Maryland","24",2899,5884563,49.3,46.1
+,"Influenza and pneumonia","J09-J18","2012","2012","Massachusetts","25",4006,6646144,60.3,48.2
+,"Influenza and pneumonia","J09-J18","2012","2012","Michigan","26",5079,9883360,51.4,43.3
+,"Influenza and pneumonia","J09-J18","2012","2012","Minnesota","27",2370,5379139,44.1,37.5
+,"Influenza and pneumonia","J09-J18","2012","2012","Mississippi","28",1583,2984926,53.0,50.9
+,"Influenza and pneumonia","J09-J18","2012","2012","Missouri","29",3236,6021988,53.7,45.5
+,"Influenza and pneumonia","J09-J18","2012","2012","Montana","30",453,1005141,45.1,35.9
+,"Influenza and pneumonia","J09-J18","2012","2012","Nebraska","31",954,1855525,51.4,43.1
+,"Influenza and pneumonia","J09-J18","2012","2012","Nevada","32",1112,2758931,40.3,41.9
+,"Influenza and pneumonia","J09-J18","2012","2012","New Hampshire","33",637,1320718,48.2,40.6
+,"Influenza and pneumonia","J09-J18","2012","2012","New Jersey","34",3612,8864590,40.7,34.3
+,"Influenza and pneumonia","J09-J18","2012","2012","New Mexico","35",1094,2085538,52.5,48.4
+,"Influenza and pneumonia","J09-J18","2012","2012","New York","36",10833,19570261,55.4,46.7
+,"Influenza and pneumonia","J09-J18","2012","2012","North Carolina","37",5714,9752073,58.6,55.4
+,"Influenza and pneumonia","J09-J18","2012","2012","North Dakota","38",413,699628,59.0,45.8
+,"Influenza and pneumonia","J09-J18","2012","2012","Ohio","39",6848,11544225,59.3,49.0
+,"Influenza and pneumonia","J09-J18","2012","2012","Oklahoma","40",2273,3814820,59.6,54.8
+,"Influenza and pneumonia","J09-J18","2012","2012","Oregon","41",1521,3899353,39.0,32.3
+,"Influenza and pneumonia","J09-J18","2012","2012","Pennsylvania","42",7127,12763536,55.8,41.1
+,"Influenza and pneumonia","J09-J18","2012","2012","Rhode Island","44",677,1050292,64.5,47.8
+,"Influenza and pneumonia","J09-J18","2012","2012","South Carolina","45",2451,4723723,51.9,48.2
+,"Influenza and pneumonia","J09-J18","2012","2012","South Dakota","46",512,833354,61.4,47.3
+,"Influenza and pneumonia","J09-J18","2012","2012","Tennessee","47",4243,6456243,65.7,60.9
+,"Influenza and pneumonia","J09-J18","2012","2012","Texas","48",10680,26059203,41.0,47.4
+,"Influenza and pneumonia","J09-J18","2012","2012","Utah","49",1000,2855287,35.0,46.0
+,"Influenza and pneumonia","J09-J18","2012","2012","Vermont","50",367,626011,58.6,46.2
+,"Influenza and pneumonia","J09-J18","2012","2012","Virginia","51",3585,8185867,43.8,43.1
+,"Influenza and pneumonia","J09-J18","2012","2012","Washington","53",3174,6897012,46.0,43.2
+,"Influenza and pneumonia","J09-J18","2012","2012","West Virginia","54",1484,1855413,80.0,63.0
+,"Influenza and pneumonia","J09-J18","2012","2012","Wisconsin","55",2766,5726398,48.3,39.5
+,"Influenza and pneumonia","J09-J18","2012","2012","Wyoming","56",225,576412,39.0,38.2
+"Total","Influenza and pneumonia","J09-J18","2012","2012",,,155098,313914040,49.4,44.4
+,"Influenza and pneumonia","J09-J18","2013","2013","Alabama","01",2775,4833722,57.4,50.9
+,"Influenza and pneumonia","J09-J18","2013","2013","Alaska","02",208,735132,28.3,43.4
+,"Influenza and pneumonia","J09-J18","2013","2013","Arizona","04",2628,6626624,39.7,34.9
+,"Influenza and pneumonia","J09-J18","2013","2013","Arkansas","05",2089,2959373,70.6,60.9
+,"Influenza and pneumonia","J09-J18","2013","2013","California","06",18570,38332521,48.4,47.1
+,"Influenza and pneumonia","J09-J18","2013","2013","Colorado","08",1698,5268367,32.2,33.4
+,"Influenza and pneumonia","J09-J18","2013","2013","Connecticut","09",1840,3596080,51.2,38.1
+,"Influenza and pneumonia","J09-J18","2013","2013","Delaware","10",452,925749,48.8,40.9
+,"Influenza and pneumonia","J09-J18","2013","2013","District of Columbia","11",226,646449,35.0,36.8
+,"Influenza and pneumonia","J09-J18","2013","2013","Florida","12",8406,19552860,43.0,30.0
+,"Influenza and pneumonia","J09-J18","2013","2013","Georgia","13",4107,9992167,41.1,45.4
+,"Influenza and pneumonia","J09-J18","2013","2013","Hawaii","15",1028,1404054,73.2,55.0
+,"Influenza and pneumonia","J09-J18","2013","2013","Idaho","16",644,1612136,39.9,38.0
+,"Influenza and pneumonia","J09-J18","2013","2013","Illinois","17",6572,12882135,51.0,45.4
+,"Influenza and pneumonia","J09-J18","2013","2013","Indiana","18",3833,6570902,58.3,52.2
+,"Influenza and pneumonia","J09-J18","2013","2013","Iowa","19",1859,3090416,60.2,44.4
+,"Influenza and pneumonia","J09-J18","2013","2013","Kansas","20",1595,2893957,55.1,45.7
+,"Influenza and pneumonia","J09-J18","2013","2013","Kentucky","21",2908,4395295,66.2,60.2
+,"Influenza and pneumonia","J09-J18","2013","2013","Louisiana","22",2139,4625470,46.2,44.7
+,"Influenza and pneumonia","J09-J18","2013","2013","Maine","23",752,1328302,56.6,41.0
+,"Influenza and pneumonia","J09-J18","2013","2013","Maryland","24",2956,5928814,49.9,45.7
+,"Influenza and pneumonia","J09-J18","2013","2013","Massachusetts","25",4145,6692824,61.9,49.2
+,"Influenza and pneumonia","J09-J18","2013","2013","Michigan","26",5321,9895622,53.8,44.4
+,"Influenza and pneumonia","J09-J18","2013","2013","Minnesota","27",2211,5420380,40.8,34.2
+,"Influenza and pneumonia","J09-J18","2013","2013","Mississippi","28",1926,2991207,64.4,60.7
+,"Influenza and pneumonia","J09-J18","2013","2013","Missouri","29",3449,6044171,57.1,47.7
+,"Influenza and pneumonia","J09-J18","2013","2013","Montana","30",503,1015165,49.5,38.8
+,"Influenza and pneumonia","J09-J18","2013","2013","Nebraska","31",946,1868516,50.6,41.3
+,"Influenza and pneumonia","J09-J18","2013","2013","Nevada","32",1216,2790136,43.6,43.5
+,"Influenza and pneumonia","J09-J18","2013","2013","New Hampshire","33",632,1323459,47.8,38.9
+,"Influenza and pneumonia","J09-J18","2013","2013","New Jersey","34",4037,8899339,45.4,37.6
+,"Influenza and pneumonia","J09-J18","2013","2013","New Mexico","35",1040,2085287,49.9,45.6
+,"Influenza and pneumonia","J09-J18","2013","2013","New York","36",11202,19651127,57.0,47.3
+,"Influenza and pneumonia","J09-J18","2013","2013","North Carolina","37",5634,9848060,57.2,52.9
+,"Influenza and pneumonia","J09-J18","2013","2013","North Dakota","38",427,723393,59.0,46.3
+,"Influenza and pneumonia","J09-J18","2013","2013","Ohio","39",6785,11570808,58.6,47.8
+,"Influenza and pneumonia","J09-J18","2013","2013","Oklahoma","40",2298,3850568,59.7,54.6
+,"Influenza and pneumonia","J09-J18","2013","2013","Oregon","41",1558,3930065,39.6,32.5
+,"Influenza and pneumonia","J09-J18","2013","2013","Pennsylvania","42",7512,12773801,58.8,42.6
+,"Influenza and pneumonia","J09-J18","2013","2013","Rhode Island","44",729,1051511,69.3,50.1
+,"Influenza and pneumonia","J09-J18","2013","2013","South Carolina","45",2521,4774839,52.8,47.5
+,"Influenza and pneumonia","J09-J18","2013","2013","South Dakota","46",505,844877,59.8,46.2
+,"Influenza and pneumonia","J09-J18","2013","2013","Tennessee","47",4307,6495978,66.3,60.2
+,"Influenza and pneumonia","J09-J18","2013","2013","Texas","48",11314,26448193,42.8,48.5
+,"Influenza and pneumonia","J09-J18","2013","2013","Utah","49",1032,2900872,35.6,46.2
+,"Influenza and pneumonia","J09-J18","2013","2013","Vermont","50",361,626630,57.6,44.3
+,"Influenza and pneumonia","J09-J18","2013","2013","Virginia","51",3766,8260405,45.6,44.1
+,"Influenza and pneumonia","J09-J18","2013","2013","Washington","53",3139,6971406,45.0,41.5
+,"Influenza and pneumonia","J09-J18","2013","2013","West Virginia","54",1512,1854304,81.5,63.1
+,"Influenza and pneumonia","J09-J18","2013","2013","Wisconsin","55",2860,5742713,49.8,40.2
+,"Influenza and pneumonia","J09-J18","2013","2013","Wyoming","56",270,582658,46.3,44.3
+"Total","Influenza and pneumonia","J09-J18","2013","2013",,,160443,316128839,50.8,44.9
+,"Influenza and pneumonia","J09-J18","2014","2014","Alabama","01",2635,4849377,54.3,47.6
+,"Influenza and pneumonia","J09-J18","2014","2014","Alaska","02",212,736732,28.8,43.4
+,"Influenza and pneumonia","J09-J18","2014","2014","Arizona","04",2524,6731484,37.5,32.1
+,"Influenza and pneumonia","J09-J18","2014","2014","Arkansas","05",1935,2966369,65.2,55.6
+,"Influenza and pneumonia","J09-J18","2014","2014","California","06",17032,38802500,43.9,42.0
+,"Influenza and pneumonia","J09-J18","2014","2014","Colorado","08",1844,5355866,34.4,35.1
+,"Influenza and pneumonia","J09-J18","2014","2014","Connecticut","09",1784,3596677,49.6,37.1
+,"Influenza and pneumonia","J09-J18","2014","2014","Delaware","10",474,935614,50.7,41.8
+,"Influenza and pneumonia","J09-J18","2014","2014","District of Columbia","11",227,658893,34.5,35.7
+,"Influenza and pneumonia","J09-J18","2014","2014","Florida","12",8277,19893297,41.6,28.8
+,"Influenza and pneumonia","J09-J18","2014","2014","Georgia","13",3877,10097343,38.4,41.5
+,"Influenza and pneumonia","J09-J18","2014","2014","Hawaii","15",995,1419561,70.1,51.7
+,"Influenza and pneumonia","J09-J18","2014","2014","Idaho","16",621,1634464,38.0,35.7
+,"Influenza and pneumonia","J09-J18","2014","2014","Illinois","17",6348,12880580,49.3,43.3
+,"Influenza and pneumonia","J09-J18","2014","2014","Indiana","18",3601,6596855,54.6,48.1
+,"Influenza and pneumonia","J09-J18","2014","2014","Iowa","19",1669,3107126,53.7,39.5
+,"Influenza and pneumonia","J09-J18","2014","2014","Kansas","20",1563,2904021,53.8,44.7
+,"Influenza and pneumonia","J09-J18","2014","2014","Kentucky","21",2924,4413457,66.3,59.6
+,"Influenza and pneumonia","J09-J18","2014","2014","Louisiana","22",2013,4649676,43.3,41.5
+,"Influenza and pneumonia","J09-J18","2014","2014","Maine","23",781,1330089,58.7,41.0
+,"Influenza and pneumonia","J09-J18","2014","2014","Maryland","24",2741,5976407,45.9,41.7
+,"Influenza and pneumonia","J09-J18","2014","2014","Massachusetts","25",3824,6745408,56.7,44.6
+,"Influenza and pneumonia","J09-J18","2014","2014","Michigan","26",5194,9909877,52.4,42.9
+,"Influenza and pneumonia","J09-J18","2014","2014","Minnesota","27",2138,5457173,39.2,32.8
+,"Influenza and pneumonia","J09-J18","2014","2014","Mississippi","28",1820,2994079,60.8,56.1
+,"Influenza and pneumonia","J09-J18","2014","2014","Missouri","29",3322,6063589,54.8,45.4
+,"Influenza and pneumonia","J09-J18","2014","2014","Montana","30",463,1023579,45.2,35.2
+,"Influenza and pneumonia","J09-J18","2014","2014","Nebraska","31",1002,1881503,53.3,43.8
+,"Influenza and pneumonia","J09-J18","2014","2014","Nevada","32",1398,2839099,49.2,48.0
+,"Influenza and pneumonia","J09-J18","2014","2014","New Hampshire","33",619,1326813,46.7,37.7
+,"Influenza and pneumonia","J09-J18","2014","2014","New Jersey","34",3720,8938175,41.6,34.2
+,"Influenza and pneumonia","J09-J18","2014","2014","New Mexico","35",1121,2085572,53.8,47.6
+,"Influenza and pneumonia","J09-J18","2014","2014","New York","36",10729,19746227,54.3,44.9
+,"Influenza and pneumonia","J09-J18","2014","2014","North Carolina","37",5456,9943964,54.9,49.9
+,"Influenza and pneumonia","J09-J18","2014","2014","North Dakota","38",432,739482,58.4,47.3
+,"Influenza and pneumonia","J09-J18","2014","2014","Ohio","39",6423,11594163,55.4,44.8
+,"Influenza and pneumonia","J09-J18","2014","2014","Oklahoma","40",2173,3878051,56.0,50.4
+,"Influenza and pneumonia","J09-J18","2014","2014","Oregon","41",1563,3970239,39.4,31.9
+,"Influenza and pneumonia","J09-J18","2014","2014","Pennsylvania","42",6736,12787209,52.7,38.1
+,"Influenza and pneumonia","J09-J18","2014","2014","Rhode Island","44",623,1055173,59.0,42.4
+,"Influenza and pneumonia","J09-J18","2014","2014","South Carolina","45",2560,4832482,53.0,47.1
+,"Influenza and pneumonia","J09-J18","2014","2014","South Dakota","46",546,853175,64.0,50.0
+,"Influenza and pneumonia","J09-J18","2014","2014","Tennessee","47",4180,6549352,63.8,57.2
+,"Influenza and pneumonia","J09-J18","2014","2014","Texas","48",11364,26956958,42.2,46.9
+,"Influenza and pneumonia","J09-J18","2014","2014","Utah","49",1020,2942902,34.7,44.4
+,"Influenza and pneumonia","J09-J18","2014","2014","Vermont","50",400,626562,63.8,48.9
+,"Influenza and pneumonia","J09-J18","2014","2014","Virginia","51",3593,8326289,43.2,40.9
+,"Influenza and pneumonia","J09-J18","2014","2014","Washington","53",2897,7061530,41.0,37.4
+,"Influenza and pneumonia","J09-J18","2014","2014","West Virginia","54",1481,1850326,80.0,60.5
+,"Influenza and pneumonia","J09-J18","2014","2014","Wisconsin","55",2778,5757564,48.2,38.3
+,"Influenza and pneumonia","J09-J18","2014","2014","Wyoming","56",259,584153,44.3,41.4
+"Total","Influenza and pneumonia","J09-J18","2014","2014",,,153911,318857056,48.3,42.2
+,"Influenza and pneumonia","J09-J18","2015","2015","Alabama","01",2731,4858979,56.2,48.3
+,"Influenza and pneumonia","J09-J18","2015","2015","Alaska","02",188,738432,25.5,36.3
+,"Influenza and pneumonia","J09-J18","2015","2015","Arizona","04",2637,6828065,38.6,32.2
+,"Influenza and pneumonia","J09-J18","2015","2015","Arkansas","05",1950,2978204,65.5,55.3
+,"Influenza and pneumonia","J09-J18","2015","2015","California","06",17372,39144818,44.4,41.7
+,"Influenza and pneumonia","J09-J18","2015","2015","Colorado","08",1750,5456574,32.1,32.3
+,"Influenza and pneumonia","J09-J18","2015","2015","Connecticut","09",1762,3590886,49.1,36.5
+,"Influenza and pneumonia","J09-J18","2015","2015","Delaware","10",472,945934,49.9,39.9
+,"Influenza and pneumonia","J09-J18","2015","2015","District of Columbia","11",298,672228,44.3,46.5
+,"Influenza and pneumonia","J09-J18","2015","2015","Florida","12",8746,20271272,43.1,29.3
+,"Influenza and pneumonia","J09-J18","2015","2015","Georgia","13",3877,10214860,38.0,40.3
+,"Influenza and pneumonia","J09-J18","2015","2015","Hawaii","15",1028,1431603,71.8,51.6
+,"Influenza and pneumonia","J09-J18","2015","2015","Idaho","16",633,1654930,38.2,35.4
+,"Influenza and pneumonia","J09-J18","2015","2015","Illinois","17",6418,12859995,49.9,43.1
+,"Influenza and pneumonia","J09-J18","2015","2015","Indiana","18",3660,6619680,55.3,48.3
+,"Influenza and pneumonia","J09-J18","2015","2015","Iowa","19",1750,3123899,56.0,40.9
+,"Influenza and pneumonia","J09-J18","2015","2015","Kansas","20",1622,2911641,55.7,45.5
+,"Influenza and pneumonia","J09-J18","2015","2015","Kentucky","21",3195,4425092,72.2,63.6
+,"Influenza and pneumonia","J09-J18","2015","2015","Louisiana","22",1869,4670724,40.0,37.5
+,"Influenza and pneumonia","J09-J18","2015","2015","Maine","23",785,1329328,59.1,41.2
+,"Influenza and pneumonia","J09-J18","2015","2015","Maryland","24",2900,6006401,48.3,43.2
+,"Influenza and pneumonia","J09-J18","2015","2015","Massachusetts","25",4129,6794422,60.8,47.3
+,"Influenza and pneumonia","J09-J18","2015","2015","Michigan","26",5222,9922576,52.6,42.3
+,"Influenza and pneumonia","J09-J18","2015","2015","Minnesota","27",2313,5489594,42.1,34.5
+,"Influenza and pneumonia","J09-J18","2015","2015","Mississippi","28",1851,2992333,61.9,56.0
+,"Influenza and pneumonia","J09-J18","2015","2015","Missouri","29",3349,6083672,55.0,44.7
+,"Influenza and pneumonia","J09-J18","2015","2015","Montana","30",493,1032949,47.7,37.3
+,"Influenza and pneumonia","J09-J18","2015","2015","Nebraska","31",985,1896190,51.9,42.8
+,"Influenza and pneumonia","J09-J18","2015","2015","Nevada","32",1374,2890845,47.5,45.5
+,"Influenza and pneumonia","J09-J18","2015","2015","New Hampshire","33",679,1330608,51.0,40.4
+,"Influenza and pneumonia","J09-J18","2015","2015","New Jersey","34",3755,8958013,41.9,34.0
+,"Influenza and pneumonia","J09-J18","2015","2015","New Mexico","35",1101,2085109,52.8,46.1
+,"Influenza and pneumonia","J09-J18","2015","2015","New York","36",10901,19795791,55.1,44.9
+,"Influenza and pneumonia","J09-J18","2015","2015","North Carolina","37",5599,10042802,55.8,49.4
+,"Influenza and pneumonia","J09-J18","2015","2015","North Dakota","38",390,756927,51.5,41.4
+,"Influenza and pneumonia","J09-J18","2015","2015","Ohio","39",6397,11613423,55.1,43.9
+,"Influenza and pneumonia","J09-J18","2015","2015","Oklahoma","40",2331,3911338,59.6,53.5
+,"Influenza and pneumonia","J09-J18","2015","2015","Oregon","41",1557,4028977,38.6,31.2
+,"Influenza and pneumonia","J09-J18","2015","2015","Pennsylvania","42",7151,12802503,55.9,39.9
+,"Influenza and pneumonia","J09-J18","2015","2015","Rhode Island","44",636,1056298,60.2,42.7
+,"Influenza and pneumonia","J09-J18","2015","2015","South Carolina","45",2629,4896146,53.7,47.0
+,"Influenza and pneumonia","J09-J18","2015","2015","South Dakota","46",519,858469,60.5,45.2
+,"Influenza and pneumonia","J09-J18","2015","2015","Tennessee","47",4253,6600299,64.4,56.7
+,"Influenza and pneumonia","J09-J18","2015","2015","Texas","48",11431,27469114,41.6,45.8
+,"Influenza and pneumonia","J09-J18","2015","2015","Utah","49",1076,2995919,35.9,45.4
+,"Influenza and pneumonia","J09-J18","2015","2015","Vermont","50",353,626042,56.4,42.3
+,"Influenza and pneumonia","J09-J18","2015","2015","Virginia","51",3652,8382993,43.6,40.4
+,"Influenza and pneumonia","J09-J18","2015","2015","Washington","53",3081,7170351,43.0,38.6
+,"Influenza and pneumonia","J09-J18","2015","2015","West Virginia","54",1547,1844128,83.9,62.5
+,"Influenza and pneumonia","J09-J18","2015","2015","Wisconsin","55",2656,5771337,46.0,36.3
+,"Influenza and pneumonia","J09-J18","2015","2015","Wyoming","56",236,586107,40.3,37.3
+"Total","Influenza and pneumonia","J09-J18","2015","2015",,,157289,321418820,48.9,42.1
+,"Influenza and pneumonia","J09-J18","2016","2016","Alabama","01",2486,4863300,51.1,43.2
+,"Influenza and pneumonia","J09-J18","2016","2016","Alaska","02",176,741894,23.7,33.8
+,"Influenza and pneumonia","J09-J18","2016","2016","Arizona","04",2705,6931071,39.0,31.7
+,"Influenza and pneumonia","J09-J18","2016","2016","Arkansas","05",1987,2988248,66.5,55.1
+,"Influenza and pneumonia","J09-J18","2016","2016","California","06",16899,39250017,43.1,39.7
+,"Influenza and pneumonia","J09-J18","2016","2016","Colorado","08",1662,5540545,30.0,29.8
+,"Influenza and pneumonia","J09-J18","2016","2016","Connecticut","09",1704,3576452,47.6,35.1
+,"Influenza and pneumonia","J09-J18","2016","2016","Delaware","10",448,952065,47.1,36.7
+,"Influenza and pneumonia","J09-J18","2016","2016","District of Columbia","11",214,681170,31.4,33.1
+,"Influenza and pneumonia","J09-J18","2016","2016","Florida","12",9055,20612439,43.9,29.8
+,"Influenza and pneumonia","J09-J18","2016","2016","Georgia","13",3786,10310371,36.7,37.7
+,"Influenza and pneumonia","J09-J18","2016","2016","Hawaii","15",1011,1428557,70.8,49.5
+,"Influenza and pneumonia","J09-J18","2016","2016","Idaho","16",596,1683140,35.4,32.3
+,"Influenza and pneumonia","J09-J18","2016","2016","Illinois","17",6030,12801539,47.1,40.2
+,"Influenza and pneumonia","J09-J18","2016","2016","Indiana","18",3453,6633053,52.1,45.2
+,"Influenza and pneumonia","J09-J18","2016","2016","Iowa","19",1582,3134693,50.5,36.8
+,"Influenza and pneumonia","J09-J18","2016","2016","Kansas","20",1390,2907289,47.8,38.8
+,"Influenza and pneumonia","J09-J18","2016","2016","Kentucky","21",3069,4436974,69.2,59.6
+,"Influenza and pneumonia","J09-J18","2016","2016","Louisiana","22",1860,4681666,39.7,36.7
+,"Influenza and pneumonia","J09-J18","2016","2016","Maine","23",681,1331479,51.1,35.5
+,"Influenza and pneumonia","J09-J18","2016","2016","Maryland","24",2809,6016447,46.7,40.9
+,"Influenza and pneumonia","J09-J18","2016","2016","Massachusetts","25",3645,6811779,53.5,41.6
+,"Influenza and pneumonia","J09-J18","2016","2016","Michigan","26",4777,9928300,48.1,38.7
+,"Influenza and pneumonia","J09-J18","2016","2016","Minnesota","27",2330,5519952,42.2,34.3
+,"Influenza and pneumonia","J09-J18","2016","2016","Mississippi","28",1887,2988726,63.1,55.9
+,"Influenza and pneumonia","J09-J18","2016","2016","Missouri","29",3023,6093000,49.6,39.9
+,"Influenza and pneumonia","J09-J18","2016","2016","Montana","30",427,1042520,41.0,31.6
+,"Influenza and pneumonia","J09-J18","2016","2016","Nebraska","31",937,1907116,49.1,39.9
+,"Influenza and pneumonia","J09-J18","2016","2016","Nevada","32",1373,2940058,46.7,43.5
+,"Influenza and pneumonia","J09-J18","2016","2016","New Hampshire","33",628,1334795,47.0,36.4
+,"Influenza and pneumonia","J09-J18","2016","2016","New Jersey","34",3573,8944469,39.9,32.0
+,"Influenza and pneumonia","J09-J18","2016","2016","New Mexico","35",1095,2081015,52.6,44.5
+,"Influenza and pneumonia","J09-J18","2016","2016","New York","36",10183,19745289,51.6,41.5
+,"Influenza and pneumonia","J09-J18","2016","2016","North Carolina","37",5384,10146788,53.1,46.4
+,"Influenza and pneumonia","J09-J18","2016","2016","North Dakota","38",413,757952,54.5,44.2
+,"Influenza and pneumonia","J09-J18","2016","2016","Ohio","39",5950,11614373,51.2,40.8
+,"Influenza and pneumonia","J09-J18","2016","2016","Oklahoma","40",2260,3923561,57.6,50.8
+,"Influenza and pneumonia","J09-J18","2016","2016","Oregon","41",1448,4093465,35.4,28.3
+,"Influenza and pneumonia","J09-J18","2016","2016","Pennsylvania","42",6737,12784227,52.7,37.4
+,"Influenza and pneumonia","J09-J18","2016","2016","Rhode Island","44",555,1056426,52.5,37.6
+,"Influenza and pneumonia","J09-J18","2016","2016","South Carolina","45",2581,4961119,52.0,44.2
+,"Influenza and pneumonia","J09-J18","2016","2016","South Dakota","46",510,865454,58.9,44.9
+,"Influenza and pneumonia","J09-J18","2016","2016","Tennessee","47",3981,6651194,59.9,51.6
+,"Influenza and pneumonia","J09-J18","2016","2016","Texas","48",10894,27862596,39.1,42.0
+,"Influenza and pneumonia","J09-J18","2016","2016","Utah","49",1062,3051217,34.8,43.4
+,"Influenza and pneumonia","J09-J18","2016","2016","Vermont","50",334,624594,53.5,39.8
+,"Influenza and pneumonia","J09-J18","2016","2016","Virginia","51",3273,8411808,38.9,35.2
+,"Influenza and pneumonia","J09-J18","2016","2016","Washington","53",2861,7288000,39.3,35.0
+,"Influenza and pneumonia","J09-J18","2016","2016","West Virginia","54",1335,1831102,72.9,54.0
+,"Influenza and pneumonia","J09-J18","2016","2016","Wisconsin","55",2549,5778708,44.1,34.5
+,"Influenza and pneumonia","J09-J18","2016","2016","Wyoming","56",245,585501,41.8,37.1
+"Total","Influenza and pneumonia","J09-J18","2016","2016",,,149853,323127513,46.4,39.4
+,"Influenza and pneumonia","J09-J18","2017","2017","Alabama","01",2699,4874747,55.4,46.0
+,"Influenza and pneumonia","J09-J18","2017","2017","Alaska","02",201,739795,27.2,34.7
+,"Influenza and pneumonia","J09-J18","2017","2017","Arizona","04",2704,7016270,38.5,31.3
+,"Influenza and pneumonia","J09-J18","2017","2017","Arkansas","05",1975,3004279,65.7,54.1
+,"Influenza and pneumonia","J09-J18","2017","2017","California","06",17005,39536653,43.0,39.1
+,"Influenza and pneumonia","J09-J18","2017","2017","Colorado","08",1692,5607154,30.2,29.6
+,"Influenza and pneumonia","J09-J18","2017","2017","Connecticut","09",1855,3588184,51.7,36.5
+,"Influenza and pneumonia","J09-J18","2017","2017","Delaware","10",496,961939,51.6,39.5
+,"Influenza and pneumonia","J09-J18","2017","2017","District of Columbia","11",226,693972,32.6,32.9
+,"Influenza and pneumonia","J09-J18","2017","2017","Florida","12",9363,20984400,44.6,29.9
+,"Influenza and pneumonia","J09-J18","2017","2017","Georgia","13",3692,10429379,35.4,35.9
+,"Influenza and pneumonia","J09-J18","2017","2017","Hawaii","15",1178,1427538,82.5,56.5
+,"Influenza and pneumonia","J09-J18","2017","2017","Idaho","16",618,1716943,36.0,32.9
+,"Influenza and pneumonia","J09-J18","2017","2017","Illinois","17",6006,12802023,46.9,39.1
+,"Influenza and pneumonia","J09-J18","2017","2017","Indiana","18",3440,6666818,51.6,44.1
+,"Influenza and pneumonia","J09-J18","2017","2017","Iowa","19",1620,3145711,51.5,38.0
+,"Influenza and pneumonia","J09-J18","2017","2017","Kansas","20",1451,2913123,49.8,40.2
+,"Influenza and pneumonia","J09-J18","2017","2017","Kentucky","21",2890,4454189,64.9,55.4
+,"Influenza and pneumonia","J09-J18","2017","2017","Louisiana","22",1886,4684333,40.3,36.3
+,"Influenza and pneumonia","J09-J18","2017","2017","Maine","23",692,1335907,51.8,35.2
+,"Influenza and pneumonia","J09-J18","2017","2017","Maryland","24",2747,6052177,45.4,39.0
+,"Influenza and pneumonia","J09-J18","2017","2017","Massachusetts","25",3730,6859819,54.4,41.8
+,"Influenza and pneumonia","J09-J18","2017","2017","Michigan","26",4743,9962311,47.6,37.5
+,"Influenza and pneumonia","J09-J18","2017","2017","Minnesota","27",2430,5576606,43.6,35.2
+,"Influenza and pneumonia","J09-J18","2017","2017","Mississippi","28",1724,2984100,57.8,50.3
+,"Influenza and pneumonia","J09-J18","2017","2017","Missouri","29",3065,6113532,50.1,39.9
+,"Influenza and pneumonia","J09-J18","2017","2017","Montana","30",453,1050493,43.1,33.1
+,"Influenza and pneumonia","J09-J18","2017","2017","Nebraska","31",973,1920076,50.7,40.8
+,"Influenza and pneumonia","J09-J18","2017","2017","Nevada","32",1467,2998039,48.9,45.1
+,"Influenza and pneumonia","J09-J18","2017","2017","New Hampshire","33",635,1342795,47.3,35.7
+,"Influenza and pneumonia","J09-J18","2017","2017","New Jersey","34",3651,9005644,40.5,32.0
+,"Influenza and pneumonia","J09-J18","2017","2017","New Mexico","35",1042,2088070,49.9,41.4
+,"Influenza and pneumonia","J09-J18","2017","2017","New York","36",10274,19849399,51.8,40.4
+,"Influenza and pneumonia","J09-J18","2017","2017","North Carolina","37",5209,10273419,50.7,43.7
+,"Influenza and pneumonia","J09-J18","2017","2017","North Dakota","38",392,755393,51.9,41.8
+,"Influenza and pneumonia","J09-J18","2017","2017","Ohio","39",5806,11658609,49.8,39.0
+,"Influenza and pneumonia","J09-J18","2017","2017","Oklahoma","40",2351,3930864,59.8,52.2
+,"Influenza and pneumonia","J09-J18","2017","2017","Oregon","41",1441,4142776,34.8,27.9
+,"Influenza and pneumonia","J09-J18","2017","2017","Pennsylvania","42",6726,12805537,52.5,36.7
+,"Influenza and pneumonia","J09-J18","2017","2017","Rhode Island","44",618,1059639,58.3,42.1
+,"Influenza and pneumonia","J09-J18","2017","2017","South Carolina","45",2519,5024369,50.1,41.9
+,"Influenza and pneumonia","J09-J18","2017","2017","South Dakota","46",513,869666,59.0,46.0
+,"Influenza and pneumonia","J09-J18","2017","2017","Tennessee","47",4047,6715984,60.3,51.5
+,"Influenza and pneumonia","J09-J18","2017","2017","Texas","48",11070,28304596,39.1,41.7
+,"Influenza and pneumonia","J09-J18","2017","2017","Utah","49",899,3101833,29.0,35.7
+,"Influenza and pneumonia","J09-J18","2017","2017","Vermont","50",301,623657,48.3,34.8
+,"Influenza and pneumonia","J09-J18","2017","2017","Virginia","51",3167,8470020,37.4,33.2
+,"Influenza and pneumonia","J09-J18","2017","2017","Washington","53",2907,7405743,39.3,35.2
+,"Influenza and pneumonia","J09-J18","2017","2017","West Virginia","54",1350,1815857,74.3,53.4
+,"Influenza and pneumonia","J09-J18","2017","2017","Wisconsin","55",2455,5795483,42.4,32.8
+,"Influenza and pneumonia","J09-J18","2017","2017","Wyoming","56",279,579315,48.2,41.7
+"Total","Influenza and pneumonia","J09-J18","2017","2017",,,150673,325719178,46.3,38.7
+"Total","Influenza and pneumonia","J09-J18",,,,,1246639,2539502901,49.1,43.2
+"Total",,,,,,,1246639,2539502901,49.1,43.2
+"---"
+"Dataset: Multiple Cause of Death, 1999-2020"
+"Query Parameters:"
+"MCD - ICD-10 Codes: J12.0 (Adenoviral pneumonia); J12.1 (Respiratory syncytial virus pneumonia); J12.2 (Parainfluenza virus"
+"pneumonia); J12.3 (Human metapneumovirus pneumonia); J12.8 (Other viral pneumonia); J12.9 (Viral pneumonia, unspecified); J13"
+"(Pneumonia due to Streptococcus pneumoniae); J14 (Pneumonia due to Haemophilus influenzae); J15.0 (Pneumonia due to Klebsiella"
+"pneumoniae); J15.1 (Pneumonia due to Pseudomonas); J15.2 (Pneumonia due to staphylococcus); J15.3 (Pneumonia due to"
+"streptococcus, group B); J15.4 (Pneumonia due to other streptococci); J15.5 (Pneumonia due to Escherichia coli); J15.6"
+"(Pneumonia due to other aerobic Gram-negative bacteria); J15.7 (Pneumonia due to Mycoplasma pneumoniae); J15.8 (Other bacterial"
+"pneumonia); J15.9 (Bacterial pneumonia, unspecified); J16.0 (Chlamydial pneumonia); J16.8 (Pneumonia due to other specified"
+"infectious organisms); J18.0 (Bronchopneumonia, unspecified); J18.1 (Lobar pneumonia, unspecified); J18.2 (Hypostatic pneumonia,"
+"unspecified); J18.8 (Other pneumonia, organism unspecified); J18.9 (Pneumonia, unspecified)"
+"Year/Month: 2010; 2011; 2012; 2013; 2014; 2015; 2016; 2017"
+"Group By: MCD - ICD Sub-Chapter; Year; State"
+"Show Totals: True"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Standard Population: 2000 U.S. Std. Population"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information."
+"---"
+"Query Date: Apr 9, 2026 6:41:10 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,"
+"1999-2020, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/mcd-icd10.html on Apr 9, 2026 6:41:10 PM"
+"---"
+Footnotes:
+"1. Totals and sub-totals show the frequency of the selected causes of death, which may be greater than the number of deaths."
+"Note that any single death record may have up to 20 causes. More information."
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#2014-Revision."
+"2. These items in the results table are not fully selected: Influenza and pneumonia. The Query Description lists the actual"
+"values selected."
+"3. The populations used to calculate standard age-adjusted rates are documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#2000 Standard Population."
+"4. The method used to calculate age-adjusted rates is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Age-Adjusted Rates."
+"5. Deaths for persons of unknown age are included in counts and crude rates, but are not included in age-adjusted rates."
+"6. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. Population figures for 2011 are bridged-race estimates of the July 1"
+"resident population, from the county-level postcensal Vintage 2011 series released by NCHS on July 18, 2012. Population figures"
+"for 2010 are April 1 Census counts. The population figures for years 2001 - 2009, are bridged-race estimates of the July 1"
+"resident population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012."
+"Population figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of"
+"July 1 estimates. Population figures for Infant Age Groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"7. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd.html#Age Group."
+"8. Beginning with the 2018 data, changes have been implemented that affect the counts for ICD-10 cause of death codes O00-O99"
+"compared to previous practice. In addition, data for the cause of death codes O00-O99 for 2003 through 2017 reflect differences"
+"in information available to individual states and probable errors. Caution should be used in interpreting these data. More"
+"information can be found at: https://www.cdc.gov/nchs/maternal-mortality/."
+"9. On March 11, 2021, the 2019 mortality data on CDC WONDER was updated with the 2019 mortality data updated by NCHS on March 4,"
+"2021 to include corrected information for residents of Texas affecting 5 records previously coded to cause code *U01.4,"
+"Terrorism involving firearms (homicide). The underlying and multiple cause of death codes for 5 records were corrected in the"
+"2019 data. Underlying and multiple cause of death codes for those 5 records were recoded to Assault (homicide) by other and"
+"unspecified firearm discharge, ICD-10 code X95. The corrected final death records replaces the data released on December 22,"
+"2020."
+"10. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#ICD-10 Changes."

@@ -1,0 +1,21 @@
+Metric,Pre-pandemic (2010–2019),Pandemic (2020–2023),Post-pandemic (2024–2025)
+"Total deaths, n","408,950","252,746","100,119"
+"Male deaths, n (%)","212,406 (51.9%)","140,909 (55.8%)","54,089 (54.0%)"
+"Female deaths, n (%)","196,544 (48.1%)","111,837 (44.2%)","46,030 (46.0%)"
+Population,"3,194,909,858","1,329,580,320","680,221,976"
+"Crude mortality rate (/100,000)",12.8,19.0,14.7
+"AAMR (/100,000), age-adjusted (all ages)",11.1,15.3,11.5
+"Male AAMR (/100,000)",13.5,19.1,14.0
+"Female AAMR (/100,000)",9.3,12.2,9.5
+"<25 AAMR (/100,000)",0.2,0.3,0.2
+"25–44 AAMR (/100,000)",1.5,2.9,1.9
+"45–64 AAMR (/100,000)",8.9,15.7,9.8
+"65+ AAMR (/100,000)",67.9,85.3,68.5
+"American Indian or Alaska Native AAMR (/100,000)",12.4,17.3,10.2
+"Asian AAMR (/100,000)",9.6,11.9,8.8
+"Native Hawaiian or Other Pacific Islander AAMR (/100,000)",12.3,18.9,13.9
+"Black or African American AAMR (/100,000)",15.9,22.1,16.3
+"White AAMR (/100,000)",10.6,14.7,11.1
+"More than one race AAMR (/100,000)",4.7,6.9,5.2
+Place of death: Medical Facility N(%),"359,454 (87.9%)","226,322 (89.5%)","87,666 (87.6%)"
+Place of death: Non-medical facility N(%),"49,471 (12.1%)","26,419 (10.5%)","12,460 (12.4%)"

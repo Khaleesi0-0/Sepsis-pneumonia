@@ -7,7 +7,7 @@ import seaborn as sns
 
 ROOT = Path(__file__).resolve().parents[2]
 CLEANED_DIR = ROOT / "data" / "cleaned"
-FIGURE_DIR = ROOT / "results" / "figures"
+FIGURE_DIR = ROOT / "results" / "figures" / "sex"
 
 COVID_START = 2020
 COVID_END = 2023
@@ -15,12 +15,61 @@ COVID_END = 2023
 Y_COL = "Age Adjusted Rate"
 SEX_COL = "Sex"
 YEAR_COL = "Year"
+LINE_WIDTH = 1.9
+MARKER_SIZE = 5.5
+SEX_PALETTE = {
+    "Male": "#1b3c73",
+    "Female": "#b33b2e",
+}
 
 DATASETS = {
     "sepsis": CLEANED_DIR / "sepsis_sex.csv",
     "pneumonia": CLEANED_DIR / "pneumonia_sex.csv",
     "combined": CLEANED_DIR / "combined_sex.csv",
 }
+
+
+def _select_year_ticks(years: list[int], max_ticks: int = 8) -> list[int]:
+    years = sorted(int(year) for year in years if pd.notna(year))
+    if len(years) <= max_ticks:
+        return years
+
+    step = max(1, (len(years) + max_ticks - 1) // max_ticks)
+    ticks = years[::step]
+    if ticks[-1] != years[-1]:
+        ticks.append(years[-1])
+    return ticks
+
+
+def _apply_publication_style() -> None:
+    sns.set_theme(
+        style="white",
+        context="paper",
+        rc={
+            "figure.dpi": 300,
+            "savefig.dpi": 600,
+            "savefig.bbox": "tight",
+            "font.family": "serif",
+            "font.serif": ["Times New Roman", "Times", "DejaVu Serif"],
+            "axes.labelsize": 11,
+            "axes.titlesize": 11.5,
+            "axes.titleweight": "bold",
+            "axes.linewidth": 0.9,
+            "axes.spines.top": False,
+            "axes.spines.right": False,
+            "xtick.labelsize": 9.5,
+            "ytick.labelsize": 9.5,
+            "xtick.major.width": 0.8,
+            "ytick.major.width": 0.8,
+            "xtick.major.size": 4,
+            "ytick.major.size": 4,
+            "grid.color": "#d9d9d9",
+            "grid.linewidth": 0.6,
+            "grid.linestyle": "--",
+            "legend.frameon": False,
+            "legend.fontsize": 9,
+        },
+    )
 
 
 def _prepare_for_plot(df: pd.DataFrame) -> pd.DataFrame:
@@ -44,22 +93,29 @@ def _prepare_for_plot(df: pd.DataFrame) -> pd.DataFrame:
     return plot_df
 
 
-def _draw_single_trend(ax: plt.Axes, df: pd.DataFrame, title: str) -> None:
+def _draw_single_trend(ax: plt.Axes, df: pd.DataFrame, title: str, show_legend: bool = True) -> None:
     sns.lineplot(
         data=df,
         x=YEAR_COL,
         y=Y_COL,
         hue=SEX_COL,
         marker="o",
-        linewidth=2,
+        linewidth=LINE_WIDTH,
+        markersize=MARKER_SIZE,
+        dashes=False,
+        palette=SEX_PALETTE,
         ax=ax,
     )
-    ax.axvspan(COVID_START, COVID_END, color="gray", alpha=0.18, label="COVID era")
+    ax.axvspan(COVID_START, COVID_END, color="#bdbdbd", alpha=0.2, zorder=0)
     ax.set_title(title)
     ax.set_xlabel("Year")
-    ax.set_ylabel(Y_COL)
-    ax.set_xticks(sorted(df[YEAR_COL].dropna().unique()))
-    ax.grid(alpha=0.25, linestyle="--", linewidth=0.6)
+    ax.set_ylabel("Age-adjusted rate")
+    year_ticks = _select_year_ticks(df[YEAR_COL].dropna().unique().tolist())
+    ax.set_xticks(year_ticks)
+    ax.grid(axis="y", alpha=0.8)
+    ax.grid(axis="x", visible=False)
+    ax.tick_params(axis="x", direction="out", rotation=45)
+    ax.tick_params(axis="y", direction="out")
 
     # Keep legend compact and readable.
     handles, labels = ax.get_legend_handles_labels()
@@ -67,17 +123,26 @@ def _draw_single_trend(ax: plt.Axes, df: pd.DataFrame, title: str) -> None:
     for handle, label in zip(handles, labels):
         if label not in dedup:
             dedup[label] = handle
-    ax.legend(
-        dedup.values(),
-        dedup.keys(),
-        frameon=False,
-        loc="best",
-    )
+    if show_legend:
+        ax.legend(
+            dedup.values(),
+            dedup.keys(),
+            loc="upper center",
+            bbox_to_anchor=(0.5, 1.16),
+            title=None,
+            handlelength=2.0,
+            ncol=2,
+            columnspacing=1.2,
+        )
+    else:
+        legend = ax.get_legend()
+        if legend is not None:
+            legend.remove()
 
 
 def build_trend_figures() -> None:
     FIGURE_DIR.mkdir(parents=True, exist_ok=True)
-    sns.set_theme(style="whitegrid")
+    _apply_publication_style()
 
     prepared = {}
     for name, csv_path in DATASETS.items():
@@ -86,26 +151,61 @@ def build_trend_figures() -> None:
 
     # 1) Three individual figures.
     for name, df in prepared.items():
-        fig, ax = plt.subplots(figsize=(8, 5))
-        _draw_single_trend(ax, df, f"{name.capitalize()} Trend by Sex")
+        fig, ax = plt.subplots(figsize=(6.8, 4.6))
+        _draw_single_trend(ax, df, f"{name.capitalize()} trend by sex", show_legend=True)
         fig.tight_layout()
         fig.savefig(FIGURE_DIR / f"{name}_trend_by_sex.png", dpi=300)
+        fig.savefig(FIGURE_DIR / f"{name}_trend_by_sex.pdf")
         plt.close(fig)
 
     # 2) One arranged multi-panel figure containing all three.
-    fig, axes = plt.subplots(3, 1, figsize=(10, 14), sharex=True)
+    fig, axes = plt.subplots(1, 3, figsize=(14.5, 4.8), sharex=True, sharey=True)
     panel_order = ["sepsis", "pneumonia", "combined"]
     panel_titles = {
-        "sepsis": "Sepsis Trend by Sex",
-        "pneumonia": "Pneumonia Trend by Sex",
-        "combined": "Sepsis + Pneumonia (Other bacterial diseases) Trend by Sex",
+        "sepsis": "Sepsis",
+        "pneumonia": "Pneumonia",
+        "combined": "Sepsis + pneumonia",
     }
+    panel_labels = ["A", "B", "C"]
 
-    for ax, key in zip(axes, panel_order):
-        _draw_single_trend(ax, prepared[key], panel_titles[key])
+    legend_handles = None
+    legend_labels = None
+    for ax, key, panel_label in zip(axes, panel_order, panel_labels):
+        _draw_single_trend(ax, prepared[key], panel_titles[key], show_legend=False)
+        if legend_handles is None:
+            legend_handles, legend_labels = ax.get_legend_handles_labels()
+        ax.text(
+            0.01,
+            0.98,
+            panel_label,
+            transform=ax.transAxes,
+            ha="left",
+            va="top",
+            fontsize=12,
+            fontweight="bold",
+        )
+
+    axes[0].set_xlabel("")
+    axes[1].set_xlabel("")
+    axes[2].set_xlabel("")
+    axes[0].set_ylabel("Age-adjusted rate")
+    axes[1].set_ylabel("")
+    axes[2].set_ylabel("")
+    fig.supxlabel("Year")
+    fig.legend(
+        legend_handles[:2],
+        legend_labels[:2],
+        loc="upper center",
+        bbox_to_anchor=(0.5, 1.08),
+        ncol=2,
+        frameon=False,
+        handlelength=2.0,
+        columnspacing=1.2,
+    )
 
     fig.tight_layout()
     fig.savefig(FIGURE_DIR / "all_trends_by_sex_panel.png", dpi=300)
+    fig.savefig(FIGURE_DIR / "all_trends_by_sex_panel.pdf")
     plt.close(fig)
 
 

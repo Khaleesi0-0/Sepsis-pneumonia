@@ -7,18 +7,57 @@ import seaborn as sns
 
 ROOT = Path(__file__).resolve().parents[2]
 CLEANED_DIR = ROOT / "data" / "cleaned"
-FIGURE_DIR = ROOT / "results" / "figures"
+FIGURE_DIR = ROOT / "results" / "figures" / "overall"
 
 YEAR_COL = "Year"
 VALUE_COL = "Age Adjusted Rate"
 COVID_START = 2020
 COVID_END = 2023
+FIG_SIZE = (7.2, 4.8)
+LINE_WIDTH = 2.0
+MARKER_SIZE = 6
+PLOT_COLORS = {
+    "Sepsis": "#1b3c73",
+    "Pneumonia": "#b33b2e",
+    "Combined": "#2a6f4f",
+}
 
 DATASETS = {
     "Sepsis": CLEANED_DIR / "sepsis_sex.csv",
     "Pneumonia": CLEANED_DIR / "pneumonia_sex.csv",
     "Combined": CLEANED_DIR / "combined_sex.csv",
 }
+
+
+def _apply_publication_style() -> None:
+    sns.set_theme(
+        style="white",
+        context="paper",
+        rc={
+            "figure.dpi": 300,
+            "savefig.dpi": 600,
+            "savefig.bbox": "tight",
+            "font.family": "serif",
+            "font.serif": ["Times New Roman", "Times", "DejaVu Serif"],
+            "axes.labelsize": 11,
+            "axes.titlesize": 12,
+            "axes.titleweight": "bold",
+            "axes.linewidth": 0.9,
+            "axes.spines.top": False,
+            "axes.spines.right": False,
+            "xtick.labelsize": 10,
+            "ytick.labelsize": 10,
+            "xtick.major.width": 0.8,
+            "ytick.major.width": 0.8,
+            "xtick.major.size": 4,
+            "ytick.major.size": 4,
+            "grid.color": "#d9d9d9",
+            "grid.linewidth": 0.6,
+            "grid.linestyle": "--",
+            "legend.frameon": False,
+            "legend.fontsize": 9,
+        },
+    )
 
 
 def _extract_total_series(csv_path: Path, disease_name: str) -> pd.DataFrame:
@@ -59,7 +98,7 @@ def _extract_total_series(csv_path: Path, disease_name: str) -> pd.DataFrame:
 
 def build_total_trend_plot() -> None:
     FIGURE_DIR.mkdir(parents=True, exist_ok=True)
-    sns.set_theme(style="whitegrid")
+    _apply_publication_style()
 
     trend_frames = []
     for disease_name, path in DATASETS.items():
@@ -67,27 +106,43 @@ def build_total_trend_plot() -> None:
 
     trend_df = pd.concat(trend_frames, ignore_index=True)
 
-    fig, ax = plt.subplots(figsize=(10, 6))
+    fig, ax = plt.subplots(figsize=FIG_SIZE)
     sns.lineplot(
         data=trend_df,
         x=YEAR_COL,
         y=VALUE_COL,
         hue="Disease",
         marker="o",
-        linewidth=2.2,
+        linewidth=LINE_WIDTH,
+        markersize=MARKER_SIZE,
+        dashes=False,
+        palette=PLOT_COLORS,
         ax=ax,
     )
-    ax.axvspan(COVID_START, COVID_END, color="gray", alpha=0.18, label="COVID era")
+    ax.axvspan(COVID_START, COVID_END, color="#bdbdbd", alpha=0.2, zorder=0)
 
-    ax.set_title("Total Trend by Disease")
+    ax.set_title("Age-adjusted mortality trends")
     ax.set_xlabel("Year")
-    ax.set_ylabel("Age Adjusted Rate")
-    ax.grid(alpha=0.25, linestyle="--", linewidth=0.6)
-    ax.legend(title="", frameon=False, loc="best")
+    ax.set_ylabel("Age-adjusted rate")
+    ax.grid(axis="y", alpha=0.8)
+    ax.grid(axis="x", visible=False)
     ax.set_xticks(sorted(trend_df[YEAR_COL].dropna().unique()))
+    ax.tick_params(direction="out")
+    handles, labels = ax.get_legend_handles_labels()
+    ax.legend(
+        handles,
+        labels,
+        title=None,
+        loc="upper center",
+        bbox_to_anchor=(0.5, 1.18),
+        ncol=3,
+        handlelength=2.2,
+        columnspacing=1.4,
+    )
 
     fig.tight_layout()
     fig.savefig(FIGURE_DIR / "total_trend_three_diseases.png", dpi=300)
+    fig.savefig(FIGURE_DIR / "total_trend_three_diseases.pdf")
     plt.close(fig)
 
 

@@ -1,0 +1,921 @@
+"Notes","MCD - ICD Sub-Chapter","MCD - ICD Sub-Chapter Code","Year","Year Code","State","State Code",Deaths,Population,Crude Rate,Age Adjusted Rate
+,"Other bacterial diseases","A30-A49","2010","2010","Alabama","01",567,4779736,11.9,11.1
+,"Other bacterial diseases","A30-A49","2010","2010","Alaska","02",29,710231,4.1,6.1
+,"Other bacterial diseases","A30-A49","2010","2010","Arizona","04",569,6392017,8.9,8.4
+,"Other bacterial diseases","A30-A49","2010","2010","Arkansas","05",348,2915918,11.9,10.6
+,"Other bacterial diseases","A30-A49","2010","2010","California","06",4674,37253956,12.5,13.0
+,"Other bacterial diseases","A30-A49","2010","2010","Colorado","08",252,5029196,5.0,5.5
+,"Other bacterial diseases","A30-A49","2010","2010","Connecticut","09",376,3574097,10.5,8.4
+,"Other bacterial diseases","A30-A49","2010","2010","Delaware","10",108,897934,12.0,10.5
+,"Other bacterial diseases","A30-A49","2010","2010","District of Columbia","11",104,601723,17.3,17.9
+,"Other bacterial diseases","A30-A49","2010","2010","Florida","12",1632,18801310,8.7,6.5
+,"Other bacterial diseases","A30-A49","2010","2010","Georgia","13",971,9687653,10.0,11.7
+,"Other bacterial diseases","A30-A49","2010","2010","Hawaii","15",139,1360301,10.2,8.4
+,"Other bacterial diseases","A30-A49","2010","2010","Idaho","16",76,1567582,4.8,4.9
+,"Other bacterial diseases","A30-A49","2010","2010","Illinois","17",1334,12830632,10.4,9.9
+,"Other bacterial diseases","A30-A49","2010","2010","Indiana","18",609,6483802,9.4,8.8
+,"Other bacterial diseases","A30-A49","2010","2010","Iowa","19",211,3046355,6.9,5.5
+,"Other bacterial diseases","A30-A49","2010","2010","Kansas","20",215,2853118,7.5,6.7
+,"Other bacterial diseases","A30-A49","2010","2010","Kentucky","21",662,4339367,15.3,14.4
+,"Other bacterial diseases","A30-A49","2010","2010","Louisiana","22",509,4533372,11.2,11.5
+,"Other bacterial diseases","A30-A49","2010","2010","Maine","23",114,1328361,8.6,6.7
+,"Other bacterial diseases","A30-A49","2010","2010","Maryland","24",660,5773552,11.4,11.1
+,"Other bacterial diseases","A30-A49","2010","2010","Massachusetts","25",710,6547629,10.8,9.2
+,"Other bacterial diseases","A30-A49","2010","2010","Michigan","26",1118,9883640,11.3,10.0
+,"Other bacterial diseases","A30-A49","2010","2010","Minnesota","27",293,5303925,5.5,4.9
+,"Other bacterial diseases","A30-A49","2010","2010","Mississippi","28",389,2967297,13.1,13.1
+,"Other bacterial diseases","A30-A49","2010","2010","Missouri","29",574,5988927,9.6,8.4
+,"Other bacterial diseases","A30-A49","2010","2010","Montana","30",84,989415,8.5,7.1
+,"Other bacterial diseases","A30-A49","2010","2010","Nebraska","31",111,1826341,6.1,5.3
+,"Other bacterial diseases","A30-A49","2010","2010","Nevada","32",361,2700551,13.4,14.5
+,"Other bacterial diseases","A30-A49","2010","2010","New Hampshire","33",107,1316470,8.1,7.1
+,"Other bacterial diseases","A30-A49","2010","2010","New Jersey","34",1047,8791894,11.9,10.4
+,"Other bacterial diseases","A30-A49","2010","2010","New Mexico","35",215,2059179,10.4,9.9
+,"Other bacterial diseases","A30-A49","2010","2010","New York","36",2398,19378102,12.4,10.9
+,"Other bacterial diseases","A30-A49","2010","2010","North Carolina","37",1167,9535483,12.2,11.9
+,"Other bacterial diseases","A30-A49","2010","2010","North Dakota","38",51,672591,7.6,5.9
+,"Other bacterial diseases","A30-A49","2010","2010","Ohio","39",1277,11536504,11.1,9.6
+,"Other bacterial diseases","A30-A49","2010","2010","Oklahoma","40",581,3751351,15.5,14.5
+,"Other bacterial diseases","A30-A49","2010","2010","Oregon","41",272,3831074,7.1,6.1
+,"Other bacterial diseases","A30-A49","2010","2010","Pennsylvania","42",1309,12702379,10.3,8.0
+,"Other bacterial diseases","A30-A49","2010","2010","Rhode Island","44",145,1052567,13.8,10.8
+,"Other bacterial diseases","A30-A49","2010","2010","South Carolina","45",555,4625364,12.0,11.4
+,"Other bacterial diseases","A30-A49","2010","2010","South Dakota","46",47,814180,5.8,4.6
+,"Other bacterial diseases","A30-A49","2010","2010","Tennessee","47",940,6346105,14.8,14.1
+,"Other bacterial diseases","A30-A49","2010","2010","Texas","48",2559,25145561,10.2,12.0
+,"Other bacterial diseases","A30-A49","2010","2010","Utah","49",126,2763885,4.6,6.1
+,"Other bacterial diseases","A30-A49","2010","2010","Vermont","50",42,625741,6.7,5.9
+,"Other bacterial diseases","A30-A49","2010","2010","Virginia","51",756,8001024,9.4,9.7
+,"Other bacterial diseases","A30-A49","2010","2010","Washington","53",558,6724540,8.3,8.0
+,"Other bacterial diseases","A30-A49","2010","2010","West Virginia","54",309,1852994,16.7,13.2
+,"Other bacterial diseases","A30-A49","2010","2010","Wisconsin","55",329,5686986,5.8,5.0
+,"Other bacterial diseases","A30-A49","2010","2010","Wyoming","56",36,563626,6.4,5.9
+"Total","Other bacterial diseases","A30-A49","2010","2010",,,32625,308745538,10.6,9.9
+,"Other bacterial diseases","A30-A49","2011","2011","Alabama","01",562,4802740,11.7,10.6
+,"Other bacterial diseases","A30-A49","2011","2011","Alaska","02",47,722718,6.5,8.4
+,"Other bacterial diseases","A30-A49","2011","2011","Arizona","04",650,6482505,10.0,9.1
+,"Other bacterial diseases","A30-A49","2011","2011","Arkansas","05",345,2937979,11.7,10.3
+,"Other bacterial diseases","A30-A49","2011","2011","California","06",5164,37691912,13.7,13.9
+,"Other bacterial diseases","A30-A49","2011","2011","Colorado","08",264,5116796,5.2,5.4
+,"Other bacterial diseases","A30-A49","2011","2011","Connecticut","09",455,3580709,12.7,10.0
+,"Other bacterial diseases","A30-A49","2011","2011","Delaware","10",97,907135,10.7,9.4
+,"Other bacterial diseases","A30-A49","2011","2011","District of Columbia","11",76,617996,12.3,12.8
+,"Other bacterial diseases","A30-A49","2011","2011","Florida","12",1843,19057542,9.7,7.0
+,"Other bacterial diseases","A30-A49","2011","2011","Georgia","13",979,9815210,10.0,11.3
+,"Other bacterial diseases","A30-A49","2011","2011","Hawaii","15",138,1374810,10.0,8.2
+,"Other bacterial diseases","A30-A49","2011","2011","Idaho","16",101,1584985,6.4,6.3
+,"Other bacterial diseases","A30-A49","2011","2011","Illinois","17",1485,12869257,11.5,10.8
+,"Other bacterial diseases","A30-A49","2011","2011","Indiana","18",704,6516922,10.8,10.0
+,"Other bacterial diseases","A30-A49","2011","2011","Iowa","19",234,3062309,7.6,6.0
+,"Other bacterial diseases","A30-A49","2011","2011","Kansas","20",248,2871238,8.6,7.6
+,"Other bacterial diseases","A30-A49","2011","2011","Kentucky","21",707,4369356,16.2,14.9
+,"Other bacterial diseases","A30-A49","2011","2011","Louisiana","22",480,4574836,10.5,10.5
+,"Other bacterial diseases","A30-A49","2011","2011","Maine","23",128,1328188,9.6,7.2
+,"Other bacterial diseases","A30-A49","2011","2011","Maryland","24",618,5828289,10.6,10.2
+,"Other bacterial diseases","A30-A49","2011","2011","Massachusetts","25",732,6587536,11.1,9.2
+,"Other bacterial diseases","A30-A49","2011","2011","Michigan","26",1275,9876187,12.9,11.1
+,"Other bacterial diseases","A30-A49","2011","2011","Minnesota","27",316,5344861,5.9,5.3
+,"Other bacterial diseases","A30-A49","2011","2011","Mississippi","28",398,2978512,13.4,13.1
+,"Other bacterial diseases","A30-A49","2011","2011","Missouri","29",635,6010688,10.6,9.3
+,"Other bacterial diseases","A30-A49","2011","2011","Montana","30",50,998199,5.0,4.3
+,"Other bacterial diseases","A30-A49","2011","2011","Nebraska","31",131,1842641,7.1,6.3
+,"Other bacterial diseases","A30-A49","2011","2011","Nevada","32",446,2723322,16.4,17.2
+,"Other bacterial diseases","A30-A49","2011","2011","New Hampshire","33",97,1318194,7.4,6.4
+,"Other bacterial diseases","A30-A49","2011","2011","New Jersey","34",1070,8821155,12.1,10.4
+,"Other bacterial diseases","A30-A49","2011","2011","New Mexico","35",234,2082224,11.2,10.4
+,"Other bacterial diseases","A30-A49","2011","2011","New York","36",2596,19465197,13.3,11.5
+,"Other bacterial diseases","A30-A49","2011","2011","North Carolina","37",1278,9656401,13.2,12.6
+,"Other bacterial diseases","A30-A49","2011","2011","North Dakota","38",56,683932,8.2,6.9
+,"Other bacterial diseases","A30-A49","2011","2011","Ohio","39",1414,11544951,12.2,10.3
+,"Other bacterial diseases","A30-A49","2011","2011","Oklahoma","40",603,3791508,15.9,14.6
+,"Other bacterial diseases","A30-A49","2011","2011","Oregon","41",229,3871859,5.9,5.2
+,"Other bacterial diseases","A30-A49","2011","2011","Pennsylvania","42",1308,12742886,10.3,7.9
+,"Other bacterial diseases","A30-A49","2011","2011","Rhode Island","44",191,1051302,18.2,14.0
+,"Other bacterial diseases","A30-A49","2011","2011","South Carolina","45",661,4679230,14.1,13.1
+,"Other bacterial diseases","A30-A49","2011","2011","South Dakota","46",60,824082,7.3,6.0
+,"Other bacterial diseases","A30-A49","2011","2011","Tennessee","47",989,6403353,15.4,14.4
+,"Other bacterial diseases","A30-A49","2011","2011","Texas","48",2753,25674681,10.7,12.4
+,"Other bacterial diseases","A30-A49","2011","2011","Utah","49",149,2817222,5.3,6.9
+,"Other bacterial diseases","A30-A49","2011","2011","Vermont","50",46,626431,7.3,6.0
+,"Other bacterial diseases","A30-A49","2011","2011","Virginia","51",858,8096604,10.6,10.5
+,"Other bacterial diseases","A30-A49","2011","2011","Washington","53",657,6830038,9.6,9.2
+,"Other bacterial diseases","A30-A49","2011","2011","West Virginia","54",327,1855364,17.6,14.3
+,"Other bacterial diseases","A30-A49","2011","2011","Wisconsin","55",371,5711767,6.5,5.6
+,"Other bacterial diseases","A30-A49","2011","2011","Wyoming","56",25,568158,4.4,4.0
+"Total","Other bacterial diseases","A30-A49","2011","2011",,,35280,311591917,11.3,10.4
+,"Other bacterial diseases","A30-A49","2012","2012","Alabama","01",620,4822023,12.9,11.5
+,"Other bacterial diseases","A30-A49","2012","2012","Alaska","02",32,731449,4.4,5.7
+,"Other bacterial diseases","A30-A49","2012","2012","Arizona","04",626,6553255,9.6,8.6
+,"Other bacterial diseases","A30-A49","2012","2012","Arkansas","05",367,2949131,12.4,10.8
+,"Other bacterial diseases","A30-A49","2012","2012","California","06",4934,38041430,13.0,12.8
+,"Other bacterial diseases","A30-A49","2012","2012","Colorado","08",275,5187582,5.3,5.5
+,"Other bacterial diseases","A30-A49","2012","2012","Connecticut","09",407,3590347,11.3,8.9
+,"Other bacterial diseases","A30-A49","2012","2012","Delaware","10",111,917092,12.1,10.3
+,"Other bacterial diseases","A30-A49","2012","2012","District of Columbia","11",67,632323,10.6,10.6
+,"Other bacterial diseases","A30-A49","2012","2012","Florida","12",1795,19317568,9.3,6.7
+,"Other bacterial diseases","A30-A49","2012","2012","Georgia","13",1036,9919945,10.4,11.5
+,"Other bacterial diseases","A30-A49","2012","2012","Hawaii","15",143,1392313,10.3,8.0
+,"Other bacterial diseases","A30-A49","2012","2012","Idaho","16",97,1595728,6.1,5.7
+,"Other bacterial diseases","A30-A49","2012","2012","Illinois","17",1351,12875255,10.5,9.6
+,"Other bacterial diseases","A30-A49","2012","2012","Indiana","18",734,6537334,11.2,10.3
+,"Other bacterial diseases","A30-A49","2012","2012","Iowa","19",241,3074186,7.8,6.0
+,"Other bacterial diseases","A30-A49","2012","2012","Kansas","20",244,2885905,8.5,7.3
+,"Other bacterial diseases","A30-A49","2012","2012","Kentucky","21",694,4380415,15.8,14.4
+,"Other bacterial diseases","A30-A49","2012","2012","Louisiana","22",520,4601893,11.3,11.1
+,"Other bacterial diseases","A30-A49","2012","2012","Maine","23",122,1329192,9.2,6.8
+,"Other bacterial diseases","A30-A49","2012","2012","Maryland","24",652,5884563,11.1,10.3
+,"Other bacterial diseases","A30-A49","2012","2012","Massachusetts","25",727,6646144,10.9,9.0
+,"Other bacterial diseases","A30-A49","2012","2012","Michigan","26",1175,9883360,11.9,10.1
+,"Other bacterial diseases","A30-A49","2012","2012","Minnesota","27",328,5379139,6.1,5.3
+,"Other bacterial diseases","A30-A49","2012","2012","Mississippi","28",416,2984926,13.9,13.1
+,"Other bacterial diseases","A30-A49","2012","2012","Missouri","29",654,6021988,10.9,9.2
+,"Other bacterial diseases","A30-A49","2012","2012","Montana","30",42,1005141,4.2,3.4
+,"Other bacterial diseases","A30-A49","2012","2012","Nebraska","31",136,1855525,7.3,6.5
+,"Other bacterial diseases","A30-A49","2012","2012","Nevada","32",398,2758931,14.4,14.7
+,"Other bacterial diseases","A30-A49","2012","2012","New Hampshire","33",104,1320718,7.9,6.5
+,"Other bacterial diseases","A30-A49","2012","2012","New Jersey","34",1047,8864590,11.8,10.1
+,"Other bacterial diseases","A30-A49","2012","2012","New Mexico","35",238,2085538,11.4,10.4
+,"Other bacterial diseases","A30-A49","2012","2012","New York","36",2536,19570261,13.0,11.0
+,"Other bacterial diseases","A30-A49","2012","2012","North Carolina","37",1314,9752073,13.5,12.6
+,"Other bacterial diseases","A30-A49","2012","2012","North Dakota","38",66,699628,9.4,7.6
+,"Other bacterial diseases","A30-A49","2012","2012","Ohio","39",1354,11544225,11.7,9.7
+,"Other bacterial diseases","A30-A49","2012","2012","Oklahoma","40",619,3814820,16.2,14.9
+,"Other bacterial diseases","A30-A49","2012","2012","Oregon","41",286,3899353,7.3,6.0
+,"Other bacterial diseases","A30-A49","2012","2012","Pennsylvania","42",1378,12763536,10.8,8.1
+,"Other bacterial diseases","A30-A49","2012","2012","Rhode Island","44",137,1050292,13.0,9.9
+,"Other bacterial diseases","A30-A49","2012","2012","South Carolina","45",639,4723723,13.5,12.3
+,"Other bacterial diseases","A30-A49","2012","2012","South Dakota","46",67,833354,8.0,6.6
+,"Other bacterial diseases","A30-A49","2012","2012","Tennessee","47",1044,6456243,16.2,14.7
+,"Other bacterial diseases","A30-A49","2012","2012","Texas","48",2935,26059203,11.3,12.8
+,"Other bacterial diseases","A30-A49","2012","2012","Utah","49",171,2855287,6.0,7.6
+,"Other bacterial diseases","A30-A49","2012","2012","Vermont","50",47,626011,7.5,6.2
+,"Other bacterial diseases","A30-A49","2012","2012","Virginia","51",783,8185867,9.6,9.3
+,"Other bacterial diseases","A30-A49","2012","2012","Washington","53",667,6897012,9.7,9.0
+,"Other bacterial diseases","A30-A49","2012","2012","West Virginia","54",319,1855413,17.2,13.4
+,"Other bacterial diseases","A30-A49","2012","2012","Wisconsin","55",331,5726398,5.8,4.9
+,"Other bacterial diseases","A30-A49","2012","2012","Wyoming","56",36,576412,6.2,6.0
+"Total","Other bacterial diseases","A30-A49","2012","2012",,,35062,313914040,11.2,10.0
+,"Other bacterial diseases","A30-A49","2013","2013","Alabama","01",691,4833722,14.3,12.4
+,"Other bacterial diseases","A30-A49","2013","2013","Alaska","02",42,735132,5.7,8.1
+,"Other bacterial diseases","A30-A49","2013","2013","Arizona","04",692,6626624,10.4,9.1
+,"Other bacterial diseases","A30-A49","2013","2013","Arkansas","05",475,2959373,16.1,13.8
+,"Other bacterial diseases","A30-A49","2013","2013","California","06",5086,38332521,13.3,12.9
+,"Other bacterial diseases","A30-A49","2013","2013","Colorado","08",311,5268367,5.9,5.9
+,"Other bacterial diseases","A30-A49","2013","2013","Connecticut","09",395,3596080,11.0,8.4
+,"Other bacterial diseases","A30-A49","2013","2013","Delaware","10",127,925749,13.7,11.4
+,"Other bacterial diseases","A30-A49","2013","2013","District of Columbia","11",80,646449,12.4,13.5
+,"Other bacterial diseases","A30-A49","2013","2013","Florida","12",2151,19552860,11.0,7.8
+,"Other bacterial diseases","A30-A49","2013","2013","Georgia","13",1061,9992167,10.6,11.4
+,"Other bacterial diseases","A30-A49","2013","2013","Hawaii","15",134,1404054,9.5,7.7
+,"Other bacterial diseases","A30-A49","2013","2013","Idaho","16",147,1612136,9.1,8.8
+,"Other bacterial diseases","A30-A49","2013","2013","Illinois","17",1531,12882135,11.9,10.7
+,"Other bacterial diseases","A30-A49","2013","2013","Indiana","18",837,6570902,12.7,11.4
+,"Other bacterial diseases","A30-A49","2013","2013","Iowa","19",252,3090416,8.2,6.1
+,"Other bacterial diseases","A30-A49","2013","2013","Kansas","20",238,2893957,8.2,7.0
+,"Other bacterial diseases","A30-A49","2013","2013","Kentucky","21",736,4395295,16.7,14.8
+,"Other bacterial diseases","A30-A49","2013","2013","Louisiana","22",523,4625470,11.3,10.7
+,"Other bacterial diseases","A30-A49","2013","2013","Maine","23",122,1328302,9.2,6.7
+,"Other bacterial diseases","A30-A49","2013","2013","Maryland","24",654,5928814,11.0,10.2
+,"Other bacterial diseases","A30-A49","2013","2013","Massachusetts","25",814,6692824,12.2,9.9
+,"Other bacterial diseases","A30-A49","2013","2013","Michigan","26",1302,9895622,13.2,11.0
+,"Other bacterial diseases","A30-A49","2013","2013","Minnesota","27",320,5420380,5.9,5.1
+,"Other bacterial diseases","A30-A49","2013","2013","Mississippi","28",529,2991207,17.7,16.3
+,"Other bacterial diseases","A30-A49","2013","2013","Missouri","29",680,6044171,11.3,9.4
+,"Other bacterial diseases","A30-A49","2013","2013","Montana","30",76,1015165,7.5,6.0
+,"Other bacterial diseases","A30-A49","2013","2013","Nebraska","31",146,1868516,7.8,6.7
+,"Other bacterial diseases","A30-A49","2013","2013","Nevada","32",451,2790136,16.2,15.9
+,"Other bacterial diseases","A30-A49","2013","2013","New Hampshire","33",99,1323459,7.5,6.1
+,"Other bacterial diseases","A30-A49","2013","2013","New Jersey","34",1123,8899339,12.6,10.6
+,"Other bacterial diseases","A30-A49","2013","2013","New Mexico","35",222,2085287,10.6,9.7
+,"Other bacterial diseases","A30-A49","2013","2013","New York","36",2861,19651127,14.6,12.2
+,"Other bacterial diseases","A30-A49","2013","2013","North Carolina","37",1389,9848060,14.1,12.9
+,"Other bacterial diseases","A30-A49","2013","2013","North Dakota","38",77,723393,10.6,8.6
+,"Other bacterial diseases","A30-A49","2013","2013","Ohio","39",1451,11570808,12.5,10.4
+,"Other bacterial diseases","A30-A49","2013","2013","Oklahoma","40",604,3850568,15.7,14.3
+,"Other bacterial diseases","A30-A49","2013","2013","Oregon","41",326,3930065,8.3,6.8
+,"Other bacterial diseases","A30-A49","2013","2013","Pennsylvania","42",1501,12773801,11.8,8.7
+,"Other bacterial diseases","A30-A49","2013","2013","Rhode Island","44",159,1051511,15.1,11.7
+,"Other bacterial diseases","A30-A49","2013","2013","South Carolina","45",662,4774839,13.9,12.2
+,"Other bacterial diseases","A30-A49","2013","2013","South Dakota","46",68,844877,8.0,6.8
+,"Other bacterial diseases","A30-A49","2013","2013","Tennessee","47",1091,6495978,16.8,15.0
+,"Other bacterial diseases","A30-A49","2013","2013","Texas","48",3321,26448193,12.6,14.0
+,"Other bacterial diseases","A30-A49","2013","2013","Utah","49",169,2900872,5.8,7.5
+,"Other bacterial diseases","A30-A49","2013","2013","Vermont","50",49,626630,7.8,6.1
+,"Other bacterial diseases","A30-A49","2013","2013","Virginia","51",976,8260405,11.8,11.4
+,"Other bacterial diseases","A30-A49","2013","2013","Washington","53",707,6971406,10.1,9.3
+,"Other bacterial diseases","A30-A49","2013","2013","West Virginia","54",367,1854304,19.8,15.2
+,"Other bacterial diseases","A30-A49","2013","2013","Wisconsin","55",407,5742713,7.1,5.9
+,"Other bacterial diseases","A30-A49","2013","2013","Wyoming","56",39,582658,6.7,6.0
+"Total","Other bacterial diseases","A30-A49","2013","2013",,,38271,316128839,12.1,10.7
+,"Other bacterial diseases","A30-A49","2014","2014","Alabama","01",703,4849377,14.5,12.5
+,"Other bacterial diseases","A30-A49","2014","2014","Alaska","02",45,736732,6.1,8.4
+,"Other bacterial diseases","A30-A49","2014","2014","Arizona","04",739,6731484,11.0,9.3
+,"Other bacterial diseases","A30-A49","2014","2014","Arkansas","05",509,2966369,17.2,14.5
+,"Other bacterial diseases","A30-A49","2014","2014","California","06",5165,38802500,13.3,12.8
+,"Other bacterial diseases","A30-A49","2014","2014","Colorado","08",382,5355866,7.1,7.2
+,"Other bacterial diseases","A30-A49","2014","2014","Connecticut","09",437,3596677,12.2,9.3
+,"Other bacterial diseases","A30-A49","2014","2014","Delaware","10",148,935614,15.8,13.1
+,"Other bacterial diseases","A30-A49","2014","2014","District of Columbia","11",58,658893,8.8,9.4
+,"Other bacterial diseases","A30-A49","2014","2014","Florida","12",2199,19893297,11.1,7.7
+,"Other bacterial diseases","A30-A49","2014","2014","Georgia","13",1092,10097343,10.8,11.3
+,"Other bacterial diseases","A30-A49","2014","2014","Hawaii","15",126,1419561,8.9,6.7
+,"Other bacterial diseases","A30-A49","2014","2014","Idaho","16",125,1634464,7.6,7.2
+,"Other bacterial diseases","A30-A49","2014","2014","Illinois","17",1484,12880580,11.5,10.2
+,"Other bacterial diseases","A30-A49","2014","2014","Indiana","18",872,6596855,13.2,11.6
+,"Other bacterial diseases","A30-A49","2014","2014","Iowa","19",288,3107126,9.3,7.0
+,"Other bacterial diseases","A30-A49","2014","2014","Kansas","20",320,2904021,11.0,9.4
+,"Other bacterial diseases","A30-A49","2014","2014","Kentucky","21",796,4413457,18.0,15.9
+,"Other bacterial diseases","A30-A49","2014","2014","Louisiana","22",584,4649676,12.6,11.9
+,"Other bacterial diseases","A30-A49","2014","2014","Maine","23",159,1330089,12.0,8.5
+,"Other bacterial diseases","A30-A49","2014","2014","Maryland","24",638,5976407,10.7,9.8
+,"Other bacterial diseases","A30-A49","2014","2014","Massachusetts","25",849,6745408,12.6,10.1
+,"Other bacterial diseases","A30-A49","2014","2014","Michigan","26",1345,9909877,13.6,11.1
+,"Other bacterial diseases","A30-A49","2014","2014","Minnesota","27",360,5457173,6.6,5.7
+,"Other bacterial diseases","A30-A49","2014","2014","Mississippi","28",552,2994079,18.4,16.8
+,"Other bacterial diseases","A30-A49","2014","2014","Missouri","29",785,6063589,12.9,10.7
+,"Other bacterial diseases","A30-A49","2014","2014","Montana","30",64,1023579,6.3,5.0
+,"Other bacterial diseases","A30-A49","2014","2014","Nebraska","31",195,1881503,10.4,8.8
+,"Other bacterial diseases","A30-A49","2014","2014","Nevada","32",528,2839099,18.6,17.8
+,"Other bacterial diseases","A30-A49","2014","2014","New Hampshire","33",129,1326813,9.7,7.8
+,"Other bacterial diseases","A30-A49","2014","2014","New Jersey","34",1070,8938175,12.0,9.9
+,"Other bacterial diseases","A30-A49","2014","2014","New Mexico","35",274,2085572,13.1,11.8
+,"Other bacterial diseases","A30-A49","2014","2014","New York","36",3118,19746227,15.8,13.1
+,"Other bacterial diseases","A30-A49","2014","2014","North Carolina","37",1472,9943964,14.8,13.3
+,"Other bacterial diseases","A30-A49","2014","2014","North Dakota","38",83,739482,11.2,9.8
+,"Other bacterial diseases","A30-A49","2014","2014","Ohio","39",1387,11594163,12.0,9.7
+,"Other bacterial diseases","A30-A49","2014","2014","Oklahoma","40",670,3878051,17.3,15.4
+,"Other bacterial diseases","A30-A49","2014","2014","Oregon","41",359,3970239,9.0,7.4
+,"Other bacterial diseases","A30-A49","2014","2014","Pennsylvania","42",1567,12787209,12.3,9.0
+,"Other bacterial diseases","A30-A49","2014","2014","Rhode Island","44",143,1055173,13.6,9.9
+,"Other bacterial diseases","A30-A49","2014","2014","South Carolina","45",761,4832482,15.7,13.7
+,"Other bacterial diseases","A30-A49","2014","2014","South Dakota","46",98,853175,11.5,9.2
+,"Other bacterial diseases","A30-A49","2014","2014","Tennessee","47",1066,6549352,16.3,14.3
+,"Other bacterial diseases","A30-A49","2014","2014","Texas","48",3601,26956958,13.4,14.6
+,"Other bacterial diseases","A30-A49","2014","2014","Utah","49",199,2942902,6.8,8.4
+,"Other bacterial diseases","A30-A49","2014","2014","Vermont","50",47,626562,7.5,5.6
+,"Other bacterial diseases","A30-A49","2014","2014","Virginia","51",950,8326289,11.4,10.7
+,"Other bacterial diseases","A30-A49","2014","2014","Washington","53",768,7061530,10.9,9.9
+,"Other bacterial diseases","A30-A49","2014","2014","West Virginia","54",426,1850326,23.0,17.3
+,"Other bacterial diseases","A30-A49","2014","2014","Wisconsin","55",452,5757564,7.9,6.3
+,"Other bacterial diseases","A30-A49","2014","2014","Wyoming","56",49,584153,8.4,7.4
+"Total","Other bacterial diseases","A30-A49","2014","2014",,,40236,318857056,12.6,11.0
+,"Other bacterial diseases","A30-A49","2015","2015","Alabama","01",746,4858979,15.4,13.0
+,"Other bacterial diseases","A30-A49","2015","2015","Alaska","02",41,738432,5.6,8.0
+,"Other bacterial diseases","A30-A49","2015","2015","Arizona","04",775,6828065,11.4,9.4
+,"Other bacterial diseases","A30-A49","2015","2015","Arkansas","05",547,2978204,18.4,15.3
+,"Other bacterial diseases","A30-A49","2015","2015","California","06",5734,39144818,14.6,13.8
+,"Other bacterial diseases","A30-A49","2015","2015","Colorado","08",377,5456574,6.9,6.9
+,"Other bacterial diseases","A30-A49","2015","2015","Connecticut","09",450,3590886,12.5,9.6
+,"Other bacterial diseases","A30-A49","2015","2015","Delaware","10",179,945934,18.9,15.0
+,"Other bacterial diseases","A30-A49","2015","2015","District of Columbia","11",105,672228,15.6,16.7
+,"Other bacterial diseases","A30-A49","2015","2015","Florida","12",2539,20271272,12.5,8.6
+,"Other bacterial diseases","A30-A49","2015","2015","Georgia","13",1229,10214860,12.0,12.4
+,"Other bacterial diseases","A30-A49","2015","2015","Hawaii","15",118,1431603,8.2,6.2
+,"Other bacterial diseases","A30-A49","2015","2015","Idaho","16",135,1654930,8.2,7.4
+,"Other bacterial diseases","A30-A49","2015","2015","Illinois","17",1702,12859995,13.2,11.5
+,"Other bacterial diseases","A30-A49","2015","2015","Indiana","18",955,6619680,14.4,12.5
+,"Other bacterial diseases","A30-A49","2015","2015","Iowa","19",376,3123899,12.0,9.2
+,"Other bacterial diseases","A30-A49","2015","2015","Kansas","20",389,2911641,13.4,11.2
+,"Other bacterial diseases","A30-A49","2015","2015","Kentucky","21",948,4425092,21.4,18.6
+,"Other bacterial diseases","A30-A49","2015","2015","Louisiana","22",580,4670724,12.4,11.5
+,"Other bacterial diseases","A30-A49","2015","2015","Maine","23",163,1329328,12.3,8.6
+,"Other bacterial diseases","A30-A49","2015","2015","Maryland","24",653,6006401,10.9,9.7
+,"Other bacterial diseases","A30-A49","2015","2015","Massachusetts","25",978,6794422,14.4,11.5
+,"Other bacterial diseases","A30-A49","2015","2015","Michigan","26",1356,9922576,13.7,11.0
+,"Other bacterial diseases","A30-A49","2015","2015","Minnesota","27",452,5489594,8.2,6.9
+,"Other bacterial diseases","A30-A49","2015","2015","Mississippi","28",629,2992333,21.0,18.7
+,"Other bacterial diseases","A30-A49","2015","2015","Missouri","29",786,6083672,12.9,10.5
+,"Other bacterial diseases","A30-A49","2015","2015","Montana","30",98,1032949,9.5,7.8
+,"Other bacterial diseases","A30-A49","2015","2015","Nebraska","31",196,1896190,10.3,8.9
+,"Other bacterial diseases","A30-A49","2015","2015","Nevada","32",549,2890845,19.0,17.9
+,"Other bacterial diseases","A30-A49","2015","2015","New Hampshire","33",151,1330608,11.3,9.0
+,"Other bacterial diseases","A30-A49","2015","2015","New Jersey","34",1154,8958013,12.9,10.5
+,"Other bacterial diseases","A30-A49","2015","2015","New Mexico","35",301,2085109,14.4,12.6
+,"Other bacterial diseases","A30-A49","2015","2015","New York","36",3301,19795791,16.7,13.7
+,"Other bacterial diseases","A30-A49","2015","2015","North Carolina","37",1660,10042802,16.5,14.6
+,"Other bacterial diseases","A30-A49","2015","2015","North Dakota","38",65,756927,8.6,7.5
+,"Other bacterial diseases","A30-A49","2015","2015","Ohio","39",1520,11613423,13.1,10.6
+,"Other bacterial diseases","A30-A49","2015","2015","Oklahoma","40",731,3911338,18.7,16.6
+,"Other bacterial diseases","A30-A49","2015","2015","Oregon","41",374,4028977,9.3,7.5
+,"Other bacterial diseases","A30-A49","2015","2015","Pennsylvania","42",1684,12802503,13.2,9.7
+,"Other bacterial diseases","A30-A49","2015","2015","Rhode Island","44",146,1056298,13.8,10.2
+,"Other bacterial diseases","A30-A49","2015","2015","South Carolina","45",867,4896146,17.7,15.2
+,"Other bacterial diseases","A30-A49","2015","2015","South Dakota","46",97,858469,11.3,8.7
+,"Other bacterial diseases","A30-A49","2015","2015","Tennessee","47",1227,6600299,18.6,16.2
+,"Other bacterial diseases","A30-A49","2015","2015","Texas","48",3881,27469114,14.1,15.3
+,"Other bacterial diseases","A30-A49","2015","2015","Utah","49",208,2995919,6.9,8.6
+,"Other bacterial diseases","A30-A49","2015","2015","Vermont","50",53,626042,8.5,6.5
+,"Other bacterial diseases","A30-A49","2015","2015","Virginia","51",1126,8382993,13.4,12.3
+,"Other bacterial diseases","A30-A49","2015","2015","Washington","53",799,7170351,11.1,10.0
+,"Other bacterial diseases","A30-A49","2015","2015","West Virginia","54",451,1844128,24.5,18.4
+,"Other bacterial diseases","A30-A49","2015","2015","Wisconsin","55",527,5771337,9.1,7.3
+,"Other bacterial diseases","A30-A49","2015","2015","Wyoming","56",49,586107,8.4,7.7
+"Total","Other bacterial diseases","A30-A49","2015","2015",,,44157,321418820,13.7,11.8
+,"Other bacterial diseases","A30-A49","2016","2016","Alabama","01",770,4863300,15.8,13.3
+,"Other bacterial diseases","A30-A49","2016","2016","Alaska","02",39,741894,5.3,7.6
+,"Other bacterial diseases","A30-A49","2016","2016","Arizona","04",910,6931071,13.1,10.7
+,"Other bacterial diseases","A30-A49","2016","2016","Arkansas","05",587,2988248,19.6,16.3
+,"Other bacterial diseases","A30-A49","2016","2016","California","06",5732,39250017,14.6,13.4
+,"Other bacterial diseases","A30-A49","2016","2016","Colorado","08",416,5540545,7.5,7.4
+,"Other bacterial diseases","A30-A49","2016","2016","Connecticut","09",477,3576452,13.3,10.1
+,"Other bacterial diseases","A30-A49","2016","2016","Delaware","10",147,952065,15.4,11.8
+,"Other bacterial diseases","A30-A49","2016","2016","District of Columbia","11",69,681170,10.1,10.7
+,"Other bacterial diseases","A30-A49","2016","2016","Florida","12",2758,20612439,13.4,9.2
+,"Other bacterial diseases","A30-A49","2016","2016","Georgia","13",1248,10310371,12.1,12.2
+,"Other bacterial diseases","A30-A49","2016","2016","Hawaii","15",161,1428557,11.3,8.3
+,"Other bacterial diseases","A30-A49","2016","2016","Idaho","16",140,1683140,8.3,7.5
+,"Other bacterial diseases","A30-A49","2016","2016","Illinois","17",1786,12801539,14.0,12.0
+,"Other bacterial diseases","A30-A49","2016","2016","Indiana","18",969,6633053,14.6,12.7
+,"Other bacterial diseases","A30-A49","2016","2016","Iowa","19",330,3134693,10.5,7.9
+,"Other bacterial diseases","A30-A49","2016","2016","Kansas","20",331,2907289,11.4,9.4
+,"Other bacterial diseases","A30-A49","2016","2016","Kentucky","21",1020,4436974,23.0,19.5
+,"Other bacterial diseases","A30-A49","2016","2016","Louisiana","22",580,4681666,12.4,11.3
+,"Other bacterial diseases","A30-A49","2016","2016","Maine","23",145,1331479,10.9,7.6
+,"Other bacterial diseases","A30-A49","2016","2016","Maryland","24",708,6016447,11.8,10.4
+,"Other bacterial diseases","A30-A49","2016","2016","Massachusetts","25",932,6811779,13.7,10.8
+,"Other bacterial diseases","A30-A49","2016","2016","Michigan","26",1350,9928300,13.6,10.9
+,"Other bacterial diseases","A30-A49","2016","2016","Minnesota","27",446,5519952,8.1,6.6
+,"Other bacterial diseases","A30-A49","2016","2016","Mississippi","28",657,2988726,22.0,19.3
+,"Other bacterial diseases","A30-A49","2016","2016","Missouri","29",793,6093000,13.0,10.4
+,"Other bacterial diseases","A30-A49","2016","2016","Montana","30",95,1042520,9.1,7.3
+,"Other bacterial diseases","A30-A49","2016","2016","Nebraska","31",187,1907116,9.8,8.1
+,"Other bacterial diseases","A30-A49","2016","2016","Nevada","32",628,2940058,21.4,19.5
+,"Other bacterial diseases","A30-A49","2016","2016","New Hampshire","33",155,1334795,11.6,9.0
+,"Other bacterial diseases","A30-A49","2016","2016","New Jersey","34",1086,8944469,12.1,9.9
+,"Other bacterial diseases","A30-A49","2016","2016","New Mexico","35",320,2081015,15.4,13.2
+,"Other bacterial diseases","A30-A49","2016","2016","New York","36",3083,19745289,15.6,12.6
+,"Other bacterial diseases","A30-A49","2016","2016","North Carolina","37",1651,10146788,16.3,14.1
+,"Other bacterial diseases","A30-A49","2016","2016","North Dakota","38",81,757952,10.7,8.9
+,"Other bacterial diseases","A30-A49","2016","2016","Ohio","39",1576,11614373,13.6,10.9
+,"Other bacterial diseases","A30-A49","2016","2016","Oklahoma","40",841,3923561,21.4,18.9
+,"Other bacterial diseases","A30-A49","2016","2016","Oregon","41",368,4093465,9.0,7.1
+,"Other bacterial diseases","A30-A49","2016","2016","Pennsylvania","42",1730,12784227,13.5,9.8
+,"Other bacterial diseases","A30-A49","2016","2016","Rhode Island","44",128,1056426,12.1,9.0
+,"Other bacterial diseases","A30-A49","2016","2016","South Carolina","45",881,4961119,17.8,14.8
+,"Other bacterial diseases","A30-A49","2016","2016","South Dakota","46",95,865454,11.0,8.7
+,"Other bacterial diseases","A30-A49","2016","2016","Tennessee","47",1294,6651194,19.5,16.5
+,"Other bacterial diseases","A30-A49","2016","2016","Texas","48",3844,27862596,13.8,14.7
+,"Other bacterial diseases","A30-A49","2016","2016","Utah","49",237,3051217,7.8,9.5
+,"Other bacterial diseases","A30-A49","2016","2016","Vermont","50",49,624594,7.8,5.7
+,"Other bacterial diseases","A30-A49","2016","2016","Virginia","51",1048,8411808,12.5,11.2
+,"Other bacterial diseases","A30-A49","2016","2016","Washington","53",765,7288000,10.5,9.4
+,"Other bacterial diseases","A30-A49","2016","2016","West Virginia","54",465,1831102,25.4,18.6
+,"Other bacterial diseases","A30-A49","2016","2016","Wisconsin","55",561,5778708,9.7,7.7
+,"Other bacterial diseases","A30-A49","2016","2016","Wyoming","56",70,585501,12.0,10.6
+"Total","Other bacterial diseases","A30-A49","2016","2016",,,44739,323127513,13.8,11.8
+,"Other bacterial diseases","A30-A49","2017","2017","Alabama","01",887,4874747,18.2,15.0
+,"Other bacterial diseases","A30-A49","2017","2017","Alaska","02",49,739795,6.6,7.8
+,"Other bacterial diseases","A30-A49","2017","2017","Arizona","04",774,7016270,11.0,8.9
+,"Other bacterial diseases","A30-A49","2017","2017","Arkansas","05",639,3004279,21.3,17.4
+,"Other bacterial diseases","A30-A49","2017","2017","California","06",6013,39536653,15.2,13.8
+,"Other bacterial diseases","A30-A49","2017","2017","Colorado","08",466,5607154,8.3,8.1
+,"Other bacterial diseases","A30-A49","2017","2017","Connecticut","09",500,3588184,13.9,10.1
+,"Other bacterial diseases","A30-A49","2017","2017","Delaware","10",157,961939,16.3,12.3
+,"Other bacterial diseases","A30-A49","2017","2017","District of Columbia","11",77,693972,11.1,11.3
+,"Other bacterial diseases","A30-A49","2017","2017","Florida","12",3049,20984400,14.5,9.8
+,"Other bacterial diseases","A30-A49","2017","2017","Georgia","13",1246,10429379,11.9,11.8
+,"Other bacterial diseases","A30-A49","2017","2017","Hawaii","15",148,1427538,10.4,7.6
+,"Other bacterial diseases","A30-A49","2017","2017","Idaho","16",159,1716943,9.3,8.3
+,"Other bacterial diseases","A30-A49","2017","2017","Illinois","17",1741,12802023,13.6,11.4
+,"Other bacterial diseases","A30-A49","2017","2017","Indiana","18",984,6666818,14.8,12.7
+,"Other bacterial diseases","A30-A49","2017","2017","Iowa","19",380,3145711,12.1,9.1
+,"Other bacterial diseases","A30-A49","2017","2017","Kansas","20",382,2913123,13.1,10.7
+,"Other bacterial diseases","A30-A49","2017","2017","Kentucky","21",1086,4454189,24.4,20.5
+,"Other bacterial diseases","A30-A49","2017","2017","Louisiana","22",645,4684333,13.8,12.3
+,"Other bacterial diseases","A30-A49","2017","2017","Maine","23",140,1335907,10.5,7.1
+,"Other bacterial diseases","A30-A49","2017","2017","Maryland","24",724,6052177,12.0,10.2
+,"Other bacterial diseases","A30-A49","2017","2017","Massachusetts","25",945,6859819,13.8,10.8
+,"Other bacterial diseases","A30-A49","2017","2017","Michigan","26",1283,9962311,12.9,10.0
+,"Other bacterial diseases","A30-A49","2017","2017","Minnesota","27",539,5576606,9.7,8.0
+,"Other bacterial diseases","A30-A49","2017","2017","Mississippi","28",646,2984100,21.6,18.8
+,"Other bacterial diseases","A30-A49","2017","2017","Missouri","29",817,6113532,13.4,10.6
+,"Other bacterial diseases","A30-A49","2017","2017","Montana","30",106,1050493,10.1,7.8
+,"Other bacterial diseases","A30-A49","2017","2017","Nebraska","31",244,1920076,12.7,10.4
+,"Other bacterial diseases","A30-A49","2017","2017","Nevada","32",688,2998039,22.9,20.9
+,"Other bacterial diseases","A30-A49","2017","2017","New Hampshire","33",144,1342795,10.7,8.1
+,"Other bacterial diseases","A30-A49","2017","2017","New Jersey","34",1115,9005644,12.4,9.8
+,"Other bacterial diseases","A30-A49","2017","2017","New Mexico","35",322,2088070,15.4,12.8
+,"Other bacterial diseases","A30-A49","2017","2017","New York","36",3112,19849399,15.7,12.3
+,"Other bacterial diseases","A30-A49","2017","2017","North Carolina","37",1598,10273419,15.6,13.2
+,"Other bacterial diseases","A30-A49","2017","2017","North Dakota","38",75,755393,9.9,8.4
+,"Other bacterial diseases","A30-A49","2017","2017","Ohio","39",1614,11658609,13.8,10.8
+,"Other bacterial diseases","A30-A49","2017","2017","Oklahoma","40",913,3930864,23.2,20.0
+,"Other bacterial diseases","A30-A49","2017","2017","Oregon","41",348,4142776,8.4,6.6
+,"Other bacterial diseases","A30-A49","2017","2017","Pennsylvania","42",1667,12805537,13.0,9.3
+,"Other bacterial diseases","A30-A49","2017","2017","Rhode Island","44",158,1059639,14.9,11.3
+,"Other bacterial diseases","A30-A49","2017","2017","South Carolina","45",908,5024369,18.1,14.9
+,"Other bacterial diseases","A30-A49","2017","2017","South Dakota","46",102,869666,11.7,9.3
+,"Other bacterial diseases","A30-A49","2017","2017","Tennessee","47",1406,6715984,20.9,17.7
+,"Other bacterial diseases","A30-A49","2017","2017","Texas","48",4064,28304596,14.4,15.1
+,"Other bacterial diseases","A30-A49","2017","2017","Utah","49",244,3101833,7.9,9.5
+,"Other bacterial diseases","A30-A49","2017","2017","Vermont","50",50,623657,8.0,5.9
+,"Other bacterial diseases","A30-A49","2017","2017","Virginia","51",1039,8470020,12.3,10.8
+,"Other bacterial diseases","A30-A49","2017","2017","Washington","53",858,7405743,11.6,10.3
+,"Other bacterial diseases","A30-A49","2017","2017","West Virginia","54",468,1815857,25.8,18.5
+,"Other bacterial diseases","A30-A49","2017","2017","Wisconsin","55",558,5795483,9.6,7.6
+,"Other bacterial diseases","A30-A49","2017","2017","Wyoming","56",71,579315,12.3,10.2
+"Total","Other bacterial diseases","A30-A49","2017","2017",,,46348,325719178,14.2,11.9
+"Total","Other bacterial diseases","A30-A49",,,,,316718,2539502901,12.5,11.0
+,"Influenza and pneumonia","J09-J18","2010","2010","Alabama","01",568,4779736,11.9,11.1
+,"Influenza and pneumonia","J09-J18","2010","2010","Alaska","02",29,710231,4.1,6.1
+,"Influenza and pneumonia","J09-J18","2010","2010","Arizona","04",584,6392017,9.1,8.6
+,"Influenza and pneumonia","J09-J18","2010","2010","Arkansas","05",348,2915918,11.9,10.6
+,"Influenza and pneumonia","J09-J18","2010","2010","California","06",4693,37253956,12.6,13.1
+,"Influenza and pneumonia","J09-J18","2010","2010","Colorado","08",252,5029196,5.0,5.5
+,"Influenza and pneumonia","J09-J18","2010","2010","Connecticut","09",377,3574097,10.5,8.4
+,"Influenza and pneumonia","J09-J18","2010","2010","Delaware","10",108,897934,12.0,10.5
+,"Influenza and pneumonia","J09-J18","2010","2010","District of Columbia","11",104,601723,17.3,17.9
+,"Influenza and pneumonia","J09-J18","2010","2010","Florida","12",1639,18801310,8.7,6.5
+,"Influenza and pneumonia","J09-J18","2010","2010","Georgia","13",975,9687653,10.1,11.7
+,"Influenza and pneumonia","J09-J18","2010","2010","Hawaii","15",140,1360301,10.3,8.4
+,"Influenza and pneumonia","J09-J18","2010","2010","Idaho","16",76,1567582,4.8,4.9
+,"Influenza and pneumonia","J09-J18","2010","2010","Illinois","17",1338,12830632,10.4,9.9
+,"Influenza and pneumonia","J09-J18","2010","2010","Indiana","18",613,6483802,9.5,8.9
+,"Influenza and pneumonia","J09-J18","2010","2010","Iowa","19",213,3046355,7.0,5.5
+,"Influenza and pneumonia","J09-J18","2010","2010","Kansas","20",215,2853118,7.5,6.7
+,"Influenza and pneumonia","J09-J18","2010","2010","Kentucky","21",665,4339367,15.3,14.5
+,"Influenza and pneumonia","J09-J18","2010","2010","Louisiana","22",510,4533372,11.2,11.6
+,"Influenza and pneumonia","J09-J18","2010","2010","Maine","23",114,1328361,8.6,6.7
+,"Influenza and pneumonia","J09-J18","2010","2010","Maryland","24",660,5773552,11.4,11.1
+,"Influenza and pneumonia","J09-J18","2010","2010","Massachusetts","25",711,6547629,10.9,9.2
+,"Influenza and pneumonia","J09-J18","2010","2010","Michigan","26",1130,9883640,11.4,10.0
+,"Influenza and pneumonia","J09-J18","2010","2010","Minnesota","27",298,5303925,5.6,5.0
+,"Influenza and pneumonia","J09-J18","2010","2010","Mississippi","28",389,2967297,13.1,13.1
+,"Influenza and pneumonia","J09-J18","2010","2010","Missouri","29",574,5988927,9.6,8.4
+,"Influenza and pneumonia","J09-J18","2010","2010","Montana","30",84,989415,8.5,7.1
+,"Influenza and pneumonia","J09-J18","2010","2010","Nebraska","31",111,1826341,6.1,5.3
+,"Influenza and pneumonia","J09-J18","2010","2010","Nevada","32",365,2700551,13.5,14.7
+,"Influenza and pneumonia","J09-J18","2010","2010","New Hampshire","33",108,1316470,8.2,7.2
+,"Influenza and pneumonia","J09-J18","2010","2010","New Jersey","34",1050,8791894,11.9,10.4
+,"Influenza and pneumonia","J09-J18","2010","2010","New Mexico","35",215,2059179,10.4,9.9
+,"Influenza and pneumonia","J09-J18","2010","2010","New York","36",2405,19378102,12.4,10.9
+,"Influenza and pneumonia","J09-J18","2010","2010","North Carolina","37",1179,9535483,12.4,12.0
+,"Influenza and pneumonia","J09-J18","2010","2010","North Dakota","38",52,672591,7.7,6.0
+,"Influenza and pneumonia","J09-J18","2010","2010","Ohio","39",1282,11536504,11.1,9.6
+,"Influenza and pneumonia","J09-J18","2010","2010","Oklahoma","40",582,3751351,15.5,14.5
+,"Influenza and pneumonia","J09-J18","2010","2010","Oregon","41",274,3831074,7.2,6.2
+,"Influenza and pneumonia","J09-J18","2010","2010","Pennsylvania","42",1312,12702379,10.3,8.0
+,"Influenza and pneumonia","J09-J18","2010","2010","Rhode Island","44",147,1052567,14.0,11.0
+,"Influenza and pneumonia","J09-J18","2010","2010","South Carolina","45",556,4625364,12.0,11.4
+,"Influenza and pneumonia","J09-J18","2010","2010","South Dakota","46",48,814180,5.9,4.7
+,"Influenza and pneumonia","J09-J18","2010","2010","Tennessee","47",948,6346105,14.9,14.2
+,"Influenza and pneumonia","J09-J18","2010","2010","Texas","48",2567,25145561,10.2,12.1
+,"Influenza and pneumonia","J09-J18","2010","2010","Utah","49",126,2763885,4.6,6.1
+,"Influenza and pneumonia","J09-J18","2010","2010","Vermont","50",42,625741,6.7,5.9
+,"Influenza and pneumonia","J09-J18","2010","2010","Virginia","51",755,8001024,9.4,9.7
+,"Influenza and pneumonia","J09-J18","2010","2010","Washington","53",563,6724540,8.4,8.1
+,"Influenza and pneumonia","J09-J18","2010","2010","West Virginia","54",308,1852994,16.6,13.1
+,"Influenza and pneumonia","J09-J18","2010","2010","Wisconsin","55",329,5686986,5.8,5.0
+,"Influenza and pneumonia","J09-J18","2010","2010","Wyoming","56",36,563626,6.4,5.9
+"Total","Influenza and pneumonia","J09-J18","2010","2010",,,32767,308745538,10.6,9.9
+,"Influenza and pneumonia","J09-J18","2011","2011","Alabama","01",562,4802740,11.7,10.7
+,"Influenza and pneumonia","J09-J18","2011","2011","Alaska","02",47,722718,6.5,8.4
+,"Influenza and pneumonia","J09-J18","2011","2011","Arizona","04",662,6482505,10.2,9.3
+,"Influenza and pneumonia","J09-J18","2011","2011","Arkansas","05",347,2937979,11.8,10.4
+,"Influenza and pneumonia","J09-J18","2011","2011","California","06",5171,37691912,13.7,13.9
+,"Influenza and pneumonia","J09-J18","2011","2011","Colorado","08",266,5116796,5.2,5.4
+,"Influenza and pneumonia","J09-J18","2011","2011","Connecticut","09",457,3580709,12.8,10.0
+,"Influenza and pneumonia","J09-J18","2011","2011","Delaware","10",98,907135,10.8,9.5
+,"Influenza and pneumonia","J09-J18","2011","2011","District of Columbia","11",76,617996,12.3,12.8
+,"Influenza and pneumonia","J09-J18","2011","2011","Florida","12",1849,19057542,9.7,7.1
+,"Influenza and pneumonia","J09-J18","2011","2011","Georgia","13",984,9815210,10.0,11.4
+,"Influenza and pneumonia","J09-J18","2011","2011","Hawaii","15",139,1374810,10.1,8.2
+,"Influenza and pneumonia","J09-J18","2011","2011","Idaho","16",102,1584985,6.4,6.4
+,"Influenza and pneumonia","J09-J18","2011","2011","Illinois","17",1488,12869257,11.6,10.8
+,"Influenza and pneumonia","J09-J18","2011","2011","Indiana","18",710,6516922,10.9,10.1
+,"Influenza and pneumonia","J09-J18","2011","2011","Iowa","19",235,3062309,7.7,6.0
+,"Influenza and pneumonia","J09-J18","2011","2011","Kansas","20",248,2871238,8.6,7.6
+,"Influenza and pneumonia","J09-J18","2011","2011","Kentucky","21",712,4369356,16.3,15.1
+,"Influenza and pneumonia","J09-J18","2011","2011","Louisiana","22",482,4574836,10.5,10.6
+,"Influenza and pneumonia","J09-J18","2011","2011","Maine","23",129,1328188,9.7,7.3
+,"Influenza and pneumonia","J09-J18","2011","2011","Maryland","24",618,5828289,10.6,10.2
+,"Influenza and pneumonia","J09-J18","2011","2011","Massachusetts","25",734,6587536,11.1,9.2
+,"Influenza and pneumonia","J09-J18","2011","2011","Michigan","26",1276,9876187,12.9,11.1
+,"Influenza and pneumonia","J09-J18","2011","2011","Minnesota","27",318,5344861,5.9,5.3
+,"Influenza and pneumonia","J09-J18","2011","2011","Mississippi","28",400,2978512,13.4,13.1
+,"Influenza and pneumonia","J09-J18","2011","2011","Missouri","29",637,6010688,10.6,9.3
+,"Influenza and pneumonia","J09-J18","2011","2011","Montana","30",50,998199,5.0,4.3
+,"Influenza and pneumonia","J09-J18","2011","2011","Nebraska","31",131,1842641,7.1,6.3
+,"Influenza and pneumonia","J09-J18","2011","2011","Nevada","32",448,2723322,16.5,17.3
+,"Influenza and pneumonia","J09-J18","2011","2011","New Hampshire","33",97,1318194,7.4,6.4
+,"Influenza and pneumonia","J09-J18","2011","2011","New Jersey","34",1076,8821155,12.2,10.5
+,"Influenza and pneumonia","J09-J18","2011","2011","New Mexico","35",235,2082224,11.3,10.5
+,"Influenza and pneumonia","J09-J18","2011","2011","New York","36",2608,19465197,13.4,11.5
+,"Influenza and pneumonia","J09-J18","2011","2011","North Carolina","37",1285,9656401,13.3,12.7
+,"Influenza and pneumonia","J09-J18","2011","2011","North Dakota","38",56,683932,8.2,6.9
+,"Influenza and pneumonia","J09-J18","2011","2011","Ohio","39",1419,11544951,12.3,10.4
+,"Influenza and pneumonia","J09-J18","2011","2011","Oklahoma","40",604,3791508,15.9,14.7
+,"Influenza and pneumonia","J09-J18","2011","2011","Oregon","41",241,3871859,6.2,5.4
+,"Influenza and pneumonia","J09-J18","2011","2011","Pennsylvania","42",1309,12742886,10.3,7.9
+,"Influenza and pneumonia","J09-J18","2011","2011","Rhode Island","44",192,1051302,18.3,14.1
+,"Influenza and pneumonia","J09-J18","2011","2011","South Carolina","45",665,4679230,14.2,13.2
+,"Influenza and pneumonia","J09-J18","2011","2011","South Dakota","46",60,824082,7.3,6.0
+,"Influenza and pneumonia","J09-J18","2011","2011","Tennessee","47",997,6403353,15.6,14.5
+,"Influenza and pneumonia","J09-J18","2011","2011","Texas","48",2770,25674681,10.8,12.5
+,"Influenza and pneumonia","J09-J18","2011","2011","Utah","49",150,2817222,5.3,6.9
+,"Influenza and pneumonia","J09-J18","2011","2011","Vermont","50",46,626431,7.3,6.0
+,"Influenza and pneumonia","J09-J18","2011","2011","Virginia","51",863,8096604,10.7,10.5
+,"Influenza and pneumonia","J09-J18","2011","2011","Washington","53",662,6830038,9.7,9.2
+,"Influenza and pneumonia","J09-J18","2011","2011","West Virginia","54",331,1855364,17.8,14.5
+,"Influenza and pneumonia","J09-J18","2011","2011","Wisconsin","55",373,5711767,6.5,5.6
+,"Influenza and pneumonia","J09-J18","2011","2011","Wyoming","56",25,568158,4.4,4.0
+"Total","Influenza and pneumonia","J09-J18","2011","2011",,,35440,311591917,11.4,10.4
+,"Influenza and pneumonia","J09-J18","2012","2012","Alabama","01",621,4822023,12.9,11.5
+,"Influenza and pneumonia","J09-J18","2012","2012","Alaska","02",32,731449,4.4,5.7
+,"Influenza and pneumonia","J09-J18","2012","2012","Arizona","04",635,6553255,9.7,8.7
+,"Influenza and pneumonia","J09-J18","2012","2012","Arkansas","05",368,2949131,12.5,10.8
+,"Influenza and pneumonia","J09-J18","2012","2012","California","06",4948,38041430,13.0,12.9
+,"Influenza and pneumonia","J09-J18","2012","2012","Colorado","08",278,5187582,5.4,5.5
+,"Influenza and pneumonia","J09-J18","2012","2012","Connecticut","09",407,3590347,11.3,8.9
+,"Influenza and pneumonia","J09-J18","2012","2012","Delaware","10",111,917092,12.1,10.3
+,"Influenza and pneumonia","J09-J18","2012","2012","District of Columbia","11",67,632323,10.6,10.6
+,"Influenza and pneumonia","J09-J18","2012","2012","Florida","12",1799,19317568,9.3,6.7
+,"Influenza and pneumonia","J09-J18","2012","2012","Georgia","13",1037,9919945,10.5,11.6
+,"Influenza and pneumonia","J09-J18","2012","2012","Hawaii","15",144,1392313,10.3,8.1
+,"Influenza and pneumonia","J09-J18","2012","2012","Idaho","16",99,1595728,6.2,5.8
+,"Influenza and pneumonia","J09-J18","2012","2012","Illinois","17",1355,12875255,10.5,9.6
+,"Influenza and pneumonia","J09-J18","2012","2012","Indiana","18",738,6537334,11.3,10.3
+,"Influenza and pneumonia","J09-J18","2012","2012","Iowa","19",241,3074186,7.8,6.0
+,"Influenza and pneumonia","J09-J18","2012","2012","Kansas","20",243,2885905,8.4,7.3
+,"Influenza and pneumonia","J09-J18","2012","2012","Kentucky","21",700,4380415,16.0,14.5
+,"Influenza and pneumonia","J09-J18","2012","2012","Louisiana","22",523,4601893,11.4,11.2
+,"Influenza and pneumonia","J09-J18","2012","2012","Maine","23",122,1329192,9.2,6.8
+,"Influenza and pneumonia","J09-J18","2012","2012","Maryland","24",654,5884563,11.1,10.3
+,"Influenza and pneumonia","J09-J18","2012","2012","Massachusetts","25",730,6646144,11.0,9.1
+,"Influenza and pneumonia","J09-J18","2012","2012","Michigan","26",1176,9883360,11.9,10.1
+,"Influenza and pneumonia","J09-J18","2012","2012","Minnesota","27",330,5379139,6.1,5.3
+,"Influenza and pneumonia","J09-J18","2012","2012","Mississippi","28",418,2984926,14.0,13.1
+,"Influenza and pneumonia","J09-J18","2012","2012","Missouri","29",658,6021988,10.9,9.3
+,"Influenza and pneumonia","J09-J18","2012","2012","Montana","30",43,1005141,4.3,3.5
+,"Influenza and pneumonia","J09-J18","2012","2012","Nebraska","31",137,1855525,7.4,6.5
+,"Influenza and pneumonia","J09-J18","2012","2012","Nevada","32",399,2758931,14.5,14.7
+,"Influenza and pneumonia","J09-J18","2012","2012","New Hampshire","33",105,1320718,8.0,6.5
+,"Influenza and pneumonia","J09-J18","2012","2012","New Jersey","34",1048,8864590,11.8,10.1
+,"Influenza and pneumonia","J09-J18","2012","2012","New Mexico","35",240,2085538,11.5,10.5
+,"Influenza and pneumonia","J09-J18","2012","2012","New York","36",2546,19570261,13.0,11.1
+,"Influenza and pneumonia","J09-J18","2012","2012","North Carolina","37",1315,9752073,13.5,12.6
+,"Influenza and pneumonia","J09-J18","2012","2012","North Dakota","38",68,699628,9.7,7.8
+,"Influenza and pneumonia","J09-J18","2012","2012","Ohio","39",1360,11544225,11.8,9.8
+,"Influenza and pneumonia","J09-J18","2012","2012","Oklahoma","40",623,3814820,16.3,15.0
+,"Influenza and pneumonia","J09-J18","2012","2012","Oregon","41",299,3899353,7.7,6.3
+,"Influenza and pneumonia","J09-J18","2012","2012","Pennsylvania","42",1383,12763536,10.8,8.2
+,"Influenza and pneumonia","J09-J18","2012","2012","Rhode Island","44",137,1050292,13.0,9.9
+,"Influenza and pneumonia","J09-J18","2012","2012","South Carolina","45",642,4723723,13.6,12.3
+,"Influenza and pneumonia","J09-J18","2012","2012","South Dakota","46",67,833354,8.0,6.6
+,"Influenza and pneumonia","J09-J18","2012","2012","Tennessee","47",1052,6456243,16.3,14.8
+,"Influenza and pneumonia","J09-J18","2012","2012","Texas","48",2955,26059203,11.3,12.9
+,"Influenza and pneumonia","J09-J18","2012","2012","Utah","49",171,2855287,6.0,7.6
+,"Influenza and pneumonia","J09-J18","2012","2012","Vermont","50",48,626011,7.7,6.3
+,"Influenza and pneumonia","J09-J18","2012","2012","Virginia","51",788,8185867,9.6,9.4
+,"Influenza and pneumonia","J09-J18","2012","2012","Washington","53",673,6897012,9.8,9.0
+,"Influenza and pneumonia","J09-J18","2012","2012","West Virginia","54",322,1855413,17.4,13.5
+,"Influenza and pneumonia","J09-J18","2012","2012","Wisconsin","55",332,5726398,5.8,5.0
+,"Influenza and pneumonia","J09-J18","2012","2012","Wyoming","56",37,576412,6.4,6.2
+"Total","Influenza and pneumonia","J09-J18","2012","2012",,,35224,313914040,11.2,10.1
+,"Influenza and pneumonia","J09-J18","2013","2013","Alabama","01",695,4833722,14.4,12.4
+,"Influenza and pneumonia","J09-J18","2013","2013","Alaska","02",44,735132,6.0,8.3
+,"Influenza and pneumonia","J09-J18","2013","2013","Arizona","04",710,6626624,10.7,9.4
+,"Influenza and pneumonia","J09-J18","2013","2013","Arkansas","05",475,2959373,16.1,13.8
+,"Influenza and pneumonia","J09-J18","2013","2013","California","06",5101,38332521,13.3,13.0
+,"Influenza and pneumonia","J09-J18","2013","2013","Colorado","08",313,5268367,5.9,6.0
+,"Influenza and pneumonia","J09-J18","2013","2013","Connecticut","09",395,3596080,11.0,8.4
+,"Influenza and pneumonia","J09-J18","2013","2013","Delaware","10",127,925749,13.7,11.4
+,"Influenza and pneumonia","J09-J18","2013","2013","District of Columbia","11",80,646449,12.4,13.5
+,"Influenza and pneumonia","J09-J18","2013","2013","Florida","12",2159,19552860,11.0,7.9
+,"Influenza and pneumonia","J09-J18","2013","2013","Georgia","13",1064,9992167,10.6,11.4
+,"Influenza and pneumonia","J09-J18","2013","2013","Hawaii","15",134,1404054,9.5,7.7
+,"Influenza and pneumonia","J09-J18","2013","2013","Idaho","16",150,1612136,9.3,8.9
+,"Influenza and pneumonia","J09-J18","2013","2013","Illinois","17",1535,12882135,11.9,10.8
+,"Influenza and pneumonia","J09-J18","2013","2013","Indiana","18",838,6570902,12.8,11.4
+,"Influenza and pneumonia","J09-J18","2013","2013","Iowa","19",250,3090416,8.1,6.1
+,"Influenza and pneumonia","J09-J18","2013","2013","Kansas","20",239,2893957,8.3,7.0
+,"Influenza and pneumonia","J09-J18","2013","2013","Kentucky","21",738,4395295,16.8,14.9
+,"Influenza and pneumonia","J09-J18","2013","2013","Louisiana","22",529,4625470,11.4,10.8
+,"Influenza and pneumonia","J09-J18","2013","2013","Maine","23",122,1328302,9.2,6.7
+,"Influenza and pneumonia","J09-J18","2013","2013","Maryland","24",656,5928814,11.1,10.2
+,"Influenza and pneumonia","J09-J18","2013","2013","Massachusetts","25",816,6692824,12.2,9.9
+,"Influenza and pneumonia","J09-J18","2013","2013","Michigan","26",1310,9895622,13.2,11.1
+,"Influenza and pneumonia","J09-J18","2013","2013","Minnesota","27",322,5420380,5.9,5.1
+,"Influenza and pneumonia","J09-J18","2013","2013","Mississippi","28",529,2991207,17.7,16.3
+,"Influenza and pneumonia","J09-J18","2013","2013","Missouri","29",682,6044171,11.3,9.4
+,"Influenza and pneumonia","J09-J18","2013","2013","Montana","30",76,1015165,7.5,6.0
+,"Influenza and pneumonia","J09-J18","2013","2013","Nebraska","31",146,1868516,7.8,6.7
+,"Influenza and pneumonia","J09-J18","2013","2013","Nevada","32",455,2790136,16.3,16.0
+,"Influenza and pneumonia","J09-J18","2013","2013","New Hampshire","33",100,1323459,7.6,6.2
+,"Influenza and pneumonia","J09-J18","2013","2013","New Jersey","34",1124,8899339,12.6,10.6
+,"Influenza and pneumonia","J09-J18","2013","2013","New Mexico","35",224,2085287,10.7,9.8
+,"Influenza and pneumonia","J09-J18","2013","2013","New York","36",2870,19651127,14.6,12.3
+,"Influenza and pneumonia","J09-J18","2013","2013","North Carolina","37",1389,9848060,14.1,12.9
+,"Influenza and pneumonia","J09-J18","2013","2013","North Dakota","38",77,723393,10.6,8.6
+,"Influenza and pneumonia","J09-J18","2013","2013","Ohio","39",1453,11570808,12.6,10.4
+,"Influenza and pneumonia","J09-J18","2013","2013","Oklahoma","40",607,3850568,15.8,14.4
+,"Influenza and pneumonia","J09-J18","2013","2013","Oregon","41",344,3930065,8.8,7.2
+,"Influenza and pneumonia","J09-J18","2013","2013","Pennsylvania","42",1510,12773801,11.8,8.8
+,"Influenza and pneumonia","J09-J18","2013","2013","Rhode Island","44",161,1051511,15.3,12.0
+,"Influenza and pneumonia","J09-J18","2013","2013","South Carolina","45",665,4774839,13.9,12.2
+,"Influenza and pneumonia","J09-J18","2013","2013","South Dakota","46",68,844877,8.0,6.8
+,"Influenza and pneumonia","J09-J18","2013","2013","Tennessee","47",1097,6495978,16.9,15.1
+,"Influenza and pneumonia","J09-J18","2013","2013","Texas","48",3345,26448193,12.6,14.1
+,"Influenza and pneumonia","J09-J18","2013","2013","Utah","49",170,2900872,5.9,7.5
+,"Influenza and pneumonia","J09-J18","2013","2013","Vermont","50",50,626630,8.0,6.2
+,"Influenza and pneumonia","J09-J18","2013","2013","Virginia","51",987,8260405,11.9,11.5
+,"Influenza and pneumonia","J09-J18","2013","2013","Washington","53",710,6971406,10.2,9.3
+,"Influenza and pneumonia","J09-J18","2013","2013","West Virginia","54",370,1854304,20.0,15.3
+,"Influenza and pneumonia","J09-J18","2013","2013","Wisconsin","55",407,5742713,7.1,5.9
+,"Influenza and pneumonia","J09-J18","2013","2013","Wyoming","56",39,582658,6.7,6.0
+"Total","Influenza and pneumonia","J09-J18","2013","2013",,,38457,316128839,12.2,10.8
+,"Influenza and pneumonia","J09-J18","2014","2014","Alabama","01",707,4849377,14.6,12.6
+,"Influenza and pneumonia","J09-J18","2014","2014","Alaska","02",46,736732,6.2,8.5
+,"Influenza and pneumonia","J09-J18","2014","2014","Arizona","04",753,6731484,11.2,9.5
+,"Influenza and pneumonia","J09-J18","2014","2014","Arkansas","05",509,2966369,17.2,14.5
+,"Influenza and pneumonia","J09-J18","2014","2014","California","06",5178,38802500,13.3,12.8
+,"Influenza and pneumonia","J09-J18","2014","2014","Colorado","08",385,5355866,7.2,7.3
+,"Influenza and pneumonia","J09-J18","2014","2014","Connecticut","09",440,3596677,12.2,9.4
+,"Influenza and pneumonia","J09-J18","2014","2014","Delaware","10",148,935614,15.8,13.1
+,"Influenza and pneumonia","J09-J18","2014","2014","District of Columbia","11",58,658893,8.8,9.4
+,"Influenza and pneumonia","J09-J18","2014","2014","Florida","12",2202,19893297,11.1,7.7
+,"Influenza and pneumonia","J09-J18","2014","2014","Georgia","13",1095,10097343,10.8,11.3
+,"Influenza and pneumonia","J09-J18","2014","2014","Hawaii","15",127,1419561,8.9,6.7
+,"Influenza and pneumonia","J09-J18","2014","2014","Idaho","16",127,1634464,7.8,7.3
+,"Influenza and pneumonia","J09-J18","2014","2014","Illinois","17",1488,12880580,11.6,10.2
+,"Influenza and pneumonia","J09-J18","2014","2014","Indiana","18",874,6596855,13.2,11.7
+,"Influenza and pneumonia","J09-J18","2014","2014","Iowa","19",291,3107126,9.4,7.1
+,"Influenza and pneumonia","J09-J18","2014","2014","Kansas","20",325,2904021,11.2,9.6
+,"Influenza and pneumonia","J09-J18","2014","2014","Kentucky","21",799,4413457,18.1,16.0
+,"Influenza and pneumonia","J09-J18","2014","2014","Louisiana","22",584,4649676,12.6,11.9
+,"Influenza and pneumonia","J09-J18","2014","2014","Maine","23",161,1330089,12.1,8.6
+,"Influenza and pneumonia","J09-J18","2014","2014","Maryland","24",640,5976407,10.7,9.8
+,"Influenza and pneumonia","J09-J18","2014","2014","Massachusetts","25",850,6745408,12.6,10.1
+,"Influenza and pneumonia","J09-J18","2014","2014","Michigan","26",1353,9909877,13.7,11.2
+,"Influenza and pneumonia","J09-J18","2014","2014","Minnesota","27",362,5457173,6.6,5.7
+,"Influenza and pneumonia","J09-J18","2014","2014","Mississippi","28",557,2994079,18.6,17.0
+,"Influenza and pneumonia","J09-J18","2014","2014","Missouri","29",787,6063589,13.0,10.7
+,"Influenza and pneumonia","J09-J18","2014","2014","Montana","30",64,1023579,6.3,5.0
+,"Influenza and pneumonia","J09-J18","2014","2014","Nebraska","31",194,1881503,10.3,8.8
+,"Influenza and pneumonia","J09-J18","2014","2014","Nevada","32",532,2839099,18.7,17.9
+,"Influenza and pneumonia","J09-J18","2014","2014","New Hampshire","33",130,1326813,9.8,7.9
+,"Influenza and pneumonia","J09-J18","2014","2014","New Jersey","34",1071,8938175,12.0,9.9
+,"Influenza and pneumonia","J09-J18","2014","2014","New Mexico","35",279,2085572,13.4,12.0
+,"Influenza and pneumonia","J09-J18","2014","2014","New York","36",3127,19746227,15.8,13.2
+,"Influenza and pneumonia","J09-J18","2014","2014","North Carolina","37",1477,9943964,14.9,13.4
+,"Influenza and pneumonia","J09-J18","2014","2014","North Dakota","38",83,739482,11.2,9.9
+,"Influenza and pneumonia","J09-J18","2014","2014","Ohio","39",1392,11594163,12.0,9.7
+,"Influenza and pneumonia","J09-J18","2014","2014","Oklahoma","40",673,3878051,17.4,15.5
+,"Influenza and pneumonia","J09-J18","2014","2014","Oregon","41",393,3970239,9.9,8.1
+,"Influenza and pneumonia","J09-J18","2014","2014","Pennsylvania","42",1571,12787209,12.3,9.0
+,"Influenza and pneumonia","J09-J18","2014","2014","Rhode Island","44",143,1055173,13.6,9.9
+,"Influenza and pneumonia","J09-J18","2014","2014","South Carolina","45",767,4832482,15.9,13.8
+,"Influenza and pneumonia","J09-J18","2014","2014","South Dakota","46",98,853175,11.5,9.1
+,"Influenza and pneumonia","J09-J18","2014","2014","Tennessee","47",1075,6549352,16.4,14.4
+,"Influenza and pneumonia","J09-J18","2014","2014","Texas","48",3630,26956958,13.5,14.7
+,"Influenza and pneumonia","J09-J18","2014","2014","Utah","49",201,2942902,6.8,8.5
+,"Influenza and pneumonia","J09-J18","2014","2014","Vermont","50",47,626562,7.5,5.6
+,"Influenza and pneumonia","J09-J18","2014","2014","Virginia","51",954,8326289,11.5,10.8
+,"Influenza and pneumonia","J09-J18","2014","2014","Washington","53",772,7061530,10.9,9.9
+,"Influenza and pneumonia","J09-J18","2014","2014","West Virginia","54",428,1850326,23.1,17.4
+,"Influenza and pneumonia","J09-J18","2014","2014","Wisconsin","55",455,5757564,7.9,6.4
+,"Influenza and pneumonia","J09-J18","2014","2014","Wyoming","56",49,584153,8.4,7.4
+"Total","Influenza and pneumonia","J09-J18","2014","2014",,,40451,318857056,12.7,11.1
+,"Influenza and pneumonia","J09-J18","2015","2015","Alabama","01",750,4858979,15.4,13.1
+,"Influenza and pneumonia","J09-J18","2015","2015","Alaska","02",44,738432,6.0,8.8
+,"Influenza and pneumonia","J09-J18","2015","2015","Arizona","04",790,6828065,11.6,9.5
+,"Influenza and pneumonia","J09-J18","2015","2015","Arkansas","05",548,2978204,18.4,15.4
+,"Influenza and pneumonia","J09-J18","2015","2015","California","06",5754,39144818,14.7,13.8
+,"Influenza and pneumonia","J09-J18","2015","2015","Colorado","08",379,5456574,6.9,6.9
+,"Influenza and pneumonia","J09-J18","2015","2015","Connecticut","09",451,3590886,12.6,9.6
+,"Influenza and pneumonia","J09-J18","2015","2015","Delaware","10",179,945934,18.9,15.0
+,"Influenza and pneumonia","J09-J18","2015","2015","District of Columbia","11",105,672228,15.6,16.7
+,"Influenza and pneumonia","J09-J18","2015","2015","Florida","12",2552,20271272,12.6,8.7
+,"Influenza and pneumonia","J09-J18","2015","2015","Georgia","13",1231,10214860,12.1,12.4
+,"Influenza and pneumonia","J09-J18","2015","2015","Hawaii","15",118,1431603,8.2,6.2
+,"Influenza and pneumonia","J09-J18","2015","2015","Idaho","16",138,1654930,8.3,7.5
+,"Influenza and pneumonia","J09-J18","2015","2015","Illinois","17",1704,12859995,13.3,11.5
+,"Influenza and pneumonia","J09-J18","2015","2015","Indiana","18",958,6619680,14.5,12.5
+,"Influenza and pneumonia","J09-J18","2015","2015","Iowa","19",377,3123899,12.1,9.2
+,"Influenza and pneumonia","J09-J18","2015","2015","Kansas","20",392,2911641,13.5,11.3
+,"Influenza and pneumonia","J09-J18","2015","2015","Kentucky","21",954,4425092,21.6,18.7
+,"Influenza and pneumonia","J09-J18","2015","2015","Louisiana","22",579,4670724,12.4,11.5
+,"Influenza and pneumonia","J09-J18","2015","2015","Maine","23",163,1329328,12.3,8.6
+,"Influenza and pneumonia","J09-J18","2015","2015","Maryland","24",654,6006401,10.9,9.7
+,"Influenza and pneumonia","J09-J18","2015","2015","Massachusetts","25",982,6794422,14.5,11.5
+,"Influenza and pneumonia","J09-J18","2015","2015","Michigan","26",1363,9922576,13.7,11.1
+,"Influenza and pneumonia","J09-J18","2015","2015","Minnesota","27",453,5489594,8.3,6.9
+,"Influenza and pneumonia","J09-J18","2015","2015","Mississippi","28",634,2992333,21.2,18.9
+,"Influenza and pneumonia","J09-J18","2015","2015","Missouri","29",789,6083672,13.0,10.6
+,"Influenza and pneumonia","J09-J18","2015","2015","Montana","30",99,1032949,9.6,7.9
+,"Influenza and pneumonia","J09-J18","2015","2015","Nebraska","31",196,1896190,10.3,8.9
+,"Influenza and pneumonia","J09-J18","2015","2015","Nevada","32",554,2890845,19.2,18.1
+,"Influenza and pneumonia","J09-J18","2015","2015","New Hampshire","33",151,1330608,11.3,9.0
+,"Influenza and pneumonia","J09-J18","2015","2015","New Jersey","34",1159,8958013,12.9,10.6
+,"Influenza and pneumonia","J09-J18","2015","2015","New Mexico","35",302,2085109,14.5,12.7
+,"Influenza and pneumonia","J09-J18","2015","2015","New York","36",3321,19795791,16.8,13.8
+,"Influenza and pneumonia","J09-J18","2015","2015","North Carolina","37",1669,10042802,16.6,14.6
+,"Influenza and pneumonia","J09-J18","2015","2015","North Dakota","38",65,756927,8.6,7.5
+,"Influenza and pneumonia","J09-J18","2015","2015","Ohio","39",1525,11613423,13.1,10.6
+,"Influenza and pneumonia","J09-J18","2015","2015","Oklahoma","40",736,3911338,18.8,16.7
+,"Influenza and pneumonia","J09-J18","2015","2015","Oregon","41",403,4028977,10.0,8.0
+,"Influenza and pneumonia","J09-J18","2015","2015","Pennsylvania","42",1691,12802503,13.2,9.7
+,"Influenza and pneumonia","J09-J18","2015","2015","Rhode Island","44",147,1056298,13.9,10.2
+,"Influenza and pneumonia","J09-J18","2015","2015","South Carolina","45",877,4896146,17.9,15.3
+,"Influenza and pneumonia","J09-J18","2015","2015","South Dakota","46",98,858469,11.4,8.8
+,"Influenza and pneumonia","J09-J18","2015","2015","Tennessee","47",1231,6600299,18.7,16.2
+,"Influenza and pneumonia","J09-J18","2015","2015","Texas","48",3923,27469114,14.3,15.5
+,"Influenza and pneumonia","J09-J18","2015","2015","Utah","49",211,2995919,7.0,8.8
+,"Influenza and pneumonia","J09-J18","2015","2015","Vermont","50",54,626042,8.6,6.6
+,"Influenza and pneumonia","J09-J18","2015","2015","Virginia","51",1140,8382993,13.6,12.5
+,"Influenza and pneumonia","J09-J18","2015","2015","Washington","53",807,7170351,11.3,10.1
+,"Influenza and pneumonia","J09-J18","2015","2015","West Virginia","54",452,1844128,24.5,18.4
+,"Influenza and pneumonia","J09-J18","2015","2015","Wisconsin","55",530,5771337,9.2,7.3
+,"Influenza and pneumonia","J09-J18","2015","2015","Wyoming","56",49,586107,8.4,7.7
+"Total","Influenza and pneumonia","J09-J18","2015","2015",,,44431,321418820,13.8,11.9
+,"Influenza and pneumonia","J09-J18","2016","2016","Alabama","01",773,4863300,15.9,13.4
+,"Influenza and pneumonia","J09-J18","2016","2016","Alaska","02",40,741894,5.4,7.7
+,"Influenza and pneumonia","J09-J18","2016","2016","Arizona","04",924,6931071,13.3,10.9
+,"Influenza and pneumonia","J09-J18","2016","2016","Arkansas","05",588,2988248,19.7,16.3
+,"Influenza and pneumonia","J09-J18","2016","2016","California","06",5751,39250017,14.7,13.5
+,"Influenza and pneumonia","J09-J18","2016","2016","Colorado","08",416,5540545,7.5,7.4
+,"Influenza and pneumonia","J09-J18","2016","2016","Connecticut","09",480,3576452,13.4,10.1
+,"Influenza and pneumonia","J09-J18","2016","2016","Delaware","10",148,952065,15.5,11.9
+,"Influenza and pneumonia","J09-J18","2016","2016","District of Columbia","11",70,681170,10.3,10.9
+,"Influenza and pneumonia","J09-J18","2016","2016","Florida","12",2774,20612439,13.5,9.2
+,"Influenza and pneumonia","J09-J18","2016","2016","Georgia","13",1253,10310371,12.2,12.3
+,"Influenza and pneumonia","J09-J18","2016","2016","Hawaii","15",162,1428557,11.3,8.3
+,"Influenza and pneumonia","J09-J18","2016","2016","Idaho","16",143,1683140,8.5,7.6
+,"Influenza and pneumonia","J09-J18","2016","2016","Illinois","17",1792,12801539,14.0,12.0
+,"Influenza and pneumonia","J09-J18","2016","2016","Indiana","18",982,6633053,14.8,12.9
+,"Influenza and pneumonia","J09-J18","2016","2016","Iowa","19",333,3134693,10.6,8.0
+,"Influenza and pneumonia","J09-J18","2016","2016","Kansas","20",335,2907289,11.5,9.5
+,"Influenza and pneumonia","J09-J18","2016","2016","Kentucky","21",1022,4436974,23.0,19.6
+,"Influenza and pneumonia","J09-J18","2016","2016","Louisiana","22",583,4681666,12.5,11.4
+,"Influenza and pneumonia","J09-J18","2016","2016","Maine","23",145,1331479,10.9,7.6
+,"Influenza and pneumonia","J09-J18","2016","2016","Maryland","24",709,6016447,11.8,10.4
+,"Influenza and pneumonia","J09-J18","2016","2016","Massachusetts","25",935,6811779,13.7,10.8
+,"Influenza and pneumonia","J09-J18","2016","2016","Michigan","26",1358,9928300,13.7,11.0
+,"Influenza and pneumonia","J09-J18","2016","2016","Minnesota","27",449,5519952,8.1,6.6
+,"Influenza and pneumonia","J09-J18","2016","2016","Mississippi","28",658,2988726,22.0,19.4
+,"Influenza and pneumonia","J09-J18","2016","2016","Missouri","29",798,6093000,13.1,10.5
+,"Influenza and pneumonia","J09-J18","2016","2016","Montana","30",97,1042520,9.3,7.4
+,"Influenza and pneumonia","J09-J18","2016","2016","Nebraska","31",188,1907116,9.9,8.1
+,"Influenza and pneumonia","J09-J18","2016","2016","Nevada","32",638,2940058,21.7,19.8
+,"Influenza and pneumonia","J09-J18","2016","2016","New Hampshire","33",156,1334795,11.7,9.1
+,"Influenza and pneumonia","J09-J18","2016","2016","New Jersey","34",1091,8944469,12.2,9.9
+,"Influenza and pneumonia","J09-J18","2016","2016","New Mexico","35",328,2081015,15.8,13.6
+,"Influenza and pneumonia","J09-J18","2016","2016","New York","36",3102,19745289,15.7,12.7
+,"Influenza and pneumonia","J09-J18","2016","2016","North Carolina","37",1659,10146788,16.4,14.2
+,"Influenza and pneumonia","J09-J18","2016","2016","North Dakota","38",81,757952,10.7,8.9
+,"Influenza and pneumonia","J09-J18","2016","2016","Ohio","39",1589,11614373,13.7,11.0
+,"Influenza and pneumonia","J09-J18","2016","2016","Oklahoma","40",848,3923561,21.6,19.0
+,"Influenza and pneumonia","J09-J18","2016","2016","Oregon","41",398,4093465,9.7,7.6
+,"Influenza and pneumonia","J09-J18","2016","2016","Pennsylvania","42",1734,12784227,13.6,9.9
+,"Influenza and pneumonia","J09-J18","2016","2016","Rhode Island","44",128,1056426,12.1,9.0
+,"Influenza and pneumonia","J09-J18","2016","2016","South Carolina","45",893,4961119,18.0,15.0
+,"Influenza and pneumonia","J09-J18","2016","2016","South Dakota","46",98,865454,11.3,8.9
+,"Influenza and pneumonia","J09-J18","2016","2016","Tennessee","47",1300,6651194,19.5,16.5
+,"Influenza and pneumonia","J09-J18","2016","2016","Texas","48",3872,27862596,13.9,14.8
+,"Influenza and pneumonia","J09-J18","2016","2016","Utah","49",243,3051217,8.0,9.7
+,"Influenza and pneumonia","J09-J18","2016","2016","Vermont","50",50,624594,8.0,5.8
+,"Influenza and pneumonia","J09-J18","2016","2016","Virginia","51",1051,8411808,12.5,11.2
+,"Influenza and pneumonia","J09-J18","2016","2016","Washington","53",775,7288000,10.6,9.5
+,"Influenza and pneumonia","J09-J18","2016","2016","West Virginia","54",468,1831102,25.6,18.7
+,"Influenza and pneumonia","J09-J18","2016","2016","Wisconsin","55",565,5778708,9.8,7.8
+,"Influenza and pneumonia","J09-J18","2016","2016","Wyoming","56",71,585501,12.1,10.7
+"Total","Influenza and pneumonia","J09-J18","2016","2016",,,45044,323127513,13.9,11.8
+,"Influenza and pneumonia","J09-J18","2017","2017","Alabama","01",887,4874747,18.2,15.0
+,"Influenza and pneumonia","J09-J18","2017","2017","Alaska","02",50,739795,6.8,7.9
+,"Influenza and pneumonia","J09-J18","2017","2017","Arizona","04",786,7016270,11.2,9.1
+,"Influenza and pneumonia","J09-J18","2017","2017","Arkansas","05",641,3004279,21.3,17.4
+,"Influenza and pneumonia","J09-J18","2017","2017","California","06",6044,39536653,15.3,13.9
+,"Influenza and pneumonia","J09-J18","2017","2017","Colorado","08",469,5607154,8.4,8.1
+,"Influenza and pneumonia","J09-J18","2017","2017","Connecticut","09",501,3588184,14.0,10.1
+,"Influenza and pneumonia","J09-J18","2017","2017","Delaware","10",158,961939,16.4,12.4
+,"Influenza and pneumonia","J09-J18","2017","2017","District of Columbia","11",78,693972,11.2,11.4
+,"Influenza and pneumonia","J09-J18","2017","2017","Florida","12",3069,20984400,14.6,9.9
+,"Influenza and pneumonia","J09-J18","2017","2017","Georgia","13",1250,10429379,12.0,11.8
+,"Influenza and pneumonia","J09-J18","2017","2017","Hawaii","15",149,1427538,10.4,7.6
+,"Influenza and pneumonia","J09-J18","2017","2017","Idaho","16",159,1716943,9.3,8.3
+,"Influenza and pneumonia","J09-J18","2017","2017","Illinois","17",1747,12802023,13.6,11.4
+,"Influenza and pneumonia","J09-J18","2017","2017","Indiana","18",991,6666818,14.9,12.8
+,"Influenza and pneumonia","J09-J18","2017","2017","Iowa","19",383,3145711,12.2,9.2
+,"Influenza and pneumonia","J09-J18","2017","2017","Kansas","20",385,2913123,13.2,10.8
+,"Influenza and pneumonia","J09-J18","2017","2017","Kentucky","21",1093,4454189,24.5,20.7
+,"Influenza and pneumonia","J09-J18","2017","2017","Louisiana","22",648,4684333,13.8,12.4
+,"Influenza and pneumonia","J09-J18","2017","2017","Maine","23",140,1335907,10.5,7.1
+,"Influenza and pneumonia","J09-J18","2017","2017","Maryland","24",728,6052177,12.0,10.3
+,"Influenza and pneumonia","J09-J18","2017","2017","Massachusetts","25",949,6859819,13.8,10.8
+,"Influenza and pneumonia","J09-J18","2017","2017","Michigan","26",1289,9962311,12.9,10.1
+,"Influenza and pneumonia","J09-J18","2017","2017","Minnesota","27",545,5576606,9.8,8.0
+,"Influenza and pneumonia","J09-J18","2017","2017","Mississippi","28",649,2984100,21.7,18.9
+,"Influenza and pneumonia","J09-J18","2017","2017","Missouri","29",819,6113532,13.4,10.6
+,"Influenza and pneumonia","J09-J18","2017","2017","Montana","30",109,1050493,10.4,8.0
+,"Influenza and pneumonia","J09-J18","2017","2017","Nebraska","31",247,1920076,12.9,10.5
+,"Influenza and pneumonia","J09-J18","2017","2017","Nevada","32",692,2998039,23.1,21.0
+,"Influenza and pneumonia","J09-J18","2017","2017","New Hampshire","33",144,1342795,10.7,8.1
+,"Influenza and pneumonia","J09-J18","2017","2017","New Jersey","34",1119,9005644,12.4,9.9
+,"Influenza and pneumonia","J09-J18","2017","2017","New Mexico","35",323,2088070,15.5,12.9
+,"Influenza and pneumonia","J09-J18","2017","2017","New York","36",3127,19849399,15.8,12.4
+,"Influenza and pneumonia","J09-J18","2017","2017","North Carolina","37",1611,10273419,15.7,13.3
+,"Influenza and pneumonia","J09-J18","2017","2017","North Dakota","38",76,755393,10.1,8.4
+,"Influenza and pneumonia","J09-J18","2017","2017","Ohio","39",1620,11658609,13.9,10.8
+,"Influenza and pneumonia","J09-J18","2017","2017","Oklahoma","40",917,3930864,23.3,20.1
+,"Influenza and pneumonia","J09-J18","2017","2017","Oregon","41",357,4142776,8.6,6.7
+,"Influenza and pneumonia","J09-J18","2017","2017","Pennsylvania","42",1676,12805537,13.1,9.4
+,"Influenza and pneumonia","J09-J18","2017","2017","Rhode Island","44",158,1059639,14.9,11.3
+,"Influenza and pneumonia","J09-J18","2017","2017","South Carolina","45",918,5024369,18.3,15.1
+,"Influenza and pneumonia","J09-J18","2017","2017","South Dakota","46",104,869666,12.0,9.5
+,"Influenza and pneumonia","J09-J18","2017","2017","Tennessee","47",1413,6715984,21.0,17.8
+,"Influenza and pneumonia","J09-J18","2017","2017","Texas","48",4092,28304596,14.5,15.2
+,"Influenza and pneumonia","J09-J18","2017","2017","Utah","49",246,3101833,7.9,9.6
+,"Influenza and pneumonia","J09-J18","2017","2017","Vermont","50",52,623657,8.3,6.1
+,"Influenza and pneumonia","J09-J18","2017","2017","Virginia","51",1044,8470020,12.3,10.9
+,"Influenza and pneumonia","J09-J18","2017","2017","Washington","53",874,7405743,11.8,10.5
+,"Influenza and pneumonia","J09-J18","2017","2017","West Virginia","54",473,1815857,26.0,18.7
+,"Influenza and pneumonia","J09-J18","2017","2017","Wisconsin","55",561,5795483,9.7,7.6
+,"Influenza and pneumonia","J09-J18","2017","2017","Wyoming","56",71,579315,12.3,10.2
+"Total","Influenza and pneumonia","J09-J18","2017","2017",,,46631,325719178,14.3,12.0
+"Total","Influenza and pneumonia","J09-J18",,,,,318445,2539502901,12.5,11.0
+"Total",,,,,,,635163,2539502901,25.0,22.0
+"---"
+"Dataset: Multiple Cause of Death, 1999-2020"
+"Query Parameters:"
+"MCD - ICD-10 Codes: A40.0 (Septicaemia due to streptococcus, group A); A40.1 (Septicaemia due to streptococcus, group B); A40.2"
+"(Septicaemia due to streptococcus, group D); A40.3 (Septicaemia due to Streptococcus pneumoniae); A40.8 (Other streptococcal"
+"septicaemia); A40.9 (Streptococcal septicaemia, unspecified); A41.0 (Septicaemia due to Staphylococcus aureus); A41.1"
+"(Septicaemia due to other specified staphylococcus); A41.2 (Septicaemia due to unspecified staphylococcus); A41.3 (Septicaemia"
+"due to Haemophilus influenzae); A41.4 (Septicaemia due to anaerobes); A41.5 (Septicaemia due to other Gram-negative organisms);"
+"A41.8 (Other specified septicaemia); A41.9 (Septicaemia, unspecified)"
+"MCD - ICD-10 Codes: AND"
+"MCD - ICD-10 Codes: J12.0 (Adenoviral pneumonia); J12.1 (Respiratory syncytial virus pneumonia); J12.2 (Parainfluenza virus"
+"pneumonia); J12.3 (Human metapneumovirus pneumonia); J12.8 (Other viral pneumonia); J12.9 (Viral pneumonia, unspecified); J13"
+"(Pneumonia due to Streptococcus pneumoniae); J14 (Pneumonia due to Haemophilus influenzae); J15.0 (Pneumonia due to Klebsiella"
+"pneumoniae); J15.1 (Pneumonia due to Pseudomonas); J15.2 (Pneumonia due to staphylococcus); J15.3 (Pneumonia due to"
+"streptococcus, group B); J15.4 (Pneumonia due to other streptococci); J15.5 (Pneumonia due to Escherichia coli); J15.6"
+"(Pneumonia due to other aerobic Gram-negative bacteria); J15.7 (Pneumonia due to Mycoplasma pneumoniae); J15.8 (Other bacterial"
+"pneumonia); J15.9 (Bacterial pneumonia, unspecified); J16.0 (Chlamydial pneumonia); J16.8 (Pneumonia due to other specified"
+"infectious organisms); J18.0 (Bronchopneumonia, unspecified); J18.1 (Lobar pneumonia, unspecified); J18.2 (Hypostatic pneumonia,"
+"unspecified); J18.8 (Other pneumonia, organism unspecified); J18.9 (Pneumonia, unspecified)"
+"Year/Month: 2010; 2011; 2012; 2013; 2014; 2015; 2016; 2017"
+"Group By: MCD - ICD Sub-Chapter; Year; State"
+"Show Totals: True"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Standard Population: 2000 U.S. Std. Population"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information."
+"---"
+"Query Date: Apr 9, 2026 6:39:43 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,"
+"1999-2020, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/mcd-icd10.html on Apr 9, 2026 6:39:43 PM"
+"---"
+Footnotes:
+"1. Totals and sub-totals show the frequency of the selected causes of death, which may be greater than the number of deaths."
+"Note that any single death record may have up to 20 causes. More information."
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#2014-Revision."
+"2. These items in the results table are not fully selected: Other bacterial diseases, Influenza and pneumonia. The Query"
+"Description lists the actual values selected."
+"3. The populations used to calculate standard age-adjusted rates are documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#2000 Standard Population."
+"4. The method used to calculate age-adjusted rates is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Age-Adjusted Rates."
+"5. Deaths for persons of unknown age are included in counts and crude rates, but are not included in age-adjusted rates."
+"6. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. Population figures for 2011 are bridged-race estimates of the July 1"
+"resident population, from the county-level postcensal Vintage 2011 series released by NCHS on July 18, 2012. Population figures"
+"for 2010 are April 1 Census counts. The population figures for years 2001 - 2009, are bridged-race estimates of the July 1"
+"resident population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012."
+"Population figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of"
+"July 1 estimates. Population figures for Infant Age Groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"7. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd.html#Age Group."
+"8. Beginning with the 2018 data, changes have been implemented that affect the counts for ICD-10 cause of death codes O00-O99"
+"compared to previous practice. In addition, data for the cause of death codes O00-O99 for 2003 through 2017 reflect differences"
+"in information available to individual states and probable errors. Caution should be used in interpreting these data. More"
+"information can be found at: https://www.cdc.gov/nchs/maternal-mortality/."
+"9. On March 11, 2021, the 2019 mortality data on CDC WONDER was updated with the 2019 mortality data updated by NCHS on March 4,"
+"2021 to include corrected information for residents of Texas affecting 5 records previously coded to cause code *U01.4,"
+"Terrorism involving firearms (homicide). The underlying and multiple cause of death codes for 5 records were corrected in the"
+"2019 data. Underlying and multiple cause of death codes for those 5 records were recoded to Assault (homicide) by other and"
+"unspecified firearm discharge, ICD-10 code X95. The corrected final death records replaces the data released on December 22,"
+"2020."
+"10. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#ICD-10 Changes."
