@@ -1,0 +1,7 @@
+Disease,Analysis Model,Model,Model Label,MAE,RMSE,MAPE (%),R-squared
+Combined,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,0.0625,0.08897565210026091,6.440446127946127,0.7029315960912053
+Combined,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",0.04583333333333334,0.07905694150420947,4.414983164983164,0.7654723127035832
+Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,0.13749999999999998,0.23184046238739256,4.018995422535906,0.8428665685428616
+Pneumonia,Selected best model,log_linear_month_fe,Log-linear trend + month effects,0.16249999999999998,0.2318404623873925,4.985198892331329,0.8428665685428616
+Sepsis,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,0.2708333333333335,0.29509885349376297,6.395512947367409,0.5086206896551724
+Sepsis,Selected best model,anchored_quadratic_fourier_80,"Quadratic trend + Fourier seasonality, anchored 80% to recent seasonal mean",0.19166666666666676,0.2397915761656361,4.4214294204103926,0.6755485893416926

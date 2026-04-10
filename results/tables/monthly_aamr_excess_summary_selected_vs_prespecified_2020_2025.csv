@@ -1,0 +1,37 @@
+Disease,Analysis Model,Model,Model Label,Year,Mean Actual AAMR,Mean Predicted AAMR,Mean Actual - Predicted
+Sepsis,Selected best model,anchored_quadratic_fourier_80,"Quadratic trend + Fourier seasonality, anchored 80% to recent seasonal mean",2020,4.908,4.258,0.65
+Sepsis,Selected best model,anchored_quadratic_fourier_80,"Quadratic trend + Fourier seasonality, anchored 80% to recent seasonal mean",2021,5.383,4.25,1.133
+Sepsis,Selected best model,anchored_quadratic_fourier_80,"Quadratic trend + Fourier seasonality, anchored 80% to recent seasonal mean",2022,4.85,4.242,0.608
+Sepsis,Selected best model,anchored_quadratic_fourier_80,"Quadratic trend + Fourier seasonality, anchored 80% to recent seasonal mean",2023,4.442,4.225,0.217
+Sepsis,Selected best model,anchored_quadratic_fourier_80,"Quadratic trend + Fourier seasonality, anchored 80% to recent seasonal mean",2024,4.225,4.183,0.042
+Sepsis,Selected best model,anchored_quadratic_fourier_80,"Quadratic trend + Fourier seasonality, anchored 80% to recent seasonal mean",2025,4.217,4.167,0.05
+Sepsis,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2020,4.908,4.192,0.717
+Sepsis,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2021,5.383,4.158,1.225
+Sepsis,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2022,4.85,4.067,0.783
+Sepsis,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2023,4.442,3.975,0.467
+Sepsis,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2024,4.225,3.858,0.367
+Sepsis,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2025,4.217,3.733,0.483
+Pneumonia,Selected best model,log_linear_month_fe,Log-linear trend + month effects,2020,6.308,2.867,3.442
+Pneumonia,Selected best model,log_linear_month_fe,Log-linear trend + month effects,2021,7.8,2.758,5.042
+Pneumonia,Selected best model,log_linear_month_fe,Log-linear trend + month effects,2022,4.633,2.675,1.958
+Pneumonia,Selected best model,log_linear_month_fe,Log-linear trend + month effects,2023,3.2,2.575,0.625
+Pneumonia,Selected best model,log_linear_month_fe,Log-linear trend + month effects,2024,2.992,2.517,0.475
+Pneumonia,Selected best model,log_linear_month_fe,Log-linear trend + month effects,2025,2.917,2.425,0.492
+Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2020,6.308,2.767,3.542
+Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2021,7.8,2.608,5.192
+Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2022,4.633,2.442,2.192
+Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2023,3.2,2.275,0.925
+Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2024,2.992,2.108,0.883
+Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2025,2.917,1.917,1.0
+Combined,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",2020,1.358,0.933,0.425
+Combined,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",2021,1.583,0.908,0.675
+Combined,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",2022,1.15,0.867,0.283
+Combined,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",2023,0.967,0.85,0.117
+Combined,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",2024,0.958,0.8,0.158
+Combined,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",2025,0.942,0.767,0.175
+Combined,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2020,1.358,0.917,0.442
+Combined,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2021,1.583,0.875,0.708
+Combined,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2022,1.15,0.85,0.3
+Combined,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2023,0.967,0.792,0.175
+Combined,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2024,0.958,0.75,0.208
+Combined,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2025,0.942,0.667,0.275

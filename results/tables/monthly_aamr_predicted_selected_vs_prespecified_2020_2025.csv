@@ -1,0 +1,433 @@
+Disease,Analysis Model,Model,Model Label,Year,Month,Month Code,Age Adjusted Rate,Predicted AAMR,Actual - Predicted
+Sepsis,Selected best model,anchored_quadratic_fourier_80,"Quadratic trend + Fourier seasonality, anchored 80% to recent seasonal mean",2020,"Jan., 2020",2020/01,4.8,5.1,-0.3
+Sepsis,Selected best model,anchored_quadratic_fourier_80,"Quadratic trend + Fourier seasonality, anchored 80% to recent seasonal mean",2020,"Feb., 2020",2020/02,4.3,4.5,-0.2
+Sepsis,Selected best model,anchored_quadratic_fourier_80,"Quadratic trend + Fourier seasonality, anchored 80% to recent seasonal mean",2020,"Mar., 2020",2020/03,4.7,4.6,0.1
+Sepsis,Selected best model,anchored_quadratic_fourier_80,"Quadratic trend + Fourier seasonality, anchored 80% to recent seasonal mean",2020,"Apr., 2020",2020/04,5.3,4.2,1.1
+Sepsis,Selected best model,anchored_quadratic_fourier_80,"Quadratic trend + Fourier seasonality, anchored 80% to recent seasonal mean",2020,"May, 2020",2020/05,4.6,4.0,0.6
+Sepsis,Selected best model,anchored_quadratic_fourier_80,"Quadratic trend + Fourier seasonality, anchored 80% to recent seasonal mean",2020,"Jun., 2020",2020/06,4.2,3.9,0.3
+Sepsis,Selected best model,anchored_quadratic_fourier_80,"Quadratic trend + Fourier seasonality, anchored 80% to recent seasonal mean",2020,"Jul., 2020",2020/07,4.8,4.0,0.8
+Sepsis,Selected best model,anchored_quadratic_fourier_80,"Quadratic trend + Fourier seasonality, anchored 80% to recent seasonal mean",2020,"Aug., 2020",2020/08,5.0,3.9,1.1
+Sepsis,Selected best model,anchored_quadratic_fourier_80,"Quadratic trend + Fourier seasonality, anchored 80% to recent seasonal mean",2020,"Sep., 2020",2020/09,4.5,3.9,0.6
+Sepsis,Selected best model,anchored_quadratic_fourier_80,"Quadratic trend + Fourier seasonality, anchored 80% to recent seasonal mean",2020,"Oct., 2020",2020/10,4.8,4.1,0.7
+Sepsis,Selected best model,anchored_quadratic_fourier_80,"Quadratic trend + Fourier seasonality, anchored 80% to recent seasonal mean",2020,"Nov., 2020",2020/11,5.3,4.2,1.1
+Sepsis,Selected best model,anchored_quadratic_fourier_80,"Quadratic trend + Fourier seasonality, anchored 80% to recent seasonal mean",2020,"Dec., 2020",2020/12,6.6,4.7,1.9
+Sepsis,Selected best model,anchored_quadratic_fourier_80,"Quadratic trend + Fourier seasonality, anchored 80% to recent seasonal mean",2021,"Jan., 2021",2021/01,7.0,5.1,1.9
+Sepsis,Selected best model,anchored_quadratic_fourier_80,"Quadratic trend + Fourier seasonality, anchored 80% to recent seasonal mean",2021,"Feb., 2021",2021/02,5.4,4.5,0.9
+Sepsis,Selected best model,anchored_quadratic_fourier_80,"Quadratic trend + Fourier seasonality, anchored 80% to recent seasonal mean",2021,"Mar., 2021",2021/03,5.0,4.6,0.4
+Sepsis,Selected best model,anchored_quadratic_fourier_80,"Quadratic trend + Fourier seasonality, anchored 80% to recent seasonal mean",2021,"Apr., 2021",2021/04,4.6,4.2,0.4
+Sepsis,Selected best model,anchored_quadratic_fourier_80,"Quadratic trend + Fourier seasonality, anchored 80% to recent seasonal mean",2021,"May, 2021",2021/05,4.5,4.0,0.5
+Sepsis,Selected best model,anchored_quadratic_fourier_80,"Quadratic trend + Fourier seasonality, anchored 80% to recent seasonal mean",2021,"Jun., 2021",2021/06,4.3,3.9,0.4
+Sepsis,Selected best model,anchored_quadratic_fourier_80,"Quadratic trend + Fourier seasonality, anchored 80% to recent seasonal mean",2021,"Jul., 2021",2021/07,4.7,3.9,0.8
+Sepsis,Selected best model,anchored_quadratic_fourier_80,"Quadratic trend + Fourier seasonality, anchored 80% to recent seasonal mean",2021,"Aug., 2021",2021/08,5.7,3.9,1.8
+Sepsis,Selected best model,anchored_quadratic_fourier_80,"Quadratic trend + Fourier seasonality, anchored 80% to recent seasonal mean",2021,"Sep., 2021",2021/09,6.1,3.9,2.2
+Sepsis,Selected best model,anchored_quadratic_fourier_80,"Quadratic trend + Fourier seasonality, anchored 80% to recent seasonal mean",2021,"Oct., 2021",2021/10,5.9,4.1,1.8
+Sepsis,Selected best model,anchored_quadratic_fourier_80,"Quadratic trend + Fourier seasonality, anchored 80% to recent seasonal mean",2021,"Nov., 2021",2021/11,5.4,4.2,1.2
+Sepsis,Selected best model,anchored_quadratic_fourier_80,"Quadratic trend + Fourier seasonality, anchored 80% to recent seasonal mean",2021,"Dec., 2021",2021/12,6.0,4.7,1.3
+Sepsis,Selected best model,anchored_quadratic_fourier_80,"Quadratic trend + Fourier seasonality, anchored 80% to recent seasonal mean",2022,"Jan., 2022",2022/01,6.9,5.1,1.8
+Sepsis,Selected best model,anchored_quadratic_fourier_80,"Quadratic trend + Fourier seasonality, anchored 80% to recent seasonal mean",2022,"Feb., 2022",2022/02,5.4,4.5,0.9
+Sepsis,Selected best model,anchored_quadratic_fourier_80,"Quadratic trend + Fourier seasonality, anchored 80% to recent seasonal mean",2022,"Mar., 2022",2022/03,4.8,4.6,0.2
+Sepsis,Selected best model,anchored_quadratic_fourier_80,"Quadratic trend + Fourier seasonality, anchored 80% to recent seasonal mean",2022,"Apr., 2022",2022/04,4.2,4.2,0.0
+Sepsis,Selected best model,anchored_quadratic_fourier_80,"Quadratic trend + Fourier seasonality, anchored 80% to recent seasonal mean",2022,"May, 2022",2022/05,4.3,4.0,0.3
+Sepsis,Selected best model,anchored_quadratic_fourier_80,"Quadratic trend + Fourier seasonality, anchored 80% to recent seasonal mean",2022,"Jun., 2022",2022/06,4.3,3.9,0.4
+Sepsis,Selected best model,anchored_quadratic_fourier_80,"Quadratic trend + Fourier seasonality, anchored 80% to recent seasonal mean",2022,"Jul., 2022",2022/07,4.5,3.9,0.6
+Sepsis,Selected best model,anchored_quadratic_fourier_80,"Quadratic trend + Fourier seasonality, anchored 80% to recent seasonal mean",2022,"Aug., 2022",2022/08,4.5,3.9,0.6
+Sepsis,Selected best model,anchored_quadratic_fourier_80,"Quadratic trend + Fourier seasonality, anchored 80% to recent seasonal mean",2022,"Sep., 2022",2022/09,4.4,3.9,0.5
+Sepsis,Selected best model,anchored_quadratic_fourier_80,"Quadratic trend + Fourier seasonality, anchored 80% to recent seasonal mean",2022,"Oct., 2022",2022/10,4.6,4.1,0.5
+Sepsis,Selected best model,anchored_quadratic_fourier_80,"Quadratic trend + Fourier seasonality, anchored 80% to recent seasonal mean",2022,"Nov., 2022",2022/11,4.8,4.2,0.6
+Sepsis,Selected best model,anchored_quadratic_fourier_80,"Quadratic trend + Fourier seasonality, anchored 80% to recent seasonal mean",2022,"Dec., 2022",2022/12,5.5,4.6,0.9
+Sepsis,Selected best model,anchored_quadratic_fourier_80,"Quadratic trend + Fourier seasonality, anchored 80% to recent seasonal mean",2023,"Jan., 2023",2023/01,5.4,5.0,0.4
+Sepsis,Selected best model,anchored_quadratic_fourier_80,"Quadratic trend + Fourier seasonality, anchored 80% to recent seasonal mean",2023,"Feb., 2023",2023/02,4.3,4.5,-0.2
+Sepsis,Selected best model,anchored_quadratic_fourier_80,"Quadratic trend + Fourier seasonality, anchored 80% to recent seasonal mean",2023,"Mar., 2023",2023/03,4.7,4.6,0.1
+Sepsis,Selected best model,anchored_quadratic_fourier_80,"Quadratic trend + Fourier seasonality, anchored 80% to recent seasonal mean",2023,"Apr., 2023",2023/04,4.4,4.2,0.2
+Sepsis,Selected best model,anchored_quadratic_fourier_80,"Quadratic trend + Fourier seasonality, anchored 80% to recent seasonal mean",2023,"May, 2023",2023/05,4.3,4.0,0.3
+Sepsis,Selected best model,anchored_quadratic_fourier_80,"Quadratic trend + Fourier seasonality, anchored 80% to recent seasonal mean",2023,"Jun., 2023",2023/06,4.0,3.9,0.1
+Sepsis,Selected best model,anchored_quadratic_fourier_80,"Quadratic trend + Fourier seasonality, anchored 80% to recent seasonal mean",2023,"Jul., 2023",2023/07,4.1,3.9,0.2
+Sepsis,Selected best model,anchored_quadratic_fourier_80,"Quadratic trend + Fourier seasonality, anchored 80% to recent seasonal mean",2023,"Aug., 2023",2023/08,4.1,3.9,0.2
+Sepsis,Selected best model,anchored_quadratic_fourier_80,"Quadratic trend + Fourier seasonality, anchored 80% to recent seasonal mean",2023,"Sep., 2023",2023/09,4.2,3.9,0.3
+Sepsis,Selected best model,anchored_quadratic_fourier_80,"Quadratic trend + Fourier seasonality, anchored 80% to recent seasonal mean",2023,"Oct., 2023",2023/10,4.4,4.1,0.3
+Sepsis,Selected best model,anchored_quadratic_fourier_80,"Quadratic trend + Fourier seasonality, anchored 80% to recent seasonal mean",2023,"Nov., 2023",2023/11,4.4,4.1,0.3
+Sepsis,Selected best model,anchored_quadratic_fourier_80,"Quadratic trend + Fourier seasonality, anchored 80% to recent seasonal mean",2023,"Dec., 2023",2023/12,5.0,4.6,0.4
+Sepsis,Selected best model,anchored_quadratic_fourier_80,"Quadratic trend + Fourier seasonality, anchored 80% to recent seasonal mean",2024,"Jan., 2024",2024/01,5.2,5.0,0.2
+Sepsis,Selected best model,anchored_quadratic_fourier_80,"Quadratic trend + Fourier seasonality, anchored 80% to recent seasonal mean",2024,"Feb., 2024",2024/02,4.3,4.4,-0.1
+Sepsis,Selected best model,anchored_quadratic_fourier_80,"Quadratic trend + Fourier seasonality, anchored 80% to recent seasonal mean",2024,"Mar., 2024",2024/03,4.5,4.6,-0.1
+Sepsis,Selected best model,anchored_quadratic_fourier_80,"Quadratic trend + Fourier seasonality, anchored 80% to recent seasonal mean",2024,"Apr., 2024",2024/04,4.1,4.1,0.0
+Sepsis,Selected best model,anchored_quadratic_fourier_80,"Quadratic trend + Fourier seasonality, anchored 80% to recent seasonal mean",2024,"May, 2024",2024/05,4.0,4.0,0.0
+Sepsis,Selected best model,anchored_quadratic_fourier_80,"Quadratic trend + Fourier seasonality, anchored 80% to recent seasonal mean",2024,"Jun., 2024",2024/06,3.9,3.8,0.1
+Sepsis,Selected best model,anchored_quadratic_fourier_80,"Quadratic trend + Fourier seasonality, anchored 80% to recent seasonal mean",2024,"Jul., 2024",2024/07,4.0,3.9,0.1
+Sepsis,Selected best model,anchored_quadratic_fourier_80,"Quadratic trend + Fourier seasonality, anchored 80% to recent seasonal mean",2024,"Aug., 2024",2024/08,4.0,3.9,0.1
+Sepsis,Selected best model,anchored_quadratic_fourier_80,"Quadratic trend + Fourier seasonality, anchored 80% to recent seasonal mean",2024,"Sep., 2024",2024/09,3.9,3.8,0.1
+Sepsis,Selected best model,anchored_quadratic_fourier_80,"Quadratic trend + Fourier seasonality, anchored 80% to recent seasonal mean",2024,"Oct., 2024",2024/10,4.2,4.0,0.2
+Sepsis,Selected best model,anchored_quadratic_fourier_80,"Quadratic trend + Fourier seasonality, anchored 80% to recent seasonal mean",2024,"Nov., 2024",2024/11,4.0,4.1,-0.1
+Sepsis,Selected best model,anchored_quadratic_fourier_80,"Quadratic trend + Fourier seasonality, anchored 80% to recent seasonal mean",2024,"Dec., 2024",2024/12,4.6,4.6,0.0
+Sepsis,Selected best model,anchored_quadratic_fourier_80,"Quadratic trend + Fourier seasonality, anchored 80% to recent seasonal mean",2025,"Jan., 2025",2025/01,5.3,5.0,0.3
+Sepsis,Selected best model,anchored_quadratic_fourier_80,"Quadratic trend + Fourier seasonality, anchored 80% to recent seasonal mean",2025,"Feb., 2025",2025/02,4.7,4.4,0.3
+Sepsis,Selected best model,anchored_quadratic_fourier_80,"Quadratic trend + Fourier seasonality, anchored 80% to recent seasonal mean",2025,"Mar., 2025",2025/03,4.6,4.5,0.1
+Sepsis,Selected best model,anchored_quadratic_fourier_80,"Quadratic trend + Fourier seasonality, anchored 80% to recent seasonal mean",2025,"Apr., 2025",2025/04,4.1,4.1,0.0
+Sepsis,Selected best model,anchored_quadratic_fourier_80,"Quadratic trend + Fourier seasonality, anchored 80% to recent seasonal mean",2025,"May., 2025",2025/05,4.0,4.0,0.0
+Sepsis,Selected best model,anchored_quadratic_fourier_80,"Quadratic trend + Fourier seasonality, anchored 80% to recent seasonal mean",2025,"Jun., 2025",2025/06,3.8,3.8,0.0
+Sepsis,Selected best model,anchored_quadratic_fourier_80,"Quadratic trend + Fourier seasonality, anchored 80% to recent seasonal mean",2025,"Jul., 2025",2025/07,3.9,3.9,0.0
+Sepsis,Selected best model,anchored_quadratic_fourier_80,"Quadratic trend + Fourier seasonality, anchored 80% to recent seasonal mean",2025,"Aug., 2025",2025/08,3.9,3.8,0.1
+Sepsis,Selected best model,anchored_quadratic_fourier_80,"Quadratic trend + Fourier seasonality, anchored 80% to recent seasonal mean",2025,"Sep., 2025",2025/09,3.8,3.8,0.0
+Sepsis,Selected best model,anchored_quadratic_fourier_80,"Quadratic trend + Fourier seasonality, anchored 80% to recent seasonal mean",2025,"Oct., 2025",2025/10,4.1,4.0,0.1
+Sepsis,Selected best model,anchored_quadratic_fourier_80,"Quadratic trend + Fourier seasonality, anchored 80% to recent seasonal mean",2025,"Nov., 2025",2025/11,3.9,4.1,-0.2
+Sepsis,Selected best model,anchored_quadratic_fourier_80,"Quadratic trend + Fourier seasonality, anchored 80% to recent seasonal mean",2025,"Dec., 2025",2025/12,4.5,4.6,-0.1
+Sepsis,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2020,"Jan., 2020",2020/01,4.8,5.0,-0.2
+Sepsis,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2020,"Feb., 2020",2020/02,4.3,4.3,0.0
+Sepsis,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2020,"Mar., 2020",2020/03,4.7,4.6,0.1
+Sepsis,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2020,"Apr., 2020",2020/04,5.3,4.1,1.2
+Sepsis,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2020,"May, 2020",2020/05,4.6,4.0,0.6
+Sepsis,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2020,"Jun., 2020",2020/06,4.2,3.8,0.4
+Sepsis,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2020,"Jul., 2020",2020/07,4.8,3.9,0.9
+Sepsis,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2020,"Aug., 2020",2020/08,5.0,3.9,1.1
+Sepsis,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2020,"Sep., 2020",2020/09,4.5,3.9,0.6
+Sepsis,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2020,"Oct., 2020",2020/10,4.8,4.1,0.7
+Sepsis,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2020,"Nov., 2020",2020/11,5.3,4.1,1.2
+Sepsis,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2020,"Dec., 2020",2020/12,6.6,4.6,2.0
+Sepsis,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2021,"Jan., 2021",2021/01,7.0,4.9,2.1
+Sepsis,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2021,"Feb., 2021",2021/02,5.4,4.3,1.1
+Sepsis,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2021,"Mar., 2021",2021/03,5.0,4.5,0.5
+Sepsis,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2021,"Apr., 2021",2021/04,4.6,4.1,0.5
+Sepsis,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2021,"May, 2021",2021/05,4.5,4.0,0.5
+Sepsis,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2021,"Jun., 2021",2021/06,4.3,3.8,0.5
+Sepsis,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2021,"Jul., 2021",2021/07,4.7,3.9,0.8
+Sepsis,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2021,"Aug., 2021",2021/08,5.7,3.9,1.8
+Sepsis,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2021,"Sep., 2021",2021/09,6.1,3.8,2.3
+Sepsis,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2021,"Oct., 2021",2021/10,5.9,4.1,1.8
+Sepsis,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2021,"Nov., 2021",2021/11,5.4,4.1,1.3
+Sepsis,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2021,"Dec., 2021",2021/12,6.0,4.5,1.5
+Sepsis,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2022,"Jan., 2022",2022/01,6.9,4.9,2.0
+Sepsis,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2022,"Feb., 2022",2022/02,5.4,4.2,1.2
+Sepsis,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2022,"Mar., 2022",2022/03,4.8,4.4,0.4
+Sepsis,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2022,"Apr., 2022",2022/04,4.2,4.0,0.2
+Sepsis,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2022,"May, 2022",2022/05,4.3,3.9,0.4
+Sepsis,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2022,"Jun., 2022",2022/06,4.3,3.7,0.6
+Sepsis,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2022,"Jul., 2022",2022/07,4.5,3.8,0.7
+Sepsis,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2022,"Aug., 2022",2022/08,4.5,3.8,0.7
+Sepsis,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2022,"Sep., 2022",2022/09,4.4,3.7,0.7
+Sepsis,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2022,"Oct., 2022",2022/10,4.6,4.0,0.6
+Sepsis,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2022,"Nov., 2022",2022/11,4.8,4.0,0.8
+Sepsis,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2022,"Dec., 2022",2022/12,5.5,4.4,1.1
+Sepsis,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2023,"Jan., 2023",2023/01,5.4,4.8,0.6
+Sepsis,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2023,"Feb., 2023",2023/02,4.3,4.1,0.2
+Sepsis,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2023,"Mar., 2023",2023/03,4.7,4.4,0.3
+Sepsis,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2023,"Apr., 2023",2023/04,4.4,3.9,0.5
+Sepsis,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2023,"May, 2023",2023/05,4.3,3.8,0.5
+Sepsis,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2023,"Jun., 2023",2023/06,4.0,3.6,0.4
+Sepsis,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2023,"Jul., 2023",2023/07,4.1,3.7,0.4
+Sepsis,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2023,"Aug., 2023",2023/08,4.1,3.7,0.4
+Sepsis,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2023,"Sep., 2023",2023/09,4.2,3.6,0.6
+Sepsis,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2023,"Oct., 2023",2023/10,4.4,3.9,0.5
+Sepsis,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2023,"Nov., 2023",2023/11,4.4,3.9,0.5
+Sepsis,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2023,"Dec., 2023",2023/12,5.0,4.3,0.7
+Sepsis,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2024,"Jan., 2024",2024/01,5.2,4.7,0.5
+Sepsis,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2024,"Feb., 2024",2024/02,4.3,4.0,0.3
+Sepsis,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2024,"Mar., 2024",2024/03,4.5,4.2,0.3
+Sepsis,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2024,"Apr., 2024",2024/04,4.1,3.8,0.3
+Sepsis,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2024,"May, 2024",2024/05,4.0,3.7,0.3
+Sepsis,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2024,"Jun., 2024",2024/06,3.9,3.5,0.4
+Sepsis,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2024,"Jul., 2024",2024/07,4.0,3.6,0.4
+Sepsis,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2024,"Aug., 2024",2024/08,4.0,3.6,0.4
+Sepsis,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2024,"Sep., 2024",2024/09,3.9,3.5,0.4
+Sepsis,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2024,"Oct., 2024",2024/10,4.2,3.8,0.4
+Sepsis,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2024,"Nov., 2024",2024/11,4.0,3.7,0.3
+Sepsis,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2024,"Dec., 2024",2024/12,4.6,4.2,0.4
+Sepsis,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2025,"Jan., 2025",2025/01,5.3,4.6,0.7
+Sepsis,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2025,"Feb., 2025",2025/02,4.7,3.9,0.8
+Sepsis,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2025,"Mar., 2025",2025/03,4.6,4.1,0.5
+Sepsis,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2025,"Apr., 2025",2025/04,4.1,3.7,0.4
+Sepsis,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2025,"May., 2025",2025/05,4.0,3.6,0.4
+Sepsis,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2025,"Jun., 2025",2025/06,3.8,3.3,0.5
+Sepsis,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2025,"Jul., 2025",2025/07,3.9,3.5,0.4
+Sepsis,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2025,"Aug., 2025",2025/08,3.9,3.4,0.5
+Sepsis,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2025,"Sep., 2025",2025/09,3.8,3.4,0.4
+Sepsis,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2025,"Oct., 2025",2025/10,4.1,3.6,0.5
+Sepsis,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2025,"Nov., 2025",2025/11,3.9,3.6,0.3
+Sepsis,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2025,"Dec., 2025",2025/12,4.5,4.1,0.4
+Pneumonia,Selected best model,log_linear_month_fe,Log-linear trend + month effects,2020,"Jan., 2020",2020/01,3.6,3.9,-0.3
+Pneumonia,Selected best model,log_linear_month_fe,Log-linear trend + month effects,2020,"Feb., 2020",2020/02,3.2,3.3,-0.1
+Pneumonia,Selected best model,log_linear_month_fe,Log-linear trend + month effects,2020,"Mar., 2020",2020/03,4.7,3.4,1.3
+Pneumonia,Selected best model,log_linear_month_fe,Log-linear trend + month effects,2020,"Apr., 2020",2020/04,10.2,2.9,7.3
+Pneumonia,Selected best model,log_linear_month_fe,Log-linear trend + month effects,2020,"May, 2020",2020/05,6.2,2.7,3.5
+Pneumonia,Selected best model,log_linear_month_fe,Log-linear trend + month effects,2020,"Jun., 2020",2020/06,4.1,2.5,1.6
+Pneumonia,Selected best model,log_linear_month_fe,Log-linear trend + month effects,2020,"Jul., 2020",2020/07,5.9,2.4,3.5
+Pneumonia,Selected best model,log_linear_month_fe,Log-linear trend + month effects,2020,"Aug., 2020",2020/08,5.9,2.4,3.5
+Pneumonia,Selected best model,log_linear_month_fe,Log-linear trend + month effects,2020,"Sep., 2020",2020/09,4.5,2.4,2.1
+Pneumonia,Selected best model,log_linear_month_fe,Log-linear trend + month effects,2020,"Oct., 2020",2020/10,5.2,2.6,2.6
+Pneumonia,Selected best model,log_linear_month_fe,Log-linear trend + month effects,2020,"Nov., 2020",2020/11,8.3,2.7,5.6
+Pneumonia,Selected best model,log_linear_month_fe,Log-linear trend + month effects,2020,"Dec., 2020",2020/12,13.9,3.2,10.7
+Pneumonia,Selected best model,log_linear_month_fe,Log-linear trend + month effects,2021,"Jan., 2021",2021/01,16.0,3.7,12.3
+Pneumonia,Selected best model,log_linear_month_fe,Log-linear trend + month effects,2021,"Feb., 2021",2021/02,8.6,3.2,5.4
+Pneumonia,Selected best model,log_linear_month_fe,Log-linear trend + month effects,2021,"Mar., 2021",2021/03,5.4,3.3,2.1
+Pneumonia,Selected best model,log_linear_month_fe,Log-linear trend + month effects,2021,"Apr., 2021",2021/04,4.7,2.8,1.9
+Pneumonia,Selected best model,log_linear_month_fe,Log-linear trend + month effects,2021,"May, 2021",2021/05,4.3,2.6,1.7
+Pneumonia,Selected best model,log_linear_month_fe,Log-linear trend + month effects,2021,"Jun., 2021",2021/06,3.4,2.4,1.0
+Pneumonia,Selected best model,log_linear_month_fe,Log-linear trend + month effects,2021,"Jul., 2021",2021/07,4.0,2.3,1.7
+Pneumonia,Selected best model,log_linear_month_fe,Log-linear trend + month effects,2021,"Aug., 2021",2021/08,9.8,2.3,7.5
+Pneumonia,Selected best model,log_linear_month_fe,Log-linear trend + month effects,2021,"Sep., 2021",2021/09,12.0,2.3,9.7
+Pneumonia,Selected best model,log_linear_month_fe,Log-linear trend + month effects,2021,"Oct., 2021",2021/10,8.9,2.5,6.4
+Pneumonia,Selected best model,log_linear_month_fe,Log-linear trend + month effects,2021,"Nov., 2021",2021/11,7.2,2.6,4.6
+Pneumonia,Selected best model,log_linear_month_fe,Log-linear trend + month effects,2021,"Dec., 2021",2021/12,9.3,3.1,6.2
+Pneumonia,Selected best model,log_linear_month_fe,Log-linear trend + month effects,2022,"Jan., 2022",2022/01,12.8,3.6,9.2
+Pneumonia,Selected best model,log_linear_month_fe,Log-linear trend + month effects,2022,"Feb., 2022",2022/02,8.2,3.1,5.1
+Pneumonia,Selected best model,log_linear_month_fe,Log-linear trend + month effects,2022,"Mar., 2022",2022/03,4.1,3.2,0.9
+Pneumonia,Selected best model,log_linear_month_fe,Log-linear trend + month effects,2022,"Apr., 2022",2022/04,2.9,2.7,0.2
+Pneumonia,Selected best model,log_linear_month_fe,Log-linear trend + month effects,2022,"May, 2022",2022/05,3.1,2.5,0.6
+Pneumonia,Selected best model,log_linear_month_fe,Log-linear trend + month effects,2022,"Jun., 2022",2022/06,3.1,2.3,0.8
+Pneumonia,Selected best model,log_linear_month_fe,Log-linear trend + month effects,2022,"Jul., 2022",2022/07,3.3,2.3,1.0
+Pneumonia,Selected best model,log_linear_month_fe,Log-linear trend + month effects,2022,"Aug., 2022",2022/08,3.4,2.2,1.2
+Pneumonia,Selected best model,log_linear_month_fe,Log-linear trend + month effects,2022,"Sep., 2022",2022/09,3.2,2.2,1.0
+Pneumonia,Selected best model,log_linear_month_fe,Log-linear trend + month effects,2022,"Oct., 2022",2022/10,3.3,2.5,0.8
+Pneumonia,Selected best model,log_linear_month_fe,Log-linear trend + month effects,2022,"Nov., 2022",2022/11,3.6,2.5,1.1
+Pneumonia,Selected best model,log_linear_month_fe,Log-linear trend + month effects,2022,"Dec., 2022",2022/12,4.6,3.0,1.6
+Pneumonia,Selected best model,log_linear_month_fe,Log-linear trend + month effects,2023,"Jan., 2023",2023/01,4.5,3.5,1.0
+Pneumonia,Selected best model,log_linear_month_fe,Log-linear trend + month effects,2023,"Feb., 2023",2023/02,3.4,3.0,0.4
+Pneumonia,Selected best model,log_linear_month_fe,Log-linear trend + month effects,2023,"Mar., 2023",2023/03,3.5,3.1,0.4
+Pneumonia,Selected best model,log_linear_month_fe,Log-linear trend + month effects,2023,"Apr., 2023",2023/04,3.1,2.6,0.5
+Pneumonia,Selected best model,log_linear_month_fe,Log-linear trend + month effects,2023,"May, 2023",2023/05,2.9,2.4,0.5
+Pneumonia,Selected best model,log_linear_month_fe,Log-linear trend + month effects,2023,"Jun., 2023",2023/06,2.7,2.2,0.5
+Pneumonia,Selected best model,log_linear_month_fe,Log-linear trend + month effects,2023,"Jul., 2023",2023/07,2.5,2.2,0.3
+Pneumonia,Selected best model,log_linear_month_fe,Log-linear trend + month effects,2023,"Aug., 2023",2023/08,2.7,2.1,0.6
+Pneumonia,Selected best model,log_linear_month_fe,Log-linear trend + month effects,2023,"Sep., 2023",2023/09,2.9,2.1,0.8
+Pneumonia,Selected best model,log_linear_month_fe,Log-linear trend + month effects,2023,"Oct., 2023",2023/10,3.1,2.4,0.7
+Pneumonia,Selected best model,log_linear_month_fe,Log-linear trend + month effects,2023,"Nov., 2023",2023/11,3.2,2.4,0.8
+Pneumonia,Selected best model,log_linear_month_fe,Log-linear trend + month effects,2023,"Dec., 2023",2023/12,3.9,2.9,1.0
+Pneumonia,Selected best model,log_linear_month_fe,Log-linear trend + month effects,2024,"Jan., 2024",2024/01,4.3,3.4,0.9
+Pneumonia,Selected best model,log_linear_month_fe,Log-linear trend + month effects,2024,"Feb., 2024",2024/02,3.3,2.9,0.4
+Pneumonia,Selected best model,log_linear_month_fe,Log-linear trend + month effects,2024,"Mar., 2024",2024/03,3.2,3.0,0.2
+Pneumonia,Selected best model,log_linear_month_fe,Log-linear trend + month effects,2024,"Apr., 2024",2024/04,2.9,2.6,0.3
+Pneumonia,Selected best model,log_linear_month_fe,Log-linear trend + month effects,2024,"May, 2024",2024/05,2.7,2.4,0.3
+Pneumonia,Selected best model,log_linear_month_fe,Log-linear trend + month effects,2024,"Jun., 2024",2024/06,2.6,2.2,0.4
+Pneumonia,Selected best model,log_linear_month_fe,Log-linear trend + month effects,2024,"Jul., 2024",2024/07,2.7,2.1,0.6
+Pneumonia,Selected best model,log_linear_month_fe,Log-linear trend + month effects,2024,"Aug., 2024",2024/08,2.7,2.1,0.6
+Pneumonia,Selected best model,log_linear_month_fe,Log-linear trend + month effects,2024,"Sep., 2024",2024/09,2.7,2.1,0.6
+Pneumonia,Selected best model,log_linear_month_fe,Log-linear trend + month effects,2024,"Oct., 2024",2024/10,2.8,2.3,0.5
+Pneumonia,Selected best model,log_linear_month_fe,Log-linear trend + month effects,2024,"Nov., 2024",2024/11,2.7,2.3,0.4
+Pneumonia,Selected best model,log_linear_month_fe,Log-linear trend + month effects,2024,"Dec., 2024",2024/12,3.3,2.8,0.5
+Pneumonia,Selected best model,log_linear_month_fe,Log-linear trend + month effects,2025,"Jan., 2025",2025/01,4.1,3.3,0.8
+Pneumonia,Selected best model,log_linear_month_fe,Log-linear trend + month effects,2025,"Feb., 2025",2025/02,3.6,2.8,0.8
+Pneumonia,Selected best model,log_linear_month_fe,Log-linear trend + month effects,2025,"Mar., 2025",2025/03,3.4,2.9,0.5
+Pneumonia,Selected best model,log_linear_month_fe,Log-linear trend + month effects,2025,"Apr., 2025",2025/04,3.0,2.5,0.5
+Pneumonia,Selected best model,log_linear_month_fe,Log-linear trend + month effects,2025,"May., 2025",2025/05,2.7,2.3,0.4
+Pneumonia,Selected best model,log_linear_month_fe,Log-linear trend + month effects,2025,"Jun., 2025",2025/06,2.5,2.1,0.4
+Pneumonia,Selected best model,log_linear_month_fe,Log-linear trend + month effects,2025,"Jul., 2025",2025/07,2.5,2.0,0.5
+Pneumonia,Selected best model,log_linear_month_fe,Log-linear trend + month effects,2025,"Aug., 2025",2025/08,2.4,2.0,0.4
+Pneumonia,Selected best model,log_linear_month_fe,Log-linear trend + month effects,2025,"Sep., 2025",2025/09,2.5,2.0,0.5
+Pneumonia,Selected best model,log_linear_month_fe,Log-linear trend + month effects,2025,"Oct., 2025",2025/10,2.6,2.2,0.4
+Pneumonia,Selected best model,log_linear_month_fe,Log-linear trend + month effects,2025,"Nov., 2025",2025/11,2.6,2.3,0.3
+Pneumonia,Selected best model,log_linear_month_fe,Log-linear trend + month effects,2025,"Dec., 2025",2025/12,3.1,2.7,0.4
+Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2020,"Jan., 2020",2020/01,3.6,4.0,-0.4
+Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2020,"Feb., 2020",2020/02,3.2,3.3,-0.1
+Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2020,"Mar., 2020",2020/03,4.7,3.4,1.3
+Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2020,"Apr., 2020",2020/04,10.2,2.9,7.3
+Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2020,"May, 2020",2020/05,6.2,2.6,3.6
+Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2020,"Jun., 2020",2020/06,4.1,2.3,1.8
+Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2020,"Jul., 2020",2020/07,5.9,2.2,3.7
+Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2020,"Aug., 2020",2020/08,5.9,2.2,3.7
+Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2020,"Sep., 2020",2020/09,4.5,2.2,2.3
+Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2020,"Oct., 2020",2020/10,5.2,2.5,2.7
+Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2020,"Nov., 2020",2020/11,8.3,2.5,5.8
+Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2020,"Dec., 2020",2020/12,13.9,3.1,10.8
+Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2021,"Jan., 2021",2021/01,16.0,3.9,12.1
+Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2021,"Feb., 2021",2021/02,8.6,3.1,5.5
+Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2021,"Mar., 2021",2021/03,5.4,3.3,2.1
+Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2021,"Apr., 2021",2021/04,4.7,2.7,2.0
+Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2021,"May, 2021",2021/05,4.3,2.4,1.9
+Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2021,"Jun., 2021",2021/06,3.4,2.1,1.3
+Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2021,"Jul., 2021",2021/07,4.0,2.1,1.9
+Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2021,"Aug., 2021",2021/08,9.8,2.0,7.8
+Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2021,"Sep., 2021",2021/09,12.0,2.0,10.0
+Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2021,"Oct., 2021",2021/10,8.9,2.3,6.6
+Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2021,"Nov., 2021",2021/11,7.2,2.4,4.8
+Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2021,"Dec., 2021",2021/12,9.3,3.0,6.3
+Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2022,"Jan., 2022",2022/01,12.8,3.7,9.1
+Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2022,"Feb., 2022",2022/02,8.2,3.0,5.2
+Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2022,"Mar., 2022",2022/03,4.1,3.1,1.0
+Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2022,"Apr., 2022",2022/04,2.9,2.5,0.4
+Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2022,"May, 2022",2022/05,3.1,2.3,0.8
+Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2022,"Jun., 2022",2022/06,3.1,2.0,1.1
+Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2022,"Jul., 2022",2022/07,3.3,1.9,1.4
+Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2022,"Aug., 2022",2022/08,3.4,1.8,1.6
+Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2022,"Sep., 2022",2022/09,3.2,1.9,1.3
+Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2022,"Oct., 2022",2022/10,3.3,2.1,1.2
+Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2022,"Nov., 2022",2022/11,3.6,2.2,1.4
+Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2022,"Dec., 2022",2022/12,4.6,2.8,1.8
+Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2023,"Jan., 2023",2023/01,4.5,3.6,0.9
+Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2023,"Feb., 2023",2023/02,3.4,2.8,0.6
+Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2023,"Mar., 2023",2023/03,3.5,2.9,0.6
+Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2023,"Apr., 2023",2023/04,3.1,2.4,0.7
+Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2023,"May, 2023",2023/05,2.9,2.1,0.8
+Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2023,"Jun., 2023",2023/06,2.7,1.8,0.9
+Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2023,"Jul., 2023",2023/07,2.5,1.7,0.8
+Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2023,"Aug., 2023",2023/08,2.7,1.7,1.0
+Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2023,"Sep., 2023",2023/09,2.9,1.7,1.2
+Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2023,"Oct., 2023",2023/10,3.1,2.0,1.1
+Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2023,"Nov., 2023",2023/11,3.2,2.0,1.2
+Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2023,"Dec., 2023",2023/12,3.9,2.6,1.3
+Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2024,"Jan., 2024",2024/01,4.3,3.4,0.9
+Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2024,"Feb., 2024",2024/02,3.3,2.6,0.7
+Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2024,"Mar., 2024",2024/03,3.2,2.8,0.4
+Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2024,"Apr., 2024",2024/04,2.9,2.2,0.7
+Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2024,"May, 2024",2024/05,2.7,1.9,0.8
+Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2024,"Jun., 2024",2024/06,2.6,1.6,1.0
+Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2024,"Jul., 2024",2024/07,2.7,1.6,1.1
+Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2024,"Aug., 2024",2024/08,2.7,1.5,1.2
+Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2024,"Sep., 2024",2024/09,2.7,1.5,1.2
+Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2024,"Oct., 2024",2024/10,2.8,1.8,1.0
+Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2024,"Nov., 2024",2024/11,2.7,1.9,0.8
+Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2024,"Dec., 2024",2024/12,3.3,2.5,0.8
+Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2025,"Jan., 2025",2025/01,4.1,3.2,0.9
+Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2025,"Feb., 2025",2025/02,3.6,2.4,1.2
+Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2025,"Mar., 2025",2025/03,3.4,2.6,0.8
+Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2025,"Apr., 2025",2025/04,3.0,2.0,1.0
+Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2025,"May., 2025",2025/05,2.7,1.7,1.0
+Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2025,"Jun., 2025",2025/06,2.5,1.5,1.0
+Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2025,"Jul., 2025",2025/07,2.5,1.4,1.1
+Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2025,"Aug., 2025",2025/08,2.4,1.3,1.1
+Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2025,"Sep., 2025",2025/09,2.5,1.3,1.2
+Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2025,"Oct., 2025",2025/10,2.6,1.6,1.0
+Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2025,"Nov., 2025",2025/11,2.6,1.7,0.9
+Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2025,"Dec., 2025",2025/12,3.1,2.3,0.8
+Combined,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",2020,"Jan., 2020",2020/01,1.2,1.2,0.0
+Combined,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",2020,"Feb., 2020",2020/02,1.0,1.1,-0.1
+Combined,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",2020,"Mar., 2020",2020/03,1.2,1.1,0.1
+Combined,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",2020,"Apr., 2020",2020/04,1.7,0.9,0.8
+Combined,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",2020,"May, 2020",2020/05,1.3,0.9,0.4
+Combined,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",2020,"Jun., 2020",2020/06,1.0,0.8,0.2
+Combined,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",2020,"Jul., 2020",2020/07,1.3,0.8,0.5
+Combined,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",2020,"Aug., 2020",2020/08,1.4,0.8,0.6
+Combined,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",2020,"Sep., 2020",2020/09,1.1,0.8,0.3
+Combined,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",2020,"Oct., 2020",2020/10,1.2,0.9,0.3
+Combined,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",2020,"Nov., 2020",2020/11,1.6,0.9,0.7
+Combined,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",2020,"Dec., 2020",2020/12,2.3,1.0,1.3
+Combined,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",2021,"Jan., 2021",2021/01,2.6,1.2,1.4
+Combined,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",2021,"Feb., 2021",2021/02,1.7,1.0,0.7
+Combined,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",2021,"Mar., 2021",2021/03,1.3,1.1,0.2
+Combined,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",2021,"Apr., 2021",2021/04,1.1,0.9,0.2
+Combined,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",2021,"May, 2021",2021/05,1.1,0.9,0.2
+Combined,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",2021,"Jun., 2021",2021/06,1.0,0.8,0.2
+Combined,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",2021,"Jul., 2021",2021/07,1.1,0.8,0.3
+Combined,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",2021,"Aug., 2021",2021/08,1.8,0.8,1.0
+Combined,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",2021,"Sep., 2021",2021/09,2.2,0.8,1.4
+Combined,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",2021,"Oct., 2021",2021/10,1.8,0.8,1.0
+Combined,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",2021,"Nov., 2021",2021/11,1.5,0.8,0.7
+Combined,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",2021,"Dec., 2021",2021/12,1.8,1.0,0.8
+Combined,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",2022,"Jan., 2022",2022/01,2.3,1.2,1.1
+Combined,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",2022,"Feb., 2022",2022/02,1.7,1.0,0.7
+Combined,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",2022,"Mar., 2022",2022/03,1.1,1.0,0.1
+Combined,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",2022,"Apr., 2022",2022/04,0.9,0.9,0.0
+Combined,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",2022,"May, 2022",2022/05,0.9,0.8,0.1
+Combined,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",2022,"Jun., 2022",2022/06,0.9,0.8,0.1
+Combined,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",2022,"Jul., 2022",2022/07,0.9,0.7,0.2
+Combined,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",2022,"Aug., 2022",2022/08,0.9,0.7,0.2
+Combined,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",2022,"Sep., 2022",2022/09,0.9,0.7,0.2
+Combined,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",2022,"Oct., 2022",2022/10,1.0,0.8,0.2
+Combined,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",2022,"Nov., 2022",2022/11,1.0,0.8,0.2
+Combined,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",2022,"Dec., 2022",2022/12,1.3,1.0,0.3
+Combined,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",2023,"Jan., 2023",2023/01,1.3,1.2,0.1
+Combined,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",2023,"Feb., 2023",2023/02,1.0,1.0,0.0
+Combined,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",2023,"Mar., 2023",2023/03,1.0,1.0,0.0
+Combined,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",2023,"Apr., 2023",2023/04,1.0,0.9,0.1
+Combined,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",2023,"May, 2023",2023/05,0.9,0.8,0.1
+Combined,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",2023,"Jun., 2023",2023/06,0.8,0.7,0.1
+Combined,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",2023,"Jul., 2023",2023/07,0.8,0.7,0.1
+Combined,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",2023,"Aug., 2023",2023/08,0.8,0.7,0.1
+Combined,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",2023,"Sep., 2023",2023/09,0.9,0.7,0.2
+Combined,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",2023,"Oct., 2023",2023/10,0.9,0.8,0.1
+Combined,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",2023,"Nov., 2023",2023/11,1.0,0.8,0.2
+Combined,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",2023,"Dec., 2023",2023/12,1.2,0.9,0.3
+Combined,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",2024,"Jan., 2024",2024/01,1.3,1.1,0.2
+Combined,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",2024,"Feb., 2024",2024/02,1.0,0.9,0.1
+Combined,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",2024,"Mar., 2024",2024/03,1.0,1.0,0.0
+Combined,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",2024,"Apr., 2024",2024/04,0.9,0.8,0.1
+Combined,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",2024,"May, 2024",2024/05,0.9,0.8,0.1
+Combined,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",2024,"Jun., 2024",2024/06,0.9,0.7,0.2
+Combined,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",2024,"Jul., 2024",2024/07,0.9,0.7,0.2
+Combined,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",2024,"Aug., 2024",2024/08,0.9,0.7,0.2
+Combined,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",2024,"Sep., 2024",2024/09,0.8,0.6,0.2
+Combined,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",2024,"Oct., 2024",2024/10,0.9,0.7,0.2
+Combined,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",2024,"Nov., 2024",2024/11,0.9,0.7,0.2
+Combined,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",2024,"Dec., 2024",2024/12,1.1,0.9,0.2
+Combined,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",2025,"Jan., 2025",2025/01,1.3,1.1,0.2
+Combined,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",2025,"Feb., 2025",2025/02,1.1,0.9,0.2
+Combined,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",2025,"Mar., 2025",2025/03,1.1,0.9,0.2
+Combined,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",2025,"Apr., 2025",2025/04,0.9,0.8,0.1
+Combined,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",2025,"May., 2025",2025/05,0.9,0.7,0.2
+Combined,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",2025,"Jun., 2025",2025/06,0.8,0.7,0.1
+Combined,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",2025,"Jul., 2025",2025/07,0.8,0.6,0.2
+Combined,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",2025,"Aug., 2025",2025/08,0.8,0.6,0.2
+Combined,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",2025,"Sep., 2025",2025/09,0.8,0.6,0.2
+Combined,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",2025,"Oct., 2025",2025/10,0.9,0.7,0.2
+Combined,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",2025,"Nov., 2025",2025/11,0.9,0.7,0.2
+Combined,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",2025,"Dec., 2025",2025/12,1.0,0.9,0.1
+Combined,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2020,"Jan., 2020",2020/01,1.2,1.2,0.0
+Combined,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2020,"Feb., 2020",2020/02,1.0,1.0,0.0
+Combined,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2020,"Mar., 2020",2020/03,1.2,1.1,0.1
+Combined,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2020,"Apr., 2020",2020/04,1.7,0.9,0.8
+Combined,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2020,"May, 2020",2020/05,1.3,0.9,0.4
+Combined,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2020,"Jun., 2020",2020/06,1.0,0.8,0.2
+Combined,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2020,"Jul., 2020",2020/07,1.3,0.8,0.5
+Combined,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2020,"Aug., 2020",2020/08,1.4,0.8,0.6
+Combined,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2020,"Sep., 2020",2020/09,1.1,0.8,0.3
+Combined,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2020,"Oct., 2020",2020/10,1.2,0.8,0.4
+Combined,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2020,"Nov., 2020",2020/11,1.6,0.9,0.7
+Combined,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2020,"Dec., 2020",2020/12,2.3,1.0,1.3
+Combined,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2021,"Jan., 2021",2021/01,2.6,1.2,1.4
+Combined,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2021,"Feb., 2021",2021/02,1.7,1.0,0.7
+Combined,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2021,"Mar., 2021",2021/03,1.3,1.0,0.3
+Combined,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2021,"Apr., 2021",2021/04,1.1,0.9,0.2
+Combined,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2021,"May, 2021",2021/05,1.1,0.8,0.3
+Combined,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2021,"Jun., 2021",2021/06,1.0,0.8,0.2
+Combined,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2021,"Jul., 2021",2021/07,1.1,0.8,0.3
+Combined,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2021,"Aug., 2021",2021/08,1.8,0.7,1.1
+Combined,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2021,"Sep., 2021",2021/09,2.2,0.7,1.5
+Combined,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2021,"Oct., 2021",2021/10,1.8,0.8,1.0
+Combined,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2021,"Nov., 2021",2021/11,1.5,0.8,0.7
+Combined,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2021,"Dec., 2021",2021/12,1.8,1.0,0.8
+Combined,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2022,"Jan., 2022",2022/01,2.3,1.2,1.1
+Combined,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2022,"Feb., 2022",2022/02,1.7,1.0,0.7
+Combined,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2022,"Mar., 2022",2022/03,1.1,1.0,0.1
+Combined,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2022,"Apr., 2022",2022/04,0.9,0.9,0.0
+Combined,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2022,"May, 2022",2022/05,0.9,0.8,0.1
+Combined,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2022,"Jun., 2022",2022/06,0.9,0.7,0.2
+Combined,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2022,"Jul., 2022",2022/07,0.9,0.7,0.2
+Combined,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2022,"Aug., 2022",2022/08,0.9,0.7,0.2
+Combined,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2022,"Sep., 2022",2022/09,0.9,0.7,0.2
+Combined,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2022,"Oct., 2022",2022/10,1.0,0.8,0.2
+Combined,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2022,"Nov., 2022",2022/11,1.0,0.8,0.2
+Combined,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2022,"Dec., 2022",2022/12,1.3,0.9,0.4
+Combined,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2023,"Jan., 2023",2023/01,1.3,1.1,0.2
+Combined,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2023,"Feb., 2023",2023/02,1.0,0.9,0.1
+Combined,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2023,"Mar., 2023",2023/03,1.0,1.0,0.0
+Combined,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2023,"Apr., 2023",2023/04,1.0,0.8,0.2
+Combined,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2023,"May, 2023",2023/05,0.9,0.8,0.1
+Combined,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2023,"Jun., 2023",2023/06,0.8,0.7,0.1
+Combined,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2023,"Jul., 2023",2023/07,0.8,0.7,0.1
+Combined,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2023,"Aug., 2023",2023/08,0.8,0.6,0.2
+Combined,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2023,"Sep., 2023",2023/09,0.9,0.6,0.3
+Combined,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2023,"Oct., 2023",2023/10,0.9,0.7,0.2
+Combined,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2023,"Nov., 2023",2023/11,1.0,0.7,0.3
+Combined,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2023,"Dec., 2023",2023/12,1.2,0.9,0.3
+Combined,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2024,"Jan., 2024",2024/01,1.3,1.1,0.2
+Combined,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2024,"Feb., 2024",2024/02,1.0,0.9,0.1
+Combined,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2024,"Mar., 2024",2024/03,1.0,0.9,0.1
+Combined,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2024,"Apr., 2024",2024/04,0.9,0.8,0.1
+Combined,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2024,"May, 2024",2024/05,0.9,0.7,0.2
+Combined,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2024,"Jun., 2024",2024/06,0.9,0.6,0.3
+Combined,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2024,"Jul., 2024",2024/07,0.9,0.6,0.3
+Combined,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2024,"Aug., 2024",2024/08,0.9,0.6,0.3
+Combined,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2024,"Sep., 2024",2024/09,0.8,0.6,0.2
+Combined,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2024,"Oct., 2024",2024/10,0.9,0.7,0.2
+Combined,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2024,"Nov., 2024",2024/11,0.9,0.7,0.2
+Combined,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2024,"Dec., 2024",2024/12,1.1,0.8,0.3
+Combined,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2025,"Jan., 2025",2025/01,1.3,1.0,0.3
+Combined,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2025,"Feb., 2025",2025/02,1.1,0.8,0.3
+Combined,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2025,"Mar., 2025",2025/03,1.1,0.8,0.3
+Combined,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2025,"Apr., 2025",2025/04,0.9,0.7,0.2
+Combined,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2025,"May., 2025",2025/05,0.9,0.6,0.3
+Combined,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2025,"Jun., 2025",2025/06,0.8,0.6,0.2
+Combined,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2025,"Jul., 2025",2025/07,0.8,0.5,0.3
+Combined,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2025,"Aug., 2025",2025/08,0.8,0.5,0.3
+Combined,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2025,"Sep., 2025",2025/09,0.8,0.5,0.3
+Combined,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2025,"Oct., 2025",2025/10,0.9,0.6,0.3
+Combined,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2025,"Nov., 2025",2025/11,0.9,0.6,0.3
+Combined,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2025,"Dec., 2025",2025/12,1.0,0.8,0.2
