@@ -7,10 +7,11 @@ ROOT = Path(__file__).resolve().parents[2]
 PRIMARY_DIR = ROOT / "data" / "primary"
 OUTPUT_DIR = ROOT / "data" / "cleaned"
 
-SEPSIS_FILES = ["Apod2010.csv", "Apod2018.csv"]
+ARDS_FILES = ["ARDSpod2010.xls", "ARDSpod2018.xls"]
 PNEUMONIA_FILES = ["Jpod2010.csv", "Jpod2018.csv"]
 COMBINED_FILES = ["AJpod2010.csv", "AJpod2018.csv"]
 
+ARDS_SUBCHAPTER = "Influenza and pneumonia"
 TARGET_SUBCHAPTER = "Other bacterial diseases"
 SUBCHAPTER_COL = "MCD - ICD Sub-Chapter"
 YEAR_COL = "Year"
@@ -32,6 +33,8 @@ def _read_clean_csv(csv_path: Path) -> pd.DataFrame:
     return pd.read_csv(
         csv_path,
         skiprows=header_row,
+        sep=None,
+        engine="python",
         dtype={YEAR_COL: "string", YEAR_CODE_COL: "string"},
     )
 
@@ -68,14 +71,20 @@ def _filter_combined_subchapter(df: pd.DataFrame) -> pd.DataFrame:
     ].copy()
 
 
+def _filter_ards_subchapter(df: pd.DataFrame) -> pd.DataFrame:
+    if SUBCHAPTER_COL not in df.columns:
+        return df.copy()
+    return df[df[SUBCHAPTER_COL].astype("string").str.strip().eq(ARDS_SUBCHAPTER)].copy()
+
+
 def build_outputs() -> None:
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
-    sepsis_df = _read_and_merge(SEPSIS_FILES)
+    ards_df = _filter_ards_subchapter(_read_and_merge(ARDS_FILES))
     pneumonia_df = _read_and_merge(PNEUMONIA_FILES)
     combined_df = _filter_combined_subchapter(_read_and_merge(COMBINED_FILES))
 
-    sepsis_df.to_csv(OUTPUT_DIR / "sepsis_pod.csv", index=False)
+    ards_df.to_csv(OUTPUT_DIR / "ards_pod.csv", index=False)
     pneumonia_df.to_csv(OUTPUT_DIR / "pneumonia_pod.csv", index=False)
     combined_df.to_csv(OUTPUT_DIR / "combined_pod.csv", index=False)
 

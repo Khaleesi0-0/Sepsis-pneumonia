@@ -8,11 +8,12 @@ PRIMARY_DIR = ROOT / "data" / "primary"
 OUTPUT_DIR = ROOT / "data" / "cleaned"
 
 
-SEPSIS_FILES = ["Asex2010.csv", "Asex2018.csv"]
+ARDS_FILES = ["ARDSsex2010.csv", "ARDSsex2018.csv"]
 PNEUMONIA_FILES = ["Jsex2010.csv", "Jsex2018.csv"]
 COMBINED_FILES = ["AJsex2010.csv", "AJsex2018.csv"]
 PNEUMONIA_COVID_FILES = ["UJsex2018.csv"]
 
+ARDS_SUBCHAPTER = "Influenza and pneumonia"
 TARGET_SUBCHAPTER = "Other bacterial diseases"
 PNEUMONIA_SUBCHAPTER = "Influenza and pneumonia"
 REQUIRED_COLUMNS = {"MCD - ICD Sub-Chapter", "Year", "Sex"}
@@ -53,6 +54,8 @@ def _read_clean_csv(csv_path: Path) -> pd.DataFrame:
     return pd.read_csv(
         csv_path,
         skiprows=header_row,
+        sep=None,
+        engine="python",
         dtype={"Year": "string", "Year Code": "string"},
     )
 
@@ -132,7 +135,7 @@ def _derive_non_covid_pneumonia(
 def build_outputs() -> None:
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
-    sepsis_df = _read_and_merge(SEPSIS_FILES)
+    ards_df = _filter_subchapter(_read_and_merge(ARDS_FILES), ARDS_SUBCHAPTER)
     pneumonia_df = _read_and_merge(PNEUMONIA_FILES)
     combined_df = _read_and_merge(COMBINED_FILES)
     pneumonia_covid_df = _read_and_merge(PNEUMONIA_COVID_FILES)
@@ -147,7 +150,7 @@ def build_outputs() -> None:
         pneumonia_covid_df=pneumonia_covid_df,
     )
 
-    sepsis_df.to_csv(OUTPUT_DIR / "sepsis_sex.csv", index=False)
+    ards_df.to_csv(OUTPUT_DIR / "ards_sex.csv", index=False)
     pneumonia_df.to_csv(OUTPUT_DIR / "pneumonia_sex.csv", index=False)
     combined_df.to_csv(OUTPUT_DIR / "combined_sex.csv", index=False)
     pneumonia_covid_df.to_csv(OUTPUT_DIR / "pneumonia_covid_sex.csv", index=False)

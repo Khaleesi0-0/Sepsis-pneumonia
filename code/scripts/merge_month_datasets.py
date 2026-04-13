@@ -7,27 +7,28 @@ ROOT = Path(__file__).resolve().parents[2]
 PRIMARY_DIR = ROOT / "data" / "primary"
 OUTPUT_DIR = ROOT / "data" / "cleaned"
 
-SEPSIS_FILES = ["Amonth2010.csv", "Amonth2018.csv"]
+ARDS_FILES = ["ARDSmonth2010.csv", "ARDSmonth2018.csv"]
 PNEUMONIA_FILES = ["Jmonth2010.csv", "Jmonth2018.csv"]
 COMBINED_FILES = ["AJmonth2010.csv", "AJmonth2018.csv"]
 UJ_COVID_PNEUMONIA_FILES = ["UJmonth.csv"]
 
-SEPSIS_MONTHAGE_FILES = ["Amonthage2010.csv", "Amonthage2018.csv"]
+ARDS_MONTHAGE_FILES = ["ARDSmonthage2010.csv", "ARDSmonthage2018.csv"]
 PNEUMONIA_MONTHAGE_FILES = ["Jmonthage2010.csv", "Jmonthage2018.csv"]
 COMBINED_MONTHAGE_FILES = ["AJmonthage2010.csv", "AJmonthage2018.csv"]
 UJ_COVID_PNEUMONIA_MONTHAGE_FILES = ["UJmonthage.csv"]
 
-SEPSIS_AGE_FILES = ["Aage2010.csv", "Aage2018.csv"]
+ARDS_AGE_FILES = ["ARDSage2010.xls", "ARDSage2018.xls"]
 PNEUMONIA_AGE_FILES = ["Jage2010.csv", "Jage2018.csv"]
 COMBINED_AGE_FILES = ["AJage2010.csv", "AJage2018.csv"]
 
 SEX_REFERENCE_FILES = {
-    "sepsis": "sepsis_sex.csv",
+    "ards": "ards_sex.csv",
     "pneumonia": "pneumonia_sex.csv",
     "combined": "combined_sex.csv",
     "covid_pneumonia": "UJsex2018.csv",
 }
 
+ARDS_SUBCHAPTER = "Influenza and pneumonia"
 TARGET_SUBCHAPTER = "Other bacterial diseases"
 PNEUMONIA_SUBCHAPTER = "Influenza and pneumonia"
 SUBCHAPTER_COL = "MCD - ICD Sub-Chapter"
@@ -72,6 +73,8 @@ def _read_clean_csv(csv_path: Path, required_columns: set[str] = REQUIRED_COLUMN
     df = pd.read_csv(
         csv_path,
         skiprows=header_row,
+        sep=None,
+        engine="python",
         dtype={YEAR_COL: "string", YEAR_CODE_COL: "string"},
     )
     return _keep_data_rows(df)
@@ -140,6 +143,17 @@ def _filter_combined_subchapter(df: pd.DataFrame) -> pd.DataFrame:
     ].copy()
 
 
+def _filter_ards_subchapter(df: pd.DataFrame) -> pd.DataFrame:
+    if SUBCHAPTER_COL not in df.columns:
+        return df.copy()
+    return df[
+        df[SUBCHAPTER_COL]
+        .astype("string")
+        .str.strip()
+        .str.contains(r"influenza and pneumonia", case=False, regex=True, na=False)
+    ].copy()
+
+
 def _filter_pneumonia_subchapter(df: pd.DataFrame) -> pd.DataFrame:
     if SUBCHAPTER_COL not in df.columns:
         return df.copy()
@@ -175,10 +189,13 @@ def _load_year_population(sex_file_name: str) -> pd.Series:
 
 def _load_age_population(
     age_file_names: list[str],
+    filter_ards: bool = False,
     filter_combined: bool = False,
     filter_pneumonia: bool = False,
 ) -> pd.DataFrame:
     age_df = _read_and_merge_age_files(age_file_names)
+    if filter_ards:
+        age_df = _filter_ards_subchapter(age_df)
     if filter_combined:
         age_df = _filter_combined_subchapter(age_df)
     if filter_pneumonia:
@@ -193,10 +210,13 @@ def _load_age_population(
 def _calculate_monthly_aamr(
     monthage_file_names: list[str],
     age_file_names: list[str],
+    filter_ards: bool = False,
     filter_combined: bool = False,
     filter_pneumonia: bool = False,
 ) -> pd.DataFrame:
     monthage_df = _read_and_merge_age_files(monthage_file_names)
+    if filter_ards:
+        monthage_df = _filter_ards_subchapter(monthage_df)
     if filter_combined:
         monthage_df = _filter_combined_subchapter(monthage_df)
     if filter_pneumonia:
@@ -208,6 +228,7 @@ def _calculate_monthly_aamr(
 
     age_population = _load_age_population(
         age_file_names,
+        filter_ards=filter_ards,
         filter_combined=filter_combined,
         filter_pneumonia=filter_pneumonia,
     )
@@ -257,6 +278,7 @@ def _fill_population_and_rates(
     sex_file_name: str,
     monthage_file_names: list[str],
     age_file_names: list[str],
+    filter_ards: bool = False,
     filter_combined: bool = False,
 ) -> pd.DataFrame:
     out = _normalize_year_columns(_keep_data_rows(df))
@@ -274,6 +296,7 @@ def _fill_population_and_rates(
     monthly_aamr = _calculate_monthly_aamr(
         monthage_file_names=monthage_file_names,
         age_file_names=age_file_names,
+        filter_ards=filter_ards,
         filter_combined=filter_combined,
     )
     out = out.merge(monthly_aamr, on=[YEAR_COL, MONTH_COL, "Month Code"], how="left", suffixes=("", "_calculated"))
@@ -319,11 +342,12 @@ def _fill_population_and_rates_with_year_population_aamr(
 def build_outputs() -> None:
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
-    sepsis_df = _fill_population_and_rates(
-        _read_and_merge(SEPSIS_FILES),
-        SEX_REFERENCE_FILES["sepsis"],
-        SEPSIS_MONTHAGE_FILES,
-        SEPSIS_AGE_FILES,
+    ards_df = _fill_population_and_rates(
+        _filter_ards_subchapter(_read_and_merge(ARDS_FILES)),
+        SEX_REFERENCE_FILES["ards"],
+        ARDS_MONTHAGE_FILES,
+        ARDS_AGE_FILES,
+        filter_ards=True,
     )
     pneumonia_df = _fill_population_and_rates(
         _read_and_merge(PNEUMONIA_FILES),
@@ -346,7 +370,7 @@ def build_outputs() -> None:
         filter_pneumonia=True,
     )
 
-    sepsis_df.to_csv(OUTPUT_DIR / "sepsis_month.csv", index=False)
+    ards_df.to_csv(OUTPUT_DIR / "ards_month.csv", index=False)
     pneumonia_df.to_csv(OUTPUT_DIR / "pneumonia_month.csv", index=False)
     combined_df.to_csv(OUTPUT_DIR / "combined_month.csv", index=False)
     covid_pneumonia_df.to_csv(OUTPUT_DIR / "pneumonia_covid_month.csv", index=False)

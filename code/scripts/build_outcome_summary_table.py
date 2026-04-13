@@ -44,15 +44,15 @@ OUTPUT_COLUMNS = [
 ]
 
 DATASETS = {
-    "Sepsis": {
-        "sex": CLEANED_DIR / "sepsis_sex.csv",
-        "race": CLEANED_DIR / "sepsis_race.csv",
+    "ARDS (ARDS + Pneumonia)": {
+        "sex": CLEANED_DIR / "ards_sex.csv",
+        "race": CLEANED_DIR / "ards_race.csv",
     },
     "Pneumonia": {
         "sex": CLEANED_DIR / "pneumonia_sex.csv",
         "race": CLEANED_DIR / "pneumonia_race.csv",
     },
-    "Combined": {
+    "Sepsis+ Pneumonia": {
         "sex": CLEANED_DIR / "combined_sex.csv",
         "race": CLEANED_DIR / "combined_race.csv",
     },

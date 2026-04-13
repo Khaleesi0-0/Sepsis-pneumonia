@@ -54,11 +54,11 @@ METRICS = [
 ]
 
 DATASETS = {
-    "Sepsis": {
-        "sex": CLEANED_DIR / "sepsis_sex.csv",
-        "age": CLEANED_DIR / "sepsis_age.csv",
-        "race": CLEANED_DIR / "sepsis_race.csv",
-        "pod": CLEANED_DIR / "sepsis_pod.csv",
+    "ARDS (ARDS + Pneumonia)": {
+        "sex": CLEANED_DIR / "ards_sex.csv",
+        "age": CLEANED_DIR / "ards_age.csv",
+        "race": CLEANED_DIR / "ards_race.csv",
+        "pod": CLEANED_DIR / "ards_pod.csv",
     },
     "Pneumonia": {
         "sex": CLEANED_DIR / "pneumonia_sex.csv",
@@ -66,7 +66,7 @@ DATASETS = {
         "race": CLEANED_DIR / "pneumonia_race.csv",
         "pod": CLEANED_DIR / "pneumonia_pod.csv",
     },
-    "Sepsis & pneumonia": {
+    "Sepsis+ Pneumonia": {
         "sex": CLEANED_DIR / "combined_sex.csv",
         "age": CLEANED_DIR / "combined_age.csv",
         "race": CLEANED_DIR / "combined_race.csv",
@@ -101,26 +101,26 @@ def _aamr_column(df: pd.DataFrame) -> str:
     return AAMR_COL
 
 
-def _weighted_mean(values: pd.Series, weights: pd.Series) -> float | pd.NA:
+def _weighted_mean(values: pd.Series, weights: pd.Series) -> float | None:
     valid = values.notna() & weights.notna() & (weights > 0)
     if not valid.any():
         return pd.NA
     return (values[valid] * weights[valid]).sum() / weights[valid].sum()
 
 
-def _fmt_n(value: float | int | pd.NA) -> str:
+def _fmt_n(value: float | int | None) -> str:
     if pd.isna(value):
         return ""
     return f"{int(round(float(value))):,}"
 
 
-def _fmt_n_pct(value: float | int | pd.NA, denom: float | int | pd.NA) -> str:
+def _fmt_n_pct(value: float | int | None, denom: float | int | None) -> str:
     if pd.isna(value) or pd.isna(denom) or float(denom) == 0:
         return ""
     return f"{int(round(float(value))):,} ({(float(value) / float(denom) * 100):.1f}%)"
 
 
-def _fmt_rate(value: float | int | pd.NA) -> str:
+def _fmt_rate(value: float | int | None) -> str:
     if pd.isna(value):
         return ""
     return f"{float(value):.1f}"

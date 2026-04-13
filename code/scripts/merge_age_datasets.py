@@ -7,10 +7,11 @@ ROOT = Path(__file__).resolve().parents[2]
 PRIMARY_DIR = ROOT / "data" / "primary"
 OUTPUT_DIR = ROOT / "data" / "cleaned"
 
-SEPSIS_FILES = ["Aage2010.csv", "Aage2018.csv"]
+ARDS_FILES = ["ARDSage2010.xls", "ARDSage2018.xls"]
 PNEUMONIA_FILES = ["Jage2010.csv", "Jage2018.csv"]
 COMBINED_FILES = ["AJage2010.csv", "AJage2018.csv"]
 
+ARDS_SUBCHAPTER = "Influenza and pneumonia"
 TARGET_SUBCHAPTER = "Other bacterial diseases"
 AGE_COL = "Ten-Year Age Groups"
 AGE_CODE_COL = "Ten-Year Age Groups Code"
@@ -69,6 +70,8 @@ def _read_clean_csv(csv_path: Path) -> pd.DataFrame:
     return pd.read_csv(
         csv_path,
         skiprows=header_row,
+        sep=None,
+        engine="python",
         dtype={YEAR_COL: "string", YEAR_CODE_COL: "string"},
     )
 
@@ -112,6 +115,12 @@ def _filter_combined_subchapter(df: pd.DataFrame) -> pd.DataFrame:
     return df[df[SUBCHAPTER_COL].eq(TARGET_SUBCHAPTER)].copy()
 
 
+def _filter_ards_subchapter(df: pd.DataFrame) -> pd.DataFrame:
+    if SUBCHAPTER_COL not in df.columns:
+        return df.copy()
+    return df[df[SUBCHAPTER_COL].eq(ARDS_SUBCHAPTER)].copy()
+
+
 def _build_collapsed_age_groups(df: pd.DataFrame) -> pd.DataFrame:
     collapsed = df.copy()
     collapsed[COLLAPSED_AGE_COL] = collapsed[AGE_COL].map(AGE_GROUP_MAP)
@@ -141,11 +150,17 @@ def _build_collapsed_age_groups(df: pd.DataFrame) -> pd.DataFrame:
     return grouped
 
 
-def _prepare_age_outputs(file_names: list[str], filter_combined: bool = False) -> pd.DataFrame:
+def _prepare_age_outputs(
+    file_names: list[str],
+    filter_combined: bool = False,
+    filter_ards: bool = False,
+) -> pd.DataFrame:
     merged = _read_and_merge(file_names)
     merged = _clean_numeric_columns(merged)
     if filter_combined:
         merged = _filter_combined_subchapter(merged)
+    if filter_ards:
+        merged = _filter_ards_subchapter(merged)
 
     collapsed = _build_collapsed_age_groups(merged)
     return collapsed
@@ -154,11 +169,11 @@ def _prepare_age_outputs(file_names: list[str], filter_combined: bool = False) -
 def build_outputs() -> None:
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
-    sepsis_grouped = _prepare_age_outputs(SEPSIS_FILES)
+    ards_grouped = _prepare_age_outputs(ARDS_FILES, filter_ards=True)
     pneumonia_grouped = _prepare_age_outputs(PNEUMONIA_FILES)
     combined_grouped = _prepare_age_outputs(COMBINED_FILES, filter_combined=True)
 
-    sepsis_grouped.to_csv(OUTPUT_DIR / "sepsis_age.csv", index=False)
+    ards_grouped.to_csv(OUTPUT_DIR / "ards_age.csv", index=False)
     pneumonia_grouped.to_csv(OUTPUT_DIR / "pneumonia_age.csv", index=False)
     combined_grouped.to_csv(OUTPUT_DIR / "combined_age.csv", index=False)
 

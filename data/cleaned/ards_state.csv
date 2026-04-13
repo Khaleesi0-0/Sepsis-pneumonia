@@ -1,0 +1,826 @@
+Notes,MCD - ICD Sub-Chapter,MCD - ICD Sub-Chapter Code,Year,Year Code,State,State Code,Deaths,Population,Crude Rate,Crude Rate Lower 95% Confidence Interval,Crude Rate Upper 95% Confidence Interval,Age Adjusted Rate,Age Adjusted Rate Lower 95% Confidence Interval,Age Adjusted Rate Upper 95% Confidence Interval
+,Influenza and pneumonia,J09-J18,2010,2010,Alabama,1.0,86,4779736.0,1.8,1.4,2.2,1.7,1.3,2.1
+,Influenza and pneumonia,J09-J18,2010,2010,Alaska,2.0,Suppressed,710231.0,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,Influenza and pneumonia,J09-J18,2010,2010,Arizona,4.0,69,6392017.0,1.1,0.8,1.4,1.0,0.8,1.3
+,Influenza and pneumonia,J09-J18,2010,2010,Arkansas,5.0,50,2915918.0,1.7,1.3,2.3,1.5,1.1,2.0
+,Influenza and pneumonia,J09-J18,2010,2010,California,6.0,410,37253956.0,1.1,1.0,1.2,1.1,1.0,1.3
+,Influenza and pneumonia,J09-J18,2010,2010,Colorado,8.0,38,5029196.0,0.8,0.5,1.0,0.8,0.5,1.1
+,Influenza and pneumonia,J09-J18,2010,2010,Connecticut,9.0,33,3574097.0,0.9,0.6,1.3,0.7,0.5,1.1
+,Influenza and pneumonia,J09-J18,2010,2010,Delaware,10.0,Suppressed,897934.0,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,Influenza and pneumonia,J09-J18,2010,2010,District of Columbia,11.0,Suppressed,601723.0,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,Influenza and pneumonia,J09-J18,2010,2010,Florida,12.0,204,18801310.0,1.1,0.9,1.2,0.8,0.7,1.0
+,Influenza and pneumonia,J09-J18,2010,2010,Georgia,13.0,104,9687653.0,1.1,0.9,1.3,1.1,0.9,1.4
+,Influenza and pneumonia,J09-J18,2010,2010,Hawaii,15.0,22,1360301.0,1.6,1.0,2.4,1.3,0.8,2.0
+,Influenza and pneumonia,J09-J18,2010,2010,Idaho,16.0,14,1567582.0,Unreliable,0.5,1.5,Unreliable,0.5,1.6
+,Influenza and pneumonia,J09-J18,2010,2010,Illinois,17.0,118,12830632.0,0.9,0.8,1.1,0.9,0.7,1.0
+,Influenza and pneumonia,J09-J18,2010,2010,Indiana,18.0,57,6483802.0,0.9,0.7,1.1,0.8,0.6,1.0
+,Influenza and pneumonia,J09-J18,2010,2010,Iowa,19.0,31,3046355.0,1.0,0.7,1.4,0.8,0.6,1.2
+,Influenza and pneumonia,J09-J18,2010,2010,Kansas,20.0,28,2853118.0,1.0,0.7,1.4,0.9,0.6,1.3
+,Influenza and pneumonia,J09-J18,2010,2010,Kentucky,21.0,61,4339367.0,1.4,1.1,1.8,1.2,0.9,1.6
+,Influenza and pneumonia,J09-J18,2010,2010,Louisiana,22.0,41,4533372.0,0.9,0.6,1.2,0.9,0.7,1.3
+,Influenza and pneumonia,J09-J18,2010,2010,Maine,23.0,12,1328361.0,Unreliable,0.5,1.6,Unreliable,0.4,1.4
+,Influenza and pneumonia,J09-J18,2010,2010,Maryland,24.0,64,5773552.0,1.1,0.9,1.4,1.1,0.8,1.4
+,Influenza and pneumonia,J09-J18,2010,2010,Massachusetts,25.0,70,6547629.0,1.1,0.8,1.4,1.0,0.7,1.2
+,Influenza and pneumonia,J09-J18,2010,2010,Michigan,26.0,97,9883640.0,1.0,0.8,1.2,0.9,0.7,1.0
+,Influenza and pneumonia,J09-J18,2010,2010,Minnesota,27.0,43,5303925.0,0.8,0.6,1.1,0.8,0.5,1.0
+,Influenza and pneumonia,J09-J18,2010,2010,Mississippi,28.0,49,2967297.0,1.7,1.2,2.2,1.6,1.2,2.1
+,Influenza and pneumonia,J09-J18,2010,2010,Missouri,29.0,54,5988927.0,0.9,0.7,1.2,0.8,0.6,1.0
+,Influenza and pneumonia,J09-J18,2010,2010,Montana,30.0,Suppressed,989415.0,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,Influenza and pneumonia,J09-J18,2010,2010,Nebraska,31.0,20,1826341.0,1.1,0.7,1.7,1.0,0.6,1.6
+,Influenza and pneumonia,J09-J18,2010,2010,Nevada,32.0,24,2700551.0,0.9,0.6,1.3,0.9,0.6,1.3
+,Influenza and pneumonia,J09-J18,2010,2010,New Hampshire,33.0,23,1316470.0,1.7,1.1,2.6,1.7,1.1,2.5
+,Influenza and pneumonia,J09-J18,2010,2010,New Jersey,34.0,70,8791894.0,0.8,0.6,1.0,0.7,0.6,0.9
+,Influenza and pneumonia,J09-J18,2010,2010,New Mexico,35.0,26,2059179.0,1.3,0.8,1.9,1.2,0.8,1.8
+,Influenza and pneumonia,J09-J18,2010,2010,New York,36.0,137,19378102.0,0.7,0.6,0.8,0.6,0.5,0.7
+,Influenza and pneumonia,J09-J18,2010,2010,North Carolina,37.0,117,9535483.0,1.2,1.0,1.4,1.2,1.0,1.4
+,Influenza and pneumonia,J09-J18,2010,2010,North Dakota,38.0,Suppressed,672591.0,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,Influenza and pneumonia,J09-J18,2010,2010,Ohio,39.0,118,11536504.0,1.0,0.8,1.2,0.9,0.8,1.1
+,Influenza and pneumonia,J09-J18,2010,2010,Oklahoma,40.0,42,3751351.0,1.1,0.8,1.5,1.1,0.8,1.5
+,Influenza and pneumonia,J09-J18,2010,2010,Oregon,41.0,40,3831074.0,1.0,0.7,1.4,0.9,0.6,1.2
+,Influenza and pneumonia,J09-J18,2010,2010,Pennsylvania,42.0,118,12702379.0,0.9,0.8,1.1,0.8,0.6,0.9
+,Influenza and pneumonia,J09-J18,2010,2010,Rhode Island,44.0,15,1052567.0,Unreliable,0.8,2.4,Unreliable,0.7,2.1
+,Influenza and pneumonia,J09-J18,2010,2010,South Carolina,45.0,51,4625364.0,1.1,0.8,1.4,1.0,0.8,1.4
+,Influenza and pneumonia,J09-J18,2010,2010,South Dakota,46.0,Suppressed,814180.0,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,Influenza and pneumonia,J09-J18,2010,2010,Tennessee,47.0,107,6346105.0,1.7,1.4,2.0,1.6,1.3,1.9
+,Influenza and pneumonia,J09-J18,2010,2010,Texas,48.0,245,25145561.0,1.0,0.9,1.1,1.1,0.9,1.2
+,Influenza and pneumonia,J09-J18,2010,2010,Utah,49.0,33,2763885.0,1.2,0.8,1.7,1.6,1.1,2.3
+,Influenza and pneumonia,J09-J18,2010,2010,Vermont,50.0,Suppressed,625741.0,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,Influenza and pneumonia,J09-J18,2010,2010,Virginia,51.0,42,8001024.0,0.5,0.4,0.7,0.5,0.4,0.7
+,Influenza and pneumonia,J09-J18,2010,2010,Washington,53.0,81,6724540.0,1.2,1.0,1.5,1.2,0.9,1.4
+,Influenza and pneumonia,J09-J18,2010,2010,West Virginia,54.0,25,1852994.0,1.3,0.9,2.0,1.1,0.7,1.6
+,Influenza and pneumonia,J09-J18,2010,2010,Wisconsin,55.0,48,5686986.0,0.8,0.6,1.1,0.8,0.6,1.0
+,Influenza and pneumonia,J09-J18,2010,2010,Wyoming,56.0,Suppressed,563626.0,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+Total,Influenza and pneumonia,J09-J18,2010,2010,,,3199,308745538.0,1.0,1.0,1.1,1.0,0.9,1.0
+,Influenza and pneumonia,J09-J18,2011,2011,Alabama,1.0,87,4802740.0,1.8,1.5,2.2,1.7,1.3,2.0
+,Influenza and pneumonia,J09-J18,2011,2011,Alaska,2.0,Suppressed,722718.0,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,Influenza and pneumonia,J09-J18,2011,2011,Arizona,4.0,71,6482505.0,1.1,0.9,1.4,1.0,0.8,1.3
+,Influenza and pneumonia,J09-J18,2011,2011,Arkansas,5.0,52,2937979.0,1.8,1.3,2.3,1.5,1.1,2.0
+,Influenza and pneumonia,J09-J18,2011,2011,California,6.0,431,37691912.0,1.1,1.0,1.3,1.1,1.0,1.3
+,Influenza and pneumonia,J09-J18,2011,2011,Colorado,8.0,32,5116796.0,0.6,0.4,0.9,0.7,0.4,0.9
+,Influenza and pneumonia,J09-J18,2011,2011,Connecticut,9.0,35,3580709.0,1.0,0.7,1.4,0.8,0.6,1.2
+,Influenza and pneumonia,J09-J18,2011,2011,Delaware,10.0,14,907135.0,Unreliable,0.8,2.6,Unreliable,0.7,2.4
+,Influenza and pneumonia,J09-J18,2011,2011,District of Columbia,11.0,Suppressed,617996.0,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,Influenza and pneumonia,J09-J18,2011,2011,Florida,12.0,192,19057542.0,1.0,0.9,1.1,0.8,0.7,0.9
+,Influenza and pneumonia,J09-J18,2011,2011,Georgia,13.0,84,9815210.0,0.9,0.7,1.1,0.9,0.7,1.1
+,Influenza and pneumonia,J09-J18,2011,2011,Hawaii,15.0,19,1374810.0,Unreliable,0.8,2.2,Unreliable,0.7,1.8
+,Influenza and pneumonia,J09-J18,2011,2011,Idaho,16.0,11,1584985.0,Unreliable,0.3,1.2,Unreliable,0.3,1.1
+,Influenza and pneumonia,J09-J18,2011,2011,Illinois,17.0,144,12869257.0,1.1,0.9,1.3,1.1,0.9,1.3
+,Influenza and pneumonia,J09-J18,2011,2011,Indiana,18.0,76,6516922.0,1.2,0.9,1.5,1.1,0.9,1.4
+,Influenza and pneumonia,J09-J18,2011,2011,Iowa,19.0,42,3062309.0,1.4,1.0,1.9,1.2,0.8,1.6
+,Influenza and pneumonia,J09-J18,2011,2011,Kansas,20.0,27,2871238.0,0.9,0.6,1.4,0.9,0.6,1.3
+,Influenza and pneumonia,J09-J18,2011,2011,Kentucky,21.0,60,4369356.0,1.4,1.0,1.8,1.3,1.0,1.7
+,Influenza and pneumonia,J09-J18,2011,2011,Louisiana,22.0,32,4574836.0,0.7,0.5,1.0,0.7,0.5,1.0
+,Influenza and pneumonia,J09-J18,2011,2011,Maine,23.0,15,1328188.0,Unreliable,0.6,1.9,Unreliable,0.5,1.5
+,Influenza and pneumonia,J09-J18,2011,2011,Maryland,24.0,54,5828289.0,0.9,0.7,1.2,0.9,0.6,1.1
+,Influenza and pneumonia,J09-J18,2011,2011,Massachusetts,25.0,50,6587536.0,0.8,0.6,1.0,0.6,0.5,0.8
+,Influenza and pneumonia,J09-J18,2011,2011,Michigan,26.0,111,9876187.0,1.1,0.9,1.3,1.0,0.8,1.2
+,Influenza and pneumonia,J09-J18,2011,2011,Minnesota,27.0,64,5344861.0,1.2,0.9,1.5,1.1,0.8,1.4
+,Influenza and pneumonia,J09-J18,2011,2011,Mississippi,28.0,48,2978512.0,1.6,1.2,2.1,1.5,1.1,2.0
+,Influenza and pneumonia,J09-J18,2011,2011,Missouri,29.0,78,6010688.0,1.3,1.0,1.6,1.1,0.9,1.4
+,Influenza and pneumonia,J09-J18,2011,2011,Montana,30.0,Suppressed,998199.0,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,Influenza and pneumonia,J09-J18,2011,2011,Nebraska,31.0,20,1842641.0,1.1,0.7,1.7,1.0,0.6,1.6
+,Influenza and pneumonia,J09-J18,2011,2011,Nevada,32.0,23,2723322.0,0.8,0.5,1.3,0.8,0.5,1.2
+,Influenza and pneumonia,J09-J18,2011,2011,New Hampshire,33.0,19,1318194.0,Unreliable,0.9,2.3,Unreliable,0.8,2.0
+,Influenza and pneumonia,J09-J18,2011,2011,New Jersey,34.0,109,8821155.0,1.2,1.0,1.5,1.1,0.9,1.3
+,Influenza and pneumonia,J09-J18,2011,2011,New Mexico,35.0,18,2082224.0,Unreliable,0.5,1.4,Unreliable,0.5,1.3
+,Influenza and pneumonia,J09-J18,2011,2011,New York,36.0,140,19465197.0,0.7,0.6,0.8,0.6,0.5,0.7
+,Influenza and pneumonia,J09-J18,2011,2011,North Carolina,37.0,115,9656401.0,1.2,1.0,1.4,1.1,0.9,1.4
+,Influenza and pneumonia,J09-J18,2011,2011,North Dakota,38.0,Suppressed,683932.0,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,Influenza and pneumonia,J09-J18,2011,2011,Ohio,39.0,145,11544951.0,1.3,1.1,1.5,1.1,0.9,1.3
+,Influenza and pneumonia,J09-J18,2011,2011,Oklahoma,40.0,49,3791508.0,1.3,1.0,1.7,1.2,0.9,1.5
+,Influenza and pneumonia,J09-J18,2011,2011,Oregon,41.0,45,3871859.0,1.2,0.8,1.6,1.0,0.7,1.3
+,Influenza and pneumonia,J09-J18,2011,2011,Pennsylvania,42.0,132,12742886.0,1.0,0.9,1.2,0.8,0.7,1.0
+,Influenza and pneumonia,J09-J18,2011,2011,Rhode Island,44.0,12,1051302.0,Unreliable,0.6,2.0,Unreliable,0.5,1.8
+,Influenza and pneumonia,J09-J18,2011,2011,South Carolina,45.0,52,4679230.0,1.1,0.8,1.5,1.1,0.8,1.4
+,Influenza and pneumonia,J09-J18,2011,2011,South Dakota,46.0,Suppressed,824082.0,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,Influenza and pneumonia,J09-J18,2011,2011,Tennessee,47.0,101,6403353.0,1.6,1.3,1.9,1.5,1.2,1.8
+,Influenza and pneumonia,J09-J18,2011,2011,Texas,48.0,248,25674681.0,1.0,0.8,1.1,1.0,0.9,1.2
+,Influenza and pneumonia,J09-J18,2011,2011,Utah,49.0,29,2817222.0,1.0,0.7,1.5,1.4,0.9,2.0
+,Influenza and pneumonia,J09-J18,2011,2011,Vermont,50.0,Suppressed,626431.0,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,Influenza and pneumonia,J09-J18,2011,2011,Virginia,51.0,71,8096604.0,0.9,0.7,1.1,0.8,0.6,1.0
+,Influenza and pneumonia,J09-J18,2011,2011,Washington,53.0,94,6830038.0,1.4,1.1,1.7,1.3,1.0,1.5
+,Influenza and pneumonia,J09-J18,2011,2011,West Virginia,54.0,42,1855364.0,2.3,1.6,3.1,1.9,1.4,2.7
+,Influenza and pneumonia,J09-J18,2011,2011,Wisconsin,55.0,42,5711767.0,0.7,0.5,1.0,0.6,0.5,0.9
+,Influenza and pneumonia,J09-J18,2011,2011,Wyoming,56.0,Suppressed,568158.0,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+Total,Influenza and pneumonia,J09-J18,2011,2011,,,3378,311591917.0,1.1,1.0,1.1,1.0,1.0,1.1
+,Influenza and pneumonia,J09-J18,2012,2012,Alabama,1.0,85,4822023.0,1.8,1.4,2.2,1.6,1.3,2.0
+,Influenza and pneumonia,J09-J18,2012,2012,Alaska,2.0,Suppressed,731449.0,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,Influenza and pneumonia,J09-J18,2012,2012,Arizona,4.0,80,6553255.0,1.2,1.0,1.5,1.1,0.9,1.4
+,Influenza and pneumonia,J09-J18,2012,2012,Arkansas,5.0,47,2949131.0,1.6,1.2,2.1,1.4,1.0,1.9
+,Influenza and pneumonia,J09-J18,2012,2012,California,6.0,384,38041430.0,1.0,0.9,1.1,1.0,0.9,1.1
+,Influenza and pneumonia,J09-J18,2012,2012,Colorado,8.0,34,5187582.0,0.7,0.5,0.9,0.6,0.4,0.9
+,Influenza and pneumonia,J09-J18,2012,2012,Connecticut,9.0,33,3590347.0,0.9,0.6,1.3,0.8,0.5,1.1
+,Influenza and pneumonia,J09-J18,2012,2012,Delaware,10.0,15,917092.0,Unreliable,0.9,2.7,Unreliable,0.8,2.4
+,Influenza and pneumonia,J09-J18,2012,2012,District of Columbia,11.0,Suppressed,632323.0,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,Influenza and pneumonia,J09-J18,2012,2012,Florida,12.0,178,19317568.0,0.9,0.8,1.1,0.7,0.6,0.8
+,Influenza and pneumonia,J09-J18,2012,2012,Georgia,13.0,105,9919945.0,1.1,0.9,1.3,1.1,0.9,1.3
+,Influenza and pneumonia,J09-J18,2012,2012,Hawaii,15.0,20,1392313.0,1.4,0.9,2.2,1.2,0.7,1.8
+,Influenza and pneumonia,J09-J18,2012,2012,Idaho,16.0,22,1595728.0,1.4,0.9,2.1,1.2,0.8,1.9
+,Influenza and pneumonia,J09-J18,2012,2012,Illinois,17.0,93,12875255.0,0.7,0.6,0.9,0.7,0.6,0.9
+,Influenza and pneumonia,J09-J18,2012,2012,Indiana,18.0,66,6537334.0,1.0,0.8,1.3,0.9,0.7,1.2
+,Influenza and pneumonia,J09-J18,2012,2012,Iowa,19.0,24,3074186.0,0.8,0.5,1.2,0.7,0.4,1.0
+,Influenza and pneumonia,J09-J18,2012,2012,Kansas,20.0,19,2885905.0,Unreliable,0.4,1.0,Unreliable,0.4,0.9
+,Influenza and pneumonia,J09-J18,2012,2012,Kentucky,21.0,50,4380415.0,1.1,0.8,1.5,1.0,0.8,1.4
+,Influenza and pneumonia,J09-J18,2012,2012,Louisiana,22.0,38,4601893.0,0.8,0.6,1.1,0.8,0.6,1.1
+,Influenza and pneumonia,J09-J18,2012,2012,Maine,23.0,10,1329192.0,Unreliable,0.4,1.4,Unreliable,0.3,1.1
+,Influenza and pneumonia,J09-J18,2012,2012,Maryland,24.0,67,5884563.0,1.1,0.9,1.4,1.1,0.8,1.3
+,Influenza and pneumonia,J09-J18,2012,2012,Massachusetts,25.0,40,6646144.0,0.6,0.4,0.8,0.5,0.4,0.7
+,Influenza and pneumonia,J09-J18,2012,2012,Michigan,26.0,102,9883360.0,1.0,0.8,1.2,0.9,0.7,1.1
+,Influenza and pneumonia,J09-J18,2012,2012,Minnesota,27.0,58,5379139.0,1.1,0.8,1.4,1.0,0.7,1.2
+,Influenza and pneumonia,J09-J18,2012,2012,Mississippi,28.0,47,2984926.0,1.6,1.2,2.1,1.5,1.1,1.9
+,Influenza and pneumonia,J09-J18,2012,2012,Missouri,29.0,53,6021988.0,0.9,0.7,1.2,0.7,0.5,1.0
+,Influenza and pneumonia,J09-J18,2012,2012,Montana,30.0,Suppressed,1005141.0,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,Influenza and pneumonia,J09-J18,2012,2012,Nebraska,31.0,20,1855525.0,1.1,0.7,1.7,1.0,0.6,1.5
+,Influenza and pneumonia,J09-J18,2012,2012,Nevada,32.0,14,2758931.0,Unreliable,0.3,0.9,Unreliable,0.2,0.8
+,Influenza and pneumonia,J09-J18,2012,2012,New Hampshire,33.0,16,1320718.0,Unreliable,0.7,2.0,Unreliable,0.6,1.7
+,Influenza and pneumonia,J09-J18,2012,2012,New Jersey,34.0,80,8864590.0,0.9,0.7,1.1,0.8,0.6,1.0
+,Influenza and pneumonia,J09-J18,2012,2012,New Mexico,35.0,20,2085538.0,1.0,0.6,1.5,0.8,0.5,1.3
+,Influenza and pneumonia,J09-J18,2012,2012,New York,36.0,159,19570261.0,0.8,0.7,0.9,0.7,0.6,0.8
+,Influenza and pneumonia,J09-J18,2012,2012,North Carolina,37.0,112,9752073.0,1.1,0.9,1.4,1.1,0.9,1.3
+,Influenza and pneumonia,J09-J18,2012,2012,North Dakota,38.0,Suppressed,699628.0,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,Influenza and pneumonia,J09-J18,2012,2012,Ohio,39.0,104,11544225.0,0.9,0.7,1.1,0.8,0.6,0.9
+,Influenza and pneumonia,J09-J18,2012,2012,Oklahoma,40.0,51,3814820.0,1.3,1.0,1.8,1.2,0.9,1.6
+,Influenza and pneumonia,J09-J18,2012,2012,Oregon,41.0,25,3899353.0,0.6,0.4,0.9,0.5,0.4,0.8
+,Influenza and pneumonia,J09-J18,2012,2012,Pennsylvania,42.0,144,12763536.0,1.1,0.9,1.3,0.9,0.8,1.1
+,Influenza and pneumonia,J09-J18,2012,2012,Rhode Island,44.0,10,1050292.0,Unreliable,0.5,1.8,Unreliable,0.4,1.5
+,Influenza and pneumonia,J09-J18,2012,2012,South Carolina,45.0,57,4723723.0,1.2,0.9,1.6,1.2,0.9,1.5
+,Influenza and pneumonia,J09-J18,2012,2012,South Dakota,46.0,Suppressed,833354.0,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,Influenza and pneumonia,J09-J18,2012,2012,Tennessee,47.0,92,6456243.0,1.4,1.1,1.7,1.3,1.0,1.6
+,Influenza and pneumonia,J09-J18,2012,2012,Texas,48.0,248,26059203.0,1.0,0.8,1.1,1.0,0.9,1.2
+,Influenza and pneumonia,J09-J18,2012,2012,Utah,49.0,32,2855287.0,1.1,0.8,1.6,1.4,1.0,2.0
+,Influenza and pneumonia,J09-J18,2012,2012,Vermont,50.0,Suppressed,626011.0,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,Influenza and pneumonia,J09-J18,2012,2012,Virginia,51.0,44,8185867.0,0.5,0.4,0.7,0.5,0.4,0.7
+,Influenza and pneumonia,J09-J18,2012,2012,Washington,53.0,80,6897012.0,1.2,0.9,1.4,1.1,0.8,1.3
+,Influenza and pneumonia,J09-J18,2012,2012,West Virginia,54.0,36,1855413.0,1.9,1.4,2.7,1.6,1.1,2.2
+,Influenza and pneumonia,J09-J18,2012,2012,Wisconsin,55.0,41,5726398.0,0.7,0.5,1.0,0.6,0.4,0.8
+,Influenza and pneumonia,J09-J18,2012,2012,Wyoming,56.0,Suppressed,576412.0,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+Total,Influenza and pneumonia,J09-J18,2012,2012,,,3086,313914040.0,1.0,0.9,1.0,0.9,0.8,0.9
+,Influenza and pneumonia,J09-J18,2013,2013,Alabama,1.0,93,4833722.0,1.9,1.6,2.4,1.7,1.4,2.1
+,Influenza and pneumonia,J09-J18,2013,2013,Alaska,2.0,Suppressed,735132.0,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,Influenza and pneumonia,J09-J18,2013,2013,Arizona,4.0,88,6626624.0,1.3,1.1,1.6,1.2,1.0,1.5
+,Influenza and pneumonia,J09-J18,2013,2013,Arkansas,5.0,47,2959373.0,1.6,1.2,2.1,1.3,1.0,1.8
+,Influenza and pneumonia,J09-J18,2013,2013,California,6.0,387,38332521.0,1.0,0.9,1.1,1.0,0.9,1.1
+,Influenza and pneumonia,J09-J18,2013,2013,Colorado,8.0,38,5268367.0,0.7,0.5,1.0,0.6,0.5,0.9
+,Influenza and pneumonia,J09-J18,2013,2013,Connecticut,9.0,30,3596080.0,0.8,0.6,1.2,0.6,0.4,0.9
+,Influenza and pneumonia,J09-J18,2013,2013,Delaware,10.0,16,925749.0,Unreliable,1.0,2.8,Unreliable,0.8,2.4
+,Influenza and pneumonia,J09-J18,2013,2013,District of Columbia,11.0,Suppressed,646449.0,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,Influenza and pneumonia,J09-J18,2013,2013,Florida,12.0,235,19552860.0,1.2,1.0,1.4,1.0,0.8,1.1
+,Influenza and pneumonia,J09-J18,2013,2013,Georgia,13.0,111,9992167.0,1.1,0.9,1.3,1.1,0.9,1.3
+,Influenza and pneumonia,J09-J18,2013,2013,Hawaii,15.0,18,1404054.0,Unreliable,0.8,2.0,Unreliable,0.6,1.8
+,Influenza and pneumonia,J09-J18,2013,2013,Idaho,16.0,19,1612136.0,Unreliable,0.7,1.8,Unreliable,0.6,1.7
+,Influenza and pneumonia,J09-J18,2013,2013,Illinois,17.0,130,12882135.0,1.0,0.8,1.2,0.9,0.8,1.1
+,Influenza and pneumonia,J09-J18,2013,2013,Indiana,18.0,88,6570902.0,1.3,1.1,1.6,1.2,0.9,1.5
+,Influenza and pneumonia,J09-J18,2013,2013,Iowa,19.0,23,3090416.0,0.7,0.5,1.1,0.6,0.3,0.8
+,Influenza and pneumonia,J09-J18,2013,2013,Kansas,20.0,23,2893957.0,0.8,0.5,1.2,0.8,0.5,1.1
+,Influenza and pneumonia,J09-J18,2013,2013,Kentucky,21.0,62,4395295.0,1.4,1.1,1.8,1.2,0.9,1.6
+,Influenza and pneumonia,J09-J18,2013,2013,Louisiana,22.0,58,4625470.0,1.3,1.0,1.6,1.2,0.9,1.5
+,Influenza and pneumonia,J09-J18,2013,2013,Maine,23.0,19,1328302.0,Unreliable,0.9,2.2,Unreliable,0.6,1.7
+,Influenza and pneumonia,J09-J18,2013,2013,Maryland,24.0,72,5928814.0,1.2,1.0,1.5,1.1,0.9,1.4
+,Influenza and pneumonia,J09-J18,2013,2013,Massachusetts,25.0,61,6692824.0,0.9,0.7,1.2,0.8,0.6,1.0
+,Influenza and pneumonia,J09-J18,2013,2013,Michigan,26.0,100,9895622.0,1.0,0.8,1.2,0.9,0.7,1.1
+,Influenza and pneumonia,J09-J18,2013,2013,Minnesota,27.0,55,5420380.0,1.0,0.8,1.3,0.9,0.7,1.2
+,Influenza and pneumonia,J09-J18,2013,2013,Mississippi,28.0,43,2991207.0,1.4,1.0,1.9,1.3,0.9,1.8
+,Influenza and pneumonia,J09-J18,2013,2013,Missouri,29.0,64,6044171.0,1.1,0.8,1.4,0.9,0.7,1.2
+,Influenza and pneumonia,J09-J18,2013,2013,Montana,30.0,Suppressed,1015165.0,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,Influenza and pneumonia,J09-J18,2013,2013,Nebraska,31.0,19,1868516.0,Unreliable,0.6,1.6,Unreliable,0.5,1.4
+,Influenza and pneumonia,J09-J18,2013,2013,Nevada,32.0,30,2790136.0,1.1,0.7,1.5,1.1,0.7,1.5
+,Influenza and pneumonia,J09-J18,2013,2013,New Hampshire,33.0,12,1323459.0,Unreliable,0.5,1.6,Unreliable,0.4,1.4
+,Influenza and pneumonia,J09-J18,2013,2013,New Jersey,34.0,92,8899339.0,1.0,0.8,1.3,0.9,0.7,1.1
+,Influenza and pneumonia,J09-J18,2013,2013,New Mexico,35.0,19,2085287.0,Unreliable,0.5,1.4,Unreliable,0.5,1.3
+,Influenza and pneumonia,J09-J18,2013,2013,New York,36.0,166,19651127.0,0.8,0.7,1.0,0.7,0.6,0.8
+,Influenza and pneumonia,J09-J18,2013,2013,North Carolina,37.0,120,9848060.0,1.2,1.0,1.4,1.1,0.9,1.3
+,Influenza and pneumonia,J09-J18,2013,2013,North Dakota,38.0,16,723393.0,Unreliable,1.3,3.6,Unreliable,1.0,2.9
+,Influenza and pneumonia,J09-J18,2013,2013,Ohio,39.0,154,11570808.0,1.3,1.1,1.5,1.1,0.9,1.3
+,Influenza and pneumonia,J09-J18,2013,2013,Oklahoma,40.0,49,3850568.0,1.3,0.9,1.7,1.2,0.9,1.5
+,Influenza and pneumonia,J09-J18,2013,2013,Oregon,41.0,38,3930065.0,1.0,0.7,1.3,0.8,0.6,1.1
+,Influenza and pneumonia,J09-J18,2013,2013,Pennsylvania,42.0,135,12773801.0,1.1,0.9,1.2,0.9,0.7,1.0
+,Influenza and pneumonia,J09-J18,2013,2013,Rhode Island,44.0,15,1051511.0,Unreliable,0.8,2.4,Unreliable,0.6,1.9
+,Influenza and pneumonia,J09-J18,2013,2013,South Carolina,45.0,75,4774839.0,1.6,1.2,2.0,1.4,1.1,1.8
+,Influenza and pneumonia,J09-J18,2013,2013,South Dakota,46.0,Suppressed,844877.0,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,Influenza and pneumonia,J09-J18,2013,2013,Tennessee,47.0,107,6495978.0,1.6,1.3,2.0,1.5,1.2,1.8
+,Influenza and pneumonia,J09-J18,2013,2013,Texas,48.0,288,26448193.0,1.1,1.0,1.2,1.2,1.0,1.3
+,Influenza and pneumonia,J09-J18,2013,2013,Utah,49.0,25,2900872.0,0.9,0.6,1.3,1.1,0.7,1.6
+,Influenza and pneumonia,J09-J18,2013,2013,Vermont,50.0,Suppressed,626630.0,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,Influenza and pneumonia,J09-J18,2013,2013,Virginia,51.0,70,8260405.0,0.8,0.7,1.1,0.8,0.6,1.0
+,Influenza and pneumonia,J09-J18,2013,2013,Washington,53.0,93,6971406.0,1.3,1.1,1.6,1.2,0.9,1.4
+,Influenza and pneumonia,J09-J18,2013,2013,West Virginia,54.0,28,1854304.0,1.5,1.0,2.2,1.2,0.8,1.8
+,Influenza and pneumonia,J09-J18,2013,2013,Wisconsin,55.0,59,5742713.0,1.0,0.8,1.3,0.9,0.7,1.2
+,Influenza and pneumonia,J09-J18,2013,2013,Wyoming,56.0,Suppressed,582658.0,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+Total,Influenza and pneumonia,J09-J18,2013,2013,,,3527,316128839.0,1.1,1.1,1.2,1.0,1.0,1.0
+,Influenza and pneumonia,J09-J18,2014,2014,Alabama,1.0,83,4849377.0,1.7,1.4,2.1,1.5,1.2,1.9
+,Influenza and pneumonia,J09-J18,2014,2014,Alaska,2.0,Suppressed,736732.0,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,Influenza and pneumonia,J09-J18,2014,2014,Arizona,4.0,95,6731484.0,1.4,1.1,1.7,1.2,1.0,1.5
+,Influenza and pneumonia,J09-J18,2014,2014,Arkansas,5.0,60,2966369.0,2.0,1.5,2.6,1.7,1.3,2.2
+,Influenza and pneumonia,J09-J18,2014,2014,California,6.0,450,38802500.0,1.2,1.1,1.3,1.1,1.0,1.2
+,Influenza and pneumonia,J09-J18,2014,2014,Colorado,8.0,40,5355866.0,0.7,0.5,1.0,0.7,0.5,1.0
+,Influenza and pneumonia,J09-J18,2014,2014,Connecticut,9.0,31,3596677.0,0.9,0.6,1.2,0.7,0.5,1.0
+,Influenza and pneumonia,J09-J18,2014,2014,Delaware,10.0,15,935614.0,Unreliable,0.9,2.6,Unreliable,0.8,2.2
+,Influenza and pneumonia,J09-J18,2014,2014,District of Columbia,11.0,Suppressed,658893.0,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,Influenza and pneumonia,J09-J18,2014,2014,Florida,12.0,219,19893297.0,1.1,1.0,1.2,0.9,0.8,1.0
+,Influenza and pneumonia,J09-J18,2014,2014,Georgia,13.0,115,10097343.0,1.1,0.9,1.3,1.2,0.9,1.4
+,Influenza and pneumonia,J09-J18,2014,2014,Hawaii,15.0,14,1419561.0,Unreliable,0.5,1.7,Unreliable,0.5,1.5
+,Influenza and pneumonia,J09-J18,2014,2014,Idaho,16.0,20,1634464.0,1.2,0.7,1.9,1.1,0.7,1.8
+,Influenza and pneumonia,J09-J18,2014,2014,Illinois,17.0,130,12880580.0,1.0,0.8,1.2,0.9,0.8,1.1
+,Influenza and pneumonia,J09-J18,2014,2014,Indiana,18.0,105,6596855.0,1.6,1.3,1.9,1.4,1.2,1.7
+,Influenza and pneumonia,J09-J18,2014,2014,Iowa,19.0,31,3107126.0,1.0,0.7,1.4,0.8,0.5,1.1
+,Influenza and pneumonia,J09-J18,2014,2014,Kansas,20.0,34,2904021.0,1.2,0.8,1.6,1.0,0.7,1.5
+,Influenza and pneumonia,J09-J18,2014,2014,Kentucky,21.0,74,4413457.0,1.7,1.3,2.1,1.5,1.2,1.9
+,Influenza and pneumonia,J09-J18,2014,2014,Louisiana,22.0,59,4649676.0,1.3,1.0,1.6,1.2,0.9,1.6
+,Influenza and pneumonia,J09-J18,2014,2014,Maine,23.0,24,1330089.0,1.8,1.2,2.7,1.2,0.8,1.8
+,Influenza and pneumonia,J09-J18,2014,2014,Maryland,24.0,79,5976407.0,1.3,1.0,1.6,1.2,0.9,1.5
+,Influenza and pneumonia,J09-J18,2014,2014,Massachusetts,25.0,49,6745408.0,0.7,0.5,1.0,0.6,0.5,0.8
+,Influenza and pneumonia,J09-J18,2014,2014,Michigan,26.0,104,9909877.0,1.0,0.8,1.3,0.9,0.7,1.0
+,Influenza and pneumonia,J09-J18,2014,2014,Minnesota,27.0,54,5457173.0,1.0,0.7,1.3,0.8,0.6,1.1
+,Influenza and pneumonia,J09-J18,2014,2014,Mississippi,28.0,57,2994079.0,1.9,1.4,2.5,1.7,1.3,2.2
+,Influenza and pneumonia,J09-J18,2014,2014,Missouri,29.0,75,6063589.0,1.2,1.0,1.6,1.0,0.8,1.3
+,Influenza and pneumonia,J09-J18,2014,2014,Montana,30.0,10,1023579.0,Unreliable,0.5,1.8,Unreliable,0.3,1.2
+,Influenza and pneumonia,J09-J18,2014,2014,Nebraska,31.0,19,1881503.0,Unreliable,0.6,1.6,Unreliable,0.5,1.4
+,Influenza and pneumonia,J09-J18,2014,2014,Nevada,32.0,31,2839099.0,1.1,0.7,1.5,1.1,0.7,1.5
+,Influenza and pneumonia,J09-J18,2014,2014,New Hampshire,33.0,18,1326813.0,Unreliable,0.8,2.1,Unreliable,0.6,1.7
+,Influenza and pneumonia,J09-J18,2014,2014,New Jersey,34.0,86,8938175.0,1.0,0.8,1.2,0.9,0.7,1.1
+,Influenza and pneumonia,J09-J18,2014,2014,New Mexico,35.0,34,2085572.0,1.6,1.1,2.3,1.6,1.1,2.2
+,Influenza and pneumonia,J09-J18,2014,2014,New York,36.0,199,19746227.0,1.0,0.9,1.1,0.9,0.8,1.0
+,Influenza and pneumonia,J09-J18,2014,2014,North Carolina,37.0,118,9943964.0,1.2,1.0,1.4,1.0,0.8,1.2
+,Influenza and pneumonia,J09-J18,2014,2014,North Dakota,38.0,Suppressed,739482.0,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,Influenza and pneumonia,J09-J18,2014,2014,Ohio,39.0,139,11594163.0,1.2,1.0,1.4,1.0,0.8,1.2
+,Influenza and pneumonia,J09-J18,2014,2014,Oklahoma,40.0,63,3878051.0,1.6,1.2,2.1,1.4,1.1,1.8
+,Influenza and pneumonia,J09-J18,2014,2014,Oregon,41.0,58,3970239.0,1.5,1.1,1.9,1.2,0.9,1.6
+,Influenza and pneumonia,J09-J18,2014,2014,Pennsylvania,42.0,176,12787209.0,1.4,1.2,1.6,1.1,0.9,1.3
+,Influenza and pneumonia,J09-J18,2014,2014,Rhode Island,44.0,Suppressed,1055173.0,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,Influenza and pneumonia,J09-J18,2014,2014,South Carolina,45.0,78,4832482.0,1.6,1.3,2.0,1.4,1.1,1.7
+,Influenza and pneumonia,J09-J18,2014,2014,South Dakota,46.0,Suppressed,853175.0,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,Influenza and pneumonia,J09-J18,2014,2014,Tennessee,47.0,94,6549352.0,1.4,1.2,1.8,1.3,1.0,1.6
+,Influenza and pneumonia,J09-J18,2014,2014,Texas,48.0,341,26956958.0,1.3,1.1,1.4,1.3,1.1,1.4
+,Influenza and pneumonia,J09-J18,2014,2014,Utah,49.0,38,2942902.0,1.3,0.9,1.8,1.7,1.2,2.4
+,Influenza and pneumonia,J09-J18,2014,2014,Vermont,50.0,Suppressed,626562.0,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,Influenza and pneumonia,J09-J18,2014,2014,Virginia,51.0,84,8326289.0,1.0,0.8,1.2,0.9,0.7,1.2
+,Influenza and pneumonia,J09-J18,2014,2014,Washington,53.0,103,7061530.0,1.5,1.2,1.7,1.3,1.1,1.6
+,Influenza and pneumonia,J09-J18,2014,2014,West Virginia,54.0,31,1850326.0,1.7,1.1,2.4,1.2,0.8,1.8
+,Influenza and pneumonia,J09-J18,2014,2014,Wisconsin,55.0,64,5757564.0,1.1,0.9,1.4,0.9,0.7,1.2
+,Influenza and pneumonia,J09-J18,2014,2014,Wyoming,56.0,Suppressed,584153.0,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+Total,Influenza and pneumonia,J09-J18,2014,2014,,,3849,318857056.0,1.2,1.2,1.2,1.1,1.0,1.1
+,Influenza and pneumonia,J09-J18,2015,2015,Alabama,1.0,88,4858979.0,1.8,1.5,2.2,1.6,1.3,2.0
+,Influenza and pneumonia,J09-J18,2015,2015,Alaska,2.0,Suppressed,738432.0,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,Influenza and pneumonia,J09-J18,2015,2015,Arizona,4.0,87,6828065.0,1.3,1.0,1.6,1.1,0.9,1.3
+,Influenza and pneumonia,J09-J18,2015,2015,Arkansas,5.0,41,2978204.0,1.4,1.0,1.9,1.2,0.9,1.6
+,Influenza and pneumonia,J09-J18,2015,2015,California,6.0,414,39144818.0,1.1,1.0,1.2,1.0,0.9,1.1
+,Influenza and pneumonia,J09-J18,2015,2015,Colorado,8.0,51,5456574.0,0.9,0.7,1.2,0.9,0.7,1.2
+,Influenza and pneumonia,J09-J18,2015,2015,Connecticut,9.0,30,3590886.0,0.8,0.6,1.2,0.7,0.4,0.9
+,Influenza and pneumonia,J09-J18,2015,2015,Delaware,10.0,15,945934.0,Unreliable,0.9,2.6,Unreliable,0.7,2.2
+,Influenza and pneumonia,J09-J18,2015,2015,District of Columbia,11.0,Suppressed,672228.0,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,Influenza and pneumonia,J09-J18,2015,2015,Florida,12.0,259,20271272.0,1.3,1.1,1.4,1.0,0.8,1.1
+,Influenza and pneumonia,J09-J18,2015,2015,Georgia,13.0,100,10214860.0,1.0,0.8,1.2,1.0,0.8,1.2
+,Influenza and pneumonia,J09-J18,2015,2015,Hawaii,15.0,20,1431603.0,1.4,0.9,2.2,1.1,0.7,1.7
+,Influenza and pneumonia,J09-J18,2015,2015,Idaho,16.0,17,1654930.0,Unreliable,0.6,1.6,Unreliable,0.6,1.6
+,Influenza and pneumonia,J09-J18,2015,2015,Illinois,17.0,125,12859995.0,1.0,0.8,1.1,0.9,0.7,1.0
+,Influenza and pneumonia,J09-J18,2015,2015,Indiana,18.0,66,6619680.0,1.0,0.8,1.3,0.9,0.7,1.1
+,Influenza and pneumonia,J09-J18,2015,2015,Iowa,19.0,33,3123899.0,1.1,0.7,1.5,0.9,0.6,1.3
+,Influenza and pneumonia,J09-J18,2015,2015,Kansas,20.0,29,2911641.0,1.0,0.7,1.4,0.9,0.6,1.3
+,Influenza and pneumonia,J09-J18,2015,2015,Kentucky,21.0,61,4425092.0,1.4,1.1,1.8,1.2,0.9,1.6
+,Influenza and pneumonia,J09-J18,2015,2015,Louisiana,22.0,31,4670724.0,0.7,0.5,0.9,0.6,0.4,0.9
+,Influenza and pneumonia,J09-J18,2015,2015,Maine,23.0,Suppressed,1329328.0,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,Influenza and pneumonia,J09-J18,2015,2015,Maryland,24.0,60,6006401.0,1.0,0.8,1.3,0.9,0.7,1.2
+,Influenza and pneumonia,J09-J18,2015,2015,Massachusetts,25.0,57,6794422.0,0.8,0.6,1.1,0.7,0.5,0.9
+,Influenza and pneumonia,J09-J18,2015,2015,Michigan,26.0,114,9922576.0,1.1,0.9,1.4,0.9,0.8,1.1
+,Influenza and pneumonia,J09-J18,2015,2015,Minnesota,27.0,67,5489594.0,1.2,0.9,1.5,1.0,0.8,1.3
+,Influenza and pneumonia,J09-J18,2015,2015,Mississippi,28.0,43,2992333.0,1.4,1.0,1.9,1.3,0.9,1.7
+,Influenza and pneumonia,J09-J18,2015,2015,Missouri,29.0,77,6083672.0,1.3,1.0,1.6,1.0,0.8,1.3
+,Influenza and pneumonia,J09-J18,2015,2015,Montana,30.0,Suppressed,1032949.0,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,Influenza and pneumonia,J09-J18,2015,2015,Nebraska,31.0,31,1896190.0,1.6,1.1,2.3,1.5,1.0,2.1
+,Influenza and pneumonia,J09-J18,2015,2015,Nevada,32.0,29,2890845.0,1.0,0.7,1.4,0.9,0.6,1.3
+,Influenza and pneumonia,J09-J18,2015,2015,New Hampshire,33.0,12,1330608.0,Unreliable,0.5,1.6,Unreliable,0.4,1.4
+,Influenza and pneumonia,J09-J18,2015,2015,New Jersey,34.0,92,8958013.0,1.0,0.8,1.3,0.9,0.7,1.1
+,Influenza and pneumonia,J09-J18,2015,2015,New Mexico,35.0,32,2085109.0,1.5,1.0,2.2,1.3,0.9,1.9
+,Influenza and pneumonia,J09-J18,2015,2015,New York,36.0,159,19795791.0,0.8,0.7,0.9,0.7,0.6,0.8
+,Influenza and pneumonia,J09-J18,2015,2015,North Carolina,37.0,114,10042802.0,1.1,0.9,1.3,1.0,0.8,1.1
+,Influenza and pneumonia,J09-J18,2015,2015,North Dakota,38.0,11,756927.0,Unreliable,0.7,2.6,Unreliable,0.6,2.1
+,Influenza and pneumonia,J09-J18,2015,2015,Ohio,39.0,109,11613423.0,0.9,0.8,1.1,0.8,0.6,0.9
+,Influenza and pneumonia,J09-J18,2015,2015,Oklahoma,40.0,45,3911338.0,1.2,0.8,1.5,1.1,0.8,1.4
+,Influenza and pneumonia,J09-J18,2015,2015,Oregon,41.0,57,4028977.0,1.4,1.1,1.8,1.2,0.9,1.5
+,Influenza and pneumonia,J09-J18,2015,2015,Pennsylvania,42.0,152,12802503.0,1.2,1.0,1.4,1.0,0.8,1.1
+,Influenza and pneumonia,J09-J18,2015,2015,Rhode Island,44.0,16,1056298.0,Unreliable,0.9,2.5,Unreliable,0.6,1.8
+,Influenza and pneumonia,J09-J18,2015,2015,South Carolina,45.0,86,4896146.0,1.8,1.4,2.2,1.5,1.2,1.8
+,Influenza and pneumonia,J09-J18,2015,2015,South Dakota,46.0,15,858469.0,Unreliable,1.0,2.9,Unreliable,0.9,2.7
+,Influenza and pneumonia,J09-J18,2015,2015,Tennessee,47.0,109,6600299.0,1.7,1.3,2.0,1.4,1.1,1.7
+,Influenza and pneumonia,J09-J18,2015,2015,Texas,48.0,306,27469114.0,1.1,1.0,1.2,1.1,1.0,1.3
+,Influenza and pneumonia,J09-J18,2015,2015,Utah,49.0,31,2995919.0,1.0,0.7,1.5,1.3,0.9,1.8
+,Influenza and pneumonia,J09-J18,2015,2015,Vermont,50.0,Suppressed,626042.0,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,Influenza and pneumonia,J09-J18,2015,2015,Virginia,51.0,76,8382993.0,0.9,0.7,1.1,0.8,0.6,1.0
+,Influenza and pneumonia,J09-J18,2015,2015,Washington,53.0,112,7170351.0,1.6,1.3,1.9,1.4,1.1,1.6
+,Influenza and pneumonia,J09-J18,2015,2015,West Virginia,54.0,45,1844128.0,2.4,1.8,3.3,1.8,1.3,2.5
+,Influenza and pneumonia,J09-J18,2015,2015,Wisconsin,55.0,57,5771337.0,1.0,0.7,1.3,0.8,0.6,1.1
+,Influenza and pneumonia,J09-J18,2015,2015,Wyoming,56.0,Suppressed,586107.0,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+Total,Influenza and pneumonia,J09-J18,2015,2015,,,3621,321418820.0,1.1,1.1,1.2,1.0,1.0,1.0
+,Influenza and pneumonia,J09-J18,2016,2016,Alabama,1.0,83,4863300.0,1.7,1.4,2.1,1.4,1.1,1.8
+,Influenza and pneumonia,J09-J18,2016,2016,Alaska,2.0,Suppressed,741894.0,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,Influenza and pneumonia,J09-J18,2016,2016,Arizona,4.0,91,6931071.0,1.3,1.1,1.6,1.1,0.9,1.4
+,Influenza and pneumonia,J09-J18,2016,2016,Arkansas,5.0,45,2988248.0,1.5,1.1,2.0,1.2,0.9,1.6
+,Influenza and pneumonia,J09-J18,2016,2016,California,6.0,475,39250017.0,1.2,1.1,1.3,1.1,1.0,1.2
+,Influenza and pneumonia,J09-J18,2016,2016,Colorado,8.0,52,5540545.0,0.9,0.7,1.2,0.9,0.7,1.2
+,Influenza and pneumonia,J09-J18,2016,2016,Connecticut,9.0,35,3576452.0,1.0,0.7,1.4,0.8,0.6,1.1
+,Influenza and pneumonia,J09-J18,2016,2016,Delaware,10.0,13,952065.0,Unreliable,0.7,2.3,Unreliable,0.6,2.0
+,Influenza and pneumonia,J09-J18,2016,2016,District of Columbia,11.0,Suppressed,681170.0,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,Influenza and pneumonia,J09-J18,2016,2016,Florida,12.0,268,20612439.0,1.3,1.1,1.5,1.0,0.8,1.1
+,Influenza and pneumonia,J09-J18,2016,2016,Georgia,13.0,102,10310371.0,1.0,0.8,1.2,0.9,0.7,1.1
+,Influenza and pneumonia,J09-J18,2016,2016,Hawaii,15.0,15,1428557.0,Unreliable,0.6,1.7,Unreliable,0.5,1.5
+,Influenza and pneumonia,J09-J18,2016,2016,Idaho,16.0,21,1683140.0,1.2,0.8,1.9,1.1,0.7,1.7
+,Influenza and pneumonia,J09-J18,2016,2016,Illinois,17.0,155,12801539.0,1.2,1.0,1.4,1.0,0.9,1.2
+,Influenza and pneumonia,J09-J18,2016,2016,Indiana,18.0,101,6633053.0,1.5,1.2,1.8,1.3,1.1,1.6
+,Influenza and pneumonia,J09-J18,2016,2016,Iowa,19.0,21,3134693.0,0.7,0.4,1.0,0.5,0.3,0.8
+,Influenza and pneumonia,J09-J18,2016,2016,Kansas,20.0,25,2907289.0,0.9,0.6,1.3,0.7,0.4,1.0
+,Influenza and pneumonia,J09-J18,2016,2016,Kentucky,21.0,62,4436974.0,1.4,1.1,1.8,1.2,0.9,1.5
+,Influenza and pneumonia,J09-J18,2016,2016,Louisiana,22.0,44,4681666.0,0.9,0.7,1.3,0.9,0.6,1.2
+,Influenza and pneumonia,J09-J18,2016,2016,Maine,23.0,14,1331479.0,Unreliable,0.6,1.8,Unreliable,0.5,1.4
+,Influenza and pneumonia,J09-J18,2016,2016,Maryland,24.0,65,6016447.0,1.1,0.8,1.4,0.9,0.7,1.2
+,Influenza and pneumonia,J09-J18,2016,2016,Massachusetts,25.0,66,6811779.0,1.0,0.7,1.2,0.8,0.6,1.0
+,Influenza and pneumonia,J09-J18,2016,2016,Michigan,26.0,94,9928300.0,0.9,0.8,1.2,0.8,0.7,1.0
+,Influenza and pneumonia,J09-J18,2016,2016,Minnesota,27.0,62,5519952.0,1.1,0.9,1.4,0.9,0.7,1.2
+,Influenza and pneumonia,J09-J18,2016,2016,Mississippi,28.0,52,2988726.0,1.7,1.3,2.3,1.5,1.1,2.0
+,Influenza and pneumonia,J09-J18,2016,2016,Missouri,29.0,60,6093000.0,1.0,0.8,1.3,0.8,0.6,1.0
+,Influenza and pneumonia,J09-J18,2016,2016,Montana,30.0,14,1042520.0,Unreliable,0.7,2.3,Unreliable,0.5,1.7
+,Influenza and pneumonia,J09-J18,2016,2016,Nebraska,31.0,17,1907116.0,Unreliable,0.5,1.4,Unreliable,0.4,1.2
+,Influenza and pneumonia,J09-J18,2016,2016,Nevada,32.0,28,2940058.0,1.0,0.6,1.4,0.8,0.5,1.2
+,Influenza and pneumonia,J09-J18,2016,2016,New Hampshire,33.0,Suppressed,1334795.0,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,Influenza and pneumonia,J09-J18,2016,2016,New Jersey,34.0,94,8944469.0,1.1,0.8,1.3,0.9,0.7,1.1
+,Influenza and pneumonia,J09-J18,2016,2016,New Mexico,35.0,31,2081015.0,1.5,1.0,2.1,1.3,0.9,1.9
+,Influenza and pneumonia,J09-J18,2016,2016,New York,36.0,172,19745289.0,0.9,0.7,1.0,0.7,0.6,0.8
+,Influenza and pneumonia,J09-J18,2016,2016,North Carolina,37.0,133,10146788.0,1.3,1.1,1.5,1.1,0.9,1.3
+,Influenza and pneumonia,J09-J18,2016,2016,North Dakota,38.0,14,757952.0,Unreliable,1.0,3.1,Unreliable,0.9,2.8
+,Influenza and pneumonia,J09-J18,2016,2016,Ohio,39.0,150,11614373.0,1.3,1.1,1.5,1.1,0.9,1.2
+,Influenza and pneumonia,J09-J18,2016,2016,Oklahoma,40.0,55,3923561.0,1.4,1.1,1.8,1.2,0.9,1.6
+,Influenza and pneumonia,J09-J18,2016,2016,Oregon,41.0,48,4093465.0,1.2,0.9,1.6,0.9,0.7,1.3
+,Influenza and pneumonia,J09-J18,2016,2016,Pennsylvania,42.0,156,12784227.0,1.2,1.0,1.4,1.0,0.8,1.1
+,Influenza and pneumonia,J09-J18,2016,2016,Rhode Island,44.0,13,1056426.0,Unreliable,0.7,2.1,Unreliable,0.6,1.9
+,Influenza and pneumonia,J09-J18,2016,2016,South Carolina,45.0,77,4961119.0,1.6,1.2,1.9,1.3,1.0,1.6
+,Influenza and pneumonia,J09-J18,2016,2016,South Dakota,46.0,10,865454.0,Unreliable,0.6,2.1,Unreliable,0.5,2.0
+,Influenza and pneumonia,J09-J18,2016,2016,Tennessee,47.0,111,6651194.0,1.7,1.4,2.0,1.4,1.1,1.6
+,Influenza and pneumonia,J09-J18,2016,2016,Texas,48.0,281,27862596.0,1.0,0.9,1.1,1.0,0.9,1.2
+,Influenza and pneumonia,J09-J18,2016,2016,Utah,49.0,36,3051217.0,1.2,0.8,1.6,1.3,0.9,1.8
+,Influenza and pneumonia,J09-J18,2016,2016,Vermont,50.0,Suppressed,624594.0,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,Influenza and pneumonia,J09-J18,2016,2016,Virginia,51.0,71,8411808.0,0.8,0.7,1.1,0.7,0.6,0.9
+,Influenza and pneumonia,J09-J18,2016,2016,Washington,53.0,115,7288000.0,1.6,1.3,1.9,1.3,1.1,1.6
+,Influenza and pneumonia,J09-J18,2016,2016,West Virginia,54.0,46,1831102.0,2.5,1.8,3.4,1.9,1.4,2.5
+,Influenza and pneumonia,J09-J18,2016,2016,Wisconsin,55.0,64,5778708.0,1.1,0.9,1.4,0.9,0.7,1.1
+,Influenza and pneumonia,J09-J18,2016,2016,Wyoming,56.0,Suppressed,585501.0,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+Total,Influenza and pneumonia,J09-J18,2016,2016,,,3789,323127513.0,1.2,1.1,1.2,1.0,1.0,1.0
+,Influenza and pneumonia,J09-J18,2017,2017,Alabama,1.0,84,4874747.0,1.7,1.4,2.1,1.5,1.2,1.8
+,Influenza and pneumonia,J09-J18,2017,2017,Alaska,2.0,Suppressed,739795.0,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,Influenza and pneumonia,J09-J18,2017,2017,Arizona,4.0,62,7016270.0,0.9,0.7,1.1,0.7,0.5,0.9
+,Influenza and pneumonia,J09-J18,2017,2017,Arkansas,5.0,41,3004279.0,1.4,1.0,1.9,1.1,0.8,1.5
+,Influenza and pneumonia,J09-J18,2017,2017,California,6.0,433,39536653.0,1.1,1.0,1.2,1.0,0.9,1.1
+,Influenza and pneumonia,J09-J18,2017,2017,Colorado,8.0,58,5607154.0,1.0,0.8,1.3,1.0,0.7,1.2
+,Influenza and pneumonia,J09-J18,2017,2017,Connecticut,9.0,45,3588184.0,1.3,0.9,1.7,1.0,0.7,1.3
+,Influenza and pneumonia,J09-J18,2017,2017,Delaware,10.0,19,961939.0,Unreliable,1.2,3.1,Unreliable,0.9,2.5
+,Influenza and pneumonia,J09-J18,2017,2017,District of Columbia,11.0,Suppressed,693972.0,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,Influenza and pneumonia,J09-J18,2017,2017,Florida,12.0,248,20984400.0,1.2,1.0,1.3,0.9,0.8,1.0
+,Influenza and pneumonia,J09-J18,2017,2017,Georgia,13.0,102,10429379.0,1.0,0.8,1.2,0.9,0.7,1.1
+,Influenza and pneumonia,J09-J18,2017,2017,Hawaii,15.0,22,1427538.0,1.5,1.0,2.3,1.2,0.7,1.8
+,Influenza and pneumonia,J09-J18,2017,2017,Idaho,16.0,22,1716943.0,1.3,0.8,1.9,1.2,0.7,1.8
+,Influenza and pneumonia,J09-J18,2017,2017,Illinois,17.0,114,12802023.0,0.9,0.7,1.1,0.8,0.6,0.9
+,Influenza and pneumonia,J09-J18,2017,2017,Indiana,18.0,88,6666818.0,1.3,1.1,1.6,1.1,0.9,1.4
+,Influenza and pneumonia,J09-J18,2017,2017,Iowa,19.0,31,3145711.0,1.0,0.7,1.4,0.9,0.6,1.3
+,Influenza and pneumonia,J09-J18,2017,2017,Kansas,20.0,25,2913123.0,0.9,0.6,1.3,0.8,0.5,1.2
+,Influenza and pneumonia,J09-J18,2017,2017,Kentucky,21.0,85,4454189.0,1.9,1.5,2.4,1.7,1.3,2.1
+,Influenza and pneumonia,J09-J18,2017,2017,Louisiana,22.0,44,4684333.0,0.9,0.7,1.3,0.8,0.6,1.1
+,Influenza and pneumonia,J09-J18,2017,2017,Maine,23.0,16,1335907.0,Unreliable,0.7,1.9,Unreliable,0.5,1.5
+,Influenza and pneumonia,J09-J18,2017,2017,Maryland,24.0,66,6052177.0,1.1,0.8,1.4,1.0,0.8,1.3
+,Influenza and pneumonia,J09-J18,2017,2017,Massachusetts,25.0,66,6859819.0,1.0,0.7,1.2,0.8,0.6,1.0
+,Influenza and pneumonia,J09-J18,2017,2017,Michigan,26.0,110,9962311.0,1.1,0.9,1.3,0.9,0.7,1.0
+,Influenza and pneumonia,J09-J18,2017,2017,Minnesota,27.0,87,5576606.0,1.6,1.2,1.9,1.3,1.0,1.6
+,Influenza and pneumonia,J09-J18,2017,2017,Mississippi,28.0,44,2984100.0,1.5,1.1,2.0,1.3,0.9,1.8
+,Influenza and pneumonia,J09-J18,2017,2017,Missouri,29.0,55,6113532.0,0.9,0.7,1.2,0.7,0.6,1.0
+,Influenza and pneumonia,J09-J18,2017,2017,Montana,30.0,13,1050493.0,Unreliable,0.7,2.1,Unreliable,0.6,2.0
+,Influenza and pneumonia,J09-J18,2017,2017,Nebraska,31.0,17,1920076.0,Unreliable,0.5,1.4,Unreliable,0.4,1.1
+,Influenza and pneumonia,J09-J18,2017,2017,Nevada,32.0,32,2998039.0,1.1,0.7,1.5,1.0,0.7,1.4
+,Influenza and pneumonia,J09-J18,2017,2017,New Hampshire,33.0,14,1342795.0,Unreliable,0.6,1.7,Unreliable,0.4,1.3
+,Influenza and pneumonia,J09-J18,2017,2017,New Jersey,34.0,86,9005644.0,1.0,0.8,1.2,0.8,0.6,1.0
+,Influenza and pneumonia,J09-J18,2017,2017,New Mexico,35.0,31,2088070.0,1.5,1.0,2.1,1.2,0.8,1.8
+,Influenza and pneumonia,J09-J18,2017,2017,New York,36.0,159,19849399.0,0.8,0.7,0.9,0.7,0.6,0.8
+,Influenza and pneumonia,J09-J18,2017,2017,North Carolina,37.0,160,10273419.0,1.6,1.3,1.8,1.4,1.1,1.6
+,Influenza and pneumonia,J09-J18,2017,2017,North Dakota,38.0,14,755393.0,Unreliable,1.0,3.1,Unreliable,0.9,2.8
+,Influenza and pneumonia,J09-J18,2017,2017,Ohio,39.0,132,11658609.0,1.1,0.9,1.3,1.0,0.8,1.1
+,Influenza and pneumonia,J09-J18,2017,2017,Oklahoma,40.0,38,3930864.0,1.0,0.7,1.3,0.8,0.6,1.1
+,Influenza and pneumonia,J09-J18,2017,2017,Oregon,41.0,47,4142776.0,1.1,0.8,1.5,0.9,0.7,1.2
+,Influenza and pneumonia,J09-J18,2017,2017,Pennsylvania,42.0,165,12805537.0,1.3,1.1,1.5,1.0,0.9,1.2
+,Influenza and pneumonia,J09-J18,2017,2017,Rhode Island,44.0,Suppressed,1059639.0,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,Influenza and pneumonia,J09-J18,2017,2017,South Carolina,45.0,71,5024369.0,1.4,1.1,1.8,1.2,0.9,1.5
+,Influenza and pneumonia,J09-J18,2017,2017,South Dakota,46.0,12,869666.0,Unreliable,0.7,2.4,Unreliable,0.6,2.0
+,Influenza and pneumonia,J09-J18,2017,2017,Tennessee,47.0,100,6715984.0,1.5,1.2,1.8,1.3,1.0,1.5
+,Influenza and pneumonia,J09-J18,2017,2017,Texas,48.0,320,28304596.0,1.1,1.0,1.3,1.1,1.0,1.3
+,Influenza and pneumonia,J09-J18,2017,2017,Utah,49.0,29,3101833.0,0.9,0.6,1.3,1.1,0.7,1.6
+,Influenza and pneumonia,J09-J18,2017,2017,Vermont,50.0,Suppressed,623657.0,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,Influenza and pneumonia,J09-J18,2017,2017,Virginia,51.0,84,8470020.0,1.0,0.8,1.2,0.8,0.7,1.0
+,Influenza and pneumonia,J09-J18,2017,2017,Washington,53.0,94,7405743.0,1.3,1.0,1.6,1.1,0.9,1.4
+,Influenza and pneumonia,J09-J18,2017,2017,West Virginia,54.0,33,1815857.0,1.8,1.3,2.6,1.4,0.9,1.9
+,Influenza and pneumonia,J09-J18,2017,2017,Wisconsin,55.0,55,5795483.0,0.9,0.7,1.2,0.8,0.6,1.0
+,Influenza and pneumonia,J09-J18,2017,2017,Wyoming,56.0,11,579315.0,Unreliable,0.9,3.4,Unreliable,0.7,2.8
+Total,Influenza and pneumonia,J09-J18,2017,2017,,,3707,325719178.0,1.1,1.1,1.2,1.0,1.0,1.0
+Total,Influenza and pneumonia,J09-J18,,,,,28156,2539502901.0,1.1,1.1,1.1,1.0,1.0,1.0
+,Influenza and pneumonia,J09-J18,2018,2018,Alabama,1.0,105,4887871.0,2.1,1.7,2.6,1.9,1.5,2.3
+,Influenza and pneumonia,J09-J18,2018,2018,Alaska,2.0,Suppressed,737438.0,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,Influenza and pneumonia,J09-J18,2018,2018,Arizona,4.0,66,7171646.0,0.9,0.7,1.2,0.8,0.6,1.0
+,Influenza and pneumonia,J09-J18,2018,2018,Arkansas,5.0,27,3013825.0,0.9,0.6,1.3,0.7,0.5,1.0
+,Influenza and pneumonia,J09-J18,2018,2018,California,6.0,407,39557045.0,1.0,0.9,1.1,0.9,0.9,1.0
+,Influenza and pneumonia,J09-J18,2018,2018,Colorado,8.0,63,5695564.0,1.1,0.8,1.4,1.0,0.8,1.3
+,Influenza and pneumonia,J09-J18,2018,2018,Connecticut,9.0,37,3572665.0,1.0,0.7,1.4,0.8,0.6,1.1
+,Influenza and pneumonia,J09-J18,2018,2018,Delaware,10.0,20,967171.0,2.1,1.3,3.2,1.9,1.2,3.1
+,Influenza and pneumonia,J09-J18,2018,2018,District of Columbia,11.0,Suppressed,702455.0,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,Influenza and pneumonia,J09-J18,2018,2018,Florida,12.0,253,21299325.0,1.2,1.0,1.3,0.9,0.8,1.0
+,Influenza and pneumonia,J09-J18,2018,2018,Georgia,13.0,95,10519475.0,0.9,0.7,1.1,0.9,0.7,1.1
+,Influenza and pneumonia,J09-J18,2018,2018,Hawaii,15.0,24,1420491.0,1.7,1.1,2.5,1.3,0.8,1.9
+,Influenza and pneumonia,J09-J18,2018,2018,Idaho,16.0,20,1754208.0,1.1,0.7,1.8,1.0,0.6,1.6
+,Influenza and pneumonia,J09-J18,2018,2018,Illinois,17.0,105,12741080.0,0.8,0.7,1.0,0.7,0.6,0.9
+,Influenza and pneumonia,J09-J18,2018,2018,Indiana,18.0,70,6691878.0,1.0,0.8,1.3,0.9,0.7,1.1
+,Influenza and pneumonia,J09-J18,2018,2018,Iowa,19.0,29,3156145.0,0.9,0.6,1.3,0.7,0.4,1.0
+,Influenza and pneumonia,J09-J18,2018,2018,Kansas,20.0,34,2911505.0,1.2,0.8,1.6,0.9,0.7,1.4
+,Influenza and pneumonia,J09-J18,2018,2018,Kentucky,21.0,64,4468402.0,1.4,1.1,1.8,1.2,0.9,1.6
+,Influenza and pneumonia,J09-J18,2018,2018,Louisiana,22.0,48,4659978.0,1.0,0.8,1.4,0.9,0.6,1.2
+,Influenza and pneumonia,J09-J18,2018,2018,Maine,23.0,24,1338404.0,1.8,1.1,2.7,1.2,0.7,1.8
+,Influenza and pneumonia,J09-J18,2018,2018,Maryland,24.0,73,6042718.0,1.2,0.9,1.5,1.0,0.8,1.3
+,Influenza and pneumonia,J09-J18,2018,2018,Massachusetts,25.0,76,6902149.0,1.1,0.9,1.4,0.9,0.7,1.1
+,Influenza and pneumonia,J09-J18,2018,2018,Michigan,26.0,98,9995915.0,1.0,0.8,1.2,0.8,0.6,1.0
+,Influenza and pneumonia,J09-J18,2018,2018,Minnesota,27.0,68,5611179.0,1.2,0.9,1.5,1.0,0.8,1.3
+,Influenza and pneumonia,J09-J18,2018,2018,Mississippi,28.0,53,2986530.0,1.8,1.3,2.3,1.5,1.1,2.0
+,Influenza and pneumonia,J09-J18,2018,2018,Missouri,29.0,73,6126452.0,1.2,0.9,1.5,1.0,0.8,1.3
+,Influenza and pneumonia,J09-J18,2018,2018,Montana,30.0,14,1062305.0,1.3,0.7,2.2,0.9,0.5,1.7
+,Influenza and pneumonia,J09-J18,2018,2018,Nebraska,31.0,18,1929268.0,0.9,0.6,1.5,0.8,0.5,1.3
+,Influenza and pneumonia,J09-J18,2018,2018,Nevada,32.0,30,3034392.0,1.0,0.7,1.4,0.8,0.6,1.2
+,Influenza and pneumonia,J09-J18,2018,2018,New Hampshire,33.0,14,1356458.0,1.0,0.6,1.7,0.8,0.4,1.4
+,Influenza and pneumonia,J09-J18,2018,2018,New Jersey,34.0,104,8908520.0,1.2,0.9,1.4,0.9,0.8,1.1
+,Influenza and pneumonia,J09-J18,2018,2018,New Mexico,35.0,30,2095428.0,1.4,1.0,2.0,1.2,0.8,1.8
+,Influenza and pneumonia,J09-J18,2018,2018,New York,36.0,179,19542209.0,0.9,0.8,1.1,0.7,0.6,0.9
+,Influenza and pneumonia,J09-J18,2018,2018,North Carolina,37.0,109,10383620.0,1.0,0.9,1.2,0.9,0.7,1.0
+,Influenza and pneumonia,J09-J18,2018,2018,North Dakota,38.0,14,760077.0,1.8,1.0,3.1,1.5,0.8,2.7
+,Influenza and pneumonia,J09-J18,2018,2018,Ohio,39.0,143,11689442.0,1.2,1.0,1.4,1.0,0.9,1.2
+,Influenza and pneumonia,J09-J18,2018,2018,Oklahoma,40.0,40,3943079.0,1.0,0.7,1.4,0.9,0.6,1.2
+,Influenza and pneumonia,J09-J18,2018,2018,Oregon,41.0,62,4190713.0,1.5,1.1,1.9,1.2,0.9,1.5
+,Influenza and pneumonia,J09-J18,2018,2018,Pennsylvania,42.0,179,12807060.0,1.4,1.2,1.6,1.1,0.9,1.3
+,Influenza and pneumonia,J09-J18,2018,2018,Rhode Island,44.0,Suppressed,1057315.0,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,Influenza and pneumonia,J09-J18,2018,2018,South Carolina,45.0,84,5084127.0,1.7,1.3,2.0,1.4,1.1,1.7
+,Influenza and pneumonia,J09-J18,2018,2018,South Dakota,46.0,Suppressed,882235.0,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,Influenza and pneumonia,J09-J18,2018,2018,Tennessee,47.0,127,6770010.0,1.9,1.5,2.2,1.5,1.3,1.9
+,Influenza and pneumonia,J09-J18,2018,2018,Texas,48.0,314,28701845.0,1.1,1.0,1.2,1.1,1.0,1.2
+,Influenza and pneumonia,J09-J18,2018,2018,Utah,49.0,43,3161105.0,1.4,1.0,1.8,1.5,1.1,2.0
+,Influenza and pneumonia,J09-J18,2018,2018,Vermont,50.0,Suppressed,626299.0,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,Influenza and pneumonia,J09-J18,2018,2018,Virginia,51.0,62,8517685.0,0.7,0.6,0.9,0.7,0.5,0.8
+,Influenza and pneumonia,J09-J18,2018,2018,Washington,53.0,105,7535591.0,1.4,1.1,1.7,1.2,1.0,1.5
+,Influenza and pneumonia,J09-J18,2018,2018,West Virginia,54.0,37,1805832.0,2.0,1.4,2.8,1.4,1.0,2.1
+,Influenza and pneumonia,J09-J18,2018,2018,Wisconsin,55.0,71,5813568.0,1.2,1.0,1.5,1.0,0.8,1.3
+,Influenza and pneumonia,J09-J18,2018,2018,Wyoming,56.0,Suppressed,577737.0,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,Influenza and pneumonia,J09-J18,2019,2019,Alabama,1.0,85,4903185.0,1.7,1.4,2.1,1.5,1.2,1.8
+,Influenza and pneumonia,J09-J18,2019,2019,Alaska,2.0,Suppressed,731545.0,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,Influenza and pneumonia,J09-J18,2019,2019,Arizona,4.0,77,7278717.0,1.1,0.8,1.3,0.9,0.7,1.1
+,Influenza and pneumonia,J09-J18,2019,2019,Arkansas,5.0,47,3017804.0,1.6,1.1,2.1,1.4,1.0,1.8
+,Influenza and pneumonia,J09-J18,2019,2019,California,6.0,453,39512223.0,1.1,1.0,1.3,1.0,0.9,1.1
+,Influenza and pneumonia,J09-J18,2019,2019,Colorado,8.0,60,5758736.0,1.0,0.8,1.3,0.9,0.7,1.2
+,Influenza and pneumonia,J09-J18,2019,2019,Connecticut,9.0,30,3565287.0,0.8,0.6,1.2,0.6,0.4,0.9
+,Influenza and pneumonia,J09-J18,2019,2019,Delaware,10.0,Suppressed,973764.0,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,Influenza and pneumonia,J09-J18,2019,2019,District of Columbia,11.0,Suppressed,705749.0,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,Influenza and pneumonia,J09-J18,2019,2019,Florida,12.0,228,21477737.0,1.1,0.9,1.2,0.8,0.7,0.9
+,Influenza and pneumonia,J09-J18,2019,2019,Georgia,13.0,124,10617423.0,1.2,1.0,1.4,1.0,0.9,1.3
+,Influenza and pneumonia,J09-J18,2019,2019,Hawaii,15.0,13,1415872.0,0.9,0.5,1.6,0.7,0.3,1.2
+,Influenza and pneumonia,J09-J18,2019,2019,Idaho,16.0,18,1787065.0,1.0,0.6,1.6,0.9,0.5,1.5
+,Influenza and pneumonia,J09-J18,2019,2019,Illinois,17.0,98,12671821.0,0.8,0.6,0.9,0.6,0.5,0.8
+,Influenza and pneumonia,J09-J18,2019,2019,Indiana,18.0,62,6732219.0,0.9,0.7,1.2,0.8,0.6,1.0
+,Influenza and pneumonia,J09-J18,2019,2019,Iowa,19.0,21,3155070.0,0.7,0.4,1.0,0.6,0.3,0.9
+,Influenza and pneumonia,J09-J18,2019,2019,Kansas,20.0,32,2913314.0,1.1,0.8,1.6,0.9,0.6,1.4
+,Influenza and pneumonia,J09-J18,2019,2019,Kentucky,21.0,80,4467673.0,1.8,1.4,2.2,1.5,1.2,1.9
+,Influenza and pneumonia,J09-J18,2019,2019,Louisiana,22.0,48,4648794.0,1.0,0.8,1.4,0.9,0.7,1.2
+,Influenza and pneumonia,J09-J18,2019,2019,Maine,23.0,24,1344212.0,1.8,1.1,2.7,1.2,0.8,1.9
+,Influenza and pneumonia,J09-J18,2019,2019,Maryland,24.0,65,6045680.0,1.1,0.8,1.4,0.9,0.7,1.2
+,Influenza and pneumonia,J09-J18,2019,2019,Massachusetts,25.0,57,6892503.0,0.8,0.6,1.1,0.6,0.5,0.8
+,Influenza and pneumonia,J09-J18,2019,2019,Michigan,26.0,112,9986857.0,1.1,0.9,1.3,0.9,0.7,1.1
+,Influenza and pneumonia,J09-J18,2019,2019,Minnesota,27.0,62,5639632.0,1.1,0.8,1.4,0.9,0.7,1.1
+,Influenza and pneumonia,J09-J18,2019,2019,Mississippi,28.0,40,2976149.0,1.3,1.0,1.8,1.2,0.8,1.6
+,Influenza and pneumonia,J09-J18,2019,2019,Missouri,29.0,80,6137428.0,1.3,1.0,1.6,1.1,0.8,1.4
+,Influenza and pneumonia,J09-J18,2019,2019,Montana,30.0,Suppressed,1068778.0,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,Influenza and pneumonia,J09-J18,2019,2019,Nebraska,31.0,31,1934408.0,1.6,1.1,2.3,1.3,0.8,1.9
+,Influenza and pneumonia,J09-J18,2019,2019,Nevada,32.0,36,3080156.0,1.2,0.8,1.6,1.0,0.7,1.5
+,Influenza and pneumonia,J09-J18,2019,2019,New Hampshire,33.0,Suppressed,1359711.0,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,Influenza and pneumonia,J09-J18,2019,2019,New Jersey,34.0,68,8882190.0,0.8,0.6,1.0,0.6,0.5,0.8
+,Influenza and pneumonia,J09-J18,2019,2019,New Mexico,35.0,16,2096829.0,0.8,0.4,1.2,0.7,0.4,1.2
+,Influenza and pneumonia,J09-J18,2019,2019,New York,36.0,161,19453561.0,0.8,0.7,1.0,0.7,0.6,0.8
+,Influenza and pneumonia,J09-J18,2019,2019,North Carolina,37.0,115,10488084.0,1.1,0.9,1.3,0.9,0.7,1.1
+,Influenza and pneumonia,J09-J18,2019,2019,North Dakota,38.0,12,762062.0,1.6,0.8,2.8,1.6,0.8,2.9
+,Influenza and pneumonia,J09-J18,2019,2019,Ohio,39.0,103,11689100.0,0.9,0.7,1.1,0.7,0.6,0.9
+,Influenza and pneumonia,J09-J18,2019,2019,Oklahoma,40.0,34,3956971.0,0.9,0.6,1.2,0.7,0.5,1.1
+,Influenza and pneumonia,J09-J18,2019,2019,Oregon,41.0,43,4217737.0,1.0,0.7,1.4,0.8,0.6,1.1
+,Influenza and pneumonia,J09-J18,2019,2019,Pennsylvania,42.0,149,12801989.0,1.2,1.0,1.4,0.9,0.7,1.1
+,Influenza and pneumonia,J09-J18,2019,2019,Rhode Island,44.0,10,1059361.0,0.9,0.5,1.7,0.6,0.3,1.2
+,Influenza and pneumonia,J09-J18,2019,2019,South Carolina,45.0,76,5148714.0,1.5,1.2,1.8,1.2,0.9,1.5
+,Influenza and pneumonia,J09-J18,2019,2019,South Dakota,46.0,11,884659.0,1.2,0.6,2.2,1.0,0.5,2.0
+,Influenza and pneumonia,J09-J18,2019,2019,Tennessee,47.0,79,6829174.0,1.2,0.9,1.4,0.9,0.7,1.2
+,Influenza and pneumonia,J09-J18,2019,2019,Texas,48.0,373,28995881.0,1.3,1.2,1.4,1.3,1.1,1.4
+,Influenza and pneumonia,J09-J18,2019,2019,Utah,49.0,44,3205958.0,1.4,1.0,1.8,1.5,1.1,2.1
+,Influenza and pneumonia,J09-J18,2019,2019,Vermont,50.0,Suppressed,623989.0,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,Influenza and pneumonia,J09-J18,2019,2019,Virginia,51.0,66,8535519.0,0.8,0.6,1.0,0.7,0.5,0.8
+,Influenza and pneumonia,J09-J18,2019,2019,Washington,53.0,94,7614893.0,1.2,1.0,1.5,1.1,0.9,1.3
+,Influenza and pneumonia,J09-J18,2019,2019,West Virginia,54.0,35,1792147.0,2.0,1.4,2.7,1.5,1.0,2.1
+,Influenza and pneumonia,J09-J18,2019,2019,Wisconsin,55.0,67,5822434.0,1.2,0.9,1.5,0.9,0.7,1.2
+,Influenza and pneumonia,J09-J18,2019,2019,Wyoming,56.0,Suppressed,578759.0,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,Influenza and pneumonia,J09-J18,2020,2020,Alabama,1.0,276,4921532.0,5.6,4.9,6.3,4.4,3.9,5.0
+,Influenza and pneumonia,J09-J18,2020,2020,Alaska,2.0,36,731158.0,4.9,3.4,6.8,5.1,3.5,7.2
+,Influenza and pneumonia,J09-J18,2020,2020,Arizona,4.0,1168,7421401.0,15.7,14.8,16.6,12.2,11.5,13.0
+,Influenza and pneumonia,J09-J18,2020,2020,Arkansas,5.0,406,3030522.0,13.4,12.1,14.7,10.4,9.4,11.5
+,Influenza and pneumonia,J09-J18,2020,2020,California,6.0,2403,39368078.0,6.1,5.9,6.3,5.3,5.1,5.5
+,Influenza and pneumonia,J09-J18,2020,2020,Colorado,8.0,801,5807719.0,13.8,12.8,14.7,12.4,11.6,13.3
+,Influenza and pneumonia,J09-J18,2020,2020,Connecticut,9.0,164,3557006.0,4.6,3.9,5.3,3.2,2.8,3.8
+,Influenza and pneumonia,J09-J18,2020,2020,Delaware,10.0,63,986809.0,6.4,4.9,8.2,4.8,3.7,6.3
+,Influenza and pneumonia,J09-J18,2020,2020,District of Columbia,11.0,576,712816.0,80.8,74.2,87.4,80.9,74.3,87.9
+,Influenza and pneumonia,J09-J18,2020,2020,Florida,12.0,1758,21733312.0,8.1,7.7,8.5,5.4,5.2,5.7
+,Influenza and pneumonia,J09-J18,2020,2020,Georgia,13.0,652,10710017.0,6.1,5.6,6.6,5.4,4.9,5.8
+,Influenza and pneumonia,J09-J18,2020,2020,Hawaii,15.0,66,1407006.0,4.7,3.6,6.0,3.4,2.6,4.5
+,Influenza and pneumonia,J09-J18,2020,2020,Idaho,16.0,104,1826913.0,5.7,4.6,6.8,4.8,3.9,5.8
+,Influenza and pneumonia,J09-J18,2020,2020,Illinois,17.0,483,12587530.0,3.8,3.5,4.2,3.1,2.9,3.4
+,Influenza and pneumonia,J09-J18,2020,2020,Indiana,18.0,542,6754953.0,8.0,7.3,8.7,6.5,6.0,7.1
+,Influenza and pneumonia,J09-J18,2020,2020,Iowa,19.0,210,3163561.0,6.6,5.7,7.5,5.0,4.4,5.8
+,Influenza and pneumonia,J09-J18,2020,2020,Kansas,20.0,187,2913805.0,6.4,5.5,7.3,5.1,4.4,5.9
+,Influenza and pneumonia,J09-J18,2020,2020,Kentucky,21.0,299,4477251.0,6.7,5.9,7.4,5.3,4.7,5.9
+,Influenza and pneumonia,J09-J18,2020,2020,Louisiana,22.0,1287,4645318.0,27.7,26.2,29.2,23.0,21.8,24.4
+,Influenza and pneumonia,J09-J18,2020,2020,Maine,23.0,29,1350141.0,2.1,1.4,3.1,1.4,0.9,2.1
+,Influenza and pneumonia,J09-J18,2020,2020,Maryland,24.0,563,6055802.0,9.3,8.5,10.1,7.4,6.8,8.1
+,Influenza and pneumonia,J09-J18,2020,2020,Massachusetts,25.0,604,6893574.0,8.8,8.1,9.5,6.6,6.0,7.1
+,Influenza and pneumonia,J09-J18,2020,2020,Michigan,26.0,634,9966555.0,6.4,5.9,6.9,4.9,4.5,5.3
+,Influenza and pneumonia,J09-J18,2020,2020,Minnesota,27.0,459,5657342.0,8.1,7.4,8.9,6.5,5.9,7.1
+,Influenza and pneumonia,J09-J18,2020,2020,Mississippi,28.0,556,2966786.0,18.7,17.2,20.3,15.5,14.2,16.9
+,Influenza and pneumonia,J09-J18,2020,2020,Missouri,29.0,402,6151548.0,6.5,5.9,7.2,5.0,4.5,5.5
+,Influenza and pneumonia,J09-J18,2020,2020,Montana,30.0,68,1080577.0,6.3,4.9,8.0,4.6,3.5,6.0
+,Influenza and pneumonia,J09-J18,2020,2020,Nebraska,31.0,124,1937552.0,6.4,5.3,7.5,5.2,4.3,6.3
+,Influenza and pneumonia,J09-J18,2020,2020,Nevada,32.0,1326,3138259.0,42.3,40.0,44.5,36.3,34.4,38.4
+,Influenza and pneumonia,J09-J18,2020,2020,New Hampshire,33.0,37,1366275.0,2.7,1.9,3.7,1.9,1.3,2.7
+,Influenza and pneumonia,J09-J18,2020,2020,New Jersey,34.0,1826,8882371.0,20.6,19.6,21.5,15.9,15.2,16.7
+,Influenza and pneumonia,J09-J18,2020,2020,New Mexico,35.0,213,2106319.0,10.1,8.8,11.5,8.4,7.3,9.7
+,Influenza and pneumonia,J09-J18,2020,2020,New York,36.0,4440,19336776.0,23.0,22.3,23.6,17.4,16.8,17.9
+,Influenza and pneumonia,J09-J18,2020,2020,North Carolina,37.0,442,10600823.0,4.2,3.8,4.6,3.3,3.0,3.6
+,Influenza and pneumonia,J09-J18,2020,2020,North Dakota,38.0,88,765309.0,11.5,9.2,14.2,9.6,7.6,12.0
+,Influenza and pneumonia,J09-J18,2020,2020,Ohio,39.0,963,11693217.0,8.2,7.7,8.8,6.2,5.8,6.7
+,Influenza and pneumonia,J09-J18,2020,2020,Oklahoma,40.0,243,3980783.0,6.1,5.3,6.9,5.1,4.5,5.8
+,Influenza and pneumonia,J09-J18,2020,2020,Oregon,41.0,94,4241507.0,2.2,1.8,2.7,1.7,1.4,2.1
+,Influenza and pneumonia,J09-J18,2020,2020,Pennsylvania,42.0,873,12783254.0,6.8,6.4,7.3,4.8,4.5,5.1
+,Influenza and pneumonia,J09-J18,2020,2020,Rhode Island,44.0,155,1057125.0,14.7,12.4,17.0,10.4,8.8,12.2
+,Influenza and pneumonia,J09-J18,2020,2020,South Carolina,45.0,498,5218040.0,9.5,8.7,10.4,7.3,6.6,8.0
+,Influenza and pneumonia,J09-J18,2020,2020,South Dakota,46.0,96,892717.0,10.8,8.7,13.1,8.3,6.7,10.3
+,Influenza and pneumonia,J09-J18,2020,2020,Tennessee,47.0,484,6886834.0,7.0,6.4,7.7,5.6,5.1,6.1
+,Influenza and pneumonia,J09-J18,2020,2020,Texas,48.0,2300,29360759.0,7.8,7.5,8.2,7.5,7.2,7.9
+,Influenza and pneumonia,J09-J18,2020,2020,Utah,49.0,174,3249879.0,5.4,4.6,6.1,6.0,5.1,7.0
+,Influenza and pneumonia,J09-J18,2020,2020,Vermont,50.0,12,623347.0,1.9,1.0,3.4,1.2,0.6,2.1
+,Influenza and pneumonia,J09-J18,2020,2020,Virginia,51.0,377,8590563.0,4.4,3.9,4.8,3.5,3.2,3.9
+,Influenza and pneumonia,J09-J18,2020,2020,Washington,53.0,487,7693612.0,6.3,5.8,6.9,5.3,4.9,5.9
+,Influenza and pneumonia,J09-J18,2020,2020,West Virginia,54.0,97,1784787.0,5.4,4.4,6.6,3.6,2.9,4.5
+,Influenza and pneumonia,J09-J18,2020,2020,Wisconsin,55.0,206,5832655.0,3.5,3.0,4.0,2.7,2.4,3.2
+,Influenza and pneumonia,J09-J18,2020,2020,Wyoming,56.0,35,582328.0,6.0,4.2,8.4,4.9,3.3,7.0
+,Influenza and pneumonia,J09-J18,2021,2021,Alabama,1.0,351,5039877.0,7.0,6.2,7.7,5.8,5.2,6.5
+,Influenza and pneumonia,J09-J18,2021,2021,Alaska,2.0,92,732673.0,12.6,10.1,15.4,12.1,9.6,15.0
+,Influenza and pneumonia,J09-J18,2021,2021,Arizona,4.0,1837,7276316.0,25.2,24.1,26.4,20.4,19.4,21.4
+,Influenza and pneumonia,J09-J18,2021,2021,Arkansas,5.0,496,3025891.0,16.4,14.9,17.8,13.5,12.3,14.8
+,Influenza and pneumonia,J09-J18,2021,2021,California,6.0,4072,39237836.0,10.4,10.1,10.7,9.0,8.7,9.3
+,Influenza and pneumonia,J09-J18,2021,2021,Colorado,8.0,976,5812069.0,16.8,15.7,17.8,14.7,13.8,15.7
+,Influenza and pneumonia,J09-J18,2021,2021,Connecticut,9.0,161,3605597.0,4.5,3.8,5.2,3.4,2.9,4.1
+,Influenza and pneumonia,J09-J18,2021,2021,Delaware,10.0,80,1003384.0,8.0,6.3,9.9,6.4,5.0,8.1
+,Influenza and pneumonia,J09-J18,2021,2021,District of Columbia,11.0,103,670050.0,15.4,12.4,18.3,15.2,12.4,18.5
+,Influenza and pneumonia,J09-J18,2021,2021,Florida,12.0,3082,21781128.0,14.1,13.7,14.6,10.7,10.3,11.1
+,Influenza and pneumonia,J09-J18,2021,2021,Georgia,13.0,1028,10799566.0,9.5,8.9,10.1,8.4,7.9,8.9
+,Influenza and pneumonia,J09-J18,2021,2021,Hawaii,15.0,101,1441553.0,7.0,5.6,8.4,5.9,4.8,7.2
+,Influenza and pneumonia,J09-J18,2021,2021,Idaho,16.0,308,1900923.0,16.2,14.4,18.0,13.6,12.1,15.3
+,Influenza and pneumonia,J09-J18,2021,2021,Illinois,17.0,512,12671469.0,4.0,3.7,4.4,3.2,3.0,3.6
+,Influenza and pneumonia,J09-J18,2021,2021,Indiana,18.0,729,6805985.0,10.7,9.9,11.5,9.1,8.4,9.8
+,Influenza and pneumonia,J09-J18,2021,2021,Iowa,19.0,199,3193079.0,6.2,5.4,7.1,5.0,4.3,5.8
+,Influenza and pneumonia,J09-J18,2021,2021,Kansas,20.0,229,2934582.0,7.8,6.8,8.8,6.8,5.9,7.8
+,Influenza and pneumonia,J09-J18,2021,2021,Kentucky,21.0,867,4509394.0,19.2,17.9,20.5,15.9,14.8,17.0
+,Influenza and pneumonia,J09-J18,2021,2021,Louisiana,22.0,1168,4624047.0,25.3,23.8,26.7,21.7,20.4,23.0
+,Influenza and pneumonia,J09-J18,2021,2021,Maine,23.0,54,1372247.0,3.9,3.0,5.1,2.6,2.0,3.6
+,Influenza and pneumonia,J09-J18,2021,2021,Maryland,24.0,373,6165129.0,6.1,5.4,6.7,5.0,4.5,5.6
+,Influenza and pneumonia,J09-J18,2021,2021,Massachusetts,25.0,373,6984723.0,5.3,4.8,5.9,4.1,3.7,4.5
+,Influenza and pneumonia,J09-J18,2021,2021,Michigan,26.0,891,10050811.0,8.9,8.3,9.4,7.0,6.6,7.5
+,Influenza and pneumonia,J09-J18,2021,2021,Minnesota,27.0,587,5707390.0,10.3,9.5,11.1,8.4,7.7,9.1
+,Influenza and pneumonia,J09-J18,2021,2021,Mississippi,28.0,597,2949965.0,20.2,18.6,21.9,17.2,15.8,18.7
+,Influenza and pneumonia,J09-J18,2021,2021,Missouri,29.0,761,6168187.0,12.3,11.5,13.2,10.0,9.2,10.7
+,Influenza and pneumonia,J09-J18,2021,2021,Montana,30.0,172,1104271.0,15.6,13.2,17.9,11.8,10.0,13.9
+,Influenza and pneumonia,J09-J18,2021,2021,Nebraska,31.0,142,1963692.0,7.2,6.0,8.4,6.3,5.3,7.5
+,Influenza and pneumonia,J09-J18,2021,2021,Nevada,32.0,2355,3143991.0,74.9,71.9,77.9,64.8,62.1,67.5
+,Influenza and pneumonia,J09-J18,2021,2021,New Hampshire,33.0,87,1388992.0,6.3,5.0,7.7,4.7,3.7,5.9
+,Influenza and pneumonia,J09-J18,2021,2021,New Jersey,34.0,858,9267130.0,9.3,8.6,9.9,7.3,6.8,7.8
+,Influenza and pneumonia,J09-J18,2021,2021,New Mexico,35.0,290,2115877.0,13.7,12.1,15.3,11.5,10.2,13.0
+,Influenza and pneumonia,J09-J18,2021,2021,New York,36.0,1677,19835913.0,8.5,8.0,8.9,6.5,6.2,6.9
+,Influenza and pneumonia,J09-J18,2021,2021,North Carolina,37.0,1078,10551162.0,10.2,9.6,10.8,8.3,7.8,8.8
+,Influenza and pneumonia,J09-J18,2021,2021,North Dakota,38.0,108,774948.0,13.9,11.3,16.6,12.7,10.4,15.5
+,Influenza and pneumonia,J09-J18,2021,2021,Ohio,39.0,1542,11780017.0,13.1,12.4,13.7,10.4,9.9,11.0
+,Influenza and pneumonia,J09-J18,2021,2021,Oklahoma,40.0,371,3986639.0,9.3,8.4,10.3,8.2,7.4,9.1
+,Influenza and pneumonia,J09-J18,2021,2021,Oregon,41.0,392,4246155.0,9.2,8.3,10.1,7.3,6.5,8.1
+,Influenza and pneumonia,J09-J18,2021,2021,Pennsylvania,42.0,1217,12964056.0,9.4,8.9,9.9,7.1,6.7,7.5
+,Influenza and pneumonia,J09-J18,2021,2021,Rhode Island,44.0,67,1095610.0,6.1,4.7,7.8,4.7,3.6,6.0
+,Influenza and pneumonia,J09-J18,2021,2021,South Carolina,45.0,745,5190705.0,14.4,13.3,15.4,11.5,10.7,12.4
+,Influenza and pneumonia,J09-J18,2021,2021,South Dakota,46.0,114,895376.0,12.7,10.4,15.1,10.9,8.9,13.3
+,Influenza and pneumonia,J09-J18,2021,2021,Tennessee,47.0,941,6975218.0,13.5,12.6,14.4,11.2,10.5,12.0
+,Influenza and pneumonia,J09-J18,2021,2021,Texas,48.0,4205,29527941.0,14.2,13.8,14.7,13.7,13.3,14.1
+,Influenza and pneumonia,J09-J18,2021,2021,Utah,49.0,427,3337975.0,12.8,11.6,14.0,14.0,12.7,15.4
+,Influenza and pneumonia,J09-J18,2021,2021,Vermont,50.0,17,645570.0,2.6,1.5,4.2,1.8,1.0,3.0
+,Influenza and pneumonia,J09-J18,2021,2021,Virginia,51.0,643,8642274.0,7.4,6.9,8.0,6.1,5.6,6.6
+,Influenza and pneumonia,J09-J18,2021,2021,Washington,53.0,1067,7738692.0,13.8,13.0,14.6,11.6,10.9,12.4
+,Influenza and pneumonia,J09-J18,2021,2021,West Virginia,54.0,325,1782959.0,18.2,16.2,20.2,13.5,12.0,15.2
+,Influenza and pneumonia,J09-J18,2021,2021,Wisconsin,55.0,282,5895908.0,4.8,4.2,5.3,3.8,3.3,4.3
+,Influenza and pneumonia,J09-J18,2021,2021,Wyoming,56.0,102,578803.0,17.6,14.2,21.0,13.9,11.3,17.1
+,Influenza and pneumonia,J09-J18,2022,2022,Alabama,1.0,139,5074296.0,2.7,2.3,3.2,2.1,1.8,2.5
+,Influenza and pneumonia,J09-J18,2022,2022,Alaska,2.0,31,733583.0,4.2,2.9,6.0,3.7,2.5,5.4
+,Influenza and pneumonia,J09-J18,2022,2022,Arizona,4.0,441,7359197.0,6.0,5.4,6.6,4.8,4.3,5.3
+,Influenza and pneumonia,J09-J18,2022,2022,Arkansas,5.0,161,3045637.0,5.3,4.5,6.1,4.1,3.5,4.8
+,Influenza and pneumonia,J09-J18,2022,2022,California,6.0,1257,39029342.0,3.2,3.0,3.4,2.7,2.6,2.9
+,Influenza and pneumonia,J09-J18,2022,2022,Colorado,8.0,285,5839926.0,4.9,4.3,5.4,4.3,3.8,4.8
+,Influenza and pneumonia,J09-J18,2022,2022,Connecticut,9.0,78,3626205.0,2.2,1.7,2.7,1.5,1.2,1.9
+,Influenza and pneumonia,J09-J18,2022,2022,Delaware,10.0,29,1018396.0,2.8,1.9,4.1,1.9,1.2,2.8
+,Influenza and pneumonia,J09-J18,2022,2022,District of Columbia,11.0,17,671803.0,2.5,1.5,4.1,2.6,1.5,4.2
+,Influenza and pneumonia,J09-J18,2022,2022,Florida,12.0,695,22244823.0,3.1,2.9,3.4,2.2,2.0,2.3
+,Influenza and pneumonia,J09-J18,2022,2022,Georgia,13.0,320,10912876.0,2.9,2.6,3.3,2.5,2.2,2.8
+,Influenza and pneumonia,J09-J18,2022,2022,Hawaii,15.0,44,1440196.0,3.1,2.2,4.1,2.4,1.7,3.3
+,Influenza and pneumonia,J09-J18,2022,2022,Idaho,16.0,80,1939033.0,4.1,3.3,5.1,3.4,2.6,4.2
+,Influenza and pneumonia,J09-J18,2022,2022,Illinois,17.0,280,12582032.0,2.2,2.0,2.5,1.8,1.6,2.0
+,Influenza and pneumonia,J09-J18,2022,2022,Indiana,18.0,267,6833037.0,3.9,3.4,4.4,3.3,2.9,3.7
+,Influenza and pneumonia,J09-J18,2022,2022,Iowa,19.0,91,3200517.0,2.8,2.3,3.5,2.3,1.8,2.8
+,Influenza and pneumonia,J09-J18,2022,2022,Kansas,20.0,106,2937150.0,3.6,2.9,4.3,3.1,2.5,3.8
+,Influenza and pneumonia,J09-J18,2022,2022,Kentucky,21.0,295,4512310.0,6.5,5.8,7.3,5.3,4.7,5.9
+,Influenza and pneumonia,J09-J18,2022,2022,Louisiana,22.0,318,4590241.0,6.9,6.2,7.7,5.8,5.2,6.5
+,Influenza and pneumonia,J09-J18,2022,2022,Maine,23.0,38,1385340.0,2.7,1.9,3.8,1.8,1.2,2.5
+,Influenza and pneumonia,J09-J18,2022,2022,Maryland,24.0,153,6164660.0,2.5,2.1,2.9,2.0,1.7,2.4
+,Influenza and pneumonia,J09-J18,2022,2022,Massachusetts,25.0,174,6981974.0,2.5,2.1,2.9,1.9,1.7,2.3
+,Influenza and pneumonia,J09-J18,2022,2022,Michigan,26.0,306,10034113.0,3.0,2.7,3.4,2.3,2.0,2.6
+,Influenza and pneumonia,J09-J18,2022,2022,Minnesota,27.0,244,5717184.0,4.3,3.7,4.8,3.5,3.1,4.0
+,Influenza and pneumonia,J09-J18,2022,2022,Mississippi,28.0,193,2940057.0,6.6,5.6,7.5,5.5,4.7,6.4
+,Influenza and pneumonia,J09-J18,2022,2022,Missouri,29.0,335,6177957.0,5.4,4.8,6.0,4.3,3.8,4.8
+,Influenza and pneumonia,J09-J18,2022,2022,Montana,30.0,60,1122867.0,5.3,4.1,6.9,3.9,2.9,5.1
+,Influenza and pneumonia,J09-J18,2022,2022,Nebraska,31.0,50,1967923.0,2.5,1.9,3.3,2.3,1.7,3.1
+,Influenza and pneumonia,J09-J18,2022,2022,Nevada,32.0,953,3177772.0,30.0,28.1,31.9,25.2,23.6,26.9
+,Influenza and pneumonia,J09-J18,2022,2022,New Hampshire,33.0,51,1395231.0,3.7,2.7,4.8,2.5,1.8,3.3
+,Influenza and pneumonia,J09-J18,2022,2022,New Jersey,34.0,334,9261699.0,3.6,3.2,4.0,2.8,2.5,3.1
+,Influenza and pneumonia,J09-J18,2022,2022,New Mexico,35.0,98,2113344.0,4.6,3.8,5.7,3.7,2.9,4.5
+,Influenza and pneumonia,J09-J18,2022,2022,New York,36.0,608,19677151.0,3.1,2.8,3.3,2.4,2.2,2.6
+,Influenza and pneumonia,J09-J18,2022,2022,North Carolina,37.0,418,10698973.0,3.9,3.5,4.3,3.1,2.8,3.5
+,Influenza and pneumonia,J09-J18,2022,2022,North Dakota,38.0,39,779261.0,5.0,3.6,6.8,4.4,3.1,6.1
+,Influenza and pneumonia,J09-J18,2022,2022,Ohio,39.0,605,11756058.0,5.1,4.7,5.6,4.0,3.7,4.3
+,Influenza and pneumonia,J09-J18,2022,2022,Oklahoma,40.0,127,4019800.0,3.2,2.6,3.7,2.7,2.3,3.3
+,Influenza and pneumonia,J09-J18,2022,2022,Oregon,41.0,130,4240137.0,3.1,2.5,3.6,2.3,1.9,2.8
+,Influenza and pneumonia,J09-J18,2022,2022,Pennsylvania,42.0,457,12972008.0,3.5,3.2,3.8,2.6,2.4,2.9
+,Influenza and pneumonia,J09-J18,2022,2022,Rhode Island,44.0,29,1093734.0,2.7,1.8,3.8,2.2,1.5,3.3
+,Influenza and pneumonia,J09-J18,2022,2022,South Carolina,45.0,246,5282634.0,4.7,4.1,5.2,3.7,3.3,4.2
+,Influenza and pneumonia,J09-J18,2022,2022,South Dakota,46.0,55,909824.0,6.0,4.6,7.9,5.3,3.9,7.0
+,Influenza and pneumonia,J09-J18,2022,2022,Tennessee,47.0,306,7051339.0,4.3,3.9,4.8,3.5,3.1,3.9
+,Influenza and pneumonia,J09-J18,2022,2022,Texas,48.0,1139,30029572.0,3.8,3.6,4.0,3.6,3.4,3.8
+,Influenza and pneumonia,J09-J18,2022,2022,Utah,49.0,135,3380800.0,4.0,3.3,4.7,4.3,3.6,5.1
+,Influenza and pneumonia,J09-J18,2022,2022,Vermont,50.0,Suppressed,647064.0,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,Influenza and pneumonia,J09-J18,2022,2022,Virginia,51.0,272,8683619.0,3.1,2.8,3.5,2.5,2.2,2.8
+,Influenza and pneumonia,J09-J18,2022,2022,Washington,53.0,383,7785786.0,4.9,4.4,5.4,4.1,3.7,4.5
+,Influenza and pneumonia,J09-J18,2022,2022,West Virginia,54.0,121,1775156.0,6.8,5.6,8.0,5.0,4.1,6.0
+,Influenza and pneumonia,J09-J18,2022,2022,Wisconsin,55.0,133,5892539.0,2.3,1.9,2.6,1.7,1.4,2.1
+,Influenza and pneumonia,J09-J18,2022,2022,Wyoming,56.0,21,581381.0,3.6,2.2,5.5,2.6,1.6,4.1
+,Influenza and pneumonia,J09-J18,2023,2023,Alabama,1.0,75,5108468.0,1.5,1.2,1.8,1.2,0.9,1.5
+,Influenza and pneumonia,J09-J18,2023,2023,Alaska,2.0,14,733406.0,1.9,1.0,3.2,1.9,1.0,3.2
+,Influenza and pneumonia,J09-J18,2023,2023,Arizona,4.0,126,7431344.0,1.7,1.4,2.0,1.3,1.0,1.5
+,Influenza and pneumonia,J09-J18,2023,2023,Arkansas,5.0,60,3067732.0,2.0,1.5,2.5,1.6,1.2,2.0
+,Influenza and pneumonia,J09-J18,2023,2023,California,6.0,585,38965193.0,1.5,1.4,1.6,1.3,1.2,1.4
+,Influenza and pneumonia,J09-J18,2023,2023,Colorado,8.0,103,5877610.0,1.8,1.4,2.1,1.6,1.3,1.9
+,Influenza and pneumonia,J09-J18,2023,2023,Connecticut,9.0,33,3617176.0,0.9,0.6,1.3,0.7,0.5,1.1
+,Influenza and pneumonia,J09-J18,2023,2023,Delaware,10.0,13,1031890.0,1.3,0.7,2.2,0.8,0.4,1.5
+,Influenza and pneumonia,J09-J18,2023,2023,District of Columbia,11.0,Suppressed,678972.0,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,Influenza and pneumonia,J09-J18,2023,2023,Florida,12.0,388,22610726.0,1.7,1.5,1.9,1.2,1.1,1.3
+,Influenza and pneumonia,J09-J18,2023,2023,Georgia,13.0,133,11029227.0,1.2,1.0,1.4,1.1,0.9,1.3
+,Influenza and pneumonia,J09-J18,2023,2023,Hawaii,15.0,17,1435138.0,1.2,0.7,1.9,0.9,0.5,1.5
+,Influenza and pneumonia,J09-J18,2023,2023,Idaho,16.0,18,1964726.0,0.9,0.5,1.4,0.7,0.4,1.2
+,Influenza and pneumonia,J09-J18,2023,2023,Illinois,17.0,140,12549689.0,1.1,0.9,1.3,0.9,0.8,1.1
+,Influenza and pneumonia,J09-J18,2023,2023,Indiana,18.0,92,6862199.0,1.3,1.1,1.6,1.1,0.9,1.4
+,Influenza and pneumonia,J09-J18,2023,2023,Iowa,19.0,31,3207004.0,1.0,0.7,1.4,0.7,0.5,1.1
+,Influenza and pneumonia,J09-J18,2023,2023,Kansas,20.0,35,2940546.0,1.2,0.8,1.7,1.0,0.7,1.4
+,Influenza and pneumonia,J09-J18,2023,2023,Kentucky,21.0,89,4526154.0,2.0,1.6,2.4,1.6,1.3,2.0
+,Influenza and pneumonia,J09-J18,2023,2023,Louisiana,22.0,77,4573749.0,1.7,1.3,2.1,1.4,1.1,1.7
+,Influenza and pneumonia,J09-J18,2023,2023,Maine,23.0,18,1395722.0,1.3,0.8,2.0,0.9,0.5,1.4
+,Influenza and pneumonia,J09-J18,2023,2023,Maryland,24.0,73,6180253.0,1.2,0.9,1.5,0.9,0.7,1.2
+,Influenza and pneumonia,J09-J18,2023,2023,Massachusetts,25.0,90,7001399.0,1.3,1.0,1.6,1.0,0.8,1.2
+,Influenza and pneumonia,J09-J18,2023,2023,Michigan,26.0,134,10037261.0,1.3,1.1,1.6,1.1,0.9,1.3
+,Influenza and pneumonia,J09-J18,2023,2023,Minnesota,27.0,103,5737915.0,1.8,1.4,2.1,1.4,1.2,1.7
+,Influenza and pneumonia,J09-J18,2023,2023,Mississippi,28.0,55,2939690.0,1.9,1.4,2.4,1.6,1.2,2.1
+,Influenza and pneumonia,J09-J18,2023,2023,Missouri,29.0,100,6196156.0,1.6,1.3,1.9,1.2,1.0,1.5
+,Influenza and pneumonia,J09-J18,2023,2023,Montana,30.0,19,1132812.0,1.7,1.0,2.6,1.3,0.8,2.2
+,Influenza and pneumonia,J09-J18,2023,2023,Nebraska,31.0,21,1978379.0,1.1,0.7,1.6,0.9,0.5,1.4
+,Influenza and pneumonia,J09-J18,2023,2023,Nevada,32.0,160,3194176.0,5.0,4.2,5.8,4.3,3.6,5.0
+,Influenza and pneumonia,J09-J18,2023,2023,New Hampshire,33.0,20,1402054.0,1.4,0.9,2.2,1.0,0.6,1.7
+,Influenza and pneumonia,J09-J18,2023,2023,New Jersey,34.0,147,9290841.0,1.6,1.3,1.8,1.2,1.0,1.5
+,Influenza and pneumonia,J09-J18,2023,2023,New Mexico,35.0,34,2114371.0,1.6,1.1,2.2,1.4,1.0,2.0
+,Influenza and pneumonia,J09-J18,2023,2023,New York,36.0,281,19571216.0,1.4,1.3,1.6,1.1,1.0,1.2
+,Influenza and pneumonia,J09-J18,2023,2023,North Carolina,37.0,193,10835491.0,1.8,1.5,2.0,1.5,1.3,1.7
+,Influenza and pneumonia,J09-J18,2023,2023,North Dakota,38.0,15,783926.0,1.9,1.1,3.2,1.8,1.0,3.1
+,Influenza and pneumonia,J09-J18,2023,2023,Ohio,39.0,219,11785935.0,1.9,1.6,2.1,1.4,1.3,1.7
+,Influenza and pneumonia,J09-J18,2023,2023,Oklahoma,40.0,53,4053824.0,1.3,1.0,1.7,1.1,0.8,1.5
+,Influenza and pneumonia,J09-J18,2023,2023,Oregon,41.0,85,4233358.0,2.0,1.6,2.5,1.6,1.3,2.0
+,Influenza and pneumonia,J09-J18,2023,2023,Pennsylvania,42.0,185,12961683.0,1.4,1.2,1.6,1.1,0.9,1.2
+,Influenza and pneumonia,J09-J18,2023,2023,Rhode Island,44.0,Suppressed,1095962.0,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,Influenza and pneumonia,J09-J18,2023,2023,South Carolina,45.0,112,5373555.0,2.1,1.7,2.5,1.5,1.2,1.8
+,Influenza and pneumonia,J09-J18,2023,2023,South Dakota,46.0,14,919318.0,1.5,0.8,2.6,1.3,0.7,2.3
+,Influenza and pneumonia,J09-J18,2023,2023,Tennessee,47.0,182,7126489.0,2.6,2.2,2.9,2.1,1.8,2.4
+,Influenza and pneumonia,J09-J18,2023,2023,Texas,48.0,465,30503301.0,1.5,1.4,1.7,1.5,1.4,1.6
+,Influenza and pneumonia,J09-J18,2023,2023,Utah,49.0,59,3417734.0,1.7,1.3,2.2,1.9,1.5,2.5
+,Influenza and pneumonia,J09-J18,2023,2023,Vermont,50.0,Suppressed,647464.0,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,Influenza and pneumonia,J09-J18,2023,2023,Virginia,51.0,127,8715698.0,1.5,1.2,1.7,1.2,1.0,1.4
+,Influenza and pneumonia,J09-J18,2023,2023,Washington,53.0,141,7812880.0,1.8,1.5,2.1,1.4,1.2,1.7
+,Influenza and pneumonia,J09-J18,2023,2023,West Virginia,54.0,46,1770071.0,2.6,1.9,3.5,1.8,1.3,2.4
+,Influenza and pneumonia,J09-J18,2023,2023,Wisconsin,55.0,76,5910955.0,1.3,1.0,1.6,0.9,0.7,1.2
+,Influenza and pneumonia,J09-J18,2023,2023,Wyoming,56.0,15,584057.0,2.6,1.4,4.2,2.2,1.2,3.9
+,Influenza and pneumonia,J09-J18,2024,2024,Alabama,1.0,93,5157699.0,1.8,1.5,2.2,1.4,1.2,1.8
+,Influenza and pneumonia,J09-J18,2024,2024,Alaska,2.0,Suppressed,740133.0,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,Influenza and pneumonia,J09-J18,2024,2024,Arizona,4.0,109,7582384.0,1.4,1.2,1.7,1.1,0.9,1.4
+,Influenza and pneumonia,J09-J18,2024,2024,Arkansas,5.0,58,3088354.0,1.9,1.4,2.4,1.5,1.1,2.0
+,Influenza and pneumonia,J09-J18,2024,2024,California,6.0,578,39431263.0,1.5,1.3,1.6,1.2,1.1,1.3
+,Influenza and pneumonia,J09-J18,2024,2024,Colorado,8.0,86,5957493.0,1.4,1.2,1.8,1.2,1.0,1.5
+,Influenza and pneumonia,J09-J18,2024,2024,Connecticut,9.0,27,3675069.0,0.7,0.5,1.1,0.6,0.4,0.9
+,Influenza and pneumonia,J09-J18,2024,2024,Delaware,10.0,18,1051917.0,1.7,1.0,2.7,1.1,0.6,1.8
+,Influenza and pneumonia,J09-J18,2024,2024,District of Columbia,11.0,11,702250.0,1.6,0.8,2.8,1.6,0.8,2.9
+,Influenza and pneumonia,J09-J18,2024,2024,Florida,12.0,315,23372215.0,1.3,1.2,1.5,0.9,0.8,1.0
+,Influenza and pneumonia,J09-J18,2024,2024,Georgia,13.0,143,11180878.0,1.3,1.1,1.5,1.1,1.0,1.3
+,Influenza and pneumonia,J09-J18,2024,2024,Hawaii,15.0,21,1446146.0,1.5,0.9,2.2,1.1,0.7,1.7
+,Influenza and pneumonia,J09-J18,2024,2024,Idaho,16.0,21,2001619.0,1.0,0.6,1.6,0.9,0.5,1.4
+,Influenza and pneumonia,J09-J18,2024,2024,Illinois,17.0,138,12710158.0,1.1,0.9,1.3,0.9,0.7,1.0
+,Influenza and pneumonia,J09-J18,2024,2024,Indiana,18.0,62,6924275.0,0.9,0.7,1.1,0.8,0.6,1.0
+,Influenza and pneumonia,J09-J18,2024,2024,Iowa,19.0,51,3241488.0,1.6,1.2,2.1,1.3,1.0,1.8
+,Influenza and pneumonia,J09-J18,2024,2024,Kansas,20.0,35,2970606.0,1.2,0.8,1.6,1.0,0.7,1.3
+,Influenza and pneumonia,J09-J18,2024,2024,Kentucky,21.0,72,4588372.0,1.6,1.2,2.0,1.3,1.0,1.7
+,Influenza and pneumonia,J09-J18,2024,2024,Louisiana,22.0,76,4597740.0,1.7,1.3,2.1,1.3,1.0,1.7
+,Influenza and pneumonia,J09-J18,2024,2024,Maine,23.0,17,1405012.0,1.2,0.7,1.9,0.8,0.4,1.4
+,Influenza and pneumonia,J09-J18,2024,2024,Maryland,24.0,82,6263220.0,1.3,1.0,1.6,1.1,0.8,1.3
+,Influenza and pneumonia,J09-J18,2024,2024,Massachusetts,25.0,82,7136171.0,1.1,0.9,1.4,0.9,0.7,1.1
+,Influenza and pneumonia,J09-J18,2024,2024,Michigan,26.0,116,10140459.0,1.1,0.9,1.4,0.9,0.7,1.1
+,Influenza and pneumonia,J09-J18,2024,2024,Minnesota,27.0,85,5793151.0,1.5,1.2,1.8,1.1,0.9,1.4
+,Influenza and pneumonia,J09-J18,2024,2024,Mississippi,28.0,71,2943045.0,2.4,1.9,3.0,1.9,1.5,2.4
+,Influenza and pneumonia,J09-J18,2024,2024,Missouri,29.0,90,6245466.0,1.4,1.2,1.8,1.1,0.9,1.4
+,Influenza and pneumonia,J09-J18,2024,2024,Montana,30.0,Suppressed,1137233.0,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,Influenza and pneumonia,J09-J18,2024,2024,Nebraska,31.0,29,2005465.0,1.4,1.0,2.1,1.2,0.8,1.8
+,Influenza and pneumonia,J09-J18,2024,2024,Nevada,32.0,88,3267467.0,2.7,2.2,3.3,2.2,1.7,2.7
+,Influenza and pneumonia,J09-J18,2024,2024,New Hampshire,33.0,15,1409032.0,1.1,0.6,1.8,0.7,0.4,1.2
+,Influenza and pneumonia,J09-J18,2024,2024,New Jersey,34.0,117,9500851.0,1.2,1.0,1.5,1.0,0.8,1.1
+,Influenza and pneumonia,J09-J18,2024,2024,New Mexico,35.0,40,2130256.0,1.9,1.3,2.6,1.5,1.1,2.1
+,Influenza and pneumonia,J09-J18,2024,2024,New York,36.0,251,19867248.0,1.3,1.1,1.4,0.9,0.8,1.1
+,Influenza and pneumonia,J09-J18,2024,2024,North Carolina,37.0,195,11046024.0,1.8,1.5,2.0,1.4,1.2,1.6
+,Influenza and pneumonia,J09-J18,2024,2024,North Dakota,38.0,Suppressed,796568.0,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,Influenza and pneumonia,J09-J18,2024,2024,Ohio,39.0,193,11883304.0,1.6,1.4,1.9,1.3,1.1,1.5
+,Influenza and pneumonia,J09-J18,2024,2024,Oklahoma,40.0,42,4095393.0,1.0,0.7,1.4,0.9,0.6,1.2
+,Influenza and pneumonia,J09-J18,2024,2024,Oregon,41.0,68,4272371.0,1.6,1.2,2.0,1.2,1.0,1.6
+,Influenza and pneumonia,J09-J18,2024,2024,Pennsylvania,42.0,189,13078751.0,1.4,1.2,1.7,1.0,0.9,1.2
+,Influenza and pneumonia,J09-J18,2024,2024,Rhode Island,44.0,11,1112308.0,1.0,0.5,1.8,0.8,0.4,1.6
+,Influenza and pneumonia,J09-J18,2024,2024,South Carolina,45.0,74,5478831.0,1.4,1.1,1.7,1.0,0.8,1.3
+,Influenza and pneumonia,J09-J18,2024,2024,South Dakota,46.0,16,924669.0,1.7,1.0,2.8,1.5,0.8,2.5
+,Influenza and pneumonia,J09-J18,2024,2024,Tennessee,47.0,120,7227750.0,1.7,1.4,2.0,1.3,1.1,1.6
+,Influenza and pneumonia,J09-J18,2024,2024,Texas,48.0,470,31290831.0,1.5,1.4,1.6,1.4,1.3,1.6
+,Influenza and pneumonia,J09-J18,2024,2024,Utah,49.0,58,3503613.0,1.7,1.3,2.1,1.8,1.4,2.3
+,Influenza and pneumonia,J09-J18,2024,2024,Vermont,50.0,Suppressed,648493.0,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,Influenza and pneumonia,J09-J18,2024,2024,Virginia,51.0,127,8811195.0,1.4,1.2,1.7,1.2,1.0,1.4
+,Influenza and pneumonia,J09-J18,2024,2024,Washington,53.0,103,7958180.0,1.3,1.0,1.5,1.1,0.9,1.3
+,Influenza and pneumonia,J09-J18,2024,2024,West Virginia,54.0,51,1769979.0,2.9,2.1,3.8,2.1,1.5,2.8
+,Influenza and pneumonia,J09-J18,2024,2024,Wisconsin,55.0,74,5960975.0,1.2,1.0,1.6,0.9,0.7,1.2
+,Influenza and pneumonia,J09-J18,2024,2024,Wyoming,56.0,10,587618.0,1.7,0.8,3.1,1.3,0.6,2.6
+,Influenza and pneumonia,J09-J18,2025,2025,Alabama,1.0,95,5157699.0,1.8,1.5,2.3,1.4,1.1,1.7
+,Influenza and pneumonia,J09-J18,2025,2025,Alaska,2.0,12,740133.0,1.6,0.8,2.8,1.5,0.8,2.8
+,Influenza and pneumonia,J09-J18,2025,2025,Arizona,4.0,102,7582384.0,1.3,1.1,1.6,1.1,0.9,1.3
+,Influenza and pneumonia,J09-J18,2025,2025,Arkansas,5.0,53,3088354.0,1.7,1.3,2.2,1.4,1.0,1.9
+,Influenza and pneumonia,J09-J18,2025,2025,California,6.0,506,39431263.0,1.3,1.2,1.4,1.1,1.0,1.2
+,Influenza and pneumonia,J09-J18,2025,2025,Colorado,8.0,66,5957493.0,1.1,0.9,1.4,0.9,0.7,1.2
+,Influenza and pneumonia,J09-J18,2025,2025,Connecticut,9.0,45,3675069.0,1.2,0.9,1.6,0.9,0.6,1.2
+,Influenza and pneumonia,J09-J18,2025,2025,Delaware,10.0,18,1051917.0,1.7,1.0,2.7,1.2,0.7,2.0
+,Influenza and pneumonia,J09-J18,2025,2025,District of Columbia,11.0,Suppressed,702250.0,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,Influenza and pneumonia,J09-J18,2025,2025,Florida,12.0,310,23372215.0,1.3,1.2,1.5,0.9,0.8,1.1
+,Influenza and pneumonia,J09-J18,2025,2025,Georgia,13.0,128,11180878.0,1.1,0.9,1.3,1.0,0.8,1.2
+,Influenza and pneumonia,J09-J18,2025,2025,Hawaii,15.0,21,1446146.0,1.5,0.9,2.2,1.1,0.6,1.7
+,Influenza and pneumonia,J09-J18,2025,2025,Idaho,16.0,16,2001619.0,0.8,0.5,1.3,0.7,0.4,1.1
+,Influenza and pneumonia,J09-J18,2025,2025,Illinois,17.0,114,12710158.0,0.9,0.7,1.1,0.7,0.6,0.9
+,Influenza and pneumonia,J09-J18,2025,2025,Indiana,18.0,79,6924275.0,1.1,0.9,1.4,1.0,0.8,1.2
+,Influenza and pneumonia,J09-J18,2025,2025,Iowa,19.0,32,3241488.0,1.0,0.7,1.4,0.8,0.5,1.1
+,Influenza and pneumonia,J09-J18,2025,2025,Kansas,20.0,23,2970606.0,0.8,0.5,1.2,0.7,0.4,1.0
+,Influenza and pneumonia,J09-J18,2025,2025,Kentucky,21.0,77,4588372.0,1.7,1.3,2.1,1.3,1.0,1.7
+,Influenza and pneumonia,J09-J18,2025,2025,Louisiana,22.0,49,4597740.0,1.1,0.8,1.4,0.9,0.6,1.1
+,Influenza and pneumonia,J09-J18,2025,2025,Maine,23.0,18,1405012.0,1.3,0.8,2.0,0.9,0.5,1.4
+,Influenza and pneumonia,J09-J18,2025,2025,Maryland,24.0,51,6263220.0,0.8,0.6,1.1,0.6,0.5,0.9
+,Influenza and pneumonia,J09-J18,2025,2025,Massachusetts,25.0,76,7136171.0,1.1,0.8,1.3,0.8,0.7,1.1
+,Influenza and pneumonia,J09-J18,2025,2025,Michigan,26.0,135,10140459.0,1.3,1.1,1.6,1.0,0.9,1.2
+,Influenza and pneumonia,J09-J18,2025,2025,Minnesota,27.0,79,5793151.0,1.4,1.1,1.7,1.1,0.8,1.3
+,Influenza and pneumonia,J09-J18,2025,2025,Mississippi,28.0,55,2943045.0,1.9,1.4,2.4,1.5,1.1,2.0
+,Influenza and pneumonia,J09-J18,2025,2025,Missouri,29.0,75,6245466.0,1.2,0.9,1.5,0.9,0.7,1.2
+,Influenza and pneumonia,J09-J18,2025,2025,Montana,30.0,Suppressed,1137233.0,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,Influenza and pneumonia,J09-J18,2025,2025,Nebraska,31.0,19,2005465.0,0.9,0.6,1.5,0.8,0.5,1.3
+,Influenza and pneumonia,J09-J18,2025,2025,Nevada,32.0,63,3267467.0,1.9,1.5,2.5,1.6,1.2,2.1
+,Influenza and pneumonia,J09-J18,2025,2025,New Hampshire,33.0,17,1409032.0,1.2,0.7,1.9,0.9,0.5,1.5
+,Influenza and pneumonia,J09-J18,2025,2025,New Jersey,34.0,133,9500851.0,1.4,1.2,1.6,1.1,0.9,1.3
+,Influenza and pneumonia,J09-J18,2025,2025,New Mexico,35.0,36,2130256.0,1.7,1.2,2.3,1.5,1.0,2.1
+,Influenza and pneumonia,J09-J18,2025,2025,New York,36.0,210,19867248.0,1.1,0.9,1.2,0.8,0.7,0.9
+,Influenza and pneumonia,J09-J18,2025,2025,North Carolina,37.0,140,11046024.0,1.3,1.1,1.5,1.0,0.9,1.2
+,Influenza and pneumonia,J09-J18,2025,2025,North Dakota,38.0,18,796568.0,2.3,1.3,3.6,2.1,1.2,3.4
+,Influenza and pneumonia,J09-J18,2025,2025,Ohio,39.0,162,11883304.0,1.4,1.2,1.6,1.1,0.9,1.3
+,Influenza and pneumonia,J09-J18,2025,2025,Oklahoma,40.0,41,4095393.0,1.0,0.7,1.4,0.9,0.6,1.2
+,Influenza and pneumonia,J09-J18,2025,2025,Oregon,41.0,62,4272371.0,1.5,1.1,1.9,1.1,0.8,1.4
+,Influenza and pneumonia,J09-J18,2025,2025,Pennsylvania,42.0,203,13078751.0,1.6,1.3,1.8,1.1,1.0,1.3
+,Influenza and pneumonia,J09-J18,2025,2025,Rhode Island,44.0,Suppressed,1112308.0,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,Influenza and pneumonia,J09-J18,2025,2025,South Carolina,45.0,123,5478831.0,2.2,1.8,2.6,1.7,1.4,2.1
+,Influenza and pneumonia,J09-J18,2025,2025,South Dakota,46.0,10,924669.0,1.1,0.5,2.0,0.9,0.4,1.6
+,Influenza and pneumonia,J09-J18,2025,2025,Tennessee,47.0,112,7227750.0,1.5,1.3,1.8,1.3,1.1,1.6
+,Influenza and pneumonia,J09-J18,2025,2025,Texas,48.0,353,31290831.0,1.1,1.0,1.2,1.1,1.0,1.2
+,Influenza and pneumonia,J09-J18,2025,2025,Utah,49.0,24,3503613.0,0.7,0.4,1.0,0.7,0.5,1.1
+,Influenza and pneumonia,J09-J18,2025,2025,Vermont,50.0,Suppressed,648493.0,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,Influenza and pneumonia,J09-J18,2025,2025,Virginia,51.0,107,8811195.0,1.2,1.0,1.4,1.0,0.8,1.2
+,Influenza and pneumonia,J09-J18,2025,2025,Washington,53.0,93,7958180.0,1.2,0.9,1.4,1.0,0.8,1.2
+,Influenza and pneumonia,J09-J18,2025,2025,West Virginia,54.0,35,1769979.0,2.0,1.4,2.8,1.6,1.1,2.3
+,Influenza and pneumonia,J09-J18,2025,2025,Wisconsin,55.0,62,5960975.0,1.0,0.8,1.3,0.7,0.6,1.0
+,Influenza and pneumonia,J09-J18,2025,2025,Wyoming,56.0,12,587618.0,2.0,1.1,3.6,1.8,0.9,3.4

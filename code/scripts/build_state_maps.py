@@ -52,15 +52,15 @@ PERIODS = [
 ]
 
 DISEASE_STYLES = {
-    "Sepsis": {"cmap": "Blues", "cbar_label": "AAMR (/100,000)", "title_color": "#1f4e79"},
+    "ARDS (ARDS + Pneumonia)": {"cmap": "Blues", "cbar_label": "AAMR (/100,000)", "title_color": "#1f4e79"},
     "Pneumonia": {"cmap": "Oranges", "cbar_label": "AAMR (/100,000)", "title_color": "#8a4b08"},
-    "Sepsis + pneumonia": {"cmap": "Greens", "cbar_label": "AAMR (/100,000)", "title_color": "#215a33"},
+    "Sepsis+ Pneumonia": {"cmap": "Greens", "cbar_label": "AAMR (/100,000)", "title_color": "#215a33"},
 }
 
 DATASETS = {
-    "Sepsis": CLEANED_DIR / "sepsis_state.csv",
+    "ARDS (ARDS + Pneumonia)": CLEANED_DIR / "ards_state.csv",
     "Pneumonia": CLEANED_DIR / "pneumonia_state.csv",
-    "Sepsis + pneumonia": CLEANED_DIR / "combined_state.csv",
+    "Sepsis+ Pneumonia": CLEANED_DIR / "combined_state.csv",
 }
 
 KEEP_STATES = {

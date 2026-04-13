@@ -17,15 +17,15 @@ FIG_SIZE = (7.2, 4.8)
 LINE_WIDTH = 2.0
 MARKER_SIZE = 6
 PLOT_COLORS = {
-    "Sepsis": "#1b3c73",
+    "ARDS (ARDS + Pneumonia)": "#1b3c73",
     "Pneumonia": "#b33b2e",
-    "Combined": "#2a6f4f",
+    "Sepsis+ Pneumonia": "#2a6f4f",
 }
 
 DATASETS = {
-    "Sepsis": CLEANED_DIR / "sepsis_sex.csv",
+    "ARDS (ARDS + Pneumonia)": CLEANED_DIR / "ards_sex.csv",
     "Pneumonia": CLEANED_DIR / "pneumonia_sex.csv",
-    "Combined": CLEANED_DIR / "combined_sex.csv",
+    "Sepsis+ Pneumonia": CLEANED_DIR / "combined_sex.csv",
 }
 
 

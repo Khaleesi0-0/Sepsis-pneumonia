@@ -1,0 +1,282 @@
+"Notes"	"MCD - ICD Sub-Chapter"	"MCD - ICD Sub-Chapter Code"	"Year"	"Year Code"	"Ten-Year Age Groups"	"Ten-Year Age Groups Code"	Deaths	Population	Crude Rate	Crude Rate Lower 95% Confidence Interval	Crude Rate Upper 95% Confidence Interval
+	"Influenza and pneumonia"	"J09-J18"	"2018"	"2018"	"< 1 year"	"1"	Suppressed	3848208	Suppressed	Suppressed	Suppressed
+	"Influenza and pneumonia"	"J09-J18"	"2018"	"2018"	"1-4 years"	"1-4"	20	15962067	0.1	0.1	0.2
+	"Influenza and pneumonia"	"J09-J18"	"2018"	"2018"	"5-14 years"	"5-14"	26	41075169	0.1	0.0	0.1
+	"Influenza and pneumonia"	"J09-J18"	"2018"	"2018"	"15-24 years"	"15-24"	44	42970800	0.1	0.1	0.1
+	"Influenza and pneumonia"	"J09-J18"	"2018"	"2018"	"25-34 years"	"25-34"	93	45697774	0.2	0.2	0.2
+	"Influenza and pneumonia"	"J09-J18"	"2018"	"2018"	"35-44 years"	"35-44"	205	41277888	0.5	0.4	0.6
+	"Influenza and pneumonia"	"J09-J18"	"2018"	"2018"	"45-54 years"	"45-54"	436	41631699	1.0	0.9	1.1
+	"Influenza and pneumonia"	"J09-J18"	"2018"	"2018"	"55-64 years"	"55-64"	787	42272636	1.9	1.7	2.0
+	"Influenza and pneumonia"	"J09-J18"	"2018"	"2018"	"65-74 years"	"65-74"	952	30492316	3.1	2.9	3.3
+	"Influenza and pneumonia"	"J09-J18"	"2018"	"2018"	"75-84 years"	"75-84"	757	15394374	4.9	4.6	5.3
+	"Influenza and pneumonia"	"J09-J18"	"2018"	"2018"	"85+ years"	"85+"	428	6544503	6.5	5.9	7.2
+	"Influenza and pneumonia"	"J09-J18"	"2019"	"2019"	"< 1 year"	"1"	Suppressed	3783052	Suppressed	Suppressed	Suppressed
+	"Influenza and pneumonia"	"J09-J18"	"2019"	"2019"	"1-4 years"	"1-4"	21	15793631	0.1	0.1	0.2
+	"Influenza and pneumonia"	"J09-J18"	"2019"	"2019"	"5-14 years"	"5-14"	18	40994163	0.0	0.0	0.1
+	"Influenza and pneumonia"	"J09-J18"	"2019"	"2019"	"15-24 years"	"15-24"	44	42687510	0.1	0.1	0.1
+	"Influenza and pneumonia"	"J09-J18"	"2019"	"2019"	"25-34 years"	"25-34"	115	45940321	0.3	0.2	0.3
+	"Influenza and pneumonia"	"J09-J18"	"2019"	"2019"	"35-44 years"	"35-44"	190	41659144	0.5	0.4	0.5
+	"Influenza and pneumonia"	"J09-J18"	"2019"	"2019"	"45-54 years"	"45-54"	431	40874902	1.1	1.0	1.2
+	"Influenza and pneumonia"	"J09-J18"	"2019"	"2019"	"55-64 years"	"55-64"	779	42448537	1.8	1.7	2.0
+	"Influenza and pneumonia"	"J09-J18"	"2019"	"2019"	"65-74 years"	"65-74"	904	31483433	2.9	2.7	3.1
+	"Influenza and pneumonia"	"J09-J18"	"2019"	"2019"	"75-84 years"	"75-84"	731	15969872	4.6	4.2	4.9
+	"Influenza and pneumonia"	"J09-J18"	"2019"	"2019"	"85+ years"	"85+"	346	6604958	5.2	4.7	5.8
+	"Influenza and pneumonia"	"J09-J18"	"2019"	"2019"	"Not Stated"	"NS"	Suppressed	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Influenza and pneumonia"	"J09-J18"	"2020"	"2020"	"< 1 year"	"1"	10	3735010	0.3	0.1	0.5
+	"Influenza and pneumonia"	"J09-J18"	"2020"	"2020"	"1-4 years"	"1-4"	Suppressed	15566282	Suppressed	Suppressed	Suppressed
+	"Influenza and pneumonia"	"J09-J18"	"2020"	"2020"	"5-14 years"	"5-14"	Suppressed	40992134	Suppressed	Suppressed	Suppressed
+	"Influenza and pneumonia"	"J09-J18"	"2020"	"2020"	"15-24 years"	"15-24"	111	42555684	0.3	0.2	0.3
+	"Influenza and pneumonia"	"J09-J18"	"2020"	"2020"	"25-34 years"	"25-34"	359	46069646	0.8	0.7	0.9
+	"Influenza and pneumonia"	"J09-J18"	"2020"	"2020"	"35-44 years"	"35-44"	892	42136192	2.1	2.0	2.3
+	"Influenza and pneumonia"	"J09-J18"	"2020"	"2020"	"45-54 years"	"45-54"	2492	40366133	6.2	5.9	6.4
+	"Influenza and pneumonia"	"J09-J18"	"2020"	"2020"	"55-64 years"	"55-64"	5638	42403677	13.3	12.9	13.6
+	"Influenza and pneumonia"	"J09-J18"	"2020"	"2020"	"65-74 years"	"65-74"	8355	32549398	25.7	25.1	26.2
+	"Influenza and pneumonia"	"J09-J18"	"2020"	"2020"	"75-84 years"	"75-84"	7450	16451547	45.3	44.3	46.3
+	"Influenza and pneumonia"	"J09-J18"	"2020"	"2020"	"85+ years"	"85+"	5063	6658420	76.0	73.9	78.1
+	"Influenza and pneumonia"	"J09-J18"	"2021"	"2021"	"< 1 year"	"1"	Suppressed	3564493	Suppressed	Suppressed	Suppressed
+	"Influenza and pneumonia"	"J09-J18"	"2021"	"2021"	"1-4 years"	"1-4"	11	15262845	0.1	0.0	0.1
+	"Influenza and pneumonia"	"J09-J18"	"2021"	"2021"	"5-14 years"	"5-14"	24	41739332	0.1	0.0	0.1
+	"Influenza and pneumonia"	"J09-J18"	"2021"	"2021"	"15-24 years"	"15-24"	215	43088663	0.5	0.4	0.6
+	"Influenza and pneumonia"	"J09-J18"	"2021"	"2021"	"25-34 years"	"25-34"	973	45495105	2.1	2.0	2.3
+	"Influenza and pneumonia"	"J09-J18"	"2021"	"2021"	"35-44 years"	"35-44"	2433	43403854	5.6	5.4	5.8
+	"Influenza and pneumonia"	"J09-J18"	"2021"	"2021"	"45-54 years"	"45-54"	5396	40688436	13.3	12.9	13.6
+	"Influenza and pneumonia"	"J09-J18"	"2021"	"2021"	"55-64 years"	"55-64"	9644	42803064	22.5	22.1	23.0
+	"Influenza and pneumonia"	"J09-J18"	"2021"	"2021"	"65-74 years"	"65-74"	11023	33666122	32.7	32.1	33.4
+	"Influenza and pneumonia"	"J09-J18"	"2021"	"2021"	"75-84 years"	"75-84"	6913	16206075	42.7	41.7	43.7
+	"Influenza and pneumonia"	"J09-J18"	"2021"	"2021"	"85+ years"	"85+"	2611	5975756	43.7	42.0	45.4
+	"Influenza and pneumonia"	"J09-J18"	"2022"	"2022"	"< 1 year"	"1"	21	3683113	0.6	0.4	0.9
+	"Influenza and pneumonia"	"J09-J18"	"2022"	"2022"	"1-4 years"	"1-4"	21	14855240	0.1	0.1	0.2
+	"Influenza and pneumonia"	"J09-J18"	"2022"	"2022"	"5-14 years"	"5-14"	22	40899034	0.1	0.0	0.1
+	"Influenza and pneumonia"	"J09-J18"	"2022"	"2022"	"15-24 years"	"15-24"	96	44341571	0.2	0.2	0.3
+	"Influenza and pneumonia"	"J09-J18"	"2022"	"2022"	"25-34 years"	"25-34"	273	45501300	0.6	0.5	0.7
+	"Influenza and pneumonia"	"J09-J18"	"2022"	"2022"	"35-44 years"	"35-44"	603	43695365	1.4	1.3	1.5
+	"Influenza and pneumonia"	"J09-J18"	"2022"	"2022"	"45-54 years"	"45-54"	1328	40431645	3.3	3.1	3.5
+	"Influenza and pneumonia"	"J09-J18"	"2022"	"2022"	"55-64 years"	"55-64"	2863	42085437	6.8	6.6	7.1
+	"Influenza and pneumonia"	"J09-J18"	"2022"	"2022"	"65-74 years"	"65-74"	3763	33788439	11.1	10.8	11.5
+	"Influenza and pneumonia"	"J09-J18"	"2022"	"2022"	"75-84 years"	"75-84"	2870	17520545	16.4	15.8	17.0
+	"Influenza and pneumonia"	"J09-J18"	"2022"	"2022"	"85+ years"	"85+"	1295	6485868	20.0	18.9	21.1
+	"Influenza and pneumonia"	"J09-J18"	"2023"	"2023"	"< 1 year"	"1"	15	3648654	0.4	0.2	0.7
+	"Influenza and pneumonia"	"J09-J18"	"2023"	"2023"	"1-4 years"	"1-4"	20	14862506	0.1	0.1	0.2
+	"Influenza and pneumonia"	"J09-J18"	"2023"	"2023"	"5-14 years"	"5-14"	25	40987321	0.1	0.0	0.1
+	"Influenza and pneumonia"	"J09-J18"	"2023"	"2023"	"15-24 years"	"15-24"	44	43886652	0.1	0.1	0.1
+	"Influenza and pneumonia"	"J09-J18"	"2023"	"2023"	"25-34 years"	"25-34"	132	45542516	0.3	0.2	0.3
+	"Influenza and pneumonia"	"J09-J18"	"2023"	"2023"	"35-44 years"	"35-44"	284	44390693	0.6	0.6	0.7
+	"Influenza and pneumonia"	"J09-J18"	"2023"	"2023"	"45-54 years"	"45-54"	427	40493781	1.1	1.0	1.2
+	"Influenza and pneumonia"	"J09-J18"	"2023"	"2023"	"55-64 years"	"55-64"	976	41854411	2.3	2.2	2.5
+	"Influenza and pneumonia"	"J09-J18"	"2023"	"2023"	"65-74 years"	"65-74"	1437	34685284	4.1	3.9	4.4
+	"Influenza and pneumonia"	"J09-J18"	"2023"	"2023"	"75-84 years"	"75-84"	1318	18368097	7.2	6.8	7.6
+	"Influenza and pneumonia"	"J09-J18"	"2023"	"2023"	"85+ years"	"85+"	612	6194980	9.9	9.1	10.7
+	"Influenza and pneumonia"	"J09-J18"	"2024"	"2024"	"< 1 year"	"1"	12	3615598	0.3	0.2	0.6
+	"Influenza and pneumonia"	"J09-J18"	"2024"	"2024"	"1-4 years"	"1-4"	21	14983716	0.1	0.1	0.2
+	"Influenza and pneumonia"	"J09-J18"	"2024"	"2024"	"5-14 years"	"5-14"	16	41098826	0.0	0.0	0.1
+	"Influenza and pneumonia"	"J09-J18"	"2024"	"2024"	"15-24 years"	"15-24"	52	44797761	0.1	0.1	0.2
+	"Influenza and pneumonia"	"J09-J18"	"2024"	"2024"	"25-34 years"	"25-34"	126	46453864	0.3	0.2	0.3
+	"Influenza and pneumonia"	"J09-J18"	"2024"	"2024"	"35-44 years"	"35-44"	260	45539224	0.6	0.5	0.6
+	"Influenza and pneumonia"	"J09-J18"	"2024"	"2024"	"45-54 years"	"45-54"	448	40780356	1.1	1.0	1.2
+	"Influenza and pneumonia"	"J09-J18"	"2024"	"2024"	"55-64 years"	"55-64"	835	41661725	2.0	1.9	2.1
+	"Influenza and pneumonia"	"J09-J18"	"2024"	"2024"	"65-74 years"	"65-74"	1320	35444962	3.7	3.5	3.9
+	"Influenza and pneumonia"	"J09-J18"	"2024"	"2024"	"75-84 years"	"75-84"	1202	19299813	6.2	5.9	6.6
+	"Influenza and pneumonia"	"J09-J18"	"2024"	"2024"	"85+ years"	"85+"	529	6435143	8.2	7.5	8.9
+	"Influenza and pneumonia"	"J09-J18"	"2025 (provisional)"	"2025"	"< 1 year"	"1"	Suppressed	3615598	Suppressed	Suppressed	Suppressed
+	"Influenza and pneumonia"	"J09-J18"	"2025 (provisional)"	"2025"	"1-4 years"	"1-4"	15	14983716	0.1	0.1	0.2
+	"Influenza and pneumonia"	"J09-J18"	"2025 (provisional)"	"2025"	"5-14 years"	"5-14"	18	41098826	0.0	0.0	0.1
+	"Influenza and pneumonia"	"J09-J18"	"2025 (provisional)"	"2025"	"15-24 years"	"15-24"	58	44797761	0.1	0.1	0.2
+	"Influenza and pneumonia"	"J09-J18"	"2025 (provisional)"	"2025"	"25-34 years"	"25-34"	103	46453864	0.2	0.2	0.3
+	"Influenza and pneumonia"	"J09-J18"	"2025 (provisional)"	"2025"	"35-44 years"	"35-44"	244	45539224	0.5	0.5	0.6
+	"Influenza and pneumonia"	"J09-J18"	"2025 (provisional)"	"2025"	"45-54 years"	"45-54"	395	40780356	1.0	0.9	1.1
+	"Influenza and pneumonia"	"J09-J18"	"2025 (provisional)"	"2025"	"55-64 years"	"55-64"	781	41661725	1.9	1.7	2.0
+	"Influenza and pneumonia"	"J09-J18"	"2025 (provisional)"	"2025"	"65-74 years"	"65-74"	1189	35444962	3.4	3.2	3.5
+	"Influenza and pneumonia"	"J09-J18"	"2025 (provisional)"	"2025"	"75-84 years"	"75-84"	1034	19299813	5.4	5.0	5.7
+	"Influenza and pneumonia"	"J09-J18"	"2025 (provisional)"	"2025"	"85+ years"	"85+"	452	6435143	7.0	6.4	7.7
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2018"	"2018"	"< 1 year"	"1"	Suppressed	3848208	Suppressed	Suppressed	Suppressed
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2018"	"2018"	"1-4 years"	"1-4"	16	15962067	0.1	0.1	0.2
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2018"	"2018"	"5-14 years"	"5-14"	24	41075169	0.1	0.0	0.1
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2018"	"2018"	"15-24 years"	"15-24"	43	42970800	0.1	0.1	0.1
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2018"	"2018"	"25-34 years"	"25-34"	92	45697774	0.2	0.2	0.2
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2018"	"2018"	"35-44 years"	"35-44"	201	41277888	0.5	0.4	0.6
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2018"	"2018"	"45-54 years"	"45-54"	427	41631699	1.0	0.9	1.1
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2018"	"2018"	"55-64 years"	"55-64"	775	42272636	1.8	1.7	2.0
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2018"	"2018"	"65-74 years"	"65-74"	940	30492316	3.1	2.9	3.3
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2018"	"2018"	"75-84 years"	"75-84"	754	15394374	4.9	4.5	5.2
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2018"	"2018"	"85+ years"	"85+"	423	6544503	6.5	5.8	7.1
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2019"	"2019"	"< 1 year"	"1"	Suppressed	3783052	Suppressed	Suppressed	Suppressed
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2019"	"2019"	"1-4 years"	"1-4"	19	15793631	0.1	0.1	0.2
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2019"	"2019"	"5-14 years"	"5-14"	17	40994163	0.0	0.0	0.1
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2019"	"2019"	"15-24 years"	"15-24"	42	42687510	0.1	0.1	0.1
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2019"	"2019"	"25-34 years"	"25-34"	113	45940321	0.2	0.2	0.3
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2019"	"2019"	"35-44 years"	"35-44"	185	41659144	0.4	0.4	0.5
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2019"	"2019"	"45-54 years"	"45-54"	424	40874902	1.0	0.9	1.1
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2019"	"2019"	"55-64 years"	"55-64"	769	42448537	1.8	1.7	1.9
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2019"	"2019"	"65-74 years"	"65-74"	891	31483433	2.8	2.6	3.0
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2019"	"2019"	"75-84 years"	"75-84"	725	15969872	4.5	4.2	4.9
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2019"	"2019"	"85+ years"	"85+"	342	6604958	5.2	4.6	5.7
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2019"	"2019"	"Not Stated"	"NS"	Suppressed	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2020"	"2020"	"< 1 year"	"1"	10	3735010	0.3	0.1	0.5
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2020"	"2020"	"1-4 years"	"1-4"	Suppressed	15566282	Suppressed	Suppressed	Suppressed
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2020"	"2020"	"5-14 years"	"5-14"	Suppressed	40992134	Suppressed	Suppressed	Suppressed
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2020"	"2020"	"15-24 years"	"15-24"	103	42555684	0.2	0.2	0.3
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2020"	"2020"	"25-34 years"	"25-34"	350	46069646	0.8	0.7	0.8
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2020"	"2020"	"35-44 years"	"35-44"	862	42136192	2.0	1.9	2.2
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2020"	"2020"	"45-54 years"	"45-54"	2406	40366133	6.0	5.7	6.2
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2020"	"2020"	"55-64 years"	"55-64"	5418	42403677	12.8	12.4	13.1
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2020"	"2020"	"65-74 years"	"65-74"	8120	32549398	24.9	24.4	25.5
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2020"	"2020"	"75-84 years"	"75-84"	7286	16451547	44.3	43.3	45.3
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2020"	"2020"	"85+ years"	"85+"	5017	6658420	75.3	73.3	77.4
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2021"	"2021"	"< 1 year"	"1"	Suppressed	3564493	Suppressed	Suppressed	Suppressed
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2021"	"2021"	"1-4 years"	"1-4"	11	15262845	0.1	0.0	0.1
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2021"	"2021"	"5-14 years"	"5-14"	23	41739332	0.1	0.0	0.1
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2021"	"2021"	"15-24 years"	"15-24"	200	43088663	0.5	0.4	0.5
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2021"	"2021"	"25-34 years"	"25-34"	913	45495105	2.0	1.9	2.1
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2021"	"2021"	"35-44 years"	"35-44"	2255	43403854	5.2	5.0	5.4
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2021"	"2021"	"45-54 years"	"45-54"	5050	40688436	12.4	12.1	12.8
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2021"	"2021"	"55-64 years"	"55-64"	9044	42803064	21.1	20.7	21.6
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2021"	"2021"	"65-74 years"	"65-74"	10450	33666122	31.0	30.4	31.6
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2021"	"2021"	"75-84 years"	"75-84"	6627	16206075	40.9	39.9	41.9
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2021"	"2021"	"85+ years"	"85+"	2567	5975756	43.0	41.3	44.6
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2022"	"2022"	"< 1 year"	"1"	15	3683113	0.4	0.2	0.7
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2022"	"2022"	"1-4 years"	"1-4"	18	14855240	0.1	0.1	0.2
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2022"	"2022"	"5-14 years"	"5-14"	17	40899034	0.0	0.0	0.1
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2022"	"2022"	"15-24 years"	"15-24"	89	44341571	0.2	0.2	0.2
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2022"	"2022"	"25-34 years"	"25-34"	252	45501300	0.6	0.5	0.6
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2022"	"2022"	"35-44 years"	"35-44"	564	43695365	1.3	1.2	1.4
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2022"	"2022"	"45-54 years"	"45-54"	1237	40431645	3.1	2.9	3.2
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2022"	"2022"	"55-64 years"	"55-64"	2674	42085437	6.4	6.1	6.6
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2022"	"2022"	"65-74 years"	"65-74"	3560	33788439	10.5	10.2	10.9
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2022"	"2022"	"75-84 years"	"75-84"	2752	17520545	15.7	15.1	16.3
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2022"	"2022"	"85+ years"	"85+"	1257	6485868	19.4	18.3	20.5
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2023"	"2023"	"< 1 year"	"1"	12	3648654	0.3	0.2	0.6
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2023"	"2023"	"1-4 years"	"1-4"	19	14862506	0.1	0.1	0.2
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2023"	"2023"	"5-14 years"	"5-14"	22	40987321	0.1	0.0	0.1
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2023"	"2023"	"15-24 years"	"15-24"	42	43886652	0.1	0.1	0.1
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2023"	"2023"	"25-34 years"	"25-34"	126	45542516	0.3	0.2	0.3
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2023"	"2023"	"35-44 years"	"35-44"	270	44390693	0.6	0.5	0.7
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2023"	"2023"	"45-54 years"	"45-54"	411	40493781	1.0	0.9	1.1
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2023"	"2023"	"55-64 years"	"55-64"	925	41854411	2.2	2.1	2.4
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2023"	"2023"	"65-74 years"	"65-74"	1369	34685284	3.9	3.7	4.2
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2023"	"2023"	"75-84 years"	"75-84"	1272	18368097	6.9	6.5	7.3
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2023"	"2023"	"85+ years"	"85+"	599	6194980	9.7	8.9	10.4
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2024"	"2024"	"< 1 year"	"1"	10	3615598	0.3	0.1	0.5
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2024"	"2024"	"1-4 years"	"1-4"	21	14983716	0.1	0.1	0.2
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2024"	"2024"	"5-14 years"	"5-14"	16	41098826	0.0	0.0	0.1
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2024"	"2024"	"15-24 years"	"15-24"	50	44797761	0.1	0.1	0.1
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2024"	"2024"	"25-34 years"	"25-34"	122	46453864	0.3	0.2	0.3
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2024"	"2024"	"35-44 years"	"35-44"	249	45539224	0.5	0.5	0.6
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2024"	"2024"	"45-54 years"	"45-54"	430	40780356	1.1	1.0	1.2
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2024"	"2024"	"55-64 years"	"55-64"	804	41661725	1.9	1.8	2.1
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2024"	"2024"	"65-74 years"	"65-74"	1276	35444962	3.6	3.4	3.8
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2024"	"2024"	"75-84 years"	"75-84"	1170	19299813	6.1	5.7	6.4
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2024"	"2024"	"85+ years"	"85+"	516	6435143	8.0	7.3	8.7
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2025 (provisional)"	"2025"	"< 1 year"	"1"	Suppressed	3615598	Suppressed	Suppressed	Suppressed
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2025 (provisional)"	"2025"	"1-4 years"	"1-4"	14	14983716	0.1	0.1	0.2
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2025 (provisional)"	"2025"	"5-14 years"	"5-14"	16	41098826	0.0	0.0	0.1
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2025 (provisional)"	"2025"	"15-24 years"	"15-24"	52	44797761	0.1	0.1	0.2
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2025 (provisional)"	"2025"	"25-34 years"	"25-34"	103	46453864	0.2	0.2	0.3
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2025 (provisional)"	"2025"	"35-44 years"	"35-44"	234	45539224	0.5	0.4	0.6
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2025 (provisional)"	"2025"	"45-54 years"	"45-54"	384	40780356	0.9	0.8	1.0
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2025 (provisional)"	"2025"	"55-64 years"	"55-64"	755	41661725	1.8	1.7	1.9
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2025 (provisional)"	"2025"	"65-74 years"	"65-74"	1162	35444962	3.3	3.1	3.5
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2025 (provisional)"	"2025"	"75-84 years"	"75-84"	1015	19299813	5.3	4.9	5.6
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2025 (provisional)"	"2025"	"85+ years"	"85+"	440	6435143	6.8	6.2	7.5
+"---"
+"Dataset: Provisional Mortality Statistics, 2018 through Last Week"
+"Query Parameters:"
+"MCD - ICD-10 Codes: J80 (Adult respiratory distress syndrome)"
+"MCD - ICD-10 Codes: AND"
+"MCD - ICD-10 Codes: J12.0 (Adenoviral pneumonia); J12.1 (Respiratory syncytial virus pneumonia); J12.2 (Parainfluenza virus"
+"pneumonia); J12.3 (Human metapneumovirus pneumonia); J12.8 (Other viral pneumonia); J12.9 (Viral pneumonia, unspecified); J13"
+"(Pneumonia due to Streptococcus pneumoniae); J14 (Pneumonia due to Haemophilus influenzae); J15.0 (Pneumonia due to Klebsiella"
+"pneumoniae); J15.1 (Pneumonia due to Pseudomonas); J15.2 (Pneumonia due to staphylococcus); J15.3 (Pneumonia due to"
+"streptococcus, group B); J15.4 (Pneumonia due to other streptococci); J15.5 (Pneumonia due to Escherichia coli); J15.6"
+"(Pneumonia due to other aerobic Gram-negative bacteria); J15.7 (Pneumonia due to Mycoplasma pneumoniae); J15.8 (Other bacterial"
+"pneumonia); J15.9 (Bacterial pneumonia, unspecified); J16.0 (Chlamydial pneumonia); J16.8 (Pneumonia due to other specified"
+"infectious organisms); J18.0 (Bronchopneumonia, unspecified); J18.1 (Lobar pneumonia, unspecified); J18.2 (Hypostatic pneumonia,"
+"unspecified); J18.8 (Other pneumonia, organism unspecified); J18.9 (Pneumonia, unspecified)"
+"Year/Month: 2018; 2019; 2020; 2021; 2022; 2023; 2024; 2025 (provisional)"
+"Group By: MCD - ICD Sub-Chapter; Year; Ten-Year Age Groups"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd-provisional.html for more information."
+"---"
+"Query Date: Apr 13, 2026 7:21:51 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Provisional Mortality on CDC WONDER Online Database. Data are from the final Multiple Cause of Death Files, 2018-2024,"
+"and from provisional data for years 2025 and later, as compiled from data provided by the 57 vital statistics jurisdictions"
+"through the Vital Statistics Cooperative Program. Accessed at http://wonder.cdc.gov/mcd-icd10-provisional.html on Apr 13, 2026"
+"7:21:51 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with zero Deaths are hidden. Use Quick Options above to show zero rows."
+"---"
+Footnotes:
+"1. Totals and sub-totals show the frequency of the selected causes of death, which may be greater than the number of deaths."
+"Note that any single death record may have up to 20 causes. More information."
+"---"
+Caveats:
+"1. These items in the results table are not fully selected: Influenza and pneumonia, Other respiratory diseases principally"
+"affecting the interstitium. The Query Description lists the actual values selected."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Assurance of Confidentiality."
+"3. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Not Stated."
+"4. The method used to calculate 95% confidence intervals is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Confidence-Intervals."
+"5. The population estimates for years 2022 - 2026 are from separate series of estimates based on the Modified Blended Base"
+"produced by the US Census Bureau in lieu of the April 1, 2020 decennial population count. The Modified Blended Base consists of"
+"the blend of Vintage 2020 postcensal population estimates for April 1, 2020, 2020 Demographic Analysis Estimates, and 2020"
+"Census data from the internal Census Edited File (CEF). Each subsequent series of estimates adjusts the methodology. The"
+"population figures for years 2024 and later are single-race estimates of the July 1 resident population, from the Vintage 2024"
+"postcensal series released by the Census Bureau on June 26, 2025. The population figures for year 2023 are single-race estimates"
+"of the July 1 resident population, from the Vintage 2023 postcensal series released by the Census Bureau on June 27, 2024. The"
+"population figures for year 2022 are single-race estimates of the July 1 resident population, from the Vintage 2022 postcensal"
+"series released by the Census Bureau on June 22, 2023. The population figures for year 2021 are single-race estimates of the"
+"July 1 resident population, based on the Blended Base produced by the US Census Bureau in lieu of the April 1, 2020 decennial"
+"population count, from the Vintage 2021 postcensal series released by the Census Bureau on June 30, 2022. The population figures"
+"for year 2020 are single-race estimates of the July 1 resident population, from the Vintage 2020 postcensal series based on"
+"April 2010 Census, released by the Census Bureau on July 27, 2021. The population figures for year 2019 are single-race"
+"estimates of the July 1 resident population, from the Vintage 2019 postcensal series based on April 2010 Census, released by the"
+"Census Bureau on June 25, 2020. The population figures for year 2018 are single-race estimates of the July 1 resident"
+"population, from the Vintage 2018 postcensal series based on April 2010 Census, released by the Census Bureau on June 20, 2019."
+"More information: http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Population Data."
+"6. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Age"
+"Group."
+"7. Beginning with the 2018 data, changes have been implemented that affect the counts for ICD-10 cause of death codes O00-O99"
+"compared to previous practice. In addition, data for the cause of death codes O00-O99 for 2003 through 2017 reflect differences"
+"in information available to individual states and probable errors. Deaths with the underlying cause classified with O00-O99 are"
+"subject to further processing before these deaths records are considered final. Provisional deaths have not undergone full"
+"processing and review and therefore should not be considered final for statistical purposes. Caution should be used in"
+"interpreting these data. More information can be found at: https://www.cdc.gov/nchs/maternal-mortality/."
+"8. On March 11, 2021, the 2019 mortality data on CDC WONDER was updated with the 2019 mortality data updated by NCHS on March 4,"
+"2021 to include corrected information for residents of Texas affecting 5 records previously coded to cause code *U01.4,"
+"Terrorism involving firearms (homicide). The underlying and multiple cause of death codes for 5 records were corrected in the"
+"2019 data. Underlying and multiple cause of death codes for those 5 records were recoded to Assault (homicide) by other and"
+"unspecified firearm discharge, ICD-10 code X95. The corrected final death records replaces the data released on December 22,"
+"2020."
+"9. Connecticut population estimates for 2022 and later years are reported for 9 planning regions as county equivalent areas,"
+"instead of the former 8 legacy counties in the Vintage 2022 postcensal series released by the Census Bureau on June 22, 2023,"
+"and in the Vintage 2023 postcensal series released by the Census Bureau on June 27, 2024. Populations estimates for the former"
+"counties are not available for 2022 and later years. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Connecticut-2022."
+"10. After the creation of the final 2023 dataset, North Carolina updated the cause of death information for over 900 death"
+"certificates to include a cause of death code indicating drug overdose (ICD-10 underlying cause-of-death codes: X40-X44,"
+"X60-X64, X85, and Y10-Y14). Jurisdictions can continue to update death certificates after the closing of the mortality file. As"
+"a result, users should consider that the actual death count for drug overdose deaths for North Carolina in 2023 is over 4,400"
+"deaths, with a crude rate of approximately 41.0 per 100,000 population, and an age-adjusted rate of approximately 42.1 per"
+"100,000 population. These deaths will not be updated on the final mortality datasets."
+"11. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#ICD-10 Changes."
+"12. Deaths related to external causes of injury or sudden death: In the provisional mortality data, causes of death classified"
+"as external causes of injury (ICD-10 codes V01-Y89), sudden deaths (ICD-10 codes R95 and R96), or drug poisoning (ICD-10 codes"
+"T36-T50), have the cause of death labeled as 'Data not shown due to 6 month lag to account for delays in death certificate"
+"completion for certain causes of death.' For these deaths occurring 24 weeks prior to the final date in the provisional data,"
+"the number of deaths and related statistics are not available by specific cause of death for ICD-10 codes V01-Y89, R95, R96, or"
+"T36-T50. More information: http://wonder.cdc.gov/wonder/help/mcd-provisional.html#999."
+"13. Deaths occurring through March 28, 2026 as of April 05, 2026."

@@ -1,6 +1,7 @@
 from pathlib import Path
 
 import pandas as pd
+import re
 
 
 ROOT = Path(__file__).resolve().parents[2]
@@ -60,11 +61,11 @@ METRIC_ORDER = [
 ]
 
 DATASETS = {
-    "Sepsis": {
-        "sex": CLEANED_DIR / "sepsis_sex.csv",
-        "age": CLEANED_DIR / "sepsis_age.csv",
-        "race": CLEANED_DIR / "sepsis_race.csv",
-        "pod": CLEANED_DIR / "sepsis_pod.csv",
+    "ARDS (ARDS + Pneumonia)": {
+        "sex": CLEANED_DIR / "ards_sex.csv",
+        "age": CLEANED_DIR / "ards_age.csv",
+        "race": CLEANED_DIR / "ards_race.csv",
+        "pod": CLEANED_DIR / "ards_pod.csv",
     },
     "Pneumonia": {
         "sex": CLEANED_DIR / "pneumonia_sex.csv",
@@ -72,7 +73,7 @@ DATASETS = {
         "race": CLEANED_DIR / "pneumonia_race.csv",
         "pod": CLEANED_DIR / "pneumonia_pod.csv",
     },
-    "Combined": {
+    "Sepsis+ Pneumonia": {
         "sex": CLEANED_DIR / "combined_sex.csv",
         "age": CLEANED_DIR / "combined_age.csv",
         "race": CLEANED_DIR / "combined_race.csv",
@@ -105,27 +106,27 @@ def _subset_period(df: pd.DataFrame, years: range) -> pd.DataFrame:
     return df[df["__year"].isin(list(years))].copy()
 
 
-def _weighted_mean(values: pd.Series, weights: pd.Series) -> float | pd.NA:
+def _weighted_mean(values: pd.Series, weights: pd.Series) -> float | None:
     valid = values.notna() & weights.notna() & (weights > 0)
     if not valid.any():
         return pd.NA
     return (values[valid] * weights[valid]).sum() / weights[valid].sum()
 
 
-def _fmt_n(value: float | int | pd.NA) -> str:
+def _fmt_n(value: float | int | None) -> str:
     if pd.isna(value):
         return ""
     return f"{int(round(float(value))):,}"
 
 
-def _fmt_n_pct(value: float | int | pd.NA, denom: float | int | pd.NA) -> str:
+def _fmt_n_pct(value: float | int | None, denom: float | int | None) -> str:
     if pd.isna(value) or pd.isna(denom) or float(denom) == 0:
         return ""
     pct = float(value) / float(denom) * 100
     return f"{int(round(float(value))):,} ({pct:.1f}%)"
 
 
-def _fmt_rate(value: float | int | pd.NA) -> str:
+def _fmt_rate(value: float | int | None) -> str:
     if pd.isna(value):
         return ""
     return f"{float(value):.1f}"
@@ -228,8 +229,11 @@ def build_tables() -> None:
     all_tables = []
     for outcome_name, paths in DATASETS.items():
         table = _build_outcome_table(outcome_name, paths)
+        outcome_slug = re.sub(r"[^a-z0-9]+", "_", outcome_name.lower()).strip("_")
+        if outcome_slug.startswith("ards_ards_pneumonia"):
+            outcome_slug = "ards"
         table.drop(columns=["outcome"]).to_csv(
-            OUTPUT_DIR / f"{outcome_name.lower()}_period_summary_table.csv",
+            OUTPUT_DIR / f"{outcome_slug}_period_summary_table.csv",
             index=False,
         )
         all_tables.append(table)

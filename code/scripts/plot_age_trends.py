@@ -26,7 +26,7 @@ AGE_PALETTE = {
 }
 
 DATASETS = {
-    "sepsis": CLEANED_DIR / "sepsis_age.csv",
+    "ards": CLEANED_DIR / "ards_age.csv",
     "pneumonia": CLEANED_DIR / "pneumonia_age.csv",
     "combined": CLEANED_DIR / "combined_age.csv",
 }
@@ -160,12 +160,12 @@ def build_trend_figures() -> None:
         fig.savefig(FIGURE_DIR / f"{name}_trend_by_age.pdf")
         plt.close(fig)
 
-    fig, axes = plt.subplots(1, 3, figsize=(14.5, 4.8), sharex=True, sharey=True)
-    panel_order = ["sepsis", "pneumonia", "combined"]
+    fig, axes = plt.subplots(1, 3, figsize=(14.5, 4.8), sharex=True, sharey=False)
+    panel_order = ["ards", "pneumonia", "combined"]
     panel_titles = {
-        "sepsis": "Sepsis",
+        "ards": "ARDS (ARDS + Pneumonia)",
         "pneumonia": "Pneumonia",
-        "combined": "Sepsis + pneumonia",
+        "combined": "Sepsis+ Pneumonia",
     }
     panel_labels = ["A", "B", "C"]
 
@@ -190,8 +190,8 @@ def build_trend_figures() -> None:
     axes[1].set_xlabel("")
     axes[2].set_xlabel("")
     axes[0].set_ylabel("Age-adjusted rate")
-    axes[1].set_ylabel("")
-    axes[2].set_ylabel("")
+    axes[1].set_ylabel("Age-adjusted rate")
+    axes[2].set_ylabel("Age-adjusted rate")
     fig.supxlabel("Year")
     fig.legend(
         legend_handles,

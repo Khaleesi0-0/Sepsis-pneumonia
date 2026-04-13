@@ -22,9 +22,9 @@ PERIODS = [
 ]
 
 DATASETS = {
-    "Sepsis": CLEANED_DIR / "sepsis_state.csv",
+    "ARDS (ARDS + Pneumonia)": CLEANED_DIR / "ards_state.csv",
     "Pneumonia": CLEANED_DIR / "pneumonia_state.csv",
-    "Sepsis + pneumonia": CLEANED_DIR / "combined_state.csv",
+    "Sepsis+ Pneumonia": CLEANED_DIR / "combined_state.csv",
 }
 
 KEEP_STATES = {

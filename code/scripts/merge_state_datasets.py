@@ -7,10 +7,11 @@ ROOT = Path(__file__).resolve().parents[2]
 PRIMARY_DIR = ROOT / "data" / "primary"
 OUTPUT_DIR = ROOT / "data" / "cleaned"
 
-SEPSIS_FILES = ["Astate2010.csv", "Astate2018.csv"]
+ARDS_FILES = ["ARDSstate2010.csv", "ARDSstate2018.csv"]
 PNEUMONIA_FILES = ["Jstate2010.csv", "Jstate2018.csv"]
 COMBINED_FILES = ["AJstate2010.csv", "AJstate2018.csv"]
 
+ARDS_SUBCHAPTER = "Influenza and pneumonia"
 TARGET_SUBCHAPTER = "Other bacterial diseases"
 SUBCHAPTER_COL = "MCD - ICD Sub-Chapter"
 YEAR_COL = "Year"
@@ -38,6 +39,8 @@ def _read_clean_csv(csv_path: Path) -> pd.DataFrame:
     return pd.read_csv(
         csv_path,
         skiprows=header_row,
+        sep=None,
+        engine="python",
         dtype={YEAR_COL: "string", YEAR_CODE_COL: "string"},
     )
 
@@ -91,6 +94,19 @@ def _read_and_merge(file_names: list[str]) -> pd.DataFrame:
     return merged
 
 
+def _resolve_ards_state_files() -> list[str]:
+    ards_paths = [PRIMARY_DIR / name for name in ARDS_FILES]
+    if all(path.exists() for path in ards_paths):
+        return ARDS_FILES
+
+    missing = [str(path) for path in ards_paths if not path.exists()]
+    raise FileNotFoundError(
+        "Missing ARDS state files: "
+        + ", ".join(missing)
+        + ". Expected ARDSstate2010.csv and ARDSstate2018.csv in data/primary."
+    )
+
+
 def _filter_combined_subchapter(df: pd.DataFrame) -> pd.DataFrame:
     if SUBCHAPTER_COL not in df.columns:
         return df.copy()
@@ -102,14 +118,20 @@ def _filter_combined_subchapter(df: pd.DataFrame) -> pd.DataFrame:
     ].copy()
 
 
+def _filter_ards_subchapter(df: pd.DataFrame) -> pd.DataFrame:
+    if SUBCHAPTER_COL not in df.columns:
+        return df.copy()
+    return df[df[SUBCHAPTER_COL].astype("string").str.strip().eq(ARDS_SUBCHAPTER)].copy()
+
+
 def build_outputs() -> None:
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
-    sepsis_df = _read_and_merge(SEPSIS_FILES)
+    ards_df = _filter_ards_subchapter(_read_and_merge(_resolve_ards_state_files()))
     pneumonia_df = _read_and_merge(PNEUMONIA_FILES)
     combined_df = _filter_combined_subchapter(_read_and_merge(COMBINED_FILES))
 
-    sepsis_df.to_csv(OUTPUT_DIR / "sepsis_state.csv", index=False)
+    ards_df.to_csv(OUTPUT_DIR / "ards_state.csv", index=False)
     pneumonia_df.to_csv(OUTPUT_DIR / "pneumonia_state.csv", index=False)
     combined_df.to_csv(OUTPUT_DIR / "combined_state.csv", index=False)
 

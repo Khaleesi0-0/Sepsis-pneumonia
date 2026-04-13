@@ -1,0 +1,265 @@
+"Notes"	"MCD - ICD Sub-Chapter"	"MCD - ICD Sub-Chapter Code"	"Year"	"Year Code"	"Ten-Year Age Groups"	"Ten-Year Age Groups Code"	Deaths	Population	Crude Rate	Crude Rate Lower 95% Confidence Interval	Crude Rate Upper 95% Confidence Interval
+	"Influenza and pneumonia"	"J09-J18"	"2010"	"2010"	"< 1 year"	"1"	14	3944153	Unreliable	0.2	0.6
+	"Influenza and pneumonia"	"J09-J18"	"2010"	"2010"	"1-4 years"	"1-4"	15	16257209	Unreliable	0.1	0.2
+	"Influenza and pneumonia"	"J09-J18"	"2010"	"2010"	"5-14 years"	"5-14"	11	41025851	Unreliable	0.0	0.0
+	"Influenza and pneumonia"	"J09-J18"	"2010"	"2010"	"15-24 years"	"15-24"	42	43626342	0.1	0.1	0.1
+	"Influenza and pneumonia"	"J09-J18"	"2010"	"2010"	"25-34 years"	"25-34"	112	41063948	0.3	0.2	0.3
+	"Influenza and pneumonia"	"J09-J18"	"2010"	"2010"	"35-44 years"	"35-44"	151	41070606	0.4	0.3	0.4
+	"Influenza and pneumonia"	"J09-J18"	"2010"	"2010"	"45-54 years"	"45-54"	376	45006716	0.8	0.8	0.9
+	"Influenza and pneumonia"	"J09-J18"	"2010"	"2010"	"55-64 years"	"55-64"	640	36482729	1.8	1.6	1.9
+	"Influenza and pneumonia"	"J09-J18"	"2010"	"2010"	"65-74 years"	"65-74"	702	21713429	3.2	3.0	3.5
+	"Influenza and pneumonia"	"J09-J18"	"2010"	"2010"	"75-84 years"	"75-84"	748	13061122	5.7	5.3	6.1
+	"Influenza and pneumonia"	"J09-J18"	"2010"	"2010"	"85+ years"	"85+"	388	5493433	7.1	6.4	7.8
+	"Influenza and pneumonia"	"J09-J18"	"2011"	"2011"	"< 1 year"	"1"	Suppressed	3996537	Suppressed	Suppressed	Suppressed
+	"Influenza and pneumonia"	"J09-J18"	"2011"	"2011"	"1-4 years"	"1-4"	22	16165521	0.1	0.1	0.2
+	"Influenza and pneumonia"	"J09-J18"	"2011"	"2011"	"5-14 years"	"5-14"	22	41039048	0.1	0.0	0.1
+	"Influenza and pneumonia"	"J09-J18"	"2011"	"2011"	"15-24 years"	"15-24"	59	43797875	0.1	0.1	0.2
+	"Influenza and pneumonia"	"J09-J18"	"2011"	"2011"	"25-34 years"	"25-34"	126	41790498	0.3	0.2	0.4
+	"Influenza and pneumonia"	"J09-J18"	"2011"	"2011"	"35-44 years"	"35-44"	184	40627954	0.5	0.4	0.5
+	"Influenza and pneumonia"	"J09-J18"	"2011"	"2011"	"45-54 years"	"45-54"	443	44718203	1.0	0.9	1.1
+	"Influenza and pneumonia"	"J09-J18"	"2011"	"2011"	"55-64 years"	"55-64"	668	38062140	1.8	1.6	1.9
+	"Influenza and pneumonia"	"J09-J18"	"2011"	"2011"	"65-74 years"	"65-74"	689	22481738	3.1	2.8	3.3
+	"Influenza and pneumonia"	"J09-J18"	"2011"	"2011"	"75-84 years"	"75-84"	725	13175230	5.5	5.1	5.9
+	"Influenza and pneumonia"	"J09-J18"	"2011"	"2011"	"85+ years"	"85+"	434	5737173	7.6	6.9	8.3
+	"Influenza and pneumonia"	"J09-J18"	"2012"	"2012"	"< 1 year"	"1"	11	3943077	Unreliable	0.1	0.5
+	"Influenza and pneumonia"	"J09-J18"	"2012"	"2012"	"1-4 years"	"1-4"	Suppressed	16056267	Suppressed	Suppressed	Suppressed
+	"Influenza and pneumonia"	"J09-J18"	"2012"	"2012"	"5-14 years"	"5-14"	13	41144754	Unreliable	0.0	0.1
+	"Influenza and pneumonia"	"J09-J18"	"2012"	"2012"	"15-24 years"	"15-24"	41	43943905	0.1	0.1	0.1
+	"Influenza and pneumonia"	"J09-J18"	"2012"	"2012"	"25-34 years"	"25-34"	87	42309321	0.2	0.2	0.3
+	"Influenza and pneumonia"	"J09-J18"	"2012"	"2012"	"35-44 years"	"35-44"	135	40516420	0.3	0.3	0.4
+	"Influenza and pneumonia"	"J09-J18"	"2012"	"2012"	"45-54 years"	"45-54"	364	44268738	0.8	0.7	0.9
+	"Influenza and pneumonia"	"J09-J18"	"2012"	"2012"	"55-64 years"	"55-64"	643	38586202	1.7	1.5	1.8
+	"Influenza and pneumonia"	"J09-J18"	"2012"	"2012"	"65-74 years"	"65-74"	682	23985392	2.8	2.6	3.1
+	"Influenza and pneumonia"	"J09-J18"	"2012"	"2012"	"75-84 years"	"75-84"	713	13272634	5.4	5.0	5.8
+	"Influenza and pneumonia"	"J09-J18"	"2012"	"2012"	"85+ years"	"85+"	390	5887330	6.6	6.0	7.3
+	"Influenza and pneumonia"	"J09-J18"	"2013"	"2013"	"< 1 year"	"1"	Suppressed	3941783	Suppressed	Suppressed	Suppressed
+	"Influenza and pneumonia"	"J09-J18"	"2013"	"2013"	"1-4 years"	"1-4"	17	15926305	Unreliable	0.1	0.2
+	"Influenza and pneumonia"	"J09-J18"	"2013"	"2013"	"5-14 years"	"5-14"	17	41221035	Unreliable	0.0	0.1
+	"Influenza and pneumonia"	"J09-J18"	"2013"	"2013"	"15-24 years"	"15-24"	42	43954402	0.1	0.1	0.1
+	"Influenza and pneumonia"	"J09-J18"	"2013"	"2013"	"25-34 years"	"25-34"	111	42844587	0.3	0.2	0.3
+	"Influenza and pneumonia"	"J09-J18"	"2013"	"2013"	"35-44 years"	"35-44"	189	40452690	0.5	0.4	0.5
+	"Influenza and pneumonia"	"J09-J18"	"2013"	"2013"	"45-54 years"	"45-54"	416	43767532	1.0	0.9	1.0
+	"Influenza and pneumonia"	"J09-J18"	"2013"	"2013"	"55-64 years"	"55-64"	758	39316431	1.9	1.8	2.1
+	"Influenza and pneumonia"	"J09-J18"	"2013"	"2013"	"65-74 years"	"65-74"	850	25216766	3.4	3.1	3.6
+	"Influenza and pneumonia"	"J09-J18"	"2013"	"2013"	"75-84 years"	"75-84"	706	13446519	5.3	4.9	5.6
+	"Influenza and pneumonia"	"J09-J18"	"2013"	"2013"	"85+ years"	"85+"	414	6040789	6.9	6.2	7.5
+	"Influenza and pneumonia"	"J09-J18"	"2014"	"2014"	"< 1 year"	"1"	11	3948350	Unreliable	0.1	0.5
+	"Influenza and pneumonia"	"J09-J18"	"2014"	"2014"	"1-4 years"	"1-4"	Suppressed	15928533	Suppressed	Suppressed	Suppressed
+	"Influenza and pneumonia"	"J09-J18"	"2014"	"2014"	"5-14 years"	"5-14"	19	41191072	Unreliable	0.0	0.1
+	"Influenza and pneumonia"	"J09-J18"	"2014"	"2014"	"15-24 years"	"15-24"	43	43979821	0.1	0.1	0.1
+	"Influenza and pneumonia"	"J09-J18"	"2014"	"2014"	"25-34 years"	"25-34"	120	43516504	0.3	0.2	0.3
+	"Influenza and pneumonia"	"J09-J18"	"2014"	"2014"	"35-44 years"	"35-44"	238	40513133	0.6	0.5	0.7
+	"Influenza and pneumonia"	"J09-J18"	"2014"	"2014"	"45-54 years"	"45-54"	532	43458851	1.2	1.1	1.3
+	"Influenza and pneumonia"	"J09-J18"	"2014"	"2014"	"55-64 years"	"55-64"	873	40077581	2.2	2.0	2.3
+	"Influenza and pneumonia"	"J09-J18"	"2014"	"2014"	"65-74 years"	"65-74"	834	26398290	3.2	2.9	3.4
+	"Influenza and pneumonia"	"J09-J18"	"2014"	"2014"	"75-84 years"	"75-84"	783	13682690	5.7	5.3	6.1
+	"Influenza and pneumonia"	"J09-J18"	"2014"	"2014"	"85+ years"	"85+"	388	6162231	6.3	5.7	6.9
+	"Influenza and pneumonia"	"J09-J18"	"2015"	"2015"	"< 1 year"	"1"	10	3978038	Unreliable	0.1	0.5
+	"Influenza and pneumonia"	"J09-J18"	"2015"	"2015"	"1-4 years"	"1-4"	13	15929243	Unreliable	0.0	0.1
+	"Influenza and pneumonia"	"J09-J18"	"2015"	"2015"	"5-14 years"	"5-14"	21	41109506	0.1	0.0	0.1
+	"Influenza and pneumonia"	"J09-J18"	"2015"	"2015"	"15-24 years"	"15-24"	49	43848216	0.1	0.1	0.1
+	"Influenza and pneumonia"	"J09-J18"	"2015"	"2015"	"25-34 years"	"25-34"	97	44137202	0.2	0.2	0.3
+	"Influenza and pneumonia"	"J09-J18"	"2015"	"2015"	"35-44 years"	"35-44"	189	40589783	0.5	0.4	0.5
+	"Influenza and pneumonia"	"J09-J18"	"2015"	"2015"	"45-54 years"	"45-54"	400	43188161	0.9	0.8	1.0
+	"Influenza and pneumonia"	"J09-J18"	"2015"	"2015"	"55-64 years"	"55-64"	752	40877819	1.8	1.7	2.0
+	"Influenza and pneumonia"	"J09-J18"	"2015"	"2015"	"65-74 years"	"65-74"	909	27550517	3.3	3.1	3.5
+	"Influenza and pneumonia"	"J09-J18"	"2015"	"2015"	"75-84 years"	"75-84"	777	13923174	5.6	5.2	6.0
+	"Influenza and pneumonia"	"J09-J18"	"2015"	"2015"	"85+ years"	"85+"	404	6287161	6.4	5.8	7.1
+	"Influenza and pneumonia"	"J09-J18"	"2016"	"2016"	"< 1 year"	"1"	Suppressed	3970145	Suppressed	Suppressed	Suppressed
+	"Influenza and pneumonia"	"J09-J18"	"2016"	"2016"	"1-4 years"	"1-4"	13	15956892	Unreliable	0.0	0.1
+	"Influenza and pneumonia"	"J09-J18"	"2016"	"2016"	"5-14 years"	"5-14"	20	41048032	0.0	0.0	0.1
+	"Influenza and pneumonia"	"J09-J18"	"2016"	"2016"	"15-24 years"	"15-24"	36	43511027	0.1	0.1	0.1
+	"Influenza and pneumonia"	"J09-J18"	"2016"	"2016"	"25-34 years"	"25-34"	104	44677243	0.2	0.2	0.3
+	"Influenza and pneumonia"	"J09-J18"	"2016"	"2016"	"35-44 years"	"35-44"	191	40470156	0.5	0.4	0.5
+	"Influenza and pneumonia"	"J09-J18"	"2016"	"2016"	"45-54 years"	"45-54"	433	42786679	1.0	0.9	1.1
+	"Influenza and pneumonia"	"J09-J18"	"2016"	"2016"	"55-64 years"	"55-64"	879	41463144	2.1	2.0	2.3
+	"Influenza and pneumonia"	"J09-J18"	"2016"	"2016"	"65-74 years"	"65-74"	996	28630330	3.5	3.3	3.7
+	"Influenza and pneumonia"	"J09-J18"	"2016"	"2016"	"75-84 years"	"75-84"	737	14233534	5.2	4.8	5.6
+	"Influenza and pneumonia"	"J09-J18"	"2016"	"2016"	"85+ years"	"85+"	374	6380331	5.9	5.3	6.5
+	"Influenza and pneumonia"	"J09-J18"	"2017"	"2017"	"< 1 year"	"1"	Suppressed	3939295	Suppressed	Suppressed	Suppressed
+	"Influenza and pneumonia"	"J09-J18"	"2017"	"2017"	"1-4 years"	"1-4"	17	15999565	Unreliable	0.1	0.2
+	"Influenza and pneumonia"	"J09-J18"	"2017"	"2017"	"5-14 years"	"5-14"	14	41082692	Unreliable	0.0	0.1
+	"Influenza and pneumonia"	"J09-J18"	"2017"	"2017"	"15-24 years"	"15-24"	41	43250295	0.1	0.1	0.1
+	"Influenza and pneumonia"	"J09-J18"	"2017"	"2017"	"25-34 years"	"25-34"	114	45342672	0.3	0.2	0.3
+	"Influenza and pneumonia"	"J09-J18"	"2017"	"2017"	"35-44 years"	"35-44"	192	40875370	0.5	0.4	0.5
+	"Influenza and pneumonia"	"J09-J18"	"2017"	"2017"	"45-54 years"	"45-54"	409	42374952	1.0	0.9	1.1
+	"Influenza and pneumonia"	"J09-J18"	"2017"	"2017"	"55-64 years"	"55-64"	779	41995658	1.9	1.7	2.0
+	"Influenza and pneumonia"	"J09-J18"	"2017"	"2017"	"65-74 years"	"65-74"	983	29683446	3.3	3.1	3.5
+	"Influenza and pneumonia"	"J09-J18"	"2017"	"2017"	"75-84 years"	"75-84"	786	14706551	5.3	5.0	5.7
+	"Influenza and pneumonia"	"J09-J18"	"2017"	"2017"	"85+ years"	"85+"	367	6468682	5.7	5.1	6.3
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2010"	"2010"	"< 1 year"	"1"	14	3944153	Unreliable	0.2	0.6
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2010"	"2010"	"1-4 years"	"1-4"	15	16257209	Unreliable	0.1	0.2
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2010"	"2010"	"5-14 years"	"5-14"	11	41025851	Unreliable	0.0	0.0
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2010"	"2010"	"15-24 years"	"15-24"	42	43626342	0.1	0.1	0.1
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2010"	"2010"	"25-34 years"	"25-34"	111	41063948	0.3	0.2	0.3
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2010"	"2010"	"35-44 years"	"35-44"	150	41070606	0.4	0.3	0.4
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2010"	"2010"	"45-54 years"	"45-54"	373	45006716	0.8	0.7	0.9
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2010"	"2010"	"55-64 years"	"55-64"	635	36482729	1.7	1.6	1.9
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2010"	"2010"	"65-74 years"	"65-74"	695	21713429	3.2	3.0	3.4
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2010"	"2010"	"75-84 years"	"75-84"	741	13061122	5.7	5.3	6.1
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2010"	"2010"	"85+ years"	"85+"	386	5493433	7.0	6.3	7.7
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2011"	"2011"	"< 1 year"	"1"	Suppressed	3996537	Suppressed	Suppressed	Suppressed
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2011"	"2011"	"1-4 years"	"1-4"	21	16165521	0.1	0.1	0.2
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2011"	"2011"	"5-14 years"	"5-14"	20	41039048	0.0	0.0	0.1
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2011"	"2011"	"15-24 years"	"15-24"	57	43797875	0.1	0.1	0.2
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2011"	"2011"	"25-34 years"	"25-34"	123	41790498	0.3	0.2	0.3
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2011"	"2011"	"35-44 years"	"35-44"	180	40627954	0.4	0.4	0.5
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2011"	"2011"	"45-54 years"	"45-54"	436	44718203	1.0	0.9	1.1
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2011"	"2011"	"55-64 years"	"55-64"	662	38062140	1.7	1.6	1.9
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2011"	"2011"	"65-74 years"	"65-74"	683	22481738	3.0	2.8	3.3
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2011"	"2011"	"75-84 years"	"75-84"	724	13175230	5.5	5.1	5.9
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2011"	"2011"	"85+ years"	"85+"	432	5737173	7.5	6.8	8.2
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2012"	"2012"	"< 1 year"	"1"	10	3943077	Unreliable	0.1	0.5
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2012"	"2012"	"1-4 years"	"1-4"	Suppressed	16056267	Suppressed	Suppressed	Suppressed
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2012"	"2012"	"5-14 years"	"5-14"	13	41144754	Unreliable	0.0	0.1
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2012"	"2012"	"15-24 years"	"15-24"	41	43943905	0.1	0.1	0.1
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2012"	"2012"	"25-34 years"	"25-34"	85	42309321	0.2	0.2	0.2
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2012"	"2012"	"35-44 years"	"35-44"	134	40516420	0.3	0.3	0.4
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2012"	"2012"	"45-54 years"	"45-54"	360	44268738	0.8	0.7	0.9
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2012"	"2012"	"55-64 years"	"55-64"	638	38586202	1.7	1.5	1.8
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2012"	"2012"	"65-74 years"	"65-74"	679	23985392	2.8	2.6	3.0
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2012"	"2012"	"75-84 years"	"75-84"	708	13272634	5.3	4.9	5.7
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2012"	"2012"	"85+ years"	"85+"	388	5887330	6.6	5.9	7.2
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2013"	"2013"	"< 1 year"	"1"	Suppressed	3941783	Suppressed	Suppressed	Suppressed
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2013"	"2013"	"1-4 years"	"1-4"	15	15926305	Unreliable	0.1	0.2
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2013"	"2013"	"5-14 years"	"5-14"	16	41221035	Unreliable	0.0	0.1
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2013"	"2013"	"15-24 years"	"15-24"	39	43954402	0.1	0.1	0.1
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2013"	"2013"	"25-34 years"	"25-34"	110	42844587	0.3	0.2	0.3
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2013"	"2013"	"35-44 years"	"35-44"	187	40452690	0.5	0.4	0.5
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2013"	"2013"	"45-54 years"	"45-54"	410	43767532	0.9	0.8	1.0
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2013"	"2013"	"55-64 years"	"55-64"	755	39316431	1.9	1.8	2.1
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2013"	"2013"	"65-74 years"	"65-74"	843	25216766	3.3	3.1	3.6
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2013"	"2013"	"75-84 years"	"75-84"	704	13446519	5.2	4.8	5.6
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2013"	"2013"	"85+ years"	"85+"	412	6040789	6.8	6.2	7.5
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2014"	"2014"	"< 1 year"	"1"	10	3948350	Unreliable	0.1	0.5
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2014"	"2014"	"1-4 years"	"1-4"	Suppressed	15928533	Suppressed	Suppressed	Suppressed
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2014"	"2014"	"5-14 years"	"5-14"	19	41191072	Unreliable	0.0	0.1
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2014"	"2014"	"15-24 years"	"15-24"	43	43979821	0.1	0.1	0.1
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2014"	"2014"	"25-34 years"	"25-34"	118	43516504	0.3	0.2	0.3
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2014"	"2014"	"35-44 years"	"35-44"	235	40513133	0.6	0.5	0.7
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2014"	"2014"	"45-54 years"	"45-54"	520	43458851	1.2	1.1	1.3
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2014"	"2014"	"55-64 years"	"55-64"	867	40077581	2.2	2.0	2.3
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2014"	"2014"	"65-74 years"	"65-74"	827	26398290	3.1	2.9	3.3
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2014"	"2014"	"75-84 years"	"75-84"	779	13682690	5.7	5.3	6.1
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2014"	"2014"	"85+ years"	"85+"	386	6162231	6.3	5.6	6.9
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2015"	"2015"	"< 1 year"	"1"	Suppressed	3978038	Suppressed	Suppressed	Suppressed
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2015"	"2015"	"1-4 years"	"1-4"	13	15929243	Unreliable	0.0	0.1
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2015"	"2015"	"5-14 years"	"5-14"	21	41109506	0.1	0.0	0.1
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2015"	"2015"	"15-24 years"	"15-24"	47	43848216	0.1	0.1	0.1
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2015"	"2015"	"25-34 years"	"25-34"	97	44137202	0.2	0.2	0.3
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2015"	"2015"	"35-44 years"	"35-44"	185	40589783	0.5	0.4	0.5
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2015"	"2015"	"45-54 years"	"45-54"	387	43188161	0.9	0.8	1.0
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2015"	"2015"	"55-64 years"	"55-64"	735	40877819	1.8	1.7	1.9
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2015"	"2015"	"65-74 years"	"65-74"	904	27550517	3.3	3.1	3.5
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2015"	"2015"	"75-84 years"	"75-84"	771	13923174	5.5	5.1	5.9
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2015"	"2015"	"85+ years"	"85+"	402	6287161	6.4	5.8	7.0
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2016"	"2016"	"< 1 year"	"1"	Suppressed	3970145	Suppressed	Suppressed	Suppressed
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2016"	"2016"	"1-4 years"	"1-4"	11	15956892	Unreliable	0.0	0.1
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2016"	"2016"	"5-14 years"	"5-14"	19	41048032	Unreliable	0.0	0.1
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2016"	"2016"	"15-24 years"	"15-24"	36	43511027	0.1	0.1	0.1
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2016"	"2016"	"25-34 years"	"25-34"	103	44677243	0.2	0.2	0.3
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2016"	"2016"	"35-44 years"	"35-44"	191	40470156	0.5	0.4	0.5
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2016"	"2016"	"45-54 years"	"45-54"	421	42786679	1.0	0.9	1.1
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2016"	"2016"	"55-64 years"	"55-64"	871	41463144	2.1	2.0	2.2
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2016"	"2016"	"65-74 years"	"65-74"	986	28630330	3.4	3.2	3.7
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2016"	"2016"	"75-84 years"	"75-84"	735	14233534	5.2	4.8	5.5
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2016"	"2016"	"85+ years"	"85+"	374	6380331	5.9	5.3	6.5
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2017"	"2017"	"< 1 year"	"1"	Suppressed	3939295	Suppressed	Suppressed	Suppressed
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2017"	"2017"	"1-4 years"	"1-4"	16	15999565	Unreliable	0.1	0.2
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2017"	"2017"	"5-14 years"	"5-14"	13	41082692	Unreliable	0.0	0.1
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2017"	"2017"	"15-24 years"	"15-24"	39	43250295	0.1	0.1	0.1
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2017"	"2017"	"25-34 years"	"25-34"	110	45342672	0.2	0.2	0.3
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2017"	"2017"	"35-44 years"	"35-44"	190	40875370	0.5	0.4	0.5
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2017"	"2017"	"45-54 years"	"45-54"	402	42374952	0.9	0.9	1.0
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2017"	"2017"	"55-64 years"	"55-64"	769	41995658	1.8	1.7	2.0
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2017"	"2017"	"65-74 years"	"65-74"	969	29683446	3.3	3.1	3.5
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2017"	"2017"	"75-84 years"	"75-84"	779	14706551	5.3	4.9	5.7
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2017"	"2017"	"85+ years"	"85+"	366	6468682	5.7	5.1	6.2
+"---"
+"Dataset: Multiple Cause of Death, 1999-2020"
+"Query Parameters:"
+"MCD - ICD-10 Codes: J80 (Adult respiratory distress syndrome)"
+"MCD - ICD-10 Codes: AND"
+"MCD - ICD-10 Codes: J12.0 (Adenoviral pneumonia); J12.1 (Respiratory syncytial virus pneumonia); J12.2 (Parainfluenza virus"
+"pneumonia); J12.3 (Human metapneumovirus pneumonia); J12.8 (Other viral pneumonia); J12.9 (Viral pneumonia, unspecified); J13"
+"(Pneumonia due to Streptococcus pneumoniae); J14 (Pneumonia due to Haemophilus influenzae); J15.0 (Pneumonia due to Klebsiella"
+"pneumoniae); J15.1 (Pneumonia due to Pseudomonas); J15.2 (Pneumonia due to staphylococcus); J15.3 (Pneumonia due to"
+"streptococcus, group B); J15.4 (Pneumonia due to other streptococci); J15.5 (Pneumonia due to Escherichia coli); J15.6"
+"(Pneumonia due to other aerobic Gram-negative bacteria); J15.7 (Pneumonia due to Mycoplasma pneumoniae); J15.8 (Other bacterial"
+"pneumonia); J15.9 (Bacterial pneumonia, unspecified); J16.0 (Chlamydial pneumonia); J16.8 (Pneumonia due to other specified"
+"infectious organisms); J18.0 (Bronchopneumonia, unspecified); J18.1 (Lobar pneumonia, unspecified); J18.2 (Hypostatic pneumonia,"
+"unspecified); J18.8 (Other pneumonia, organism unspecified); J18.9 (Pneumonia, unspecified)"
+"Year/Month: 2010; 2011; 2012; 2013; 2014; 2015; 2016; 2017"
+"Group By: MCD - ICD Sub-Chapter; Year; Ten-Year Age Groups"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information."
+"---"
+"Query Date: Apr 13, 2026 7:22:23 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,"
+"1999-2020, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/mcd-icd10.html on Apr 13, 2026 7:22:23 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with zero Deaths are hidden. Use Quick Options above to show zero rows."
+"---"
+Footnotes:
+"1. Totals and sub-totals show the frequency of the selected causes of death, which may be greater than the number of deaths."
+"Note that any single death record may have up to 20 causes. More information."
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#2014-Revision."
+"2. These items in the results table are not fully selected: Influenza and pneumonia, Other respiratory diseases principally"
+"affecting the interstitium. The Query Description lists the actual values selected."
+"3. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Assurance of Confidentiality."
+"4. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Unreliable."
+"5. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Not Stated."
+"6. The method used to calculate 95% confidence intervals is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Confidence-Intervals."
+"7. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. Population figures for 2011 are bridged-race estimates of the July 1"
+"resident population, from the county-level postcensal Vintage 2011 series released by NCHS on July 18, 2012. Population figures"
+"for 2010 are April 1 Census counts. The population figures for years 2001 - 2009, are bridged-race estimates of the July 1"
+"resident population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012."
+"Population figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of"
+"July 1 estimates. Population figures for Infant Age Groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"8. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd.html#Age Group."
+"9. Beginning with the 2018 data, changes have been implemented that affect the counts for ICD-10 cause of death codes O00-O99"
+"compared to previous practice. In addition, data for the cause of death codes O00-O99 for 2003 through 2017 reflect differences"
+"in information available to individual states and probable errors. Caution should be used in interpreting these data. More"
+"information can be found at: https://www.cdc.gov/nchs/maternal-mortality/."
+"10. On March 11, 2021, the 2019 mortality data on CDC WONDER was updated with the 2019 mortality data updated by NCHS on March"
+"4, 2021 to include corrected information for residents of Texas affecting 5 records previously coded to cause code *U01.4,"
+"Terrorism involving firearms (homicide). The underlying and multiple cause of death codes for 5 records were corrected in the"
+"2019 data. Underlying and multiple cause of death codes for those 5 records were recoded to Assault (homicide) by other and"
+"unspecified firearm discharge, ICD-10 code X95. The corrected final death records replaces the data released on December 22,"
+"2020."
+"11. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#ICD-10 Changes."

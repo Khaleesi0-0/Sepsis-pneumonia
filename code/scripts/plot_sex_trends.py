@@ -23,7 +23,7 @@ SEX_PALETTE = {
 }
 
 DATASETS = {
-    "sepsis": CLEANED_DIR / "sepsis_sex.csv",
+    "ards": CLEANED_DIR / "ards_sex.csv",
     "pneumonia": CLEANED_DIR / "pneumonia_sex.csv",
     "combined": CLEANED_DIR / "combined_sex.csv",
 }
@@ -140,6 +140,11 @@ def _draw_single_trend(ax: plt.Axes, df: pd.DataFrame, title: str, show_legend: 
             legend.remove()
 
 
+def _set_zero_based_limits(ax: plt.Axes, df: pd.DataFrame) -> None:
+    y_max = float(df[Y_COL].max())
+    ax.set_ylim(0, y_max * 1.06 if y_max > 0 else 1.0)
+
+
 def build_trend_figures() -> None:
     FIGURE_DIR.mkdir(parents=True, exist_ok=True)
     _apply_publication_style()
@@ -159,12 +164,12 @@ def build_trend_figures() -> None:
         plt.close(fig)
 
     # 2) One arranged multi-panel figure containing all three.
-    fig, axes = plt.subplots(1, 3, figsize=(14.5, 4.8), sharex=True, sharey=True)
-    panel_order = ["sepsis", "pneumonia", "combined"]
+    fig, axes = plt.subplots(1, 3, figsize=(14.5, 4.8), sharex=True, sharey=False)
+    panel_order = ["ards", "pneumonia", "combined"]
     panel_titles = {
-        "sepsis": "Sepsis",
+        "ards": "ARDS (ARDS + Pneumonia)",
         "pneumonia": "Pneumonia",
-        "combined": "Sepsis + pneumonia",
+        "combined": "Sepsis+ Pneumonia",
     }
     panel_labels = ["A", "B", "C"]
 
@@ -172,8 +177,8 @@ def build_trend_figures() -> None:
     legend_labels = None
     for ax, key, panel_label in zip(axes, panel_order, panel_labels):
         _draw_single_trend(ax, prepared[key], panel_titles[key], show_legend=False)
-        if legend_handles is None:
-            legend_handles, legend_labels = ax.get_legend_handles_labels()
+        _set_zero_based_limits(ax, prepared[key])
+        ax.set_ylabel("Age-adjusted rate")
         ax.text(
             0.01,
             0.98,
@@ -184,13 +189,9 @@ def build_trend_figures() -> None:
             fontsize=12,
             fontweight="bold",
         )
+        if legend_handles is None:
+            legend_handles, legend_labels = ax.get_legend_handles_labels()
 
-    axes[0].set_xlabel("")
-    axes[1].set_xlabel("")
-    axes[2].set_xlabel("")
-    axes[0].set_ylabel("Age-adjusted rate")
-    axes[1].set_ylabel("")
-    axes[2].set_ylabel("")
     fig.supxlabel("Year")
     fig.legend(
         legend_handles[:2],

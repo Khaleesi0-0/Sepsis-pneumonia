@@ -16,9 +16,9 @@ TABLE_SOURCES = [
     TABLE_ROOT / "overall_summary_table.csv",
     TABLE_ROOT / "outcome_year_summary_table.csv",
     TABLE_ROOT / "period_summary" / "all_outcomes_period_summary_table.csv",
-    TABLE_ROOT / "period_summary" / "sepsis_period_summary_table.csv",
+    TABLE_ROOT / "period_summary" / "ards_period_summary_table.csv",
     TABLE_ROOT / "period_summary" / "pneumonia_period_summary_table.csv",
-    TABLE_ROOT / "period_summary" / "combined_period_summary_table.csv",
+    TABLE_ROOT / "period_summary" / "sepsis_pneumonia_period_summary_table.csv",
 ]
 
 

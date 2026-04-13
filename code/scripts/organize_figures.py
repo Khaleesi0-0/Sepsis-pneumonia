@@ -6,11 +6,11 @@ FIGURE_ROOT = ROOT / "results" / "figures"
 
 DEST_BY_PREFIX = {
     "all_trends_by_sex_panel": "sex",
-    "sepsis_trend_by_sex": "sex",
+    "ards_trend_by_sex": "sex",
     "pneumonia_trend_by_sex": "sex",
     "combined_trend_by_sex": "sex",
     "all_trends_by_age_panel": "age",
-    "sepsis_trend_by_age": "age",
+    "ards_trend_by_age": "age",
     "pneumonia_trend_by_age": "age",
     "combined_trend_by_age": "age",
     "total_trend_three_diseases": "overall",

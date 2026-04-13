@@ -1,0 +1,922 @@
+"Notes","MCD - ICD Sub-Chapter","MCD - ICD Sub-Chapter Code","Year","Year Code","State","State Code",Deaths,Population,Crude Rate,Crude Rate Lower 95% Confidence Interval,Crude Rate Upper 95% Confidence Interval,Age Adjusted Rate,Age Adjusted Rate Lower 95% Confidence Interval,Age Adjusted Rate Upper 95% Confidence Interval
+,"Influenza and pneumonia","J09-J18","2010","2010","Alabama","01",86,4779736,1.8,1.4,2.2,1.7,1.3,2.1
+,"Influenza and pneumonia","J09-J18","2010","2010","Alaska","02",Suppressed,710231,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Influenza and pneumonia","J09-J18","2010","2010","Arizona","04",69,6392017,1.1,0.8,1.4,1.0,0.8,1.3
+,"Influenza and pneumonia","J09-J18","2010","2010","Arkansas","05",50,2915918,1.7,1.3,2.3,1.5,1.1,2.0
+,"Influenza and pneumonia","J09-J18","2010","2010","California","06",410,37253956,1.1,1.0,1.2,1.1,1.0,1.3
+,"Influenza and pneumonia","J09-J18","2010","2010","Colorado","08",38,5029196,0.8,0.5,1.0,0.8,0.5,1.1
+,"Influenza and pneumonia","J09-J18","2010","2010","Connecticut","09",33,3574097,0.9,0.6,1.3,0.7,0.5,1.1
+,"Influenza and pneumonia","J09-J18","2010","2010","Delaware","10",Suppressed,897934,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Influenza and pneumonia","J09-J18","2010","2010","District of Columbia","11",Suppressed,601723,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Influenza and pneumonia","J09-J18","2010","2010","Florida","12",204,18801310,1.1,0.9,1.2,0.8,0.7,1.0
+,"Influenza and pneumonia","J09-J18","2010","2010","Georgia","13",104,9687653,1.1,0.9,1.3,1.1,0.9,1.4
+,"Influenza and pneumonia","J09-J18","2010","2010","Hawaii","15",22,1360301,1.6,1.0,2.4,1.3,0.8,2.0
+,"Influenza and pneumonia","J09-J18","2010","2010","Idaho","16",14,1567582,Unreliable,0.5,1.5,Unreliable,0.5,1.6
+,"Influenza and pneumonia","J09-J18","2010","2010","Illinois","17",118,12830632,0.9,0.8,1.1,0.9,0.7,1.0
+,"Influenza and pneumonia","J09-J18","2010","2010","Indiana","18",57,6483802,0.9,0.7,1.1,0.8,0.6,1.0
+,"Influenza and pneumonia","J09-J18","2010","2010","Iowa","19",31,3046355,1.0,0.7,1.4,0.8,0.6,1.2
+,"Influenza and pneumonia","J09-J18","2010","2010","Kansas","20",28,2853118,1.0,0.7,1.4,0.9,0.6,1.3
+,"Influenza and pneumonia","J09-J18","2010","2010","Kentucky","21",61,4339367,1.4,1.1,1.8,1.2,0.9,1.6
+,"Influenza and pneumonia","J09-J18","2010","2010","Louisiana","22",41,4533372,0.9,0.6,1.2,0.9,0.7,1.3
+,"Influenza and pneumonia","J09-J18","2010","2010","Maine","23",12,1328361,Unreliable,0.5,1.6,Unreliable,0.4,1.4
+,"Influenza and pneumonia","J09-J18","2010","2010","Maryland","24",64,5773552,1.1,0.9,1.4,1.1,0.8,1.4
+,"Influenza and pneumonia","J09-J18","2010","2010","Massachusetts","25",70,6547629,1.1,0.8,1.4,1.0,0.7,1.2
+,"Influenza and pneumonia","J09-J18","2010","2010","Michigan","26",97,9883640,1.0,0.8,1.2,0.9,0.7,1.0
+,"Influenza and pneumonia","J09-J18","2010","2010","Minnesota","27",43,5303925,0.8,0.6,1.1,0.8,0.5,1.0
+,"Influenza and pneumonia","J09-J18","2010","2010","Mississippi","28",49,2967297,1.7,1.2,2.2,1.6,1.2,2.1
+,"Influenza and pneumonia","J09-J18","2010","2010","Missouri","29",54,5988927,0.9,0.7,1.2,0.8,0.6,1.0
+,"Influenza and pneumonia","J09-J18","2010","2010","Montana","30",Suppressed,989415,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Influenza and pneumonia","J09-J18","2010","2010","Nebraska","31",20,1826341,1.1,0.7,1.7,1.0,0.6,1.6
+,"Influenza and pneumonia","J09-J18","2010","2010","Nevada","32",24,2700551,0.9,0.6,1.3,0.9,0.6,1.3
+,"Influenza and pneumonia","J09-J18","2010","2010","New Hampshire","33",23,1316470,1.7,1.1,2.6,1.7,1.1,2.5
+,"Influenza and pneumonia","J09-J18","2010","2010","New Jersey","34",70,8791894,0.8,0.6,1.0,0.7,0.6,0.9
+,"Influenza and pneumonia","J09-J18","2010","2010","New Mexico","35",26,2059179,1.3,0.8,1.9,1.2,0.8,1.8
+,"Influenza and pneumonia","J09-J18","2010","2010","New York","36",137,19378102,0.7,0.6,0.8,0.6,0.5,0.7
+,"Influenza and pneumonia","J09-J18","2010","2010","North Carolina","37",117,9535483,1.2,1.0,1.4,1.2,1.0,1.4
+,"Influenza and pneumonia","J09-J18","2010","2010","North Dakota","38",Suppressed,672591,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Influenza and pneumonia","J09-J18","2010","2010","Ohio","39",118,11536504,1.0,0.8,1.2,0.9,0.8,1.1
+,"Influenza and pneumonia","J09-J18","2010","2010","Oklahoma","40",42,3751351,1.1,0.8,1.5,1.1,0.8,1.5
+,"Influenza and pneumonia","J09-J18","2010","2010","Oregon","41",40,3831074,1.0,0.7,1.4,0.9,0.6,1.2
+,"Influenza and pneumonia","J09-J18","2010","2010","Pennsylvania","42",118,12702379,0.9,0.8,1.1,0.8,0.6,0.9
+,"Influenza and pneumonia","J09-J18","2010","2010","Rhode Island","44",15,1052567,Unreliable,0.8,2.4,Unreliable,0.7,2.1
+,"Influenza and pneumonia","J09-J18","2010","2010","South Carolina","45",51,4625364,1.1,0.8,1.4,1.0,0.8,1.4
+,"Influenza and pneumonia","J09-J18","2010","2010","South Dakota","46",Suppressed,814180,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Influenza and pneumonia","J09-J18","2010","2010","Tennessee","47",107,6346105,1.7,1.4,2.0,1.6,1.3,1.9
+,"Influenza and pneumonia","J09-J18","2010","2010","Texas","48",245,25145561,1.0,0.9,1.1,1.1,0.9,1.2
+,"Influenza and pneumonia","J09-J18","2010","2010","Utah","49",33,2763885,1.2,0.8,1.7,1.6,1.1,2.3
+,"Influenza and pneumonia","J09-J18","2010","2010","Vermont","50",Suppressed,625741,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Influenza and pneumonia","J09-J18","2010","2010","Virginia","51",42,8001024,0.5,0.4,0.7,0.5,0.4,0.7
+,"Influenza and pneumonia","J09-J18","2010","2010","Washington","53",81,6724540,1.2,1.0,1.5,1.2,0.9,1.4
+,"Influenza and pneumonia","J09-J18","2010","2010","West Virginia","54",25,1852994,1.3,0.9,2.0,1.1,0.7,1.6
+,"Influenza and pneumonia","J09-J18","2010","2010","Wisconsin","55",48,5686986,0.8,0.6,1.1,0.8,0.6,1.0
+,"Influenza and pneumonia","J09-J18","2010","2010","Wyoming","56",Suppressed,563626,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+"Total","Influenza and pneumonia","J09-J18","2010","2010",,,3199,308745538,1.0,1.0,1.1,1.0,0.9,1.0
+,"Influenza and pneumonia","J09-J18","2011","2011","Alabama","01",87,4802740,1.8,1.5,2.2,1.7,1.3,2.0
+,"Influenza and pneumonia","J09-J18","2011","2011","Alaska","02",Suppressed,722718,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Influenza and pneumonia","J09-J18","2011","2011","Arizona","04",71,6482505,1.1,0.9,1.4,1.0,0.8,1.3
+,"Influenza and pneumonia","J09-J18","2011","2011","Arkansas","05",52,2937979,1.8,1.3,2.3,1.5,1.1,2.0
+,"Influenza and pneumonia","J09-J18","2011","2011","California","06",431,37691912,1.1,1.0,1.3,1.1,1.0,1.3
+,"Influenza and pneumonia","J09-J18","2011","2011","Colorado","08",32,5116796,0.6,0.4,0.9,0.7,0.4,0.9
+,"Influenza and pneumonia","J09-J18","2011","2011","Connecticut","09",35,3580709,1.0,0.7,1.4,0.8,0.6,1.2
+,"Influenza and pneumonia","J09-J18","2011","2011","Delaware","10",14,907135,Unreliable,0.8,2.6,Unreliable,0.7,2.4
+,"Influenza and pneumonia","J09-J18","2011","2011","District of Columbia","11",Suppressed,617996,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Influenza and pneumonia","J09-J18","2011","2011","Florida","12",192,19057542,1.0,0.9,1.1,0.8,0.7,0.9
+,"Influenza and pneumonia","J09-J18","2011","2011","Georgia","13",84,9815210,0.9,0.7,1.1,0.9,0.7,1.1
+,"Influenza and pneumonia","J09-J18","2011","2011","Hawaii","15",19,1374810,Unreliable,0.8,2.2,Unreliable,0.7,1.8
+,"Influenza and pneumonia","J09-J18","2011","2011","Idaho","16",11,1584985,Unreliable,0.3,1.2,Unreliable,0.3,1.1
+,"Influenza and pneumonia","J09-J18","2011","2011","Illinois","17",144,12869257,1.1,0.9,1.3,1.1,0.9,1.3
+,"Influenza and pneumonia","J09-J18","2011","2011","Indiana","18",76,6516922,1.2,0.9,1.5,1.1,0.9,1.4
+,"Influenza and pneumonia","J09-J18","2011","2011","Iowa","19",42,3062309,1.4,1.0,1.9,1.2,0.8,1.6
+,"Influenza and pneumonia","J09-J18","2011","2011","Kansas","20",27,2871238,0.9,0.6,1.4,0.9,0.6,1.3
+,"Influenza and pneumonia","J09-J18","2011","2011","Kentucky","21",60,4369356,1.4,1.0,1.8,1.3,1.0,1.7
+,"Influenza and pneumonia","J09-J18","2011","2011","Louisiana","22",32,4574836,0.7,0.5,1.0,0.7,0.5,1.0
+,"Influenza and pneumonia","J09-J18","2011","2011","Maine","23",15,1328188,Unreliable,0.6,1.9,Unreliable,0.5,1.5
+,"Influenza and pneumonia","J09-J18","2011","2011","Maryland","24",54,5828289,0.9,0.7,1.2,0.9,0.6,1.1
+,"Influenza and pneumonia","J09-J18","2011","2011","Massachusetts","25",50,6587536,0.8,0.6,1.0,0.6,0.5,0.8
+,"Influenza and pneumonia","J09-J18","2011","2011","Michigan","26",111,9876187,1.1,0.9,1.3,1.0,0.8,1.2
+,"Influenza and pneumonia","J09-J18","2011","2011","Minnesota","27",64,5344861,1.2,0.9,1.5,1.1,0.8,1.4
+,"Influenza and pneumonia","J09-J18","2011","2011","Mississippi","28",48,2978512,1.6,1.2,2.1,1.5,1.1,2.0
+,"Influenza and pneumonia","J09-J18","2011","2011","Missouri","29",78,6010688,1.3,1.0,1.6,1.1,0.9,1.4
+,"Influenza and pneumonia","J09-J18","2011","2011","Montana","30",Suppressed,998199,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Influenza and pneumonia","J09-J18","2011","2011","Nebraska","31",20,1842641,1.1,0.7,1.7,1.0,0.6,1.6
+,"Influenza and pneumonia","J09-J18","2011","2011","Nevada","32",23,2723322,0.8,0.5,1.3,0.8,0.5,1.2
+,"Influenza and pneumonia","J09-J18","2011","2011","New Hampshire","33",19,1318194,Unreliable,0.9,2.3,Unreliable,0.8,2.0
+,"Influenza and pneumonia","J09-J18","2011","2011","New Jersey","34",109,8821155,1.2,1.0,1.5,1.1,0.9,1.3
+,"Influenza and pneumonia","J09-J18","2011","2011","New Mexico","35",18,2082224,Unreliable,0.5,1.4,Unreliable,0.5,1.3
+,"Influenza and pneumonia","J09-J18","2011","2011","New York","36",140,19465197,0.7,0.6,0.8,0.6,0.5,0.7
+,"Influenza and pneumonia","J09-J18","2011","2011","North Carolina","37",115,9656401,1.2,1.0,1.4,1.1,0.9,1.4
+,"Influenza and pneumonia","J09-J18","2011","2011","North Dakota","38",Suppressed,683932,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Influenza and pneumonia","J09-J18","2011","2011","Ohio","39",145,11544951,1.3,1.1,1.5,1.1,0.9,1.3
+,"Influenza and pneumonia","J09-J18","2011","2011","Oklahoma","40",49,3791508,1.3,1.0,1.7,1.2,0.9,1.5
+,"Influenza and pneumonia","J09-J18","2011","2011","Oregon","41",45,3871859,1.2,0.8,1.6,1.0,0.7,1.3
+,"Influenza and pneumonia","J09-J18","2011","2011","Pennsylvania","42",132,12742886,1.0,0.9,1.2,0.8,0.7,1.0
+,"Influenza and pneumonia","J09-J18","2011","2011","Rhode Island","44",12,1051302,Unreliable,0.6,2.0,Unreliable,0.5,1.8
+,"Influenza and pneumonia","J09-J18","2011","2011","South Carolina","45",52,4679230,1.1,0.8,1.5,1.1,0.8,1.4
+,"Influenza and pneumonia","J09-J18","2011","2011","South Dakota","46",Suppressed,824082,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Influenza and pneumonia","J09-J18","2011","2011","Tennessee","47",101,6403353,1.6,1.3,1.9,1.5,1.2,1.8
+,"Influenza and pneumonia","J09-J18","2011","2011","Texas","48",248,25674681,1.0,0.8,1.1,1.0,0.9,1.2
+,"Influenza and pneumonia","J09-J18","2011","2011","Utah","49",29,2817222,1.0,0.7,1.5,1.4,0.9,2.0
+,"Influenza and pneumonia","J09-J18","2011","2011","Vermont","50",Suppressed,626431,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Influenza and pneumonia","J09-J18","2011","2011","Virginia","51",71,8096604,0.9,0.7,1.1,0.8,0.6,1.0
+,"Influenza and pneumonia","J09-J18","2011","2011","Washington","53",94,6830038,1.4,1.1,1.7,1.3,1.0,1.5
+,"Influenza and pneumonia","J09-J18","2011","2011","West Virginia","54",42,1855364,2.3,1.6,3.1,1.9,1.4,2.7
+,"Influenza and pneumonia","J09-J18","2011","2011","Wisconsin","55",42,5711767,0.7,0.5,1.0,0.6,0.5,0.9
+,"Influenza and pneumonia","J09-J18","2011","2011","Wyoming","56",Suppressed,568158,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+"Total","Influenza and pneumonia","J09-J18","2011","2011",,,3378,311591917,1.1,1.0,1.1,1.0,1.0,1.1
+,"Influenza and pneumonia","J09-J18","2012","2012","Alabama","01",85,4822023,1.8,1.4,2.2,1.6,1.3,2.0
+,"Influenza and pneumonia","J09-J18","2012","2012","Alaska","02",Suppressed,731449,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Influenza and pneumonia","J09-J18","2012","2012","Arizona","04",80,6553255,1.2,1.0,1.5,1.1,0.9,1.4
+,"Influenza and pneumonia","J09-J18","2012","2012","Arkansas","05",47,2949131,1.6,1.2,2.1,1.4,1.0,1.9
+,"Influenza and pneumonia","J09-J18","2012","2012","California","06",384,38041430,1.0,0.9,1.1,1.0,0.9,1.1
+,"Influenza and pneumonia","J09-J18","2012","2012","Colorado","08",34,5187582,0.7,0.5,0.9,0.6,0.4,0.9
+,"Influenza and pneumonia","J09-J18","2012","2012","Connecticut","09",33,3590347,0.9,0.6,1.3,0.8,0.5,1.1
+,"Influenza and pneumonia","J09-J18","2012","2012","Delaware","10",15,917092,Unreliable,0.9,2.7,Unreliable,0.8,2.4
+,"Influenza and pneumonia","J09-J18","2012","2012","District of Columbia","11",Suppressed,632323,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Influenza and pneumonia","J09-J18","2012","2012","Florida","12",178,19317568,0.9,0.8,1.1,0.7,0.6,0.8
+,"Influenza and pneumonia","J09-J18","2012","2012","Georgia","13",105,9919945,1.1,0.9,1.3,1.1,0.9,1.3
+,"Influenza and pneumonia","J09-J18","2012","2012","Hawaii","15",20,1392313,1.4,0.9,2.2,1.2,0.7,1.8
+,"Influenza and pneumonia","J09-J18","2012","2012","Idaho","16",22,1595728,1.4,0.9,2.1,1.2,0.8,1.9
+,"Influenza and pneumonia","J09-J18","2012","2012","Illinois","17",93,12875255,0.7,0.6,0.9,0.7,0.6,0.9
+,"Influenza and pneumonia","J09-J18","2012","2012","Indiana","18",66,6537334,1.0,0.8,1.3,0.9,0.7,1.2
+,"Influenza and pneumonia","J09-J18","2012","2012","Iowa","19",24,3074186,0.8,0.5,1.2,0.7,0.4,1.0
+,"Influenza and pneumonia","J09-J18","2012","2012","Kansas","20",19,2885905,Unreliable,0.4,1.0,Unreliable,0.4,0.9
+,"Influenza and pneumonia","J09-J18","2012","2012","Kentucky","21",50,4380415,1.1,0.8,1.5,1.0,0.8,1.4
+,"Influenza and pneumonia","J09-J18","2012","2012","Louisiana","22",38,4601893,0.8,0.6,1.1,0.8,0.6,1.1
+,"Influenza and pneumonia","J09-J18","2012","2012","Maine","23",10,1329192,Unreliable,0.4,1.4,Unreliable,0.3,1.1
+,"Influenza and pneumonia","J09-J18","2012","2012","Maryland","24",67,5884563,1.1,0.9,1.4,1.1,0.8,1.3
+,"Influenza and pneumonia","J09-J18","2012","2012","Massachusetts","25",40,6646144,0.6,0.4,0.8,0.5,0.4,0.7
+,"Influenza and pneumonia","J09-J18","2012","2012","Michigan","26",102,9883360,1.0,0.8,1.2,0.9,0.7,1.1
+,"Influenza and pneumonia","J09-J18","2012","2012","Minnesota","27",58,5379139,1.1,0.8,1.4,1.0,0.7,1.2
+,"Influenza and pneumonia","J09-J18","2012","2012","Mississippi","28",47,2984926,1.6,1.2,2.1,1.5,1.1,1.9
+,"Influenza and pneumonia","J09-J18","2012","2012","Missouri","29",53,6021988,0.9,0.7,1.2,0.7,0.5,1.0
+,"Influenza and pneumonia","J09-J18","2012","2012","Montana","30",Suppressed,1005141,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Influenza and pneumonia","J09-J18","2012","2012","Nebraska","31",20,1855525,1.1,0.7,1.7,1.0,0.6,1.5
+,"Influenza and pneumonia","J09-J18","2012","2012","Nevada","32",14,2758931,Unreliable,0.3,0.9,Unreliable,0.2,0.8
+,"Influenza and pneumonia","J09-J18","2012","2012","New Hampshire","33",16,1320718,Unreliable,0.7,2.0,Unreliable,0.6,1.7
+,"Influenza and pneumonia","J09-J18","2012","2012","New Jersey","34",80,8864590,0.9,0.7,1.1,0.8,0.6,1.0
+,"Influenza and pneumonia","J09-J18","2012","2012","New Mexico","35",20,2085538,1.0,0.6,1.5,0.8,0.5,1.3
+,"Influenza and pneumonia","J09-J18","2012","2012","New York","36",159,19570261,0.8,0.7,0.9,0.7,0.6,0.8
+,"Influenza and pneumonia","J09-J18","2012","2012","North Carolina","37",112,9752073,1.1,0.9,1.4,1.1,0.9,1.3
+,"Influenza and pneumonia","J09-J18","2012","2012","North Dakota","38",Suppressed,699628,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Influenza and pneumonia","J09-J18","2012","2012","Ohio","39",104,11544225,0.9,0.7,1.1,0.8,0.6,0.9
+,"Influenza and pneumonia","J09-J18","2012","2012","Oklahoma","40",51,3814820,1.3,1.0,1.8,1.2,0.9,1.6
+,"Influenza and pneumonia","J09-J18","2012","2012","Oregon","41",25,3899353,0.6,0.4,0.9,0.5,0.4,0.8
+,"Influenza and pneumonia","J09-J18","2012","2012","Pennsylvania","42",144,12763536,1.1,0.9,1.3,0.9,0.8,1.1
+,"Influenza and pneumonia","J09-J18","2012","2012","Rhode Island","44",10,1050292,Unreliable,0.5,1.8,Unreliable,0.4,1.5
+,"Influenza and pneumonia","J09-J18","2012","2012","South Carolina","45",57,4723723,1.2,0.9,1.6,1.2,0.9,1.5
+,"Influenza and pneumonia","J09-J18","2012","2012","South Dakota","46",Suppressed,833354,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Influenza and pneumonia","J09-J18","2012","2012","Tennessee","47",92,6456243,1.4,1.1,1.7,1.3,1.0,1.6
+,"Influenza and pneumonia","J09-J18","2012","2012","Texas","48",248,26059203,1.0,0.8,1.1,1.0,0.9,1.2
+,"Influenza and pneumonia","J09-J18","2012","2012","Utah","49",32,2855287,1.1,0.8,1.6,1.4,1.0,2.0
+,"Influenza and pneumonia","J09-J18","2012","2012","Vermont","50",Suppressed,626011,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Influenza and pneumonia","J09-J18","2012","2012","Virginia","51",44,8185867,0.5,0.4,0.7,0.5,0.4,0.7
+,"Influenza and pneumonia","J09-J18","2012","2012","Washington","53",80,6897012,1.2,0.9,1.4,1.1,0.8,1.3
+,"Influenza and pneumonia","J09-J18","2012","2012","West Virginia","54",36,1855413,1.9,1.4,2.7,1.6,1.1,2.2
+,"Influenza and pneumonia","J09-J18","2012","2012","Wisconsin","55",41,5726398,0.7,0.5,1.0,0.6,0.4,0.8
+,"Influenza and pneumonia","J09-J18","2012","2012","Wyoming","56",Suppressed,576412,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+"Total","Influenza and pneumonia","J09-J18","2012","2012",,,3086,313914040,1.0,0.9,1.0,0.9,0.8,0.9
+,"Influenza and pneumonia","J09-J18","2013","2013","Alabama","01",93,4833722,1.9,1.6,2.4,1.7,1.4,2.1
+,"Influenza and pneumonia","J09-J18","2013","2013","Alaska","02",Suppressed,735132,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Influenza and pneumonia","J09-J18","2013","2013","Arizona","04",88,6626624,1.3,1.1,1.6,1.2,1.0,1.5
+,"Influenza and pneumonia","J09-J18","2013","2013","Arkansas","05",47,2959373,1.6,1.2,2.1,1.3,1.0,1.8
+,"Influenza and pneumonia","J09-J18","2013","2013","California","06",387,38332521,1.0,0.9,1.1,1.0,0.9,1.1
+,"Influenza and pneumonia","J09-J18","2013","2013","Colorado","08",38,5268367,0.7,0.5,1.0,0.6,0.5,0.9
+,"Influenza and pneumonia","J09-J18","2013","2013","Connecticut","09",30,3596080,0.8,0.6,1.2,0.6,0.4,0.9
+,"Influenza and pneumonia","J09-J18","2013","2013","Delaware","10",16,925749,Unreliable,1.0,2.8,Unreliable,0.8,2.4
+,"Influenza and pneumonia","J09-J18","2013","2013","District of Columbia","11",Suppressed,646449,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Influenza and pneumonia","J09-J18","2013","2013","Florida","12",235,19552860,1.2,1.0,1.4,1.0,0.8,1.1
+,"Influenza and pneumonia","J09-J18","2013","2013","Georgia","13",111,9992167,1.1,0.9,1.3,1.1,0.9,1.3
+,"Influenza and pneumonia","J09-J18","2013","2013","Hawaii","15",18,1404054,Unreliable,0.8,2.0,Unreliable,0.6,1.8
+,"Influenza and pneumonia","J09-J18","2013","2013","Idaho","16",19,1612136,Unreliable,0.7,1.8,Unreliable,0.6,1.7
+,"Influenza and pneumonia","J09-J18","2013","2013","Illinois","17",130,12882135,1.0,0.8,1.2,0.9,0.8,1.1
+,"Influenza and pneumonia","J09-J18","2013","2013","Indiana","18",88,6570902,1.3,1.1,1.6,1.2,0.9,1.5
+,"Influenza and pneumonia","J09-J18","2013","2013","Iowa","19",23,3090416,0.7,0.5,1.1,0.6,0.3,0.8
+,"Influenza and pneumonia","J09-J18","2013","2013","Kansas","20",23,2893957,0.8,0.5,1.2,0.8,0.5,1.1
+,"Influenza and pneumonia","J09-J18","2013","2013","Kentucky","21",62,4395295,1.4,1.1,1.8,1.2,0.9,1.6
+,"Influenza and pneumonia","J09-J18","2013","2013","Louisiana","22",58,4625470,1.3,1.0,1.6,1.2,0.9,1.5
+,"Influenza and pneumonia","J09-J18","2013","2013","Maine","23",19,1328302,Unreliable,0.9,2.2,Unreliable,0.6,1.7
+,"Influenza and pneumonia","J09-J18","2013","2013","Maryland","24",72,5928814,1.2,1.0,1.5,1.1,0.9,1.4
+,"Influenza and pneumonia","J09-J18","2013","2013","Massachusetts","25",61,6692824,0.9,0.7,1.2,0.8,0.6,1.0
+,"Influenza and pneumonia","J09-J18","2013","2013","Michigan","26",100,9895622,1.0,0.8,1.2,0.9,0.7,1.1
+,"Influenza and pneumonia","J09-J18","2013","2013","Minnesota","27",55,5420380,1.0,0.8,1.3,0.9,0.7,1.2
+,"Influenza and pneumonia","J09-J18","2013","2013","Mississippi","28",43,2991207,1.4,1.0,1.9,1.3,0.9,1.8
+,"Influenza and pneumonia","J09-J18","2013","2013","Missouri","29",64,6044171,1.1,0.8,1.4,0.9,0.7,1.2
+,"Influenza and pneumonia","J09-J18","2013","2013","Montana","30",Suppressed,1015165,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Influenza and pneumonia","J09-J18","2013","2013","Nebraska","31",19,1868516,Unreliable,0.6,1.6,Unreliable,0.5,1.4
+,"Influenza and pneumonia","J09-J18","2013","2013","Nevada","32",30,2790136,1.1,0.7,1.5,1.1,0.7,1.5
+,"Influenza and pneumonia","J09-J18","2013","2013","New Hampshire","33",12,1323459,Unreliable,0.5,1.6,Unreliable,0.4,1.4
+,"Influenza and pneumonia","J09-J18","2013","2013","New Jersey","34",92,8899339,1.0,0.8,1.3,0.9,0.7,1.1
+,"Influenza and pneumonia","J09-J18","2013","2013","New Mexico","35",19,2085287,Unreliable,0.5,1.4,Unreliable,0.5,1.3
+,"Influenza and pneumonia","J09-J18","2013","2013","New York","36",166,19651127,0.8,0.7,1.0,0.7,0.6,0.8
+,"Influenza and pneumonia","J09-J18","2013","2013","North Carolina","37",120,9848060,1.2,1.0,1.4,1.1,0.9,1.3
+,"Influenza and pneumonia","J09-J18","2013","2013","North Dakota","38",16,723393,Unreliable,1.3,3.6,Unreliable,1.0,2.9
+,"Influenza and pneumonia","J09-J18","2013","2013","Ohio","39",154,11570808,1.3,1.1,1.5,1.1,0.9,1.3
+,"Influenza and pneumonia","J09-J18","2013","2013","Oklahoma","40",49,3850568,1.3,0.9,1.7,1.2,0.9,1.5
+,"Influenza and pneumonia","J09-J18","2013","2013","Oregon","41",38,3930065,1.0,0.7,1.3,0.8,0.6,1.1
+,"Influenza and pneumonia","J09-J18","2013","2013","Pennsylvania","42",135,12773801,1.1,0.9,1.2,0.9,0.7,1.0
+,"Influenza and pneumonia","J09-J18","2013","2013","Rhode Island","44",15,1051511,Unreliable,0.8,2.4,Unreliable,0.6,1.9
+,"Influenza and pneumonia","J09-J18","2013","2013","South Carolina","45",75,4774839,1.6,1.2,2.0,1.4,1.1,1.8
+,"Influenza and pneumonia","J09-J18","2013","2013","South Dakota","46",Suppressed,844877,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Influenza and pneumonia","J09-J18","2013","2013","Tennessee","47",107,6495978,1.6,1.3,2.0,1.5,1.2,1.8
+,"Influenza and pneumonia","J09-J18","2013","2013","Texas","48",288,26448193,1.1,1.0,1.2,1.2,1.0,1.3
+,"Influenza and pneumonia","J09-J18","2013","2013","Utah","49",25,2900872,0.9,0.6,1.3,1.1,0.7,1.6
+,"Influenza and pneumonia","J09-J18","2013","2013","Vermont","50",Suppressed,626630,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Influenza and pneumonia","J09-J18","2013","2013","Virginia","51",70,8260405,0.8,0.7,1.1,0.8,0.6,1.0
+,"Influenza and pneumonia","J09-J18","2013","2013","Washington","53",93,6971406,1.3,1.1,1.6,1.2,0.9,1.4
+,"Influenza and pneumonia","J09-J18","2013","2013","West Virginia","54",28,1854304,1.5,1.0,2.2,1.2,0.8,1.8
+,"Influenza and pneumonia","J09-J18","2013","2013","Wisconsin","55",59,5742713,1.0,0.8,1.3,0.9,0.7,1.2
+,"Influenza and pneumonia","J09-J18","2013","2013","Wyoming","56",Suppressed,582658,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+"Total","Influenza and pneumonia","J09-J18","2013","2013",,,3527,316128839,1.1,1.1,1.2,1.0,1.0,1.0
+,"Influenza and pneumonia","J09-J18","2014","2014","Alabama","01",83,4849377,1.7,1.4,2.1,1.5,1.2,1.9
+,"Influenza and pneumonia","J09-J18","2014","2014","Alaska","02",Suppressed,736732,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Influenza and pneumonia","J09-J18","2014","2014","Arizona","04",95,6731484,1.4,1.1,1.7,1.2,1.0,1.5
+,"Influenza and pneumonia","J09-J18","2014","2014","Arkansas","05",60,2966369,2.0,1.5,2.6,1.7,1.3,2.2
+,"Influenza and pneumonia","J09-J18","2014","2014","California","06",450,38802500,1.2,1.1,1.3,1.1,1.0,1.2
+,"Influenza and pneumonia","J09-J18","2014","2014","Colorado","08",40,5355866,0.7,0.5,1.0,0.7,0.5,1.0
+,"Influenza and pneumonia","J09-J18","2014","2014","Connecticut","09",31,3596677,0.9,0.6,1.2,0.7,0.5,1.0
+,"Influenza and pneumonia","J09-J18","2014","2014","Delaware","10",15,935614,Unreliable,0.9,2.6,Unreliable,0.8,2.2
+,"Influenza and pneumonia","J09-J18","2014","2014","District of Columbia","11",Suppressed,658893,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Influenza and pneumonia","J09-J18","2014","2014","Florida","12",219,19893297,1.1,1.0,1.2,0.9,0.8,1.0
+,"Influenza and pneumonia","J09-J18","2014","2014","Georgia","13",115,10097343,1.1,0.9,1.3,1.2,0.9,1.4
+,"Influenza and pneumonia","J09-J18","2014","2014","Hawaii","15",14,1419561,Unreliable,0.5,1.7,Unreliable,0.5,1.5
+,"Influenza and pneumonia","J09-J18","2014","2014","Idaho","16",20,1634464,1.2,0.7,1.9,1.1,0.7,1.8
+,"Influenza and pneumonia","J09-J18","2014","2014","Illinois","17",130,12880580,1.0,0.8,1.2,0.9,0.8,1.1
+,"Influenza and pneumonia","J09-J18","2014","2014","Indiana","18",105,6596855,1.6,1.3,1.9,1.4,1.2,1.7
+,"Influenza and pneumonia","J09-J18","2014","2014","Iowa","19",31,3107126,1.0,0.7,1.4,0.8,0.5,1.1
+,"Influenza and pneumonia","J09-J18","2014","2014","Kansas","20",34,2904021,1.2,0.8,1.6,1.0,0.7,1.5
+,"Influenza and pneumonia","J09-J18","2014","2014","Kentucky","21",74,4413457,1.7,1.3,2.1,1.5,1.2,1.9
+,"Influenza and pneumonia","J09-J18","2014","2014","Louisiana","22",59,4649676,1.3,1.0,1.6,1.2,0.9,1.6
+,"Influenza and pneumonia","J09-J18","2014","2014","Maine","23",24,1330089,1.8,1.2,2.7,1.2,0.8,1.8
+,"Influenza and pneumonia","J09-J18","2014","2014","Maryland","24",79,5976407,1.3,1.0,1.6,1.2,0.9,1.5
+,"Influenza and pneumonia","J09-J18","2014","2014","Massachusetts","25",49,6745408,0.7,0.5,1.0,0.6,0.5,0.8
+,"Influenza and pneumonia","J09-J18","2014","2014","Michigan","26",104,9909877,1.0,0.8,1.3,0.9,0.7,1.0
+,"Influenza and pneumonia","J09-J18","2014","2014","Minnesota","27",54,5457173,1.0,0.7,1.3,0.8,0.6,1.1
+,"Influenza and pneumonia","J09-J18","2014","2014","Mississippi","28",57,2994079,1.9,1.4,2.5,1.7,1.3,2.2
+,"Influenza and pneumonia","J09-J18","2014","2014","Missouri","29",75,6063589,1.2,1.0,1.6,1.0,0.8,1.3
+,"Influenza and pneumonia","J09-J18","2014","2014","Montana","30",10,1023579,Unreliable,0.5,1.8,Unreliable,0.3,1.2
+,"Influenza and pneumonia","J09-J18","2014","2014","Nebraska","31",19,1881503,Unreliable,0.6,1.6,Unreliable,0.5,1.4
+,"Influenza and pneumonia","J09-J18","2014","2014","Nevada","32",31,2839099,1.1,0.7,1.5,1.1,0.7,1.5
+,"Influenza and pneumonia","J09-J18","2014","2014","New Hampshire","33",18,1326813,Unreliable,0.8,2.1,Unreliable,0.6,1.7
+,"Influenza and pneumonia","J09-J18","2014","2014","New Jersey","34",86,8938175,1.0,0.8,1.2,0.9,0.7,1.1
+,"Influenza and pneumonia","J09-J18","2014","2014","New Mexico","35",34,2085572,1.6,1.1,2.3,1.6,1.1,2.2
+,"Influenza and pneumonia","J09-J18","2014","2014","New York","36",199,19746227,1.0,0.9,1.1,0.9,0.8,1.0
+,"Influenza and pneumonia","J09-J18","2014","2014","North Carolina","37",118,9943964,1.2,1.0,1.4,1.0,0.8,1.2
+,"Influenza and pneumonia","J09-J18","2014","2014","North Dakota","38",Suppressed,739482,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Influenza and pneumonia","J09-J18","2014","2014","Ohio","39",139,11594163,1.2,1.0,1.4,1.0,0.8,1.2
+,"Influenza and pneumonia","J09-J18","2014","2014","Oklahoma","40",63,3878051,1.6,1.2,2.1,1.4,1.1,1.8
+,"Influenza and pneumonia","J09-J18","2014","2014","Oregon","41",58,3970239,1.5,1.1,1.9,1.2,0.9,1.6
+,"Influenza and pneumonia","J09-J18","2014","2014","Pennsylvania","42",176,12787209,1.4,1.2,1.6,1.1,0.9,1.3
+,"Influenza and pneumonia","J09-J18","2014","2014","Rhode Island","44",Suppressed,1055173,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Influenza and pneumonia","J09-J18","2014","2014","South Carolina","45",78,4832482,1.6,1.3,2.0,1.4,1.1,1.7
+,"Influenza and pneumonia","J09-J18","2014","2014","South Dakota","46",Suppressed,853175,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Influenza and pneumonia","J09-J18","2014","2014","Tennessee","47",94,6549352,1.4,1.2,1.8,1.3,1.0,1.6
+,"Influenza and pneumonia","J09-J18","2014","2014","Texas","48",341,26956958,1.3,1.1,1.4,1.3,1.1,1.4
+,"Influenza and pneumonia","J09-J18","2014","2014","Utah","49",38,2942902,1.3,0.9,1.8,1.7,1.2,2.4
+,"Influenza and pneumonia","J09-J18","2014","2014","Vermont","50",Suppressed,626562,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Influenza and pneumonia","J09-J18","2014","2014","Virginia","51",84,8326289,1.0,0.8,1.2,0.9,0.7,1.2
+,"Influenza and pneumonia","J09-J18","2014","2014","Washington","53",103,7061530,1.5,1.2,1.7,1.3,1.1,1.6
+,"Influenza and pneumonia","J09-J18","2014","2014","West Virginia","54",31,1850326,1.7,1.1,2.4,1.2,0.8,1.8
+,"Influenza and pneumonia","J09-J18","2014","2014","Wisconsin","55",64,5757564,1.1,0.9,1.4,0.9,0.7,1.2
+,"Influenza and pneumonia","J09-J18","2014","2014","Wyoming","56",Suppressed,584153,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+"Total","Influenza and pneumonia","J09-J18","2014","2014",,,3849,318857056,1.2,1.2,1.2,1.1,1.0,1.1
+,"Influenza and pneumonia","J09-J18","2015","2015","Alabama","01",88,4858979,1.8,1.5,2.2,1.6,1.3,2.0
+,"Influenza and pneumonia","J09-J18","2015","2015","Alaska","02",Suppressed,738432,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Influenza and pneumonia","J09-J18","2015","2015","Arizona","04",87,6828065,1.3,1.0,1.6,1.1,0.9,1.3
+,"Influenza and pneumonia","J09-J18","2015","2015","Arkansas","05",41,2978204,1.4,1.0,1.9,1.2,0.9,1.6
+,"Influenza and pneumonia","J09-J18","2015","2015","California","06",414,39144818,1.1,1.0,1.2,1.0,0.9,1.1
+,"Influenza and pneumonia","J09-J18","2015","2015","Colorado","08",51,5456574,0.9,0.7,1.2,0.9,0.7,1.2
+,"Influenza and pneumonia","J09-J18","2015","2015","Connecticut","09",30,3590886,0.8,0.6,1.2,0.7,0.4,0.9
+,"Influenza and pneumonia","J09-J18","2015","2015","Delaware","10",15,945934,Unreliable,0.9,2.6,Unreliable,0.7,2.2
+,"Influenza and pneumonia","J09-J18","2015","2015","District of Columbia","11",Suppressed,672228,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Influenza and pneumonia","J09-J18","2015","2015","Florida","12",259,20271272,1.3,1.1,1.4,1.0,0.8,1.1
+,"Influenza and pneumonia","J09-J18","2015","2015","Georgia","13",100,10214860,1.0,0.8,1.2,1.0,0.8,1.2
+,"Influenza and pneumonia","J09-J18","2015","2015","Hawaii","15",20,1431603,1.4,0.9,2.2,1.1,0.7,1.7
+,"Influenza and pneumonia","J09-J18","2015","2015","Idaho","16",17,1654930,Unreliable,0.6,1.6,Unreliable,0.6,1.6
+,"Influenza and pneumonia","J09-J18","2015","2015","Illinois","17",125,12859995,1.0,0.8,1.1,0.9,0.7,1.0
+,"Influenza and pneumonia","J09-J18","2015","2015","Indiana","18",66,6619680,1.0,0.8,1.3,0.9,0.7,1.1
+,"Influenza and pneumonia","J09-J18","2015","2015","Iowa","19",33,3123899,1.1,0.7,1.5,0.9,0.6,1.3
+,"Influenza and pneumonia","J09-J18","2015","2015","Kansas","20",29,2911641,1.0,0.7,1.4,0.9,0.6,1.3
+,"Influenza and pneumonia","J09-J18","2015","2015","Kentucky","21",61,4425092,1.4,1.1,1.8,1.2,0.9,1.6
+,"Influenza and pneumonia","J09-J18","2015","2015","Louisiana","22",31,4670724,0.7,0.5,0.9,0.6,0.4,0.9
+,"Influenza and pneumonia","J09-J18","2015","2015","Maine","23",Suppressed,1329328,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Influenza and pneumonia","J09-J18","2015","2015","Maryland","24",60,6006401,1.0,0.8,1.3,0.9,0.7,1.2
+,"Influenza and pneumonia","J09-J18","2015","2015","Massachusetts","25",57,6794422,0.8,0.6,1.1,0.7,0.5,0.9
+,"Influenza and pneumonia","J09-J18","2015","2015","Michigan","26",114,9922576,1.1,0.9,1.4,0.9,0.8,1.1
+,"Influenza and pneumonia","J09-J18","2015","2015","Minnesota","27",67,5489594,1.2,0.9,1.5,1.0,0.8,1.3
+,"Influenza and pneumonia","J09-J18","2015","2015","Mississippi","28",43,2992333,1.4,1.0,1.9,1.3,0.9,1.7
+,"Influenza and pneumonia","J09-J18","2015","2015","Missouri","29",77,6083672,1.3,1.0,1.6,1.0,0.8,1.3
+,"Influenza and pneumonia","J09-J18","2015","2015","Montana","30",Suppressed,1032949,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Influenza and pneumonia","J09-J18","2015","2015","Nebraska","31",31,1896190,1.6,1.1,2.3,1.5,1.0,2.1
+,"Influenza and pneumonia","J09-J18","2015","2015","Nevada","32",29,2890845,1.0,0.7,1.4,0.9,0.6,1.3
+,"Influenza and pneumonia","J09-J18","2015","2015","New Hampshire","33",12,1330608,Unreliable,0.5,1.6,Unreliable,0.4,1.4
+,"Influenza and pneumonia","J09-J18","2015","2015","New Jersey","34",92,8958013,1.0,0.8,1.3,0.9,0.7,1.1
+,"Influenza and pneumonia","J09-J18","2015","2015","New Mexico","35",32,2085109,1.5,1.0,2.2,1.3,0.9,1.9
+,"Influenza and pneumonia","J09-J18","2015","2015","New York","36",159,19795791,0.8,0.7,0.9,0.7,0.6,0.8
+,"Influenza and pneumonia","J09-J18","2015","2015","North Carolina","37",114,10042802,1.1,0.9,1.3,1.0,0.8,1.1
+,"Influenza and pneumonia","J09-J18","2015","2015","North Dakota","38",11,756927,Unreliable,0.7,2.6,Unreliable,0.6,2.1
+,"Influenza and pneumonia","J09-J18","2015","2015","Ohio","39",109,11613423,0.9,0.8,1.1,0.8,0.6,0.9
+,"Influenza and pneumonia","J09-J18","2015","2015","Oklahoma","40",45,3911338,1.2,0.8,1.5,1.1,0.8,1.4
+,"Influenza and pneumonia","J09-J18","2015","2015","Oregon","41",57,4028977,1.4,1.1,1.8,1.2,0.9,1.5
+,"Influenza and pneumonia","J09-J18","2015","2015","Pennsylvania","42",152,12802503,1.2,1.0,1.4,1.0,0.8,1.1
+,"Influenza and pneumonia","J09-J18","2015","2015","Rhode Island","44",16,1056298,Unreliable,0.9,2.5,Unreliable,0.6,1.8
+,"Influenza and pneumonia","J09-J18","2015","2015","South Carolina","45",86,4896146,1.8,1.4,2.2,1.5,1.2,1.8
+,"Influenza and pneumonia","J09-J18","2015","2015","South Dakota","46",15,858469,Unreliable,1.0,2.9,Unreliable,0.9,2.7
+,"Influenza and pneumonia","J09-J18","2015","2015","Tennessee","47",109,6600299,1.7,1.3,2.0,1.4,1.1,1.7
+,"Influenza and pneumonia","J09-J18","2015","2015","Texas","48",306,27469114,1.1,1.0,1.2,1.1,1.0,1.3
+,"Influenza and pneumonia","J09-J18","2015","2015","Utah","49",31,2995919,1.0,0.7,1.5,1.3,0.9,1.8
+,"Influenza and pneumonia","J09-J18","2015","2015","Vermont","50",Suppressed,626042,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Influenza and pneumonia","J09-J18","2015","2015","Virginia","51",76,8382993,0.9,0.7,1.1,0.8,0.6,1.0
+,"Influenza and pneumonia","J09-J18","2015","2015","Washington","53",112,7170351,1.6,1.3,1.9,1.4,1.1,1.6
+,"Influenza and pneumonia","J09-J18","2015","2015","West Virginia","54",45,1844128,2.4,1.8,3.3,1.8,1.3,2.5
+,"Influenza and pneumonia","J09-J18","2015","2015","Wisconsin","55",57,5771337,1.0,0.7,1.3,0.8,0.6,1.1
+,"Influenza and pneumonia","J09-J18","2015","2015","Wyoming","56",Suppressed,586107,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+"Total","Influenza and pneumonia","J09-J18","2015","2015",,,3621,321418820,1.1,1.1,1.2,1.0,1.0,1.0
+,"Influenza and pneumonia","J09-J18","2016","2016","Alabama","01",83,4863300,1.7,1.4,2.1,1.4,1.1,1.8
+,"Influenza and pneumonia","J09-J18","2016","2016","Alaska","02",Suppressed,741894,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Influenza and pneumonia","J09-J18","2016","2016","Arizona","04",91,6931071,1.3,1.1,1.6,1.1,0.9,1.4
+,"Influenza and pneumonia","J09-J18","2016","2016","Arkansas","05",45,2988248,1.5,1.1,2.0,1.2,0.9,1.6
+,"Influenza and pneumonia","J09-J18","2016","2016","California","06",475,39250017,1.2,1.1,1.3,1.1,1.0,1.2
+,"Influenza and pneumonia","J09-J18","2016","2016","Colorado","08",52,5540545,0.9,0.7,1.2,0.9,0.7,1.2
+,"Influenza and pneumonia","J09-J18","2016","2016","Connecticut","09",35,3576452,1.0,0.7,1.4,0.8,0.6,1.1
+,"Influenza and pneumonia","J09-J18","2016","2016","Delaware","10",13,952065,Unreliable,0.7,2.3,Unreliable,0.6,2.0
+,"Influenza and pneumonia","J09-J18","2016","2016","District of Columbia","11",Suppressed,681170,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Influenza and pneumonia","J09-J18","2016","2016","Florida","12",268,20612439,1.3,1.1,1.5,1.0,0.8,1.1
+,"Influenza and pneumonia","J09-J18","2016","2016","Georgia","13",102,10310371,1.0,0.8,1.2,0.9,0.7,1.1
+,"Influenza and pneumonia","J09-J18","2016","2016","Hawaii","15",15,1428557,Unreliable,0.6,1.7,Unreliable,0.5,1.5
+,"Influenza and pneumonia","J09-J18","2016","2016","Idaho","16",21,1683140,1.2,0.8,1.9,1.1,0.7,1.7
+,"Influenza and pneumonia","J09-J18","2016","2016","Illinois","17",155,12801539,1.2,1.0,1.4,1.0,0.9,1.2
+,"Influenza and pneumonia","J09-J18","2016","2016","Indiana","18",101,6633053,1.5,1.2,1.8,1.3,1.1,1.6
+,"Influenza and pneumonia","J09-J18","2016","2016","Iowa","19",21,3134693,0.7,0.4,1.0,0.5,0.3,0.8
+,"Influenza and pneumonia","J09-J18","2016","2016","Kansas","20",25,2907289,0.9,0.6,1.3,0.7,0.4,1.0
+,"Influenza and pneumonia","J09-J18","2016","2016","Kentucky","21",62,4436974,1.4,1.1,1.8,1.2,0.9,1.5
+,"Influenza and pneumonia","J09-J18","2016","2016","Louisiana","22",44,4681666,0.9,0.7,1.3,0.9,0.6,1.2
+,"Influenza and pneumonia","J09-J18","2016","2016","Maine","23",14,1331479,Unreliable,0.6,1.8,Unreliable,0.5,1.4
+,"Influenza and pneumonia","J09-J18","2016","2016","Maryland","24",65,6016447,1.1,0.8,1.4,0.9,0.7,1.2
+,"Influenza and pneumonia","J09-J18","2016","2016","Massachusetts","25",66,6811779,1.0,0.7,1.2,0.8,0.6,1.0
+,"Influenza and pneumonia","J09-J18","2016","2016","Michigan","26",94,9928300,0.9,0.8,1.2,0.8,0.7,1.0
+,"Influenza and pneumonia","J09-J18","2016","2016","Minnesota","27",62,5519952,1.1,0.9,1.4,0.9,0.7,1.2
+,"Influenza and pneumonia","J09-J18","2016","2016","Mississippi","28",52,2988726,1.7,1.3,2.3,1.5,1.1,2.0
+,"Influenza and pneumonia","J09-J18","2016","2016","Missouri","29",60,6093000,1.0,0.8,1.3,0.8,0.6,1.0
+,"Influenza and pneumonia","J09-J18","2016","2016","Montana","30",14,1042520,Unreliable,0.7,2.3,Unreliable,0.5,1.7
+,"Influenza and pneumonia","J09-J18","2016","2016","Nebraska","31",17,1907116,Unreliable,0.5,1.4,Unreliable,0.4,1.2
+,"Influenza and pneumonia","J09-J18","2016","2016","Nevada","32",28,2940058,1.0,0.6,1.4,0.8,0.5,1.2
+,"Influenza and pneumonia","J09-J18","2016","2016","New Hampshire","33",Suppressed,1334795,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Influenza and pneumonia","J09-J18","2016","2016","New Jersey","34",94,8944469,1.1,0.8,1.3,0.9,0.7,1.1
+,"Influenza and pneumonia","J09-J18","2016","2016","New Mexico","35",31,2081015,1.5,1.0,2.1,1.3,0.9,1.9
+,"Influenza and pneumonia","J09-J18","2016","2016","New York","36",172,19745289,0.9,0.7,1.0,0.7,0.6,0.8
+,"Influenza and pneumonia","J09-J18","2016","2016","North Carolina","37",133,10146788,1.3,1.1,1.5,1.1,0.9,1.3
+,"Influenza and pneumonia","J09-J18","2016","2016","North Dakota","38",14,757952,Unreliable,1.0,3.1,Unreliable,0.9,2.8
+,"Influenza and pneumonia","J09-J18","2016","2016","Ohio","39",150,11614373,1.3,1.1,1.5,1.1,0.9,1.2
+,"Influenza and pneumonia","J09-J18","2016","2016","Oklahoma","40",55,3923561,1.4,1.1,1.8,1.2,0.9,1.6
+,"Influenza and pneumonia","J09-J18","2016","2016","Oregon","41",48,4093465,1.2,0.9,1.6,0.9,0.7,1.3
+,"Influenza and pneumonia","J09-J18","2016","2016","Pennsylvania","42",156,12784227,1.2,1.0,1.4,1.0,0.8,1.1
+,"Influenza and pneumonia","J09-J18","2016","2016","Rhode Island","44",13,1056426,Unreliable,0.7,2.1,Unreliable,0.6,1.9
+,"Influenza and pneumonia","J09-J18","2016","2016","South Carolina","45",77,4961119,1.6,1.2,1.9,1.3,1.0,1.6
+,"Influenza and pneumonia","J09-J18","2016","2016","South Dakota","46",10,865454,Unreliable,0.6,2.1,Unreliable,0.5,2.0
+,"Influenza and pneumonia","J09-J18","2016","2016","Tennessee","47",111,6651194,1.7,1.4,2.0,1.4,1.1,1.6
+,"Influenza and pneumonia","J09-J18","2016","2016","Texas","48",281,27862596,1.0,0.9,1.1,1.0,0.9,1.2
+,"Influenza and pneumonia","J09-J18","2016","2016","Utah","49",36,3051217,1.2,0.8,1.6,1.3,0.9,1.8
+,"Influenza and pneumonia","J09-J18","2016","2016","Vermont","50",Suppressed,624594,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Influenza and pneumonia","J09-J18","2016","2016","Virginia","51",71,8411808,0.8,0.7,1.1,0.7,0.6,0.9
+,"Influenza and pneumonia","J09-J18","2016","2016","Washington","53",115,7288000,1.6,1.3,1.9,1.3,1.1,1.6
+,"Influenza and pneumonia","J09-J18","2016","2016","West Virginia","54",46,1831102,2.5,1.8,3.4,1.9,1.4,2.5
+,"Influenza and pneumonia","J09-J18","2016","2016","Wisconsin","55",64,5778708,1.1,0.9,1.4,0.9,0.7,1.1
+,"Influenza and pneumonia","J09-J18","2016","2016","Wyoming","56",Suppressed,585501,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+"Total","Influenza and pneumonia","J09-J18","2016","2016",,,3789,323127513,1.2,1.1,1.2,1.0,1.0,1.0
+,"Influenza and pneumonia","J09-J18","2017","2017","Alabama","01",84,4874747,1.7,1.4,2.1,1.5,1.2,1.8
+,"Influenza and pneumonia","J09-J18","2017","2017","Alaska","02",Suppressed,739795,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Influenza and pneumonia","J09-J18","2017","2017","Arizona","04",62,7016270,0.9,0.7,1.1,0.7,0.5,0.9
+,"Influenza and pneumonia","J09-J18","2017","2017","Arkansas","05",41,3004279,1.4,1.0,1.9,1.1,0.8,1.5
+,"Influenza and pneumonia","J09-J18","2017","2017","California","06",433,39536653,1.1,1.0,1.2,1.0,0.9,1.1
+,"Influenza and pneumonia","J09-J18","2017","2017","Colorado","08",58,5607154,1.0,0.8,1.3,1.0,0.7,1.2
+,"Influenza and pneumonia","J09-J18","2017","2017","Connecticut","09",45,3588184,1.3,0.9,1.7,1.0,0.7,1.3
+,"Influenza and pneumonia","J09-J18","2017","2017","Delaware","10",19,961939,Unreliable,1.2,3.1,Unreliable,0.9,2.5
+,"Influenza and pneumonia","J09-J18","2017","2017","District of Columbia","11",Suppressed,693972,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Influenza and pneumonia","J09-J18","2017","2017","Florida","12",248,20984400,1.2,1.0,1.3,0.9,0.8,1.0
+,"Influenza and pneumonia","J09-J18","2017","2017","Georgia","13",102,10429379,1.0,0.8,1.2,0.9,0.7,1.1
+,"Influenza and pneumonia","J09-J18","2017","2017","Hawaii","15",22,1427538,1.5,1.0,2.3,1.2,0.7,1.8
+,"Influenza and pneumonia","J09-J18","2017","2017","Idaho","16",22,1716943,1.3,0.8,1.9,1.2,0.7,1.8
+,"Influenza and pneumonia","J09-J18","2017","2017","Illinois","17",114,12802023,0.9,0.7,1.1,0.8,0.6,0.9
+,"Influenza and pneumonia","J09-J18","2017","2017","Indiana","18",88,6666818,1.3,1.1,1.6,1.1,0.9,1.4
+,"Influenza and pneumonia","J09-J18","2017","2017","Iowa","19",31,3145711,1.0,0.7,1.4,0.9,0.6,1.3
+,"Influenza and pneumonia","J09-J18","2017","2017","Kansas","20",25,2913123,0.9,0.6,1.3,0.8,0.5,1.2
+,"Influenza and pneumonia","J09-J18","2017","2017","Kentucky","21",85,4454189,1.9,1.5,2.4,1.7,1.3,2.1
+,"Influenza and pneumonia","J09-J18","2017","2017","Louisiana","22",44,4684333,0.9,0.7,1.3,0.8,0.6,1.1
+,"Influenza and pneumonia","J09-J18","2017","2017","Maine","23",16,1335907,Unreliable,0.7,1.9,Unreliable,0.5,1.5
+,"Influenza and pneumonia","J09-J18","2017","2017","Maryland","24",66,6052177,1.1,0.8,1.4,1.0,0.8,1.3
+,"Influenza and pneumonia","J09-J18","2017","2017","Massachusetts","25",66,6859819,1.0,0.7,1.2,0.8,0.6,1.0
+,"Influenza and pneumonia","J09-J18","2017","2017","Michigan","26",110,9962311,1.1,0.9,1.3,0.9,0.7,1.0
+,"Influenza and pneumonia","J09-J18","2017","2017","Minnesota","27",87,5576606,1.6,1.2,1.9,1.3,1.0,1.6
+,"Influenza and pneumonia","J09-J18","2017","2017","Mississippi","28",44,2984100,1.5,1.1,2.0,1.3,0.9,1.8
+,"Influenza and pneumonia","J09-J18","2017","2017","Missouri","29",55,6113532,0.9,0.7,1.2,0.7,0.6,1.0
+,"Influenza and pneumonia","J09-J18","2017","2017","Montana","30",13,1050493,Unreliable,0.7,2.1,Unreliable,0.6,2.0
+,"Influenza and pneumonia","J09-J18","2017","2017","Nebraska","31",17,1920076,Unreliable,0.5,1.4,Unreliable,0.4,1.1
+,"Influenza and pneumonia","J09-J18","2017","2017","Nevada","32",32,2998039,1.1,0.7,1.5,1.0,0.7,1.4
+,"Influenza and pneumonia","J09-J18","2017","2017","New Hampshire","33",14,1342795,Unreliable,0.6,1.7,Unreliable,0.4,1.3
+,"Influenza and pneumonia","J09-J18","2017","2017","New Jersey","34",86,9005644,1.0,0.8,1.2,0.8,0.6,1.0
+,"Influenza and pneumonia","J09-J18","2017","2017","New Mexico","35",31,2088070,1.5,1.0,2.1,1.2,0.8,1.8
+,"Influenza and pneumonia","J09-J18","2017","2017","New York","36",159,19849399,0.8,0.7,0.9,0.7,0.6,0.8
+,"Influenza and pneumonia","J09-J18","2017","2017","North Carolina","37",160,10273419,1.6,1.3,1.8,1.4,1.1,1.6
+,"Influenza and pneumonia","J09-J18","2017","2017","North Dakota","38",14,755393,Unreliable,1.0,3.1,Unreliable,0.9,2.8
+,"Influenza and pneumonia","J09-J18","2017","2017","Ohio","39",132,11658609,1.1,0.9,1.3,1.0,0.8,1.1
+,"Influenza and pneumonia","J09-J18","2017","2017","Oklahoma","40",38,3930864,1.0,0.7,1.3,0.8,0.6,1.1
+,"Influenza and pneumonia","J09-J18","2017","2017","Oregon","41",47,4142776,1.1,0.8,1.5,0.9,0.7,1.2
+,"Influenza and pneumonia","J09-J18","2017","2017","Pennsylvania","42",165,12805537,1.3,1.1,1.5,1.0,0.9,1.2
+,"Influenza and pneumonia","J09-J18","2017","2017","Rhode Island","44",Suppressed,1059639,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Influenza and pneumonia","J09-J18","2017","2017","South Carolina","45",71,5024369,1.4,1.1,1.8,1.2,0.9,1.5
+,"Influenza and pneumonia","J09-J18","2017","2017","South Dakota","46",12,869666,Unreliable,0.7,2.4,Unreliable,0.6,2.0
+,"Influenza and pneumonia","J09-J18","2017","2017","Tennessee","47",100,6715984,1.5,1.2,1.8,1.3,1.0,1.5
+,"Influenza and pneumonia","J09-J18","2017","2017","Texas","48",320,28304596,1.1,1.0,1.3,1.1,1.0,1.3
+,"Influenza and pneumonia","J09-J18","2017","2017","Utah","49",29,3101833,0.9,0.6,1.3,1.1,0.7,1.6
+,"Influenza and pneumonia","J09-J18","2017","2017","Vermont","50",Suppressed,623657,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Influenza and pneumonia","J09-J18","2017","2017","Virginia","51",84,8470020,1.0,0.8,1.2,0.8,0.7,1.0
+,"Influenza and pneumonia","J09-J18","2017","2017","Washington","53",94,7405743,1.3,1.0,1.6,1.1,0.9,1.4
+,"Influenza and pneumonia","J09-J18","2017","2017","West Virginia","54",33,1815857,1.8,1.3,2.6,1.4,0.9,1.9
+,"Influenza and pneumonia","J09-J18","2017","2017","Wisconsin","55",55,5795483,0.9,0.7,1.2,0.8,0.6,1.0
+,"Influenza and pneumonia","J09-J18","2017","2017","Wyoming","56",11,579315,Unreliable,0.9,3.4,Unreliable,0.7,2.8
+"Total","Influenza and pneumonia","J09-J18","2017","2017",,,3707,325719178,1.1,1.1,1.2,1.0,1.0,1.0
+"Total","Influenza and pneumonia","J09-J18",,,,,28156,2539502901,1.1,1.1,1.1,1.0,1.0,1.0
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2010","2010","Alabama","01",86,4779736,1.8,1.4,2.2,1.7,1.3,2.1
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2010","2010","Alaska","02",Suppressed,710231,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2010","2010","Arizona","04",67,6392017,1.0,0.8,1.3,1.0,0.8,1.3
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2010","2010","Arkansas","05",50,2915918,1.7,1.3,2.3,1.5,1.1,2.0
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2010","2010","California","06",409,37253956,1.1,1.0,1.2,1.1,1.0,1.3
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2010","2010","Colorado","08",38,5029196,0.8,0.5,1.0,0.8,0.5,1.1
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2010","2010","Connecticut","09",33,3574097,0.9,0.6,1.3,0.7,0.5,1.1
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2010","2010","Delaware","10",Suppressed,897934,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2010","2010","District of Columbia","11",Suppressed,601723,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2010","2010","Florida","12",199,18801310,1.1,0.9,1.2,0.8,0.7,0.9
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2010","2010","Georgia","13",104,9687653,1.1,0.9,1.3,1.1,0.9,1.4
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2010","2010","Hawaii","15",22,1360301,1.6,1.0,2.4,1.3,0.8,2.0
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2010","2010","Idaho","16",14,1567582,Unreliable,0.5,1.5,Unreliable,0.5,1.6
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2010","2010","Illinois","17",118,12830632,0.9,0.8,1.1,0.9,0.7,1.0
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2010","2010","Indiana","18",56,6483802,0.9,0.7,1.1,0.8,0.6,1.0
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2010","2010","Iowa","19",30,3046355,1.0,0.7,1.4,0.8,0.5,1.1
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2010","2010","Kansas","20",28,2853118,1.0,0.7,1.4,0.9,0.6,1.3
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2010","2010","Kentucky","21",59,4339367,1.4,1.0,1.8,1.2,0.9,1.6
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2010","2010","Louisiana","22",40,4533372,0.9,0.6,1.2,0.9,0.6,1.2
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2010","2010","Maine","23",12,1328361,Unreliable,0.5,1.6,Unreliable,0.4,1.4
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2010","2010","Maryland","24",64,5773552,1.1,0.9,1.4,1.1,0.8,1.4
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2010","2010","Massachusetts","25",70,6547629,1.1,0.8,1.4,1.0,0.7,1.2
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2010","2010","Michigan","26",97,9883640,1.0,0.8,1.2,0.9,0.7,1.0
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2010","2010","Minnesota","27",43,5303925,0.8,0.6,1.1,0.8,0.5,1.0
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2010","2010","Mississippi","28",49,2967297,1.7,1.2,2.2,1.6,1.2,2.1
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2010","2010","Missouri","29",53,5988927,0.9,0.7,1.2,0.8,0.6,1.0
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2010","2010","Montana","30",Suppressed,989415,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2010","2010","Nebraska","31",20,1826341,1.1,0.7,1.7,1.0,0.6,1.6
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2010","2010","Nevada","32",23,2700551,0.9,0.5,1.3,0.9,0.5,1.3
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2010","2010","New Hampshire","33",23,1316470,1.7,1.1,2.6,1.7,1.1,2.5
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2010","2010","New Jersey","34",69,8791894,0.8,0.6,1.0,0.7,0.5,0.9
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2010","2010","New Mexico","35",26,2059179,1.3,0.8,1.9,1.2,0.8,1.8
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2010","2010","New York","36",136,19378102,0.7,0.6,0.8,0.6,0.5,0.7
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2010","2010","North Carolina","37",115,9535483,1.2,1.0,1.4,1.2,0.9,1.4
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2010","2010","North Dakota","38",Suppressed,672591,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2010","2010","Ohio","39",116,11536504,1.0,0.8,1.2,0.9,0.7,1.1
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2010","2010","Oklahoma","40",42,3751351,1.1,0.8,1.5,1.1,0.8,1.5
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2010","2010","Oregon","41",40,3831074,1.0,0.7,1.4,0.9,0.6,1.2
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2010","2010","Pennsylvania","42",118,12702379,0.9,0.8,1.1,0.8,0.6,0.9
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2010","2010","Rhode Island","44",14,1052567,Unreliable,0.7,2.2,Unreliable,0.6,2.0
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2010","2010","South Carolina","45",51,4625364,1.1,0.8,1.4,1.0,0.8,1.4
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2010","2010","South Dakota","46",Suppressed,814180,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2010","2010","Tennessee","47",104,6346105,1.6,1.3,2.0,1.5,1.2,1.8
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2010","2010","Texas","48",244,25145561,1.0,0.8,1.1,1.1,0.9,1.2
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2010","2010","Utah","49",33,2763885,1.2,0.8,1.7,1.6,1.1,2.3
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2010","2010","Vermont","50",Suppressed,625741,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2010","2010","Virginia","51",42,8001024,0.5,0.4,0.7,0.5,0.4,0.7
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2010","2010","Washington","53",81,6724540,1.2,1.0,1.5,1.2,0.9,1.4
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2010","2010","West Virginia","54",25,1852994,1.3,0.9,2.0,1.1,0.7,1.6
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2010","2010","Wisconsin","55",48,5686986,0.8,0.6,1.1,0.8,0.6,1.0
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2010","2010","Wyoming","56",Suppressed,563626,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+"Total","Other respiratory diseases principally affecting the interstitium","J80-J84","2010","2010",,,3173,308745538,1.0,1.0,1.1,1.0,0.9,1.0
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2011","2011","Alabama","01",87,4802740,1.8,1.5,2.2,1.7,1.3,2.0
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2011","2011","Alaska","02",Suppressed,722718,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2011","2011","Arizona","04",69,6482505,1.1,0.8,1.3,1.0,0.8,1.3
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2011","2011","Arkansas","05",51,2937979,1.7,1.3,2.3,1.5,1.1,2.0
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2011","2011","California","06",426,37691912,1.1,1.0,1.2,1.1,1.0,1.2
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2011","2011","Colorado","08",31,5116796,0.6,0.4,0.9,0.6,0.4,0.9
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2011","2011","Connecticut","09",35,3580709,1.0,0.7,1.4,0.8,0.6,1.2
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2011","2011","Delaware","10",14,907135,Unreliable,0.8,2.6,Unreliable,0.7,2.4
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2011","2011","District of Columbia","11",Suppressed,617996,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2011","2011","Florida","12",192,19057542,1.0,0.9,1.1,0.8,0.7,0.9
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2011","2011","Georgia","13",82,9815210,0.8,0.7,1.0,0.9,0.7,1.1
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2011","2011","Hawaii","15",19,1374810,Unreliable,0.8,2.2,Unreliable,0.7,1.8
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2011","2011","Idaho","16",11,1584985,Unreliable,0.3,1.2,Unreliable,0.3,1.1
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2011","2011","Illinois","17",143,12869257,1.1,0.9,1.3,1.1,0.9,1.3
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2011","2011","Indiana","18",76,6516922,1.2,0.9,1.5,1.1,0.9,1.4
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2011","2011","Iowa","19",41,3062309,1.3,1.0,1.8,1.1,0.8,1.6
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2011","2011","Kansas","20",27,2871238,0.9,0.6,1.4,0.9,0.6,1.3
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2011","2011","Kentucky","21",59,4369356,1.4,1.0,1.7,1.3,1.0,1.7
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2011","2011","Louisiana","22",31,4574836,0.7,0.5,1.0,0.7,0.4,1.0
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2011","2011","Maine","23",15,1328188,Unreliable,0.6,1.9,Unreliable,0.5,1.5
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2011","2011","Maryland","24",54,5828289,0.9,0.7,1.2,0.9,0.6,1.1
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2011","2011","Massachusetts","25",50,6587536,0.8,0.6,1.0,0.6,0.5,0.8
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2011","2011","Michigan","26",109,9876187,1.1,0.9,1.3,1.0,0.8,1.1
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2011","2011","Minnesota","27",64,5344861,1.2,0.9,1.5,1.1,0.8,1.4
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2011","2011","Mississippi","28",48,2978512,1.6,1.2,2.1,1.5,1.1,2.0
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2011","2011","Missouri","29",76,6010688,1.3,1.0,1.6,1.1,0.9,1.4
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2011","2011","Montana","30",Suppressed,998199,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2011","2011","Nebraska","31",20,1842641,1.1,0.7,1.7,1.0,0.6,1.6
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2011","2011","Nevada","32",23,2723322,0.8,0.5,1.3,0.8,0.5,1.2
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2011","2011","New Hampshire","33",19,1318194,Unreliable,0.9,2.3,Unreliable,0.8,2.0
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2011","2011","New Jersey","34",106,8821155,1.2,1.0,1.4,1.1,0.9,1.3
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2011","2011","New Mexico","35",18,2082224,Unreliable,0.5,1.4,Unreliable,0.5,1.3
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2011","2011","New York","36",139,19465197,0.7,0.6,0.8,0.6,0.5,0.7
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2011","2011","North Carolina","37",115,9656401,1.2,1.0,1.4,1.1,0.9,1.4
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2011","2011","North Dakota","38",Suppressed,683932,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2011","2011","Ohio","39",145,11544951,1.3,1.1,1.5,1.1,0.9,1.3
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2011","2011","Oklahoma","40",49,3791508,1.3,1.0,1.7,1.2,0.9,1.5
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2011","2011","Oregon","41",41,3871859,1.1,0.8,1.4,0.9,0.7,1.2
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2011","2011","Pennsylvania","42",132,12742886,1.0,0.9,1.2,0.8,0.7,1.0
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2011","2011","Rhode Island","44",12,1051302,Unreliable,0.6,2.0,Unreliable,0.5,1.8
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2011","2011","South Carolina","45",52,4679230,1.1,0.8,1.5,1.1,0.8,1.4
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2011","2011","South Dakota","46",Suppressed,824082,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2011","2011","Tennessee","47",99,6403353,1.5,1.3,1.9,1.4,1.2,1.8
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2011","2011","Texas","48",245,25674681,1.0,0.8,1.1,1.0,0.9,1.1
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2011","2011","Utah","49",29,2817222,1.0,0.7,1.5,1.4,0.9,2.0
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2011","2011","Vermont","50",Suppressed,626431,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2011","2011","Virginia","51",70,8096604,0.9,0.7,1.1,0.8,0.6,1.0
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2011","2011","Washington","53",94,6830038,1.4,1.1,1.7,1.3,1.0,1.5
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2011","2011","West Virginia","54",41,1855364,2.2,1.6,3.0,1.9,1.3,2.6
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2011","2011","Wisconsin","55",41,5711767,0.7,0.5,1.0,0.6,0.4,0.9
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2011","2011","Wyoming","56",Suppressed,568158,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+"Total","Other respiratory diseases principally affecting the interstitium","J80-J84","2011","2011",,,3343,311591917,1.1,1.0,1.1,1.0,0.9,1.0
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2012","2012","Alabama","01",85,4822023,1.8,1.4,2.2,1.6,1.3,2.0
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2012","2012","Alaska","02",Suppressed,731449,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2012","2012","Arizona","04",79,6553255,1.2,1.0,1.5,1.1,0.9,1.4
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2012","2012","Arkansas","05",47,2949131,1.6,1.2,2.1,1.4,1.0,1.9
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2012","2012","California","06",380,38041430,1.0,0.9,1.1,1.0,0.9,1.1
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2012","2012","Colorado","08",33,5187582,0.6,0.4,0.9,0.6,0.4,0.8
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2012","2012","Connecticut","09",33,3590347,0.9,0.6,1.3,0.8,0.5,1.1
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2012","2012","Delaware","10",15,917092,Unreliable,0.9,2.7,Unreliable,0.8,2.4
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2012","2012","District of Columbia","11",Suppressed,632323,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2012","2012","Florida","12",177,19317568,0.9,0.8,1.1,0.7,0.6,0.8
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2012","2012","Georgia","13",104,9919945,1.0,0.8,1.2,1.1,0.9,1.3
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2012","2012","Hawaii","15",20,1392313,1.4,0.9,2.2,1.2,0.7,1.8
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2012","2012","Idaho","16",21,1595728,1.3,0.8,2.0,1.2,0.7,1.8
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2012","2012","Illinois","17",93,12875255,0.7,0.6,0.9,0.7,0.6,0.9
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2012","2012","Indiana","18",66,6537334,1.0,0.8,1.3,0.9,0.7,1.2
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2012","2012","Iowa","19",24,3074186,0.8,0.5,1.2,0.7,0.4,1.0
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2012","2012","Kansas","20",19,2885905,Unreliable,0.4,1.0,Unreliable,0.4,0.9
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2012","2012","Kentucky","21",50,4380415,1.1,0.8,1.5,1.0,0.8,1.4
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2012","2012","Louisiana","22",38,4601893,0.8,0.6,1.1,0.8,0.6,1.1
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2012","2012","Maine","23",10,1329192,Unreliable,0.4,1.4,Unreliable,0.3,1.1
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2012","2012","Maryland","24",66,5884563,1.1,0.9,1.4,1.0,0.8,1.3
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2012","2012","Massachusetts","25",40,6646144,0.6,0.4,0.8,0.5,0.4,0.7
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2012","2012","Michigan","26",102,9883360,1.0,0.8,1.2,0.9,0.7,1.1
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2012","2012","Minnesota","27",58,5379139,1.1,0.8,1.4,1.0,0.7,1.2
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2012","2012","Mississippi","28",47,2984926,1.6,1.2,2.1,1.5,1.1,1.9
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2012","2012","Missouri","29",53,6021988,0.9,0.7,1.2,0.7,0.5,1.0
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2012","2012","Montana","30",Suppressed,1005141,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2012","2012","Nebraska","31",20,1855525,1.1,0.7,1.7,1.0,0.6,1.5
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2012","2012","Nevada","32",14,2758931,Unreliable,0.3,0.9,Unreliable,0.2,0.8
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2012","2012","New Hampshire","33",16,1320718,Unreliable,0.7,2.0,Unreliable,0.6,1.7
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2012","2012","New Jersey","34",80,8864590,0.9,0.7,1.1,0.8,0.6,1.0
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2012","2012","New Mexico","35",20,2085538,1.0,0.6,1.5,0.8,0.5,1.3
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2012","2012","New York","36",158,19570261,0.8,0.7,0.9,0.7,0.6,0.8
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2012","2012","North Carolina","37",112,9752073,1.1,0.9,1.4,1.1,0.9,1.3
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2012","2012","North Dakota","38",Suppressed,699628,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2012","2012","Ohio","39",103,11544225,0.9,0.7,1.1,0.8,0.6,0.9
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2012","2012","Oklahoma","40",51,3814820,1.3,1.0,1.8,1.2,0.9,1.6
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2012","2012","Oregon","41",21,3899353,0.5,0.3,0.8,0.5,0.3,0.7
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2012","2012","Pennsylvania","42",143,12763536,1.1,0.9,1.3,0.9,0.7,1.0
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2012","2012","Rhode Island","44",10,1050292,Unreliable,0.5,1.8,Unreliable,0.4,1.5
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2012","2012","South Carolina","45",56,4723723,1.2,0.9,1.5,1.1,0.8,1.5
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2012","2012","South Dakota","46",Suppressed,833354,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2012","2012","Tennessee","47",91,6456243,1.4,1.1,1.7,1.3,1.0,1.6
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2012","2012","Texas","48",245,26059203,0.9,0.8,1.1,1.0,0.9,1.2
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2012","2012","Utah","49",32,2855287,1.1,0.8,1.6,1.4,1.0,2.0
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2012","2012","Vermont","50",Suppressed,626011,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2012","2012","Virginia","51",44,8185867,0.5,0.4,0.7,0.5,0.4,0.7
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2012","2012","Washington","53",79,6897012,1.1,0.9,1.4,1.1,0.8,1.3
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2012","2012","West Virginia","54",36,1855413,1.9,1.4,2.7,1.6,1.1,2.2
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2012","2012","Wisconsin","55",41,5726398,0.7,0.5,1.0,0.6,0.4,0.8
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2012","2012","Wyoming","56",Suppressed,576412,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+"Total","Other respiratory diseases principally affecting the interstitium","J80-J84","2012","2012",,,3063,313914040,1.0,0.9,1.0,0.9,0.8,0.9
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2013","2013","Alabama","01",93,4833722,1.9,1.6,2.4,1.7,1.4,2.1
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2013","2013","Alaska","02",Suppressed,735132,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2013","2013","Arizona","04",86,6626624,1.3,1.0,1.6,1.2,0.9,1.5
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2013","2013","Arkansas","05",47,2959373,1.6,1.2,2.1,1.3,1.0,1.8
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2013","2013","California","06",384,38332521,1.0,0.9,1.1,1.0,0.9,1.1
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2013","2013","Colorado","08",37,5268367,0.7,0.5,1.0,0.6,0.4,0.9
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2013","2013","Connecticut","09",30,3596080,0.8,0.6,1.2,0.6,0.4,0.9
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2013","2013","Delaware","10",15,925749,Unreliable,0.9,2.7,Unreliable,0.8,2.2
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2013","2013","District of Columbia","11",Suppressed,646449,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2013","2013","Florida","12",235,19552860,1.2,1.0,1.4,1.0,0.8,1.1
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2013","2013","Georgia","13",111,9992167,1.1,0.9,1.3,1.1,0.9,1.3
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2013","2013","Hawaii","15",18,1404054,Unreliable,0.8,2.0,Unreliable,0.6,1.8
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2013","2013","Idaho","16",19,1612136,Unreliable,0.7,1.8,Unreliable,0.6,1.7
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2013","2013","Illinois","17",130,12882135,1.0,0.8,1.2,0.9,0.8,1.1
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2013","2013","Indiana","18",88,6570902,1.3,1.1,1.6,1.2,0.9,1.5
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2013","2013","Iowa","19",23,3090416,0.7,0.5,1.1,0.6,0.3,0.8
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2013","2013","Kansas","20",23,2893957,0.8,0.5,1.2,0.8,0.5,1.1
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2013","2013","Kentucky","21",62,4395295,1.4,1.1,1.8,1.2,0.9,1.6
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2013","2013","Louisiana","22",58,4625470,1.3,1.0,1.6,1.2,0.9,1.5
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2013","2013","Maine","23",19,1328302,Unreliable,0.9,2.2,Unreliable,0.6,1.7
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2013","2013","Maryland","24",71,5928814,1.2,0.9,1.5,1.1,0.9,1.4
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2013","2013","Massachusetts","25",61,6692824,0.9,0.7,1.2,0.8,0.6,1.0
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2013","2013","Michigan","26",98,9895622,1.0,0.8,1.2,0.9,0.7,1.1
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2013","2013","Minnesota","27",54,5420380,1.0,0.7,1.3,0.9,0.7,1.2
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2013","2013","Mississippi","28",42,2991207,1.4,1.0,1.9,1.3,0.9,1.7
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2013","2013","Missouri","29",64,6044171,1.1,0.8,1.4,0.9,0.7,1.2
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2013","2013","Montana","30",Suppressed,1015165,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2013","2013","Nebraska","31",19,1868516,Unreliable,0.6,1.6,Unreliable,0.5,1.4
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2013","2013","Nevada","32",29,2790136,1.0,0.7,1.5,1.0,0.7,1.5
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2013","2013","New Hampshire","33",12,1323459,Unreliable,0.5,1.6,Unreliable,0.4,1.4
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2013","2013","New Jersey","34",92,8899339,1.0,0.8,1.3,0.9,0.7,1.1
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2013","2013","New Mexico","35",19,2085287,Unreliable,0.5,1.4,Unreliable,0.5,1.3
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2013","2013","New York","36",166,19651127,0.8,0.7,1.0,0.7,0.6,0.8
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2013","2013","North Carolina","37",120,9848060,1.2,1.0,1.4,1.1,0.9,1.3
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2013","2013","North Dakota","38",16,723393,Unreliable,1.3,3.6,Unreliable,1.0,2.9
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2013","2013","Ohio","39",152,11570808,1.3,1.1,1.5,1.1,0.9,1.3
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2013","2013","Oklahoma","40",48,3850568,1.2,0.9,1.7,1.1,0.8,1.5
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2013","2013","Oregon","41",36,3930065,0.9,0.6,1.3,0.8,0.5,1.1
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2013","2013","Pennsylvania","42",135,12773801,1.1,0.9,1.2,0.9,0.7,1.0
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2013","2013","Rhode Island","44",15,1051511,Unreliable,0.8,2.4,Unreliable,0.6,1.9
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2013","2013","South Carolina","45",75,4774839,1.6,1.2,2.0,1.4,1.1,1.8
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2013","2013","South Dakota","46",Suppressed,844877,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2013","2013","Tennessee","47",105,6495978,1.6,1.3,1.9,1.4,1.2,1.7
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2013","2013","Texas","48",285,26448193,1.1,1.0,1.2,1.1,1.0,1.3
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2013","2013","Utah","49",25,2900872,0.9,0.6,1.3,1.1,0.7,1.6
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2013","2013","Vermont","50",Suppressed,626630,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2013","2013","Virginia","51",69,8260405,0.8,0.6,1.1,0.8,0.6,1.0
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2013","2013","Washington","53",91,6971406,1.3,1.1,1.6,1.1,0.9,1.4
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2013","2013","West Virginia","54",25,1854304,1.3,0.9,2.0,1.1,0.7,1.6
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2013","2013","Wisconsin","55",59,5742713,1.0,0.8,1.3,0.9,0.7,1.2
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2013","2013","Wyoming","56",Suppressed,582658,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+"Total","Other respiratory diseases principally affecting the interstitium","J80-J84","2013","2013",,,3498,316128839,1.1,1.1,1.1,1.0,1.0,1.0
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2014","2014","Alabama","01",82,4849377,1.7,1.3,2.1,1.5,1.2,1.9
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2014","2014","Alaska","02",Suppressed,736732,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2014","2014","Arizona","04",94,6731484,1.4,1.1,1.7,1.2,1.0,1.5
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2014","2014","Arkansas","05",60,2966369,2.0,1.5,2.6,1.7,1.3,2.2
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2014","2014","California","06",446,38802500,1.1,1.0,1.3,1.1,1.0,1.2
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2014","2014","Colorado","08",39,5355866,0.7,0.5,1.0,0.7,0.5,1.0
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2014","2014","Connecticut","09",31,3596677,0.9,0.6,1.2,0.7,0.5,1.0
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2014","2014","Delaware","10",14,935614,Unreliable,0.8,2.5,Unreliable,0.7,2.1
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2014","2014","District of Columbia","11",Suppressed,658893,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2014","2014","Florida","12",218,19893297,1.1,1.0,1.2,0.9,0.8,1.0
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2014","2014","Georgia","13",115,10097343,1.1,0.9,1.3,1.2,0.9,1.4
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2014","2014","Hawaii","15",14,1419561,Unreliable,0.5,1.7,Unreliable,0.5,1.5
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2014","2014","Idaho","16",20,1634464,1.2,0.7,1.9,1.1,0.7,1.8
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2014","2014","Illinois","17",129,12880580,1.0,0.8,1.2,0.9,0.8,1.1
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2014","2014","Indiana","18",105,6596855,1.6,1.3,1.9,1.4,1.2,1.7
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2014","2014","Iowa","19",31,3107126,1.0,0.7,1.4,0.8,0.5,1.1
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2014","2014","Kansas","20",34,2904021,1.2,0.8,1.6,1.0,0.7,1.5
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2014","2014","Kentucky","21",73,4413457,1.7,1.3,2.1,1.5,1.2,1.9
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2014","2014","Louisiana","22",58,4649676,1.2,0.9,1.6,1.2,0.9,1.6
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2014","2014","Maine","23",24,1330089,1.8,1.2,2.7,1.2,0.8,1.8
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2014","2014","Maryland","24",79,5976407,1.3,1.0,1.6,1.2,0.9,1.5
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2014","2014","Massachusetts","25",49,6745408,0.7,0.5,1.0,0.6,0.5,0.8
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2014","2014","Michigan","26",103,9909877,1.0,0.8,1.2,0.9,0.7,1.0
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2014","2014","Minnesota","27",54,5457173,1.0,0.7,1.3,0.8,0.6,1.1
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2014","2014","Mississippi","28",57,2994079,1.9,1.4,2.5,1.7,1.3,2.2
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2014","2014","Missouri","29",75,6063589,1.2,1.0,1.6,1.0,0.8,1.3
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2014","2014","Montana","30",Suppressed,1023579,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2014","2014","Nebraska","31",18,1881503,Unreliable,0.6,1.5,Unreliable,0.5,1.4
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2014","2014","Nevada","32",31,2839099,1.1,0.7,1.5,1.1,0.7,1.5
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2014","2014","New Hampshire","33",18,1326813,Unreliable,0.8,2.1,Unreliable,0.6,1.7
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2014","2014","New Jersey","34",86,8938175,1.0,0.8,1.2,0.9,0.7,1.1
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2014","2014","New Mexico","35",34,2085572,1.6,1.1,2.3,1.6,1.1,2.2
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2014","2014","New York","36",199,19746227,1.0,0.9,1.1,0.9,0.8,1.0
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2014","2014","North Carolina","37",117,9943964,1.2,1.0,1.4,1.0,0.8,1.2
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2014","2014","North Dakota","38",Suppressed,739482,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2014","2014","Ohio","39",138,11594163,1.2,1.0,1.4,1.0,0.8,1.2
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2014","2014","Oklahoma","40",63,3878051,1.6,1.2,2.1,1.4,1.1,1.8
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2014","2014","Oregon","41",50,3970239,1.3,0.9,1.7,1.1,0.8,1.4
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2014","2014","Pennsylvania","42",173,12787209,1.4,1.2,1.6,1.1,0.9,1.2
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2014","2014","Rhode Island","44",Suppressed,1055173,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2014","2014","South Carolina","45",78,4832482,1.6,1.3,2.0,1.4,1.1,1.7
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2014","2014","South Dakota","46",Suppressed,853175,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2014","2014","Tennessee","47",93,6549352,1.4,1.1,1.7,1.3,1.0,1.6
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2014","2014","Texas","48",336,26956958,1.2,1.1,1.4,1.3,1.1,1.4
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2014","2014","Utah","49",36,2942902,1.2,0.9,1.7,1.7,1.2,2.3
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2014","2014","Vermont","50",Suppressed,626562,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2014","2014","Virginia","51",84,8326289,1.0,0.8,1.2,0.9,0.7,1.2
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2014","2014","Washington","53",102,7061530,1.4,1.2,1.7,1.3,1.1,1.6
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2014","2014","West Virginia","54",31,1850326,1.7,1.1,2.4,1.2,0.8,1.8
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2014","2014","Wisconsin","55",64,5757564,1.1,0.9,1.4,0.9,0.7,1.2
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2014","2014","Wyoming","56",Suppressed,584153,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+"Total","Other respiratory diseases principally affecting the interstitium","J80-J84","2014","2014",,,3812,318857056,1.2,1.2,1.2,1.1,1.0,1.1
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2015","2015","Alabama","01",88,4858979,1.8,1.5,2.2,1.6,1.3,2.0
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2015","2015","Alaska","02",Suppressed,738432,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2015","2015","Arizona","04",85,6828065,1.2,1.0,1.5,1.0,0.8,1.3
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2015","2015","Arkansas","05",40,2978204,1.3,1.0,1.8,1.2,0.8,1.6
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2015","2015","California","06",413,39144818,1.1,1.0,1.2,1.0,0.9,1.1
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2015","2015","Colorado","08",49,5456574,0.9,0.7,1.2,0.9,0.6,1.2
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2015","2015","Connecticut","09",30,3590886,0.8,0.6,1.2,0.7,0.4,0.9
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2015","2015","Delaware","10",15,945934,Unreliable,0.9,2.6,Unreliable,0.7,2.2
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2015","2015","District of Columbia","11",Suppressed,672228,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2015","2015","Florida","12",258,20271272,1.3,1.1,1.4,1.0,0.8,1.1
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2015","2015","Georgia","13",100,10214860,1.0,0.8,1.2,1.0,0.8,1.2
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2015","2015","Hawaii","15",20,1431603,1.4,0.9,2.2,1.1,0.7,1.7
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2015","2015","Idaho","16",17,1654930,Unreliable,0.6,1.6,Unreliable,0.6,1.6
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2015","2015","Illinois","17",124,12859995,1.0,0.8,1.1,0.9,0.7,1.0
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2015","2015","Indiana","18",65,6619680,1.0,0.8,1.3,0.8,0.6,1.1
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2015","2015","Iowa","19",33,3123899,1.1,0.7,1.5,0.9,0.6,1.3
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2015","2015","Kansas","20",29,2911641,1.0,0.7,1.4,0.9,0.6,1.3
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2015","2015","Kentucky","21",61,4425092,1.4,1.1,1.8,1.2,0.9,1.6
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2015","2015","Louisiana","22",31,4670724,0.7,0.5,0.9,0.6,0.4,0.9
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2015","2015","Maine","23",Suppressed,1329328,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2015","2015","Maryland","24",60,6006401,1.0,0.8,1.3,0.9,0.7,1.2
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2015","2015","Massachusetts","25",57,6794422,0.8,0.6,1.1,0.7,0.5,0.9
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2015","2015","Michigan","26",113,9922576,1.1,0.9,1.3,0.9,0.7,1.1
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2015","2015","Minnesota","27",64,5489594,1.2,0.9,1.5,1.0,0.8,1.3
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2015","2015","Mississippi","28",42,2992333,1.4,1.0,1.9,1.2,0.9,1.7
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2015","2015","Missouri","29",76,6083672,1.2,1.0,1.6,1.0,0.8,1.3
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2015","2015","Montana","30",Suppressed,1032949,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2015","2015","Nebraska","31",30,1896190,1.6,1.1,2.3,1.4,1.0,2.1
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2015","2015","Nevada","32",29,2890845,1.0,0.7,1.4,0.9,0.6,1.3
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2015","2015","New Hampshire","33",12,1330608,Unreliable,0.5,1.6,Unreliable,0.4,1.4
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2015","2015","New Jersey","34",91,8958013,1.0,0.8,1.2,0.9,0.7,1.1
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2015","2015","New Mexico","35",32,2085109,1.5,1.0,2.2,1.3,0.9,1.9
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2015","2015","New York","36",157,19795791,0.8,0.7,0.9,0.7,0.6,0.8
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2015","2015","North Carolina","37",109,10042802,1.1,0.9,1.3,0.9,0.7,1.1
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2015","2015","North Dakota","38",11,756927,Unreliable,0.7,2.6,Unreliable,0.6,2.1
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2015","2015","Ohio","39",107,11613423,0.9,0.7,1.1,0.8,0.6,0.9
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2015","2015","Oklahoma","40",44,3911338,1.1,0.8,1.5,1.0,0.7,1.4
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2015","2015","Oregon","41",54,4028977,1.3,1.0,1.7,1.1,0.8,1.5
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2015","2015","Pennsylvania","42",151,12802503,1.2,1.0,1.4,1.0,0.8,1.1
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2015","2015","Rhode Island","44",16,1056298,Unreliable,0.9,2.5,Unreliable,0.6,1.8
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2015","2015","South Carolina","45",85,4896146,1.7,1.4,2.1,1.5,1.2,1.8
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2015","2015","South Dakota","46",13,858469,Unreliable,0.8,2.6,Unreliable,0.7,2.5
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2015","2015","Tennessee","47",108,6600299,1.6,1.3,1.9,1.4,1.1,1.6
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2015","2015","Texas","48",296,27469114,1.1,1.0,1.2,1.1,1.0,1.2
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2015","2015","Utah","49",30,2995919,1.0,0.7,1.4,1.2,0.8,1.8
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2015","2015","Vermont","50",Suppressed,626042,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2015","2015","Virginia","51",74,8382993,0.9,0.7,1.1,0.8,0.6,1.0
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2015","2015","Washington","53",110,7170351,1.5,1.2,1.8,1.3,1.1,1.6
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2015","2015","West Virginia","54",45,1844128,2.4,1.8,3.3,1.8,1.3,2.5
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2015","2015","Wisconsin","55",57,5771337,1.0,0.7,1.3,0.8,0.6,1.1
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2015","2015","Wyoming","56",Suppressed,586107,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+"Total","Other respiratory diseases principally affecting the interstitium","J80-J84","2015","2015",,,3571,321418820,1.1,1.1,1.1,1.0,1.0,1.0
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2016","2016","Alabama","01",82,4863300,1.7,1.3,2.1,1.4,1.1,1.8
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2016","2016","Alaska","02",Suppressed,741894,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2016","2016","Arizona","04",90,6931071,1.3,1.0,1.6,1.1,0.9,1.3
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2016","2016","Arkansas","05",45,2988248,1.5,1.1,2.0,1.2,0.9,1.6
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2016","2016","California","06",470,39250017,1.2,1.1,1.3,1.1,1.0,1.2
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2016","2016","Colorado","08",52,5540545,0.9,0.7,1.2,0.9,0.7,1.2
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2016","2016","Connecticut","09",35,3576452,1.0,0.7,1.4,0.8,0.6,1.1
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2016","2016","Delaware","10",13,952065,Unreliable,0.7,2.3,Unreliable,0.6,2.0
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2016","2016","District of Columbia","11",Suppressed,681170,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2016","2016","Florida","12",265,20612439,1.3,1.1,1.4,0.9,0.8,1.1
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2016","2016","Georgia","13",102,10310371,1.0,0.8,1.2,0.9,0.7,1.1
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2016","2016","Hawaii","15",15,1428557,Unreliable,0.6,1.7,Unreliable,0.5,1.5
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2016","2016","Idaho","16",21,1683140,1.2,0.8,1.9,1.1,0.7,1.7
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2016","2016","Illinois","17",155,12801539,1.2,1.0,1.4,1.0,0.9,1.2
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2016","2016","Indiana","18",100,6633053,1.5,1.2,1.8,1.3,1.1,1.6
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2016","2016","Iowa","19",21,3134693,0.7,0.4,1.0,0.5,0.3,0.8
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2016","2016","Kansas","20",24,2907289,0.8,0.5,1.2,0.7,0.4,1.0
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2016","2016","Kentucky","21",62,4436974,1.4,1.1,1.8,1.2,0.9,1.5
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2016","2016","Louisiana","22",44,4681666,0.9,0.7,1.3,0.9,0.6,1.2
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2016","2016","Maine","23",14,1331479,Unreliable,0.6,1.8,Unreliable,0.5,1.4
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2016","2016","Maryland","24",65,6016447,1.1,0.8,1.4,0.9,0.7,1.2
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2016","2016","Massachusetts","25",66,6811779,1.0,0.7,1.2,0.8,0.6,1.0
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2016","2016","Michigan","26",94,9928300,0.9,0.8,1.2,0.8,0.7,1.0
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2016","2016","Minnesota","27",62,5519952,1.1,0.9,1.4,0.9,0.7,1.2
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2016","2016","Mississippi","28",52,2988726,1.7,1.3,2.3,1.5,1.1,2.0
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2016","2016","Missouri","29",60,6093000,1.0,0.8,1.3,0.8,0.6,1.0
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2016","2016","Montana","30",14,1042520,Unreliable,0.7,2.3,Unreliable,0.5,1.7
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2016","2016","Nebraska","31",17,1907116,Unreliable,0.5,1.4,Unreliable,0.4,1.2
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2016","2016","Nevada","32",28,2940058,1.0,0.6,1.4,0.8,0.5,1.2
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2016","2016","New Hampshire","33",Suppressed,1334795,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2016","2016","New Jersey","34",94,8944469,1.1,0.8,1.3,0.9,0.7,1.1
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2016","2016","New Mexico","35",31,2081015,1.5,1.0,2.1,1.3,0.9,1.9
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2016","2016","New York","36",171,19745289,0.9,0.7,1.0,0.7,0.6,0.8
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2016","2016","North Carolina","37",130,10146788,1.3,1.1,1.5,1.1,0.9,1.3
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2016","2016","North Dakota","38",13,757952,Unreliable,0.9,2.9,Unreliable,0.8,2.6
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2016","2016","Ohio","39",149,11614373,1.3,1.1,1.5,1.0,0.9,1.2
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2016","2016","Oklahoma","40",53,3923561,1.4,1.0,1.8,1.2,0.9,1.5
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2016","2016","Oregon","41",45,4093465,1.1,0.8,1.5,0.9,0.6,1.2
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2016","2016","Pennsylvania","42",156,12784227,1.2,1.0,1.4,1.0,0.8,1.1
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2016","2016","Rhode Island","44",13,1056426,Unreliable,0.7,2.1,Unreliable,0.6,1.9
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2016","2016","South Carolina","45",74,4961119,1.5,1.2,1.9,1.2,1.0,1.6
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2016","2016","South Dakota","46",Suppressed,865454,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2016","2016","Tennessee","47",110,6651194,1.7,1.3,2.0,1.3,1.1,1.6
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2016","2016","Texas","48",276,27862596,1.0,0.9,1.1,1.0,0.9,1.1
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2016","2016","Utah","49",35,3051217,1.1,0.8,1.6,1.3,0.9,1.8
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2016","2016","Vermont","50",Suppressed,624594,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2016","2016","Virginia","51",70,8411808,0.8,0.6,1.1,0.7,0.6,0.9
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2016","2016","Washington","53",115,7288000,1.6,1.3,1.9,1.3,1.1,1.6
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2016","2016","West Virginia","54",45,1831102,2.5,1.8,3.3,1.8,1.3,2.5
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2016","2016","Wisconsin","55",64,5778708,1.1,0.9,1.4,0.9,0.7,1.1
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2016","2016","Wyoming","56",Suppressed,585501,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+"Total","Other respiratory diseases principally affecting the interstitium","J80-J84","2016","2016",,,3752,323127513,1.2,1.1,1.2,1.0,1.0,1.0
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2017","2017","Alabama","01",84,4874747,1.7,1.4,2.1,1.5,1.2,1.8
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2017","2017","Alaska","02",Suppressed,739795,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2017","2017","Arizona","04",62,7016270,0.9,0.7,1.1,0.7,0.5,0.9
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2017","2017","Arkansas","05",41,3004279,1.4,1.0,1.9,1.1,0.8,1.5
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2017","2017","California","06",425,39536653,1.1,1.0,1.2,1.0,0.9,1.1
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2017","2017","Colorado","08",57,5607154,1.0,0.8,1.3,0.9,0.7,1.2
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2017","2017","Connecticut","09",45,3588184,1.3,0.9,1.7,1.0,0.7,1.3
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2017","2017","Delaware","10",18,961939,Unreliable,1.1,3.0,Unreliable,0.9,2.4
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2017","2017","District of Columbia","11",Suppressed,693972,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2017","2017","Florida","12",245,20984400,1.2,1.0,1.3,0.9,0.8,1.0
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2017","2017","Georgia","13",100,10429379,1.0,0.8,1.1,0.9,0.7,1.1
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2017","2017","Hawaii","15",21,1427538,1.5,0.9,2.2,1.1,0.7,1.8
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2017","2017","Idaho","16",22,1716943,1.3,0.8,1.9,1.2,0.7,1.8
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2017","2017","Illinois","17",112,12802023,0.9,0.7,1.0,0.8,0.6,0.9
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2017","2017","Indiana","18",87,6666818,1.3,1.0,1.6,1.1,0.9,1.4
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2017","2017","Iowa","19",30,3145711,1.0,0.6,1.4,0.9,0.6,1.2
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2017","2017","Kansas","20",25,2913123,0.9,0.6,1.3,0.8,0.5,1.2
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2017","2017","Kentucky","21",82,4454189,1.8,1.5,2.3,1.6,1.3,2.0
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2017","2017","Louisiana","22",44,4684333,0.9,0.7,1.3,0.8,0.6,1.1
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2017","2017","Maine","23",16,1335907,Unreliable,0.7,1.9,Unreliable,0.5,1.5
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2017","2017","Maryland","24",66,6052177,1.1,0.8,1.4,1.0,0.8,1.3
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2017","2017","Massachusetts","25",66,6859819,1.0,0.7,1.2,0.8,0.6,1.0
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2017","2017","Michigan","26",107,9962311,1.1,0.9,1.3,0.9,0.7,1.0
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2017","2017","Minnesota","27",86,5576606,1.5,1.2,1.9,1.3,1.0,1.6
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2017","2017","Mississippi","28",43,2984100,1.4,1.0,1.9,1.3,0.9,1.7
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2017","2017","Missouri","29",54,6113532,0.9,0.7,1.2,0.7,0.6,1.0
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2017","2017","Montana","30",13,1050493,Unreliable,0.7,2.1,Unreliable,0.6,2.0
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2017","2017","Nebraska","31",17,1920076,Unreliable,0.5,1.4,Unreliable,0.4,1.1
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2017","2017","Nevada","32",32,2998039,1.1,0.7,1.5,1.0,0.7,1.4
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2017","2017","New Hampshire","33",14,1342795,Unreliable,0.6,1.7,Unreliable,0.4,1.3
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2017","2017","New Jersey","34",85,9005644,0.9,0.8,1.2,0.8,0.6,1.0
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2017","2017","New Mexico","35",31,2088070,1.5,1.0,2.1,1.2,0.8,1.8
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2017","2017","New York","36",158,19849399,0.8,0.7,0.9,0.7,0.6,0.8
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2017","2017","North Carolina","37",157,10273419,1.5,1.3,1.8,1.3,1.1,1.5
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2017","2017","North Dakota","38",14,755393,Unreliable,1.0,3.1,Unreliable,0.9,2.8
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2017","2017","Ohio","39",132,11658609,1.1,0.9,1.3,1.0,0.8,1.1
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2017","2017","Oklahoma","40",37,3930864,0.9,0.7,1.3,0.8,0.6,1.1
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2017","2017","Oregon","41",45,4142776,1.1,0.8,1.5,0.9,0.6,1.2
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2017","2017","Pennsylvania","42",164,12805537,1.3,1.1,1.5,1.0,0.9,1.2
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2017","2017","Rhode Island","44",Suppressed,1059639,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2017","2017","South Carolina","45",71,5024369,1.4,1.1,1.8,1.2,0.9,1.5
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2017","2017","South Dakota","46",12,869666,Unreliable,0.7,2.4,Unreliable,0.6,2.0
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2017","2017","Tennessee","47",99,6715984,1.5,1.2,1.8,1.3,1.0,1.5
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2017","2017","Texas","48",314,28304596,1.1,1.0,1.2,1.1,1.0,1.2
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2017","2017","Utah","49",29,3101833,0.9,0.6,1.3,1.1,0.7,1.6
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2017","2017","Vermont","50",Suppressed,623657,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed,Suppressed
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2017","2017","Virginia","51",84,8470020,1.0,0.8,1.2,0.8,0.7,1.0
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2017","2017","Washington","53",91,7405743,1.2,1.0,1.5,1.1,0.9,1.3
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2017","2017","West Virginia","54",33,1815857,1.8,1.3,2.6,1.4,0.9,1.9
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2017","2017","Wisconsin","55",54,5795483,0.9,0.7,1.2,0.8,0.6,1.0
+,"Other respiratory diseases principally affecting the interstitium","J80-J84","2017","2017","Wyoming","56",11,579315,Unreliable,0.9,3.4,Unreliable,0.7,2.8
+"Total","Other respiratory diseases principally affecting the interstitium","J80-J84","2017","2017",,,3658,325719178,1.1,1.1,1.2,1.0,0.9,1.0
+"Total","Other respiratory diseases principally affecting the interstitium","J80-J84",,,,,27870,2539502901,1.1,1.1,1.1,1.0,0.9,1.0
+"Total",,,,,,,56026,2539502901,2.2,2.2,2.2,2.0,2.0,2.0
+"---"
+"Dataset: Multiple Cause of Death, 1999-2020"
+"Query Parameters:"
+"MCD - ICD-10 Codes: J80 (Adult respiratory distress syndrome)"
+"MCD - ICD-10 Codes: AND"
+"MCD - ICD-10 Codes: J12.0 (Adenoviral pneumonia); J12.1 (Respiratory syncytial virus pneumonia); J12.2 (Parainfluenza virus"
+"pneumonia); J12.3 (Human metapneumovirus pneumonia); J12.8 (Other viral pneumonia); J12.9 (Viral pneumonia, unspecified); J13"
+"(Pneumonia due to Streptococcus pneumoniae); J14 (Pneumonia due to Haemophilus influenzae); J15.0 (Pneumonia due to Klebsiella"
+"pneumoniae); J15.1 (Pneumonia due to Pseudomonas); J15.2 (Pneumonia due to staphylococcus); J15.3 (Pneumonia due to"
+"streptococcus, group B); J15.4 (Pneumonia due to other streptococci); J15.5 (Pneumonia due to Escherichia coli); J15.6"
+"(Pneumonia due to other aerobic Gram-negative bacteria); J15.7 (Pneumonia due to Mycoplasma pneumoniae); J15.8 (Other bacterial"
+"pneumonia); J15.9 (Bacterial pneumonia, unspecified); J16.0 (Chlamydial pneumonia); J16.8 (Pneumonia due to other specified"
+"infectious organisms); J18.0 (Bronchopneumonia, unspecified); J18.1 (Lobar pneumonia, unspecified); J18.2 (Hypostatic pneumonia,"
+"unspecified); J18.8 (Other pneumonia, organism unspecified); J18.9 (Pneumonia, unspecified)"
+"Year/Month: 2010; 2011; 2012; 2013; 2014; 2015; 2016; 2017"
+"Group By: MCD - ICD Sub-Chapter; Year; State"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: True"
+"Standard Population: 2000 U.S. Std. Population"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information."
+"---"
+"Query Date: Apr 13, 2026 7:35:23 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,"
+"1999-2020, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/mcd-icd10.html on Apr 13, 2026 7:35:23 PM"
+"---"
+Footnotes:
+"1. Totals and sub-totals show the frequency of the selected causes of death, which may be greater than the number of deaths."
+"Note that any single death record may have up to 20 causes. More information."
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#2014-Revision."
+"2. These items in the results table are not fully selected: Influenza and pneumonia, Other respiratory diseases principally"
+"affecting the interstitium. The Query Description lists the actual values selected."
+"3. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Assurance of Confidentiality."
+"4. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Unreliable."
+"5. The populations used to calculate standard age-adjusted rates are documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#2000 Standard Population."
+"6. The method used to calculate age-adjusted rates is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Age-Adjusted Rates."
+"7. Deaths for persons of unknown age are included in counts and crude rates, but are not included in age-adjusted rates."
+"8. The method used to calculate 95% confidence intervals is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Confidence-Intervals."
+"9. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. Population figures for 2011 are bridged-race estimates of the July 1"
+"resident population, from the county-level postcensal Vintage 2011 series released by NCHS on July 18, 2012. Population figures"
+"for 2010 are April 1 Census counts. The population figures for years 2001 - 2009, are bridged-race estimates of the July 1"
+"resident population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012."
+"Population figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of"
+"July 1 estimates. Population figures for Infant Age Groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"10. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd.html#Age Group."
+"11. Beginning with the 2018 data, changes have been implemented that affect the counts for ICD-10 cause of death codes O00-O99"
+"compared to previous practice. In addition, data for the cause of death codes O00-O99 for 2003 through 2017 reflect differences"
+"in information available to individual states and probable errors. Caution should be used in interpreting these data. More"
+"information can be found at: https://www.cdc.gov/nchs/maternal-mortality/."
+"12. On March 11, 2021, the 2019 mortality data on CDC WONDER was updated with the 2019 mortality data updated by NCHS on March"
+"4, 2021 to include corrected information for residents of Texas affecting 5 records previously coded to cause code *U01.4,"
+"Terrorism involving firearms (homicide). The underlying and multiple cause of death codes for 5 records were corrected in the"
+"2019 data. Underlying and multiple cause of death codes for those 5 records were recoded to Assault (homicide) by other and"
+"unspecified firearm discharge, ICD-10 code X95. The corrected final death records replaces the data released on December 22,"
+"2020."
+"13. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#ICD-10 Changes."

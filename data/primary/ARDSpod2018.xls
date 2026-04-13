@@ -1,0 +1,192 @@
+"Notes"	"MCD - ICD Sub-Chapter"	"MCD - ICD Sub-Chapter Code"	"Year"	"Year Code"	"Place of Death"	"Place of Death Code"	Deaths	Population	Crude Rate	Crude Rate Lower 95% Confidence Interval	Crude Rate Upper 95% Confidence Interval
+	"Influenza and pneumonia"	"J09-J18"	"2018"	"2018"	"Medical Facility - Inpatient"	"1"	3610	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Influenza and pneumonia"	"J09-J18"	"2018"	"2018"	"Medical Facility - Outpatient or ER"	"2"	46	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Influenza and pneumonia"	"J09-J18"	"2018"	"2018"	"Decedent's home"	"4"	18	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Influenza and pneumonia"	"J09-J18"	"2018"	"2018"	"Hospice facility"	"5"	48	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Influenza and pneumonia"	"J09-J18"	"2018"	"2018"	"Nursing home/long term care"	"6"	13	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Influenza and pneumonia"	"J09-J18"	"2018"	"2018"	"Other"	"7"	15	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Influenza and pneumonia"	"J09-J18"	"2019"	"2019"	"Medical Facility - Inpatient"	"1"	3459	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Influenza and pneumonia"	"J09-J18"	"2019"	"2019"	"Medical Facility - Outpatient or ER"	"2"	52	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Influenza and pneumonia"	"J09-J18"	"2019"	"2019"	"Decedent's home"	"4"	26	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Influenza and pneumonia"	"J09-J18"	"2019"	"2019"	"Hospice facility"	"5"	22	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Influenza and pneumonia"	"J09-J18"	"2019"	"2019"	"Nursing home/long term care"	"6"	14	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Influenza and pneumonia"	"J09-J18"	"2019"	"2019"	"Other"	"7"	12	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Influenza and pneumonia"	"J09-J18"	"2019"	"2019"	"Place of death unknown"	"9"	Suppressed	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Influenza and pneumonia"	"J09-J18"	"2020"	"2020"	"Medical Facility - Inpatient"	"1"	26638	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Influenza and pneumonia"	"J09-J18"	"2020"	"2020"	"Medical Facility - Outpatient or ER"	"2"	675	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Influenza and pneumonia"	"J09-J18"	"2020"	"2020"	"Medical Facility - Dead on Arrival"	"3"	14	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Influenza and pneumonia"	"J09-J18"	"2020"	"2020"	"Decedent's home"	"4"	540	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Influenza and pneumonia"	"J09-J18"	"2020"	"2020"	"Hospice facility"	"5"	553	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Influenza and pneumonia"	"J09-J18"	"2020"	"2020"	"Nursing home/long term care"	"6"	1785	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Influenza and pneumonia"	"J09-J18"	"2020"	"2020"	"Other"	"7"	175	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Influenza and pneumonia"	"J09-J18"	"2020"	"2020"	"Place of death unknown"	"9"	Suppressed	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Influenza and pneumonia"	"J09-J18"	"2021"	"2021"	"Medical Facility - Inpatient"	"1"	37176	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Influenza and pneumonia"	"J09-J18"	"2021"	"2021"	"Medical Facility - Outpatient or ER"	"2"	499	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Influenza and pneumonia"	"J09-J18"	"2021"	"2021"	"Medical Facility - Dead on Arrival"	"3"	Suppressed	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Influenza and pneumonia"	"J09-J18"	"2021"	"2021"	"Decedent's home"	"4"	654	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Influenza and pneumonia"	"J09-J18"	"2021"	"2021"	"Hospice facility"	"5"	401	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Influenza and pneumonia"	"J09-J18"	"2021"	"2021"	"Nursing home/long term care"	"6"	280	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Influenza and pneumonia"	"J09-J18"	"2021"	"2021"	"Other"	"7"	233	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Influenza and pneumonia"	"J09-J18"	"2022"	"2022"	"Medical Facility - Inpatient"	"1"	12250	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Influenza and pneumonia"	"J09-J18"	"2022"	"2022"	"Medical Facility - Outpatient or ER"	"2"	191	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Influenza and pneumonia"	"J09-J18"	"2022"	"2022"	"Medical Facility - Dead on Arrival"	"3"	Suppressed	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Influenza and pneumonia"	"J09-J18"	"2022"	"2022"	"Decedent's home"	"4"	268	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Influenza and pneumonia"	"J09-J18"	"2022"	"2022"	"Hospice facility"	"5"	218	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Influenza and pneumonia"	"J09-J18"	"2022"	"2022"	"Nursing home/long term care"	"6"	141	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Influenza and pneumonia"	"J09-J18"	"2022"	"2022"	"Other"	"7"	85	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Influenza and pneumonia"	"J09-J18"	"2023"	"2023"	"Medical Facility - Inpatient"	"1"	5016	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Influenza and pneumonia"	"J09-J18"	"2023"	"2023"	"Medical Facility - Outpatient or ER"	"2"	62	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Influenza and pneumonia"	"J09-J18"	"2023"	"2023"	"Decedent's home"	"4"	66	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Influenza and pneumonia"	"J09-J18"	"2023"	"2023"	"Hospice facility"	"5"	56	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Influenza and pneumonia"	"J09-J18"	"2023"	"2023"	"Nursing home/long term care"	"6"	65	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Influenza and pneumonia"	"J09-J18"	"2023"	"2023"	"Other"	"7"	25	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Influenza and pneumonia"	"J09-J18"	"2024"	"2024"	"Medical Facility - Inpatient"	"1"	4607	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Influenza and pneumonia"	"J09-J18"	"2024"	"2024"	"Medical Facility - Outpatient or ER"	"2"	69	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Influenza and pneumonia"	"J09-J18"	"2024"	"2024"	"Medical Facility - Dead on Arrival"	"3"	Suppressed	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Influenza and pneumonia"	"J09-J18"	"2024"	"2024"	"Decedent's home"	"4"	51	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Influenza and pneumonia"	"J09-J18"	"2024"	"2024"	"Hospice facility"	"5"	51	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Influenza and pneumonia"	"J09-J18"	"2024"	"2024"	"Nursing home/long term care"	"6"	21	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Influenza and pneumonia"	"J09-J18"	"2024"	"2024"	"Other"	"7"	21	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Influenza and pneumonia"	"J09-J18"	"2025 (provisional)"	"2025"	"Medical Facility - Inpatient"	"1"	4115	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Influenza and pneumonia"	"J09-J18"	"2025 (provisional)"	"2025"	"Medical Facility - Outpatient or ER"	"2"	70	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Influenza and pneumonia"	"J09-J18"	"2025 (provisional)"	"2025"	"Decedent's home"	"4"	29	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Influenza and pneumonia"	"J09-J18"	"2025 (provisional)"	"2025"	"Hospice facility"	"5"	36	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Influenza and pneumonia"	"J09-J18"	"2025 (provisional)"	"2025"	"Nursing home/long term care"	"6"	28	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Influenza and pneumonia"	"J09-J18"	"2025 (provisional)"	"2025"	"Other"	"7"	18	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2018"	"2018"	"Medical Facility - Inpatient"	"1"	3559	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2018"	"2018"	"Medical Facility - Outpatient or ER"	"2"	44	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2018"	"2018"	"Decedent's home"	"4"	18	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2018"	"2018"	"Hospice facility"	"5"	48	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2018"	"2018"	"Nursing home/long term care"	"6"	13	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2018"	"2018"	"Other"	"7"	15	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2019"	"2019"	"Medical Facility - Inpatient"	"1"	3408	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2019"	"2019"	"Medical Facility - Outpatient or ER"	"2"	52	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2019"	"2019"	"Decedent's home"	"4"	26	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2019"	"2019"	"Hospice facility"	"5"	22	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2019"	"2019"	"Nursing home/long term care"	"6"	14	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2019"	"2019"	"Other"	"7"	11	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2019"	"2019"	"Place of death unknown"	"9"	Suppressed	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2020"	"2020"	"Medical Facility - Inpatient"	"1"	25851	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2020"	"2020"	"Medical Facility - Outpatient or ER"	"2"	672	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2020"	"2020"	"Medical Facility - Dead on Arrival"	"3"	13	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2020"	"2020"	"Decedent's home"	"4"	538	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2020"	"2020"	"Hospice facility"	"5"	551	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2020"	"2020"	"Nursing home/long term care"	"6"	1782	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2020"	"2020"	"Other"	"7"	175	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2020"	"2020"	"Place of death unknown"	"9"	Suppressed	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2021"	"2021"	"Medical Facility - Inpatient"	"1"	35095	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2021"	"2021"	"Medical Facility - Outpatient or ER"	"2"	487	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2021"	"2021"	"Medical Facility - Dead on Arrival"	"3"	Suppressed	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2021"	"2021"	"Decedent's home"	"4"	654	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2021"	"2021"	"Hospice facility"	"5"	397	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2021"	"2021"	"Nursing home/long term care"	"6"	280	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2021"	"2021"	"Other"	"7"	226	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2022"	"2022"	"Medical Facility - Inpatient"	"1"	11539	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2022"	"2022"	"Medical Facility - Outpatient or ER"	"2"	186	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2022"	"2022"	"Medical Facility - Dead on Arrival"	"3"	Suppressed	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2022"	"2022"	"Decedent's home"	"4"	266	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2022"	"2022"	"Hospice facility"	"5"	216	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2022"	"2022"	"Nursing home/long term care"	"6"	141	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2022"	"2022"	"Other"	"7"	85	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2023"	"2023"	"Medical Facility - Inpatient"	"1"	4801	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2023"	"2023"	"Medical Facility - Outpatient or ER"	"2"	58	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2023"	"2023"	"Decedent's home"	"4"	65	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2023"	"2023"	"Hospice facility"	"5"	56	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2023"	"2023"	"Nursing home/long term care"	"6"	64	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2023"	"2023"	"Other"	"7"	23	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2024"	"2024"	"Medical Facility - Inpatient"	"1"	4455	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2024"	"2024"	"Medical Facility - Outpatient or ER"	"2"	67	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2024"	"2024"	"Medical Facility - Dead on Arrival"	"3"	Suppressed	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2024"	"2024"	"Decedent's home"	"4"	49	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2024"	"2024"	"Hospice facility"	"5"	50	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2024"	"2024"	"Nursing home/long term care"	"6"	21	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2024"	"2024"	"Other"	"7"	21	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2025 (provisional)"	"2025"	"Medical Facility - Inpatient"	"1"	4003	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2025 (provisional)"	"2025"	"Medical Facility - Outpatient or ER"	"2"	69	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2025 (provisional)"	"2025"	"Decedent's home"	"4"	29	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2025 (provisional)"	"2025"	"Hospice facility"	"5"	35	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2025 (provisional)"	"2025"	"Nursing home/long term care"	"6"	27	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+	"Other respiratory diseases principally affecting the interstitium"	"J80-J84"	"2025 (provisional)"	"2025"	"Other"	"7"	18	Not Applicable	Not Applicable	Not Applicable	Not Applicable
+"---"
+"Dataset: Provisional Mortality Statistics, 2018 through Last Week"
+"Query Parameters:"
+"MCD - ICD-10 Codes: J80 (Adult respiratory distress syndrome)"
+"MCD - ICD-10 Codes: AND"
+"MCD - ICD-10 Codes: J12.0 (Adenoviral pneumonia); J12.1 (Respiratory syncytial virus pneumonia); J12.2 (Parainfluenza virus"
+"pneumonia); J12.3 (Human metapneumovirus pneumonia); J12.8 (Other viral pneumonia); J12.9 (Viral pneumonia, unspecified); J13"
+"(Pneumonia due to Streptococcus pneumoniae); J14 (Pneumonia due to Haemophilus influenzae); J15.0 (Pneumonia due to Klebsiella"
+"pneumoniae); J15.1 (Pneumonia due to Pseudomonas); J15.2 (Pneumonia due to staphylococcus); J15.3 (Pneumonia due to"
+"streptococcus, group B); J15.4 (Pneumonia due to other streptococci); J15.5 (Pneumonia due to Escherichia coli); J15.6"
+"(Pneumonia due to other aerobic Gram-negative bacteria); J15.7 (Pneumonia due to Mycoplasma pneumoniae); J15.8 (Other bacterial"
+"pneumonia); J15.9 (Bacterial pneumonia, unspecified); J16.0 (Chlamydial pneumonia); J16.8 (Pneumonia due to other specified"
+"infectious organisms); J18.0 (Bronchopneumonia, unspecified); J18.1 (Lobar pneumonia, unspecified); J18.2 (Hypostatic pneumonia,"
+"unspecified); J18.8 (Other pneumonia, organism unspecified); J18.9 (Pneumonia, unspecified)"
+"Year/Month: 2018; 2019; 2020; 2021; 2022; 2023; 2024; 2025 (provisional)"
+"Group By: MCD - ICD Sub-Chapter; Year; Place of Death"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd-provisional.html for more information."
+"---"
+"Query Date: Apr 13, 2026 7:22:54 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Provisional Mortality on CDC WONDER Online Database. Data are from the final Multiple Cause of Death Files, 2018-2024,"
+"and from provisional data for years 2025 and later, as compiled from data provided by the 57 vital statistics jurisdictions"
+"through the Vital Statistics Cooperative Program. Accessed at http://wonder.cdc.gov/mcd-icd10-provisional.html on Apr 13, 2026"
+"7:22:54 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with zero Deaths are hidden. Use Quick Options above to show zero rows."
+"---"
+Footnotes:
+"1. Totals and sub-totals show the frequency of the selected causes of death, which may be greater than the number of deaths."
+"Note that any single death record may have up to 20 causes. More information."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when location of Death's Occurrence, Autopsy, Place of Death, Weekday or"
+"Month are grouped by or limited, due to lack of a valid population. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#NotApplicableRates."
+"2. These items in the results table are not fully selected: Influenza and pneumonia, Other respiratory diseases principally"
+"affecting the interstitium. The Query Description lists the actual values selected."
+"3. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Assurance of Confidentiality."
+"4. The method used to calculate 95% confidence intervals is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Confidence-Intervals."
+"5. Beginning with the 2018 data, changes have been implemented that affect the counts for ICD-10 cause of death codes O00-O99"
+"compared to previous practice. In addition, data for the cause of death codes O00-O99 for 2003 through 2017 reflect differences"
+"in information available to individual states and probable errors. Deaths with the underlying cause classified with O00-O99 are"
+"subject to further processing before these deaths records are considered final. Provisional deaths have not undergone full"
+"processing and review and therefore should not be considered final for statistical purposes. Caution should be used in"
+"interpreting these data. More information can be found at: https://www.cdc.gov/nchs/maternal-mortality/."
+"6. On March 11, 2021, the 2019 mortality data on CDC WONDER was updated with the 2019 mortality data updated by NCHS on March 4,"
+"2021 to include corrected information for residents of Texas affecting 5 records previously coded to cause code *U01.4,"
+"Terrorism involving firearms (homicide). The underlying and multiple cause of death codes for 5 records were corrected in the"
+"2019 data. Underlying and multiple cause of death codes for those 5 records were recoded to Assault (homicide) by other and"
+"unspecified firearm discharge, ICD-10 code X95. The corrected final death records replaces the data released on December 22,"
+"2020."
+"7. Connecticut population estimates for 2022 and later years are reported for 9 planning regions as county equivalent areas,"
+"instead of the former 8 legacy counties in the Vintage 2022 postcensal series released by the Census Bureau on June 22, 2023,"
+"and in the Vintage 2023 postcensal series released by the Census Bureau on June 27, 2024. Populations estimates for the former"
+"counties are not available for 2022 and later years. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Connecticut-2022."
+"8. After the creation of the final 2023 dataset, North Carolina updated the cause of death information for over 900 death"
+"certificates to include a cause of death code indicating drug overdose (ICD-10 underlying cause-of-death codes: X40-X44,"
+"X60-X64, X85, and Y10-Y14). Jurisdictions can continue to update death certificates after the closing of the mortality file. As"
+"a result, users should consider that the actual death count for drug overdose deaths for North Carolina in 2023 is over 4,400"
+"deaths, with a crude rate of approximately 41.0 per 100,000 population, and an age-adjusted rate of approximately 42.1 per"
+"100,000 population. These deaths will not be updated on the final mortality datasets."
+"9. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#ICD-10 Changes."
+"10. Deaths related to external causes of injury or sudden death: In the provisional mortality data, causes of death classified"
+"as external causes of injury (ICD-10 codes V01-Y89), sudden deaths (ICD-10 codes R95 and R96), or drug poisoning (ICD-10 codes"
+"T36-T50), have the cause of death labeled as 'Data not shown due to 6 month lag to account for delays in death certificate"
+"completion for certain causes of death.' For these deaths occurring 24 weeks prior to the final date in the provisional data,"
+"the number of deaths and related statistics are not available by specific cause of death for ICD-10 codes V01-Y89, R95, R96, or"
+"T36-T50. More information: http://wonder.cdc.gov/wonder/help/mcd-provisional.html#999."
+"11. Deaths occurring through March 28, 2026 as of April 05, 2026."

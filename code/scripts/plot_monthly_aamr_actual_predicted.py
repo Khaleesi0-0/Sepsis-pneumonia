@@ -28,15 +28,15 @@ VALIDATION_PATH = TABLE_DIR / "monthly_aamr_validation_2018_2019.csv"
 PREDICTION_PATH = TABLE_DIR / "monthly_aamr_predicted_2020_2025.csv"
 
 DATASETS = {
-    "Sepsis": CLEANED_DIR / "sepsis_month.csv",
+    "ARDS (ARDS + Pneumonia)": CLEANED_DIR / "ards_month.csv",
     "Pneumonia": CLEANED_DIR / "pneumonia_month.csv",
-    "Combined": CLEANED_DIR / "combined_month.csv",
+    "Sepsis+ Pneumonia": CLEANED_DIR / "combined_month.csv",
 }
 
 PANEL_LAYOUT = [
-    ("A", "Sepsis", "Sepsis", 0, 0, 1, 2),
+    ("A", "ARDS (ARDS + Pneumonia)", "ARDS (ARDS + Pneumonia)", 0, 0, 1, 2),
     ("B", "Pneumonia", "Pneumonia", 0, 2, 1, 2),
-    ("C", "Combined", "Sepsis/Pneumonia (combined)", 1, 1, 1, 2),
+    ("C", "Sepsis+ Pneumonia", "Sepsis+ Pneumonia", 1, 1, 1, 2),
 ]
 
 OBSERVED_COLOR = "#17365D"
