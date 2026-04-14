@@ -15,11 +15,16 @@ COVID_END = 2023
 Y_COL = "Age Adjusted Rate"
 SEX_COL = "Sex"
 YEAR_COL = "Year"
+NOTES_COL = "Notes"
 LINE_WIDTH = 1.9
 MARKER_SIZE = 5.5
+SHADE_COLOR = "#D8C7A3"
+TEXT_COLOR = "#1F1A17"
+SEX_ORDER = ["Female", "Male", "Total"]
 SEX_PALETTE = {
-    "Male": "#1b3c73",
-    "Female": "#b33b2e",
+    "Female": "#B14A3B",
+    "Male": "#17365D",
+    "Total": "#4F4A43",
 }
 
 DATASETS = {
@@ -51,20 +56,20 @@ def _apply_publication_style() -> None:
             "savefig.bbox": "tight",
             "font.family": "serif",
             "font.serif": ["Times New Roman", "Times", "DejaVu Serif"],
-            "axes.labelsize": 11,
-            "axes.titlesize": 11.5,
+            "axes.labelsize": 10.5,
+            "axes.titlesize": 12,
             "axes.titleweight": "bold",
             "axes.linewidth": 0.9,
             "axes.spines.top": False,
             "axes.spines.right": False,
-            "xtick.labelsize": 9.5,
-            "ytick.labelsize": 9.5,
+            "xtick.labelsize": 9,
+            "ytick.labelsize": 9,
             "xtick.major.width": 0.8,
             "ytick.major.width": 0.8,
             "xtick.major.size": 4,
             "ytick.major.size": 4,
-            "grid.color": "#d9d9d9",
-            "grid.linewidth": 0.6,
+            "grid.color": "#e4e0d8",
+            "grid.linewidth": 0.55,
             "grid.linestyle": "--",
             "legend.frameon": False,
             "legend.fontsize": 9,
@@ -82,14 +87,26 @@ def _prepare_for_plot(df: pd.DataFrame) -> pd.DataFrame:
     )
     plot_df[YEAR_COL] = pd.to_numeric(plot_df[YEAR_COL], errors="coerce")
     plot_df[Y_COL] = pd.to_numeric(plot_df[Y_COL], errors="coerce")
-    plot_df = plot_df.dropna(subset=[YEAR_COL, Y_COL, SEX_COL])
+    sex_rows = plot_df.dropna(subset=[YEAR_COL, Y_COL, SEX_COL]).copy()
+
+    total_rows = plot_df[
+        plot_df.get(NOTES_COL, pd.Series(index=plot_df.index, dtype="object"))
+        .astype("string")
+        .str.strip()
+        .eq("Total")
+    ].copy()
+    total_rows = total_rows.dropna(subset=[YEAR_COL, Y_COL]).copy()
+    total_rows[SEX_COL] = "Total"
 
     # Safety aggregation in case there are repeated rows per year/sex.
     plot_df = (
-        plot_df.groupby([YEAR_COL, SEX_COL], as_index=False)[Y_COL]
+        pd.concat([sex_rows, total_rows], ignore_index=True)
+        .groupby([YEAR_COL, SEX_COL], as_index=False)[Y_COL]
         .mean()
         .sort_values([YEAR_COL, SEX_COL])
     )
+    plot_df[SEX_COL] = pd.Categorical(plot_df[SEX_COL], categories=SEX_ORDER, ordered=True)
+    plot_df = plot_df.sort_values([YEAR_COL, SEX_COL]).reset_index(drop=True)
     return plot_df
 
 
@@ -99,6 +116,7 @@ def _draw_single_trend(ax: plt.Axes, df: pd.DataFrame, title: str, show_legend: 
         x=YEAR_COL,
         y=Y_COL,
         hue=SEX_COL,
+        hue_order=SEX_ORDER,
         marker="o",
         linewidth=LINE_WIDTH,
         markersize=MARKER_SIZE,
@@ -106,8 +124,8 @@ def _draw_single_trend(ax: plt.Axes, df: pd.DataFrame, title: str, show_legend: 
         palette=SEX_PALETTE,
         ax=ax,
     )
-    ax.axvspan(COVID_START, COVID_END, color="#bdbdbd", alpha=0.2, zorder=0)
-    ax.set_title(title)
+    ax.axvspan(COVID_START, COVID_END, color=SHADE_COLOR, alpha=0.26, zorder=0)
+    ax.set_title(title, loc="left", pad=12, color=TEXT_COLOR)
     ax.set_xlabel("Year")
     ax.set_ylabel("Age-adjusted rate")
     year_ticks = _select_year_ticks(df[YEAR_COL].dropna().unique().tolist())
@@ -131,7 +149,7 @@ def _draw_single_trend(ax: plt.Axes, df: pd.DataFrame, title: str, show_legend: 
             bbox_to_anchor=(0.5, 1.16),
             title=None,
             handlelength=2.0,
-            ncol=2,
+            ncol=3,
             columnspacing=1.2,
         )
     else:
@@ -153,11 +171,16 @@ def build_trend_figures() -> None:
     for name, csv_path in DATASETS.items():
         raw = pd.read_csv(csv_path)
         prepared[name] = _prepare_for_plot(raw)
+    disease_titles = {
+        "pneumonia": "Pneumonia",
+        "ards": "Pneumonia/ARDS",
+        "combined": "Pneumonia/Sepsis",
+    }
 
     # 1) Three individual figures.
     for name, df in prepared.items():
         fig, ax = plt.subplots(figsize=(6.8, 4.6))
-        _draw_single_trend(ax, df, f"{name.capitalize()} trend by sex", show_legend=True)
+        _draw_single_trend(ax, df, f"{disease_titles[name]} trend by sex", show_legend=True)
         fig.tight_layout()
         fig.savefig(FIGURE_DIR / f"{name}_trend_by_sex.png", dpi=300)
         fig.savefig(FIGURE_DIR / f"{name}_trend_by_sex.pdf")
@@ -165,12 +188,8 @@ def build_trend_figures() -> None:
 
     # 2) One arranged multi-panel figure containing all three.
     fig, axes = plt.subplots(1, 3, figsize=(14.5, 4.8), sharex=True, sharey=False)
-    panel_order = ["ards", "pneumonia", "combined"]
-    panel_titles = {
-        "ards": "ARDS (ARDS + Pneumonia)",
-        "pneumonia": "Pneumonia",
-        "combined": "Sepsis+ Pneumonia",
-    }
+    panel_order = ["pneumonia", "ards", "combined"]
+    panel_titles = disease_titles
     panel_labels = ["A", "B", "C"]
 
     legend_handles = None
@@ -188,23 +207,34 @@ def build_trend_figures() -> None:
             va="top",
             fontsize=12,
             fontweight="bold",
+            color=TEXT_COLOR,
         )
         if legend_handles is None:
             legend_handles, legend_labels = ax.get_legend_handles_labels()
 
     fig.supxlabel("Year")
     fig.legend(
-        legend_handles[:2],
-        legend_labels[:2],
+        legend_handles[:3],
+        legend_labels[:3],
         loc="upper center",
-        bbox_to_anchor=(0.5, 1.08),
-        ncol=2,
+        bbox_to_anchor=(0.5, 0.98),
+        ncol=3,
         frameon=False,
         handlelength=2.0,
         columnspacing=1.2,
     )
+    fig.text(
+        0.99,
+        0.02,
+        "Shaded area: COVID era (2020-2023)",
+        ha="right",
+        va="bottom",
+        fontsize=8.5,
+        color="#4F4A43",
+    )
 
-    fig.tight_layout()
+    # Reserve a dedicated top band for the figure-level legend to avoid overlap.
+    fig.subplots_adjust(left=0.06, right=0.99, bottom=0.12, top=0.84, wspace=0.22)
     fig.savefig(FIGURE_DIR / "all_trends_by_sex_panel.png", dpi=300)
     fig.savefig(FIGURE_DIR / "all_trends_by_sex_panel.pdf")
     plt.close(fig)
@@ -212,4 +242,5 @@ def build_trend_figures() -> None:
 
 if __name__ == "__main__":
     build_trend_figures()
+
 

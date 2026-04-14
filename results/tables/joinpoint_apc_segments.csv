@@ -1,0 +1,10 @@
+Disease,Segment,Period,Start Year,End Year,Years in Segment,APC (% per year),APC Lower 95% CI,APC Upper 95% CI
+Pneumonia,1,2010-2018,2010,2018,9,-3.07,-3.52,-2.61
+Pneumonia,2,2019-2021,2019,2021,3,64.39,19.13,126.83
+Pneumonia,3,2022-2025,2022,2025,4,-13.31,-22.45,-3.09
+Pneumonia/ARDS,1,2010-2018,2010,2018,9,0.35,-0.98,1.7
+Pneumonia/ARDS,2,2019-2021,2019,2021,3,229.98,17.44,827.19
+Pneumonia/ARDS,3,2022-2025,2022,2025,4,-30.63,-46.83,-9.49
+Pneumonia/Sepsis,1,2010-2018,2010,2018,9,2.59,1.85,3.34
+Pneumonia/Sepsis,2,2019-2021,2019,2021,3,30.83,14.81,49.1
+Pneumonia/Sepsis,3,2022-2025,2022,2025,4,-5.97,-11.05,-0.61

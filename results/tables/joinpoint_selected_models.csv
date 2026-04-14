@@ -1,0 +1,4 @@
+Disease,N Points,Selected Joinpoints,Joinpoint Years,BIC,RSS
+Pneumonia,16,2,2019; 2022,,
+Pneumonia/ARDS,16,2,2019; 2022,,
+Pneumonia/Sepsis,16,2,2019; 2022,,

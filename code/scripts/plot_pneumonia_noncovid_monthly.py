@@ -21,6 +21,13 @@ END_YEAR = 2025
 PREDICTED_START_YEAR = 2018
 COVID_START = pd.Timestamp("2020-01-01")
 COVID_SHADE_END = pd.Timestamp("2023-12-31")
+OBSERVED_COLOR = "#17365D"
+PREDICTED_COLOR = "#B14A3B"
+COMPARISON_COLOR = "#2A6F4F"
+SHADE_COLOR = "#D8C7A3"
+TEXT_COLOR = "#1F1A17"
+ANNOTATION_COLOR = "#4F4A43"
+REFERENCE_COLOR = "#77736C"
 
 PNEUMONIA_PATH = CLEANED_DIR / "pneumonia_month.csv"
 COVID_PNEUMONIA_PATH = CLEANED_DIR / "pneumonia_covid_month.csv"
@@ -137,12 +144,12 @@ def build_pneumonia_noncovid_plot() -> None:
     pred_df, model_label = _read_pneumonia_predicted()
 
     fig, ax = plt.subplots(figsize=(11.2, 5.8))
-    ax.axvspan(COVID_START, COVID_SHADE_END, color="#D8C7A3", alpha=0.24, zorder=0)
+    ax.axvspan(COVID_START, COVID_SHADE_END, color=SHADE_COLOR, alpha=0.26, zorder=0)
 
     ax.plot(
         series_df["Plot Date"],
         series_df["Pneumonia AAMR"],
-        color="#1b3c73",
+        color=OBSERVED_COLOR,
         linewidth=1.9,
         label="Pneumonia (actual)",
         zorder=3,
@@ -150,7 +157,7 @@ def build_pneumonia_noncovid_plot() -> None:
     ax.plot(
         series_df["Plot Date"],
         series_df["Non-COVID Pneumonia AAMR"],
-        color="#2a6f4f",
+        color=COMPARISON_COLOR,
         linewidth=1.9,
         label="Non-COVID pneumonia (actual)",
         zorder=3,
@@ -158,14 +165,14 @@ def build_pneumonia_noncovid_plot() -> None:
     ax.plot(
         pred_df["Plot Date"],
         pred_df[PREDICTED_COL],
-        color="#b33b2e",
+        color=PREDICTED_COLOR,
         linewidth=1.9,
         linestyle=(0, (5, 2.3)),
         label="Predicted baseline (model)",
         zorder=4,
     )
 
-    ax.axvline(pd.Timestamp("2020-01-01"), color="#77736C", linestyle=":", linewidth=0.95)
+    ax.axvline(pd.Timestamp("2020-01-01"), color=REFERENCE_COLOR, linestyle=":", linewidth=0.95)
     ax.set_xlim(pd.Timestamp(f"{START_YEAR}-01-01"), pd.Timestamp(f"{END_YEAR}-12-31"))
     ax.set_xlabel("Year")
     ax.set_ylabel("Monthly AAMR")
@@ -175,7 +182,7 @@ def build_pneumonia_noncovid_plot() -> None:
     ax.grid(axis="y", alpha=0.8)
     ax.grid(axis="x", visible=False)
 
-    ax.set_title("Pneumonia and non-COVID pneumonia monthly AAMR, 2018-2025", loc="left", pad=28)
+    ax.set_title("Pneumonia and non-COVID pneumonia monthly AAMR, 2018-2025", loc="left", pad=28, color=TEXT_COLOR)
     if model_label:
         ax.text(
             0.0,
@@ -185,7 +192,7 @@ def build_pneumonia_noncovid_plot() -> None:
             ha="left",
             va="bottom",
             fontsize=8.5,
-            color="#4F4A43",
+            color=ANNOTATION_COLOR,
             style="italic",
         )
     ax.text(
@@ -195,7 +202,7 @@ def build_pneumonia_noncovid_plot() -> None:
         ha="center",
         va="top",
         fontsize=8.5,
-        color="#6F5E3D",
+        color=ANNOTATION_COLOR,
     )
     ax.legend(loc="upper center", bbox_to_anchor=(0.5, -0.20), ncol=3, frameon=False)
 

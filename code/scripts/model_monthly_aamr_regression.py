@@ -28,9 +28,9 @@ MIN_PROJECTED_AAMR = 0.0
 MIN_2025_TO_2019_MEAN_RATIO = 0.80
 
 DATASETS = {
-    "ARDS (ARDS + Pneumonia)": CLEANED_DIR / "ards_month.csv",
+    "Pneumonia/ARDS": CLEANED_DIR / "ards_month.csv",
     "Pneumonia": CLEANED_DIR / "pneumonia_month.csv",
-    "Sepsis+ Pneumonia": CLEANED_DIR / "combined_month.csv",
+    "Pneumonia/Sepsis": CLEANED_DIR / "combined_month.csv",
 }
 
 PLOT_COLORS = {
@@ -725,7 +725,7 @@ def _plot_validation(validation_df: pd.DataFrame) -> None:
     FIGURE_DIR.mkdir(parents=True, exist_ok=True)
     _apply_publication_style()
 
-    panel_order = ["ARDS (ARDS + Pneumonia)", "Pneumonia", "Sepsis+ Pneumonia"]
+    panel_order = ["Pneumonia/ARDS", "Pneumonia", "Pneumonia/Sepsis"]
     fig, axes = plt.subplots(1, 3, figsize=(14.5, 4.8), sharex=True)
 
     for ax, disease in zip(axes, panel_order):
@@ -799,7 +799,7 @@ def _plot_sensitivity_excess(sensitivity_prediction_df: pd.DataFrame) -> None:
     FIGURE_DIR.mkdir(parents=True, exist_ok=True)
     _apply_publication_style()
 
-    panel_order = ["ARDS (ARDS + Pneumonia)", "Pneumonia", "Sepsis+ Pneumonia"]
+    panel_order = ["Pneumonia/ARDS", "Pneumonia", "Pneumonia/Sepsis"]
     fig, axes = plt.subplots(1, 3, figsize=(14.5, 4.8), sharex=True)
 
     for ax, disease in zip(axes, panel_order):
@@ -883,3 +883,4 @@ def build_monthly_aamr_regression_outputs() -> None:
 
 if __name__ == "__main__":
     build_monthly_aamr_regression_outputs()
+

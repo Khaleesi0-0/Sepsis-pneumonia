@@ -16,16 +16,18 @@ COVID_END = 2023
 FIG_SIZE = (7.2, 4.8)
 LINE_WIDTH = 2.0
 MARKER_SIZE = 6
+SHADE_COLOR = "#D8C7A3"
+TEXT_COLOR = "#1F1A17"
 PLOT_COLORS = {
-    "ARDS (ARDS + Pneumonia)": "#1b3c73",
-    "Pneumonia": "#b33b2e",
-    "Sepsis+ Pneumonia": "#2a6f4f",
+    "Pneumonia": "#B14A3B",
+    "Pneumonia/ARDS": "#17365D",
+    "Pneumonia/Sepsis": "#2A6F4F",
 }
 
 DATASETS = {
-    "ARDS (ARDS + Pneumonia)": CLEANED_DIR / "ards_sex.csv",
+    "Pneumonia/ARDS": CLEANED_DIR / "ards_sex.csv",
     "Pneumonia": CLEANED_DIR / "pneumonia_sex.csv",
-    "Sepsis+ Pneumonia": CLEANED_DIR / "combined_sex.csv",
+    "Pneumonia/Sepsis": CLEANED_DIR / "combined_sex.csv",
 }
 
 
@@ -39,20 +41,20 @@ def _apply_publication_style() -> None:
             "savefig.bbox": "tight",
             "font.family": "serif",
             "font.serif": ["Times New Roman", "Times", "DejaVu Serif"],
-            "axes.labelsize": 11,
+            "axes.labelsize": 10.5,
             "axes.titlesize": 12,
             "axes.titleweight": "bold",
             "axes.linewidth": 0.9,
             "axes.spines.top": False,
             "axes.spines.right": False,
-            "xtick.labelsize": 10,
-            "ytick.labelsize": 10,
+            "xtick.labelsize": 9,
+            "ytick.labelsize": 9,
             "xtick.major.width": 0.8,
             "ytick.major.width": 0.8,
             "xtick.major.size": 4,
             "ytick.major.size": 4,
-            "grid.color": "#d9d9d9",
-            "grid.linewidth": 0.6,
+            "grid.color": "#e4e0d8",
+            "grid.linewidth": 0.55,
             "grid.linestyle": "--",
             "legend.frameon": False,
             "legend.fontsize": 9,
@@ -119,9 +121,8 @@ def build_total_trend_plot() -> None:
         palette=PLOT_COLORS,
         ax=ax,
     )
-    ax.axvspan(COVID_START, COVID_END, color="#bdbdbd", alpha=0.2, zorder=0)
+    ax.axvspan(COVID_START, COVID_END, color=SHADE_COLOR, alpha=0.26, zorder=0)
 
-    ax.set_title("Age-adjusted mortality trends")
     ax.set_xlabel("Year")
     ax.set_ylabel("Age-adjusted rate")
     ax.grid(axis="y", alpha=0.8)
@@ -139,8 +140,24 @@ def build_total_trend_plot() -> None:
         handlelength=2.2,
         columnspacing=1.4,
     )
+    fig.suptitle(
+        "Observed age-adjusted mortality trends, 2010-2025",
+        y=0.985,
+        fontsize=14,
+        fontweight="bold",
+        color=TEXT_COLOR,
+    )
+    fig.text(
+        0.5,
+        0.945,
+        "Shaded region marks 2020-2023 (COVID era).",
+        ha="center",
+        va="center",
+        fontsize=9.2,
+        color="#4F4A43",
+    )
 
-    fig.tight_layout()
+    fig.tight_layout(rect=[0.0, 0.0, 1.0, 0.89])
     fig.savefig(FIGURE_DIR / "total_trend_three_diseases.png", dpi=300)
     fig.savefig(FIGURE_DIR / "total_trend_three_diseases.pdf")
     plt.close(fig)
@@ -148,3 +165,4 @@ def build_total_trend_plot() -> None:
 
 if __name__ == "__main__":
     build_total_trend_plot()
+

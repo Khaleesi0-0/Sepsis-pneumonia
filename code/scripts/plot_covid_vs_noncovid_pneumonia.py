@@ -18,11 +18,14 @@ RATE_COL = "Age Adjusted Rate"
 NOTES_COL = "Notes"
 COVID_START = 2020
 COVID_END = 2023
+SHADE_COLOR = "#D8C7A3"
+TEXT_COLOR = "#1F1A17"
+ANNOTATION_COLOR = "#4F4A43"
 SERIES_ORDER = ["Pneumonia", "Pneumonia + COVID", "Non-COVID Pneumonia"]
 SERIES_PALETTE = {
-    "Pneumonia": "#4d4d4d",
-    "Pneumonia + COVID": "#b33b2e",
-    "Non-COVID Pneumonia": "#1b3c73",
+    "Pneumonia": "#4F4A43",
+    "Pneumonia + COVID": "#B14A3B",
+    "Non-COVID Pneumonia": "#17365D",
 }
 
 
@@ -36,20 +39,20 @@ def _apply_publication_style() -> None:
             "savefig.bbox": "tight",
             "font.family": "serif",
             "font.serif": ["Times New Roman", "Times", "DejaVu Serif"],
-            "axes.labelsize": 11,
-            "axes.titlesize": 11.5,
+            "axes.labelsize": 10.5,
+            "axes.titlesize": 12,
             "axes.titleweight": "bold",
             "axes.linewidth": 0.9,
             "axes.spines.top": False,
             "axes.spines.right": False,
-            "xtick.labelsize": 9.5,
-            "ytick.labelsize": 9.5,
+            "xtick.labelsize": 9,
+            "ytick.labelsize": 9,
             "xtick.major.width": 0.8,
             "ytick.major.width": 0.8,
             "xtick.major.size": 4,
             "ytick.major.size": 4,
-            "grid.color": "#d9d9d9",
-            "grid.linewidth": 0.6,
+            "grid.color": "#e4e0d8",
+            "grid.linewidth": 0.55,
             "grid.linestyle": "--",
             "legend.frameon": False,
             "legend.fontsize": 9,
@@ -114,8 +117,8 @@ def build_covid_noncovid_relation_plot() -> None:
         palette=SERIES_PALETTE,
         ax=axes[0],
     )
-    axes[0].axvspan(COVID_START, COVID_END, color="#bdbdbd", alpha=0.2, zorder=0)
-    axes[0].set_title("Pneumonia mortality trends")
+    axes[0].axvspan(COVID_START, COVID_END, color=SHADE_COLOR, alpha=0.26, zorder=0)
+    axes[0].set_title("Pneumonia mortality trends", loc="left", pad=12, color=TEXT_COLOR)
     axes[0].set_xlabel("Year")
     axes[0].set_ylabel("Age-adjusted rate")
     axes[0].set_xticks(sorted(merged[YEAR_COL].unique()))
@@ -136,8 +139,8 @@ def build_covid_noncovid_relation_plot() -> None:
         data=rel_df,
         x="Pneumonia + COVID",
         y="Non-COVID Pneumonia",
-        scatter_kws={"s": 40, "alpha": 0.9, "color": "#1b3c73"},
-        line_kws={"color": "#4d4d4d", "linewidth": 1.4},
+        scatter_kws={"s": 40, "alpha": 0.9, "color": "#17365D"},
+        line_kws={"color": "#4F4A43", "linewidth": 1.4},
         ci=None,
         ax=axes[1],
     )
@@ -149,7 +152,7 @@ def build_covid_noncovid_relation_plot() -> None:
             xytext=(4, 4),
             fontsize=8,
         )
-    axes[1].set_title("Association during COVID-era years")
+    axes[1].set_title("Association during COVID-era years", loc="left", pad=12, color=TEXT_COLOR)
     axes[1].set_xlabel("Pneumonia + COVID age-adjusted rate")
     axes[1].set_ylabel("Non-COVID pneumonia age-adjusted rate")
     axes[1].grid(alpha=0.8)
@@ -176,7 +179,18 @@ def build_covid_noncovid_relation_plot() -> None:
             va="top",
             fontsize=12,
             fontweight="bold",
+            color=TEXT_COLOR,
         )
+
+    fig.text(
+        0.5,
+        0.015,
+        "Shaded area: COVID era (2020-2023)",
+        ha="center",
+        va="bottom",
+        fontsize=9,
+        color=TEXT_COLOR,
+    )
 
     fig.tight_layout()
     fig.savefig(FIGURE_DIR / "covid_vs_noncovid_pneumonia_relation.png", dpi=300)

@@ -61,7 +61,7 @@ METRIC_ORDER = [
 ]
 
 DATASETS = {
-    "ARDS (ARDS + Pneumonia)": {
+    "Pneumonia/ARDS": {
         "sex": CLEANED_DIR / "ards_sex.csv",
         "age": CLEANED_DIR / "ards_age.csv",
         "race": CLEANED_DIR / "ards_race.csv",
@@ -73,7 +73,7 @@ DATASETS = {
         "race": CLEANED_DIR / "pneumonia_race.csv",
         "pod": CLEANED_DIR / "pneumonia_pod.csv",
     },
-    "Sepsis+ Pneumonia": {
+    "Pneumonia/Sepsis": {
         "sex": CLEANED_DIR / "combined_sex.csv",
         "age": CLEANED_DIR / "combined_age.csv",
         "race": CLEANED_DIR / "combined_race.csv",
@@ -243,3 +243,4 @@ def build_tables() -> None:
 
 if __name__ == "__main__":
     build_tables()
+

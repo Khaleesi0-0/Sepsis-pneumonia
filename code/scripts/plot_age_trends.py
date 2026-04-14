@@ -17,12 +17,14 @@ AGE_GROUP_COL = "Age Group"
 YEAR_COL = "Year"
 LINE_WIDTH = 1.9
 MARKER_SIZE = 5.5
+SHADE_COLOR = "#D8C7A3"
+TEXT_COLOR = "#1F1A17"
 AGE_GROUP_ORDER = ["<25", "25-44", "45-64", "65+"]
 AGE_PALETTE = {
-    "<25": "#1b3c73",   # blue
-    "25-44": "#2a6f4f", # bluish green
-    "45-64": "#E69F00", # orange
-    "65+":  "#b33b2e",   # reddish purple
+    "<25": "#17365D",
+    "25-44": "#2A6F4F",
+    "45-64": "#C17C00",
+    "65+": "#B14A3B",
 }
 
 DATASETS = {
@@ -54,20 +56,20 @@ def _apply_publication_style() -> None:
             "savefig.bbox": "tight",
             "font.family": "serif",
             "font.serif": ["Times New Roman", "Times", "DejaVu Serif"],
-            "axes.labelsize": 11,
-            "axes.titlesize": 11.5,
+            "axes.labelsize": 10.5,
+            "axes.titlesize": 12,
             "axes.titleweight": "bold",
             "axes.linewidth": 0.9,
             "axes.spines.top": False,
             "axes.spines.right": False,
-            "xtick.labelsize": 9.5,
-            "ytick.labelsize": 9.5,
+            "xtick.labelsize": 9,
+            "ytick.labelsize": 9,
             "xtick.major.width": 0.8,
             "ytick.major.width": 0.8,
             "xtick.major.size": 4,
             "ytick.major.size": 4,
-            "grid.color": "#d9d9d9",
-            "grid.linewidth": 0.6,
+            "grid.color": "#e4e0d8",
+            "grid.linewidth": 0.55,
             "grid.linestyle": "--",
             "legend.frameon": False,
             "legend.fontsize": 9,
@@ -114,8 +116,8 @@ def _draw_single_trend(ax: plt.Axes, df: pd.DataFrame, title: str, show_legend: 
         palette=AGE_PALETTE,
         ax=ax,
     )
-    ax.axvspan(COVID_START, COVID_END, color="#bdbdbd", alpha=0.2, zorder=0)
-    ax.set_title(title)
+    ax.axvspan(COVID_START, COVID_END, color=SHADE_COLOR, alpha=0.26, zorder=0)
+    ax.set_title(title, loc="left", pad=12, color=TEXT_COLOR)
     ax.set_xlabel("Year")
     ax.set_ylabel("Age-adjusted rate")
     year_ticks = _select_year_ticks(df[YEAR_COL].dropna().unique().tolist())
@@ -151,22 +153,23 @@ def build_trend_figures() -> None:
     for name, csv_path in DATASETS.items():
         raw = pd.read_csv(csv_path)
         prepared[name] = _prepare_for_plot(raw)
+    disease_titles = {
+        "pneumonia": "Pneumonia",
+        "ards": "Pneumonia/ARDS",
+        "combined": "Pneumonia/Sepsis",
+    }
 
     for name, df in prepared.items():
         fig, ax = plt.subplots(figsize=(6.8, 4.6))
-        _draw_single_trend(ax, df, f"{name.capitalize()} trend by age group", show_legend=True)
+        _draw_single_trend(ax, df, f"{disease_titles[name]} trend by age group", show_legend=True)
         fig.tight_layout()
         fig.savefig(FIGURE_DIR / f"{name}_trend_by_age.png", dpi=300)
         fig.savefig(FIGURE_DIR / f"{name}_trend_by_age.pdf")
         plt.close(fig)
 
     fig, axes = plt.subplots(1, 3, figsize=(14.5, 4.8), sharex=True, sharey=False)
-    panel_order = ["ards", "pneumonia", "combined"]
-    panel_titles = {
-        "ards": "ARDS (ARDS + Pneumonia)",
-        "pneumonia": "Pneumonia",
-        "combined": "Sepsis+ Pneumonia",
-    }
+    panel_order = ["pneumonia", "ards", "combined"]
+    panel_titles = disease_titles
     panel_labels = ["A", "B", "C"]
 
     legend_handles = None
@@ -184,6 +187,7 @@ def build_trend_figures() -> None:
             va="top",
             fontsize=12,
             fontweight="bold",
+            color=TEXT_COLOR,
         )
 
     axes[0].set_xlabel("")
@@ -203,6 +207,15 @@ def build_trend_figures() -> None:
         handlelength=2.0,
         columnspacing=1.2,
     )
+    fig.text(
+        0.99,
+        0.02,
+        "Shaded area: COVID era (2020-2023)",
+        ha="right",
+        va="bottom",
+        fontsize=8.5,
+        color="#4F4A43",
+    )
 
     fig.tight_layout()
     fig.savefig(FIGURE_DIR / "all_trends_by_age_panel.png", dpi=300)
@@ -212,3 +225,4 @@ def build_trend_figures() -> None:
 
 if __name__ == "__main__":
     build_trend_figures()
+

@@ -22,9 +22,9 @@ PERIODS = [
 ]
 
 DATASETS = {
-    "ARDS (ARDS + Pneumonia)": CLEANED_DIR / "ards_state.csv",
     "Pneumonia": CLEANED_DIR / "pneumonia_state.csv",
-    "Sepsis+ Pneumonia": CLEANED_DIR / "combined_state.csv",
+    "Pneumonia/ARDS": CLEANED_DIR / "ards_state.csv",
+    "Pneumonia/Sepsis": CLEANED_DIR / "combined_state.csv",
 }
 
 KEEP_STATES = {
@@ -174,9 +174,16 @@ def build_state_map_data_table() -> None:
             "AAMR (/100,000)",
         ]
     ]
+    table["Outcome"] = pd.Categorical(
+        table["Outcome"],
+        categories=["Pneumonia", "Pneumonia/ARDS", "Pneumonia/Sepsis"],
+        ordered=True,
+    )
     table = table.sort_values(["Outcome", "Period", STATE_COL]).reset_index(drop=True)
+    table["Outcome"] = table["Outcome"].astype("string")
     table.to_csv(TABLE_DIR / "state_map_period_data.csv", index=False)
 
 
 if __name__ == "__main__":
     build_state_map_data_table()
+

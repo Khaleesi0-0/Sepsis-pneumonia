@@ -52,15 +52,15 @@ PERIODS = [
 ]
 
 DISEASE_STYLES = {
-    "ARDS (ARDS + Pneumonia)": {"cmap": "Blues", "cbar_label": "AAMR (/100,000)", "title_color": "#1f4e79"},
     "Pneumonia": {"cmap": "Oranges", "cbar_label": "AAMR (/100,000)", "title_color": "#8a4b08"},
-    "Sepsis+ Pneumonia": {"cmap": "Greens", "cbar_label": "AAMR (/100,000)", "title_color": "#215a33"},
+    "Pneumonia/ARDS": {"cmap": "Blues", "cbar_label": "AAMR (/100,000)", "title_color": "#1f4e79"},
+    "Pneumonia/Sepsis": {"cmap": "Greens", "cbar_label": "AAMR (/100,000)", "title_color": "#215a33"},
 }
 
 DATASETS = {
-    "ARDS (ARDS + Pneumonia)": CLEANED_DIR / "ards_state.csv",
     "Pneumonia": CLEANED_DIR / "pneumonia_state.csv",
-    "Sepsis+ Pneumonia": CLEANED_DIR / "combined_state.csv",
+    "Pneumonia/ARDS": CLEANED_DIR / "ards_state.csv",
+    "Pneumonia/Sepsis": CLEANED_DIR / "combined_state.csv",
 }
 
 KEEP_STATES = {
@@ -386,3 +386,4 @@ def build_state_maps() -> None:
 
 if __name__ == "__main__":
     build_state_maps()
+

@@ -28,15 +28,22 @@ VALIDATION_PATH = TABLE_DIR / "monthly_aamr_validation_2018_2019.csv"
 PREDICTION_PATH = TABLE_DIR / "monthly_aamr_predicted_2020_2025.csv"
 
 DATASETS = {
-    "ARDS (ARDS + Pneumonia)": CLEANED_DIR / "ards_month.csv",
     "Pneumonia": CLEANED_DIR / "pneumonia_month.csv",
-    "Sepsis+ Pneumonia": CLEANED_DIR / "combined_month.csv",
+    "Pneumonia/ARDS": CLEANED_DIR / "ards_month.csv",
+    "Pneumonia/Sepsis": CLEANED_DIR / "combined_month.csv",
+}
+
+DISEASE_NAME_MAP = {
+    "ARDS (ARDS + Pneumonia)": "Pneumonia/ARDS",
+    "Sepsis+ Pneumonia": "Pneumonia/Sepsis",
+    "ARDS/Pneumonia": "Pneumonia/ARDS",
+    "Sepsis/Pneumonia": "Pneumonia/Sepsis",
 }
 
 PANEL_LAYOUT = [
-    ("A", "ARDS (ARDS + Pneumonia)", "ARDS (ARDS + Pneumonia)", 0, 0, 1, 2),
-    ("B", "Pneumonia", "Pneumonia", 0, 2, 1, 2),
-    ("C", "Sepsis+ Pneumonia", "Sepsis+ Pneumonia", 1, 1, 1, 2),
+    ("A", "Pneumonia", "Pneumonia", 0, 0, 1, 2),
+    ("B", "Pneumonia/ARDS", "Pneumonia/ARDS", 0, 2, 1, 2),
+    ("C", "Pneumonia/Sepsis", "Pneumonia/Sepsis", 1, 1, 1, 2),
 ]
 
 OBSERVED_COLOR = "#17365D"
@@ -150,6 +157,12 @@ def _read_predicted_monthly_aamr() -> pd.DataFrame:
     else:
         predicted_df["Month Number"] = pd.to_numeric(predicted_df["Month Number"], errors="coerce")
     predicted_df[PREDICTED_COL] = pd.to_numeric(predicted_df[PREDICTED_COL], errors="coerce")
+    predicted_df["Disease"] = (
+        predicted_df["Disease"]
+        .astype("string")
+        .str.strip()
+        .replace(DISEASE_NAME_MAP)
+    )
     predicted_df = predicted_df.dropna(
         subset=[YEAR_COL, "Month Number", PREDICTED_COL, "Disease"]
     ).copy()
@@ -272,7 +285,7 @@ def _draw_panel(
     )
 
     ax.set_xlabel("")
-    ax.set_ylabel("Monthly AAMR")
+    ax.set_ylabel("")
     ax.xaxis.set_major_locator(mdates.YearLocator(2))
     ax.xaxis.set_major_formatter(mdates.DateFormatter("%Y"))
     ax.grid(axis="y", alpha=0.8)
@@ -302,7 +315,6 @@ def build_monthly_aamr_actual_predicted_plot() -> None:
         _draw_panel(ax, trend_df, predicted_df, disease, panel_label, panel_title)
         axes.append(ax)
 
-    axes[1].set_ylabel("")
     handles, labels = axes[0].get_legend_handles_labels()
     fig.legend(
         handles,
@@ -314,7 +326,7 @@ def build_monthly_aamr_actual_predicted_plot() -> None:
         handlelength=2.8,
         columnspacing=1.7,
     )
-    fig.supxlabel("Year", y=0.055, fontsize=10.5)
+    fig.supxlabel("Year", y=0.05, fontsize=10.5)
     fig.supylabel("Monthly age-adjusted mortality rate per 100,000", x=0.018, fontsize=10.5)
     fig.suptitle(
         "Observed and predicted monthly age-adjusted mortality rates, 2010-2025",
@@ -339,3 +351,4 @@ def build_monthly_aamr_actual_predicted_plot() -> None:
 
 if __name__ == "__main__":
     build_monthly_aamr_actual_predicted_plot()
+

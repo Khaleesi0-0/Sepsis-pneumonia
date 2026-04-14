@@ -44,7 +44,7 @@ OUTPUT_COLUMNS = [
 ]
 
 DATASETS = {
-    "ARDS (ARDS + Pneumonia)": {
+    "Pneumonia/ARDS": {
         "sex": CLEANED_DIR / "ards_sex.csv",
         "race": CLEANED_DIR / "ards_race.csv",
     },
@@ -52,7 +52,7 @@ DATASETS = {
         "sex": CLEANED_DIR / "pneumonia_sex.csv",
         "race": CLEANED_DIR / "pneumonia_race.csv",
     },
-    "Sepsis+ Pneumonia": {
+    "Pneumonia/Sepsis": {
         "sex": CLEANED_DIR / "combined_sex.csv",
         "race": CLEANED_DIR / "combined_race.csv",
     },
@@ -197,3 +197,4 @@ def build_table() -> None:
 
 if __name__ == "__main__":
     build_table()
+
