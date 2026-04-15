@@ -13,6 +13,16 @@ TABLE_DIR = ROOT / "results" / "tables"
 CSV_PATH = TABLE_DIR / "state_map_period_data.csv"
 DOC_PATH = TABLE_DIR / "state_map_period_data.docx"
 
+DISEASE_ORDER = ["Pneumonia", "Pneumonia/ARDS", "Pneumonia/Sepsis"]
+DISEASE_NAME_MAP = {
+    "ARDS (ARDS + Pneumonia)": "Pneumonia/ARDS",
+    "ARDS/Pneumonia": "Pneumonia/ARDS",
+    "Sepsis+ Pneumonia": "Pneumonia/Sepsis",
+    "Sepsis/Pneumonia": "Pneumonia/Sepsis",
+    "Combined": "Pneumonia/Sepsis",
+    "combined": "Pneumonia/Sepsis",
+}
+
 
 def _ensure_python_docx():
     try:
@@ -70,6 +80,22 @@ def _repeat_header_row(row) -> None:
 
 def _format_table_values(df: pd.DataFrame) -> pd.DataFrame:
     out = df.copy()
+    outcome_col = "Outcome" if "Outcome" in out.columns else ("outcome" if "outcome" in out.columns else None)
+    if outcome_col is not None:
+        out[outcome_col] = out[outcome_col].astype("string").str.strip().replace(DISEASE_NAME_MAP)
+        out[outcome_col] = pd.Categorical(out[outcome_col], categories=DISEASE_ORDER, ordered=True)
+
+    if "Period" in out.columns:
+        period_order = {
+            "Pre-pandemic (2010–2019)": 1,
+            "Pandemic (2020-2023)": 2,
+            "Pandemic (2020–2023)": 2,
+            "Post-pandemic (2024–2025)": 3,
+        }
+        out["__period_ord"] = out["Period"].astype("string").map(period_order)
+    else:
+        out["__period_ord"] = pd.NA
+
     for col in ["Deaths", "Population"]:
         if col in out.columns:
             out[col] = pd.to_numeric(out[col], errors="coerce").round(0).astype("Int64").astype("string")
@@ -78,6 +104,14 @@ def _format_table_values(df: pd.DataFrame) -> pd.DataFrame:
             out[col] = pd.to_numeric(out[col], errors="coerce").map(lambda value: f"{value:.2f}" if pd.notna(value) else "")
     if "State Code" in out.columns:
         out["State Code"] = pd.to_numeric(out["State Code"], errors="coerce").round(0).astype("Int64").astype("string")
+    sort_cols = []
+    if outcome_col is not None:
+        sort_cols.append(outcome_col)
+    sort_cols.extend(["__period_ord"])
+    if "State" in out.columns:
+        sort_cols.append("State")
+    out = out.sort_values(sort_cols, na_position="last").reset_index(drop=True)
+    out = out.drop(columns=["__period_ord"], errors="ignore")
     return out.fillna("")
 
 

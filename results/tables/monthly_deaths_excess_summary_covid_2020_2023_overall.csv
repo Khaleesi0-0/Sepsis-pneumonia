@@ -1,0 +1,4 @@
+Disease,Year,Mean Actual Deaths,Mean Predicted Deaths,Mean Excess Deaths,Total Actual Deaths,Total Predicted Deaths,Total Excess Deaths
+Pneumonia,2020-2023,22489.6,11708.7,10780.9,1079502.0,562017.9,517484.1
+Pneumonia/ARDS,2020-2023,1835.0,330.2,1504.8,88082.0,15851.6,72230.4
+Pneumonia/Sepsis,2020-2023,5265.5,3832.9,1432.6,252746.0,183980.5,68765.5

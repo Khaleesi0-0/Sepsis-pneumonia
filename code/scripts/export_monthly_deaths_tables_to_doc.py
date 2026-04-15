@@ -1,51 +1,31 @@
-from __future__ import annotations
-
-import importlib
-import subprocess
-import sys
 from pathlib import Path
 
 import pandas as pd
-
-
-ROOT = Path(__file__).resolve().parents[2]
-TABLE_ROOT = ROOT / "results" / "tables"
-DOC_PATH = TABLE_ROOT / "tables_export.docx"
-
-TABLE_SOURCES = [
-    TABLE_ROOT / "overall_summary_table.csv",
-    TABLE_ROOT / "outcome_year_summary_table.csv",
-    TABLE_ROOT / "period_summary" / "all_outcomes_period_summary_table.csv",
-    TABLE_ROOT / "period_summary" / "ards_period_summary_table.csv",
-    TABLE_ROOT / "period_summary" / "pneumonia_period_summary_table.csv",
-    TABLE_ROOT / "period_summary" / "sepsis_pneumonia_period_summary_table.csv",
-]
-
-DISEASE_ORDER = ["Pneumonia", "Pneumonia/ARDS", "Pneumonia/Sepsis"]
-DISEASE_NAME_MAP = {
-    "ARDS (ARDS + Pneumonia)": "Pneumonia/ARDS",
-    "ARDS/Pneumonia": "Pneumonia/ARDS",
-    "Sepsis+ Pneumonia": "Pneumonia/Sepsis",
-    "Sepsis/Pneumonia": "Pneumonia/Sepsis",
-    "Combined": "Pneumonia/Sepsis",
-    "combined": "Pneumonia/Sepsis",
-}
-
-
-def _ensure_python_docx():
-    try:
-        return importlib.import_module("docx")
-    except ModuleNotFoundError:
-        subprocess.check_call([sys.executable, "-m", "pip", "install", "python-docx"])
-        return importlib.import_module("docx")
-
-
-docx = _ensure_python_docx()
 from docx import Document
 from docx.enum.section import WD_ORIENT
 from docx.oxml import OxmlElement
 from docx.oxml.ns import qn
 from docx.shared import Inches, Pt, RGBColor
+
+
+ROOT = Path(__file__).resolve().parents[2]
+TABLE_DIR = ROOT / "results" / "tables"
+DOC_PATH = TABLE_DIR / "monthly_deaths_validation_and_predicted_tables.docx"
+
+TABLE_SOURCES = [
+    TABLE_DIR / "monthly_deaths_validation_2018_2019.csv",
+    TABLE_DIR / "monthly_deaths_predicted_2020_2025.csv",
+]
+
+DISEASE_ORDER = ["Pneumonia", "Pneumonia/ARDS", "Pneumonia/Sepsis"]
+DISEASE_NAME_MAP = {
+    "Combined": "Pneumonia/Sepsis",
+    "combined": "Pneumonia/Sepsis",
+    "Sepsis+ Pneumonia": "Pneumonia/Sepsis",
+    "Sepsis/Pneumonia": "Pneumonia/Sepsis",
+    "ARDS (ARDS + Pneumonia)": "Pneumonia/ARDS",
+    "ARDS/Pneumonia": "Pneumonia/ARDS",
+}
 
 
 def _set_cell_shading(cell, fill: str) -> None:
@@ -75,7 +55,7 @@ def _style_table(table) -> None:
                 paragraph.paragraph_format.space_before = Pt(0)
                 for run in paragraph.runs:
                     run.font.name = "Times New Roman"
-                    run.font.size = Pt(9)
+                    run.font.size = Pt(8 if row_idx > 0 else 9)
         if row_idx == 0:
             for cell in row.cells:
                 _set_cell_shading(cell, "D9E2F3")
@@ -94,9 +74,14 @@ def _set_landscape(section) -> None:
 
 
 def _add_dataframe_table(document: Document, title: str, df: pd.DataFrame) -> None:
-    document.add_heading(title, level=1)
+    heading = document.add_paragraph()
+    heading_run = heading.add_run(title)
+    heading_run.bold = True
+    heading_run.font.name = "Times New Roman"
+    heading_run.font.size = Pt(11)
+
     table = document.add_table(rows=1, cols=len(df.columns))
-    table.autofit = False
+    table.autofit = True
 
     for col_idx, column_name in enumerate(df.columns):
         _set_cell_text(table.rows[0].cells[col_idx], column_name, bold=True, size=9)
@@ -110,69 +95,82 @@ def _add_dataframe_table(document: Document, title: str, df: pd.DataFrame) -> No
     document.add_paragraph("")
 
 
-def _load_table(path: Path) -> pd.DataFrame:
-    df = pd.read_csv(path)
-    disease_col = None
-    for col in ["Disease", "Outcome", "outcome"]:
-        if col in df.columns:
-            disease_col = col
-            break
-    if disease_col is None:
-        return df
+def _month_number_from_code(month_code: pd.Series) -> pd.Series:
+    return pd.to_numeric(
+        month_code.astype("string").str.extract(r"/(\d{2})$", expand=False),
+        errors="coerce",
+    )
 
+
+def _normalize_and_sort(df: pd.DataFrame) -> pd.DataFrame:
     out = df.copy()
-    out[disease_col] = out[disease_col].astype("string").str.strip().replace(DISEASE_NAME_MAP)
-    out[disease_col] = pd.Categorical(out[disease_col], categories=DISEASE_ORDER, ordered=True)
+    if "Disease" in out.columns:
+        out["Disease"] = out["Disease"].astype("string").str.strip().replace(DISEASE_NAME_MAP)
+        out["Disease"] = pd.Categorical(out["Disease"], categories=DISEASE_ORDER, ordered=True)
 
-    sort_cols = [disease_col]
     if "Year" in out.columns:
         out["__year_num"] = pd.to_numeric(out["Year"], errors="coerce")
-        sort_cols.append("__year_num")
-    if "Period" in out.columns:
-        period_order = {
-            "Pre-pandemic (2010–2019)": 1,
-            "Pandemic (2020–2023)": 2,
-            "Post-pandemic (2024–2025)": 3,
-            "2019-2021": 1,
-            "2022-2025": 2,
-        }
-        out["__period_ord"] = out["Period"].astype("string").map(period_order)
-        sort_cols.append("__period_ord")
+    else:
+        out["__year_num"] = pd.NA
 
+    if "Month Code" in out.columns:
+        out["__month_num"] = _month_number_from_code(out["Month Code"])
+    else:
+        out["__month_num"] = pd.NA
+
+    sort_cols = []
+    if "Disease" in out.columns:
+        sort_cols.append("Disease")
+    sort_cols.extend(["__year_num", "__month_num"])
     out = out.sort_values(sort_cols, na_position="last").reset_index(drop=True)
-    out = out.drop(columns=["__year_num", "__period_ord"], errors="ignore")
-    return out
+    return out.drop(columns=["__year_num", "__month_num"], errors="ignore")
 
 
 def export_tables() -> None:
     document = Document()
     _set_landscape(document.sections[0])
 
-    styles = document.styles
-    normal = styles["Normal"]
+    normal = document.styles["Normal"]
     normal.font.name = "Times New Roman"
     normal.font.size = Pt(9)
 
     title = document.add_paragraph()
     title.alignment = 1
-    run = title.add_run("Summary Tables")
+    run = title.add_run("Monthly Deaths Validation and Predicted Tables")
     run.bold = True
     run.font.name = "Times New Roman"
     run.font.size = Pt(14)
 
     subtitle = document.add_paragraph()
     subtitle.alignment = 1
-    run = subtitle.add_run("Publication-ready export of all generated tables")
+    run = subtitle.add_run("Publication-style export")
     run.italic = True
     run.font.name = "Times New Roman"
     run.font.size = Pt(10)
 
-    for table_path in TABLE_SOURCES:
+    for idx, table_path in enumerate(TABLE_SOURCES):
         if not table_path.exists():
             continue
-        df = _load_table(table_path)
-        _add_dataframe_table(document, table_path.stem.replace("_", " ").title(), df)
-        document.add_page_break()
+        df = _normalize_and_sort(pd.read_csv(table_path))
+        title = table_path.stem.replace("_", " ").title()
+
+        if "Disease" not in df.columns:
+            _add_dataframe_table(document, title, df)
+        else:
+            section_heading = document.add_paragraph()
+            run = section_heading.add_run(title)
+            run.bold = True
+            run.font.name = "Times New Roman"
+            run.font.size = Pt(11)
+
+            for disease in DISEASE_ORDER:
+                disease_df = df[df["Disease"].astype("string").eq(disease)].copy()
+                if disease_df.empty:
+                    continue
+                _add_dataframe_table(document, disease, disease_df)
+
+        if idx < len(TABLE_SOURCES) - 1:
+            document.add_page_break()
 
     DOC_PATH.parent.mkdir(parents=True, exist_ok=True)
     document.save(DOC_PATH)
