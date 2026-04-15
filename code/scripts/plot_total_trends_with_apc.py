@@ -25,18 +25,21 @@ PLOT_COLORS = {
     "Pneumonia": "#B14A3B",
     "Pneumonia/ARDS": "#17365D",
     "Pneumonia/Sepsis": "#2A6F4F",
+    "Non-COVID Pneumonia": "#8B5A2B",
 }
 
 DATASETS = {
     "Pneumonia": CLEANED_DIR / "pneumonia_sex.csv",
     "Pneumonia/ARDS": CLEANED_DIR / "ards_sex.csv",
     "Pneumonia/Sepsis": CLEANED_DIR / "combined_sex.csv",
+    "Non-COVID Pneumonia": CLEANED_DIR / "non_covid_pneumonia_sex.csv",
 }
 
 SEGMENT_OFFSETS = {
-    "Pneumonia": [-18, 18, -12],
+    "Pneumonia": [18, 18, 18],
     "Pneumonia/ARDS": [18, -20, 12],
     "Pneumonia/Sepsis": [8, -8, 16],
+    "Non-COVID Pneumonia": [18, -18],
 }
 
 
@@ -103,6 +106,11 @@ def build_total_trend_with_apc_plot() -> None:
     for disease_name, path in DATASETS.items():
         trend_frames.append(_extract_total_series(path, disease_name))
     trend_df = pd.concat(trend_frames, ignore_index=True)
+    trend_plot_df = trend_df.copy()
+    non_covid_mask = trend_plot_df["Disease"].astype("string").str.strip().eq("Non-COVID Pneumonia")
+    trend_plot_df = trend_plot_df[
+        ~non_covid_mask | trend_plot_df[YEAR_COL].between(2019, 2025)
+    ].copy()
 
     apc_df = pd.read_csv(APC_TABLE_PATH)
     apc_df["Start Year"] = pd.to_numeric(apc_df["Start Year"], errors="coerce")
@@ -114,23 +122,25 @@ def build_total_trend_with_apc_plot() -> None:
 
     fig, ax = plt.subplots(figsize=(10.4, 6.2))
 
-    sns.lineplot(
-        data=trend_df,
-        x=YEAR_COL,
-        y=RATE_COL,
-        hue="Disease",
-        marker="o",
-        linewidth=2.0,
-        markersize=6,
-        dashes=False,
-        palette=PLOT_COLORS,
-        ax=ax,
-    )
+    for disease_name in DATASETS.keys():
+        disease_series = trend_plot_df[trend_plot_df["Disease"].eq(disease_name)].sort_values(YEAR_COL)
+        if disease_series.empty:
+            continue
+        ax.plot(
+            disease_series[YEAR_COL],
+            disease_series[RATE_COL],
+            marker="o",
+            linewidth=2.0,
+            markersize=6,
+            linestyle="--" if disease_name == "Non-COVID Pneumonia" else "-",
+            color=PLOT_COLORS[disease_name],
+            label=disease_name,
+        )
     ax.axvspan(COVID_START, COVID_END, color=SHADE_COLOR, alpha=0.26, zorder=0)
     ax.axvline(2019, color="#77736C", linestyle=":", linewidth=0.95)
     ax.axvline(2021, color="#77736C", linestyle=":", linewidth=0.95)
 
-    for disease, disease_df in trend_df.groupby("Disease", sort=False):
+    for disease, disease_df in trend_plot_df.groupby("Disease", sort=False):
         disease_apc = apc_df[apc_df["Disease"].astype("string").str.strip().eq(disease)].copy()
         if disease_apc.empty:
             continue
@@ -173,7 +183,7 @@ def build_total_trend_with_apc_plot() -> None:
     ax.set_title("Overall mortality trend with segmented APC (95% CI)", loc="left", pad=12, color=TEXT_COLOR)
     ax.set_xlabel("Year")
     ax.set_ylabel("Age-adjusted rate")
-    ax.set_xticks(sorted(trend_df[YEAR_COL].dropna().unique()))
+    ax.set_xticks(sorted(trend_plot_df[YEAR_COL].dropna().unique()))
     ax.grid(axis="y", alpha=0.8)
     ax.grid(axis="x", visible=False)
 
@@ -184,7 +194,7 @@ def build_total_trend_with_apc_plot() -> None:
         title=None,
         loc="upper center",
         bbox_to_anchor=(0.5, 1.14),
-        ncol=3,
+        ncol=4,
         handlelength=2.2,
         columnspacing=1.4,
     )
@@ -214,4 +224,3 @@ def build_total_trend_with_apc_plot() -> None:
 
 if __name__ == "__main__":
     build_total_trend_with_apc_plot()
-

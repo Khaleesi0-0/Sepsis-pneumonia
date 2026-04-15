@@ -17,6 +17,7 @@ DATASETS = {
     "Pneumonia": CLEANED_DIR / "pneumonia_sex.csv",
     "Pneumonia/ARDS": CLEANED_DIR / "ards_sex.csv",
     "Pneumonia/Sepsis": CLEANED_DIR / "combined_sex.csv",
+    "Non-COVID Pneumonia": CLEANED_DIR / "non_covid_pneumonia_sex.csv",
 }
 
 MAX_JOINPOINTS = 3
@@ -26,6 +27,13 @@ COMMON_SEGMENTS = [
     ("2019-2021", 2019, 2021),
     ("2022-2025", 2022, 2025),
 ]
+
+DISEASE_SEGMENTS = {
+    "Non-COVID Pneumonia": [
+        ("2019-2021", 2019, 2021),
+        ("2022-2025", 2022, 2025),
+    ],
+}
 
 
 def _prepare_total_series(csv_path: Path) -> pd.DataFrame:
@@ -153,19 +161,24 @@ def build_joinpoint_apc_table() -> None:
 
     for disease, csv_path in DATASETS.items():
         total = _prepare_total_series(csv_path)
+        segments = DISEASE_SEGMENTS.get(disease, COMMON_SEGMENTS)
+        joinpoint_years = "N/A"
+        selected_joinpoints = max(len(segments) - 1, 0)
+        if len(segments) > 1:
+            joinpoint_years = "; ".join(str(seg[2] + 1) for seg in segments[:-1])
         # Use the same user-specified segment boundaries for all diseases.
         model_rows.append(
             {
                 "Disease": disease,
                 "N Points": int(len(total)),
-                "Selected Joinpoints": 2,
-                "Joinpoint Years": "2019; 2022",
+                "Selected Joinpoints": selected_joinpoints,
+                "Joinpoint Years": joinpoint_years,
                 "BIC": pd.NA,
                 "RSS": pd.NA,
             }
         )
 
-        for seg_num, (period_label, start_year, end_year) in enumerate(COMMON_SEGMENTS, start=1):
+        for seg_num, (period_label, start_year, end_year) in enumerate(segments, start=1):
             segment = total[total[YEAR_COL].between(start_year, end_year)].copy()
             apc, apc_lo, apc_hi = _compute_segment_apc(segment)
 
