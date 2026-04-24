@@ -1,16 +1,16 @@
 Disease,Analysis Model,Model,Model Label,Year,Mean Actual AAMR,Mean Predicted AAMR,Mean Actual - Predicted
-ARDS (ARDS + Pneumonia),Selected best model,linear_month_fe,Linear trend + month effects,2020,0.608,0.1,0.508
-ARDS (ARDS + Pneumonia),Selected best model,linear_month_fe,Linear trend + month effects,2021,0.808,0.1,0.708
-ARDS (ARDS + Pneumonia),Selected best model,linear_month_fe,Linear trend + month effects,2022,0.25,0.1,0.15
-ARDS (ARDS + Pneumonia),Selected best model,linear_month_fe,Linear trend + month effects,2023,0.108,0.1,0.008
-ARDS (ARDS + Pneumonia),Selected best model,linear_month_fe,Linear trend + month effects,2024,0.1,0.1,0.0
-ARDS (ARDS + Pneumonia),Selected best model,linear_month_fe,Linear trend + month effects,2025,0.1,0.1,0.0
-ARDS (ARDS + Pneumonia),Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2020,0.608,0.1,0.508
-ARDS (ARDS + Pneumonia),Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2021,0.808,0.1,0.708
-ARDS (ARDS + Pneumonia),Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2022,0.25,0.1,0.15
-ARDS (ARDS + Pneumonia),Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2023,0.108,0.1,0.008
-ARDS (ARDS + Pneumonia),Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2024,0.1,0.1,0.0
-ARDS (ARDS + Pneumonia),Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2025,0.1,0.1,0.0
+Pneumonia/ARDS,Selected best model,linear_month_fe,Linear trend + month effects,2020,0.608,0.1,0.508
+Pneumonia/ARDS,Selected best model,linear_month_fe,Linear trend + month effects,2021,0.808,0.1,0.708
+Pneumonia/ARDS,Selected best model,linear_month_fe,Linear trend + month effects,2022,0.25,0.1,0.15
+Pneumonia/ARDS,Selected best model,linear_month_fe,Linear trend + month effects,2023,0.108,0.1,0.008
+Pneumonia/ARDS,Selected best model,linear_month_fe,Linear trend + month effects,2024,0.1,0.1,0.0
+Pneumonia/ARDS,Selected best model,linear_month_fe,Linear trend + month effects,2025,0.1,0.1,0.0
+Pneumonia/ARDS,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2020,0.608,0.1,0.508
+Pneumonia/ARDS,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2021,0.808,0.1,0.708
+Pneumonia/ARDS,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2022,0.25,0.1,0.15
+Pneumonia/ARDS,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2023,0.108,0.1,0.008
+Pneumonia/ARDS,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2024,0.1,0.1,0.0
+Pneumonia/ARDS,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2025,0.1,0.1,0.0
 Pneumonia,Selected best model,log_linear_month_fe,Log-linear trend + month effects,2020,6.308,2.867,3.442
 Pneumonia,Selected best model,log_linear_month_fe,Log-linear trend + month effects,2021,7.8,2.758,5.042
 Pneumonia,Selected best model,log_linear_month_fe,Log-linear trend + month effects,2022,4.633,2.675,1.958
@@ -23,15 +23,15 @@ Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + mont
 Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2023,3.2,2.275,0.925
 Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2024,2.992,2.108,0.883
 Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2025,2.917,1.917,1.0
-Sepsis+ Pneumonia,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",2020,1.358,0.933,0.425
-Sepsis+ Pneumonia,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",2021,1.583,0.908,0.675
-Sepsis+ Pneumonia,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",2022,1.15,0.867,0.283
-Sepsis+ Pneumonia,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",2023,0.967,0.85,0.117
-Sepsis+ Pneumonia,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",2024,0.958,0.8,0.158
-Sepsis+ Pneumonia,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",2025,0.942,0.767,0.175
-Sepsis+ Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2020,1.358,0.917,0.442
-Sepsis+ Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2021,1.583,0.875,0.708
-Sepsis+ Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2022,1.15,0.85,0.3
-Sepsis+ Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2023,0.967,0.792,0.175
-Sepsis+ Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2024,0.958,0.75,0.208
-Sepsis+ Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2025,0.942,0.667,0.275
+Pneumonia/Sepsis,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",2020,1.358,0.933,0.425
+Pneumonia/Sepsis,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",2021,1.583,0.908,0.675
+Pneumonia/Sepsis,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",2022,1.15,0.867,0.283
+Pneumonia/Sepsis,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",2023,0.967,0.85,0.117
+Pneumonia/Sepsis,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",2024,0.958,0.8,0.158
+Pneumonia/Sepsis,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",2025,0.942,0.767,0.175
+Pneumonia/Sepsis,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2020,1.358,0.917,0.442
+Pneumonia/Sepsis,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2021,1.583,0.875,0.708
+Pneumonia/Sepsis,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2022,1.15,0.85,0.3
+Pneumonia/Sepsis,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2023,0.967,0.792,0.175
+Pneumonia/Sepsis,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2024,0.958,0.75,0.208
+Pneumonia/Sepsis,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,2025,0.942,0.667,0.275

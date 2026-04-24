@@ -725,44 +725,47 @@ def _plot_validation(validation_df: pd.DataFrame) -> None:
     FIGURE_DIR.mkdir(parents=True, exist_ok=True)
     _apply_publication_style()
 
-    panel_order = ["Pneumonia/ARDS", "Pneumonia", "Pneumonia/Sepsis"]
-    fig, axes = plt.subplots(1, 3, figsize=(14.5, 4.8), sharex=True)
+    panel_order = ["Pneumonia", "Pneumonia/ARDS", "Pneumonia/Sepsis"]
+    fig, axes = plt.subplots(1, 3, figsize=(14.5, 5.2), sharex=True)
+    model_labels = {}
 
-    for ax, disease in zip(axes, panel_order):
+    for panel_label, ax, disease in zip(["A", "B", "C"], axes, panel_order):
         disease_df = validation_df[validation_df["Disease"].eq(disease)].sort_values([YEAR_COL, "Month Number"])
         model_label = disease_df["Selected Model Label"].iloc[0]
+        model_labels[disease] = model_label
         disease_df["Validation Time"] = (
             (disease_df[YEAR_COL] - min(VALIDATION_YEARS)) * 12
             + disease_df["Month Number"]
         )
-        plot_df = disease_df.melt(
-            id_vars=["Validation Time", YEAR_COL, "Month Number", MONTH_COL],
-            value_vars=[AAMR_COL, PREDICTED_COL],
-            var_name="Series",
-            value_name="AAMR",
-        )
-        plot_df["Series"] = plot_df["Series"].replace(
-            {
-                AAMR_COL: "Actual",
-                PREDICTED_COL: "Predicted",
-            }
-        )
-
-        sns.lineplot(
-            data=plot_df,
-            x="Validation Time",
-            y="AAMR",
-            hue="Series",
-            marker="o",
+        ax.plot(
+            disease_df["Validation Time"],
+            disease_df[AAMR_COL],
+            color=PLOT_COLORS["Actual"],
             linewidth=1.9,
-            markersize=5,
-            dashes=False,
-            palette=PLOT_COLORS,
-            ax=ax,
+            linestyle="-",
+            label="Actual",
         )
-        ax.set_title(f"{disease}\n{model_label}")
+        ax.plot(
+            disease_df["Validation Time"],
+            disease_df[PREDICTED_COL],
+            color=PLOT_COLORS["Predicted"],
+            linewidth=1.9,
+            linestyle=(0, (5, 2.4)),
+            label="Predicted",
+        )
+        ax.set_title(disease)
+        ax.text(
+            -0.08,
+            1.08,
+            panel_label,
+            transform=ax.transAxes,
+            ha="left",
+            va="bottom",
+            fontsize=13,
+            fontweight="bold",
+        )
         ax.set_xlabel("")
-        ax.set_ylabel("Monthly AAMR")
+        ax.set_ylabel("Monthly age-adjusted mortality rate per 100,000")
         tick_positions = [1, 4, 7, 10, 13, 16, 19, 22]
         tick_labels = ["Jan 2018", "Apr", "Jul", "Oct", "Jan 2019", "Apr", "Jul", "Oct"]
         ax.set_xticks(tick_positions)
@@ -776,20 +779,32 @@ def _plot_validation(validation_df: pd.DataFrame) -> None:
         if legend is not None:
             legend.remove()
 
-    handles, labels = axes[0].get_legend_handles_labels()
+    series_handles, series_labels = axes[0].get_legend_handles_labels()
     fig.legend(
-        handles,
-        labels,
+        series_handles,
+        series_labels,
         loc="upper center",
-        bbox_to_anchor=(0.5, 1.06),
+        bbox_to_anchor=(0.5, 0.985),
         ncol=2,
         frameon=False,
-        handlelength=2.0,
+        handlelength=2.2,
         columnspacing=1.4,
     )
-    fig.supxlabel("Validation month")
-    fig.suptitle("Validation of monthly AAMR regression: rolling predictions for 2018 and 2019", y=1.13)
-    fig.tight_layout()
+    model_sentence = (
+        f"Selected prediction models were {model_labels['Pneumonia']} for Pneumonia, "
+        f"{model_labels['Pneumonia/ARDS']} for Pneumonia/ARDS, and "
+        f"{model_labels['Pneumonia/Sepsis']} for Pneumonia/Sepsis."
+    )
+    fig.text(
+        0.5,
+        0.045,
+        model_sentence,
+        ha="center",
+        va="center",
+        fontsize=8.9,
+    )
+    fig.supxlabel("Validation month", y=0.16)
+    fig.tight_layout(rect=[0, 0.2, 1, 0.88])
     fig.savefig(FIGURE_DIR / "monthly_aamr_validation_2018_2019.png", dpi=300)
     fig.savefig(FIGURE_DIR / "monthly_aamr_validation_2018_2019.pdf")
     plt.close(fig)

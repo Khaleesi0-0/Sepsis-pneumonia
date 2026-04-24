@@ -1,7 +1,7 @@
 Disease,Analysis Model,Model,Model Label,MAE,RMSE,MAPE (%),R-squared
-ARDS (ARDS + Pneumonia),Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,0.0,0.0,0.0,1.0
-ARDS (ARDS + Pneumonia),Selected best model,linear_month_fe,Linear trend + month effects,0.0,0.0,0.0,1.0
 Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,0.13749999999999998,0.23184046238739256,4.018995422535906,0.8428665685428616
 Pneumonia,Selected best model,log_linear_month_fe,Log-linear trend + month effects,0.16249999999999998,0.2318404623873925,4.985198892331329,0.8428665685428616
-Sepsis+ Pneumonia,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,0.0625,0.08897565210026091,6.440446127946127,0.7029315960912053
-Sepsis+ Pneumonia,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",0.04583333333333334,0.07905694150420947,4.414983164983164,0.7654723127035832
+Pneumonia/ARDS,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,0.0,0.0,0.0,1.0
+Pneumonia/ARDS,Selected best model,linear_month_fe,Linear trend + month effects,0.0,0.0,0.0,1.0
+Pneumonia/Sepsis,Prespecified quadratic model,quadratic_month_fe,Quadratic trend + month effects,0.0625,0.08897565210026091,6.440446127946127,0.7029315960912053
+Pneumonia/Sepsis,Selected best model,anchored_quadratic_month_fe_30,"Quadratic trend + month effects, anchored 30% to recent seasonal mean",0.04583333333333334,0.07905694150420947,4.414983164983164,0.7654723127035832
